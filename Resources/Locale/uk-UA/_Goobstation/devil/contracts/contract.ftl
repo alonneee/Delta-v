@@ -9,7 +9,7 @@ devil-contract-mind-shielded-failed = Голос лунає з вашого щи
 
 contract-summon-flavor = Рука {$name}спалахнула, перш ніж відкрити чорний згорток пергаменту...
 burn-contract-prompt = Спалити договір.
-burn-contract-popup-success = [[0]] схоплюється й мляво падає на землю.
+burn-contract-popup-success = { 0 } схоплюється й мляво падає на землю.
 burn-contract-popup-fail = Ви не можете спалити контракт під час угоди!
 
 

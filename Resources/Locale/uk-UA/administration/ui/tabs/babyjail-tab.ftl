@@ -1,4 +1,4 @@
-﻿admin-ui-baby-jail-window-title = Baby Jail
+admin-ui-baby-jail-window-title = Baby Jail
 
 admin-ui-baby-jail-enabled = Baby Jail увімкнено
 admin-ui-baby-jail-disabled = Baby Jail Disabled

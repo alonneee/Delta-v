@@ -278,7 +278,7 @@ ghost-role-information-security-name = Безпека
 ghost-role-information-security-description = Ви є частиною оперативної групи безпеки, але, здається, опинилися в дивній ситуації...
 
 ghost-role-information-medical-name = Медичний
-ghost-role-information-medical-virologist-name = [[0]]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target)} символізується через { POSS-ADJ($target)} тіло.[[1]]
+ghost-role-information-medical-virologist-name = { 0 }{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target)} символізується через { POSS-ADJ($target)} тіло.{ 1 }
 ghost-role-information-medical-geneticist-name = генетик
 ghost-role-information-medical-dentist-name = Стоматолог
 ghost-role-information-medical-description = Ви медичний працівник, але, здається, опинилися в дивній ситуації...

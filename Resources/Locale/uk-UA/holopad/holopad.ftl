@@ -1,4 +1,4 @@
-﻿# Window headers
+# Window headers
 holopad-window-title = {CAPITALIZE($title)}
 holopad-window-subtitle = [color=white][bold]Голографічна система зв’язку[/bold][/color]
 holopad-window-options = [color=darkgray][font size=10][italic]Будь ласка, виберіть опцію зі списку нижче[/italic][/font][/color]
@@ -75,7 +75,7 @@ holopad-science-artifact = Наука - артефакт
 holopad-science-artifact-north = Наука - Артефакт Північ
 holopad-science-artifact-south = Наука - Артефакт Південь
 holopad-science-robotics = Наука - Робототехніка
-holopad-science-rnd = Витягніть вміст [[0]].
+holopad-science-rnd = Витягніть вміст { 0 }.
 holopad-science-front = Наука – фронт
 holopad-science-breakroom = Наука - кімната відпочинку
 

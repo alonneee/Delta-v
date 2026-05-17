@@ -1,4 +1,4 @@
-﻿reagent-name-exotic = рідкий екзотій
+reagent-name-exotic = рідкий екзотій
 reagent-desc-exotic = Попередник багатьох різних рідкісних хімікатів. Використовуйте з розумом.
 
 reagent-name-stasicillin = стазицилін

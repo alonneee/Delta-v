@@ -1,4 +1,4 @@
-﻿roles-antag-generic-solo-antagonist-name = Соло антагоніст
+roles-antag-generic-solo-antagonist-name = Соло антагоніст
 
 roles-antag-generic-free-agent-name = Вільний агент
 

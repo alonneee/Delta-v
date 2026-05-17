@@ -1,4 +1,4 @@
-﻿cmd-bql_select-desc = Показувати результати запиту BQL у вікні клієнта
+cmd-bql_select-desc = Показувати результати запиту BQL у вікні клієнта
 cmd-bql_select-help = Використання: bql_select <bql запит>
     The opened window allows you to teleport to or view variables the resulting entities.
 

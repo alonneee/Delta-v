@@ -1,4 +1,4 @@
-﻿## Species Names
+## Species Names
 
 species-name-human = Людина
 species-name-dwarf = Дворф

@@ -1,4 +1,4 @@
-﻿reagent-name-heparin = гепарин
+reagent-name-heparin = гепарин
 reagent-desc-heparin = Швидкодіючий токсин, який швидко розріджує кров і відкриває рани.
 
 reagent-name-rhigoxane = ригоксан

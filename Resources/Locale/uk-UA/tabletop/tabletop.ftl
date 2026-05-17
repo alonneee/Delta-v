@@ -1,4 +1,4 @@
-﻿## TabletopGameComponent
+## TabletopGameComponent
 tabletop-verb-play-game = Зіграти
 tabletop-verb-dump-pieces = Дамп штук
 tabletop-default-board-name = Настолка

@@ -121,7 +121,7 @@ accent-italian-words-38 = хочуть
 accent-italian-words-replace-38 = хочу-а
 
 accent-italian-words-39 = що
-accent-italian-words-replace-39 = Самознищення [[0]] подає звуковий сигнал!
+accent-italian-words-replace-39 = Самознищення { 0 } подає звуковий сигнал!
 
 accent-italian-words-40 = хто
 accent-italian-words-replace-40 = хто-а

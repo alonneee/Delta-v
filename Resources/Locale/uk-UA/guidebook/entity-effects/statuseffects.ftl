@@ -1,4 +1,4 @@
-﻿entity-effect-status-effect-Stun = приголомшливий
+entity-effect-status-effect-Stun = приголомшливий
 entity-effect-status-effect-KnockedDown = нокдаун
 entity-effect-status-effect-Jitter = тремтіння
 entity-effect-status-effect-TemporaryBlindness = сліпота

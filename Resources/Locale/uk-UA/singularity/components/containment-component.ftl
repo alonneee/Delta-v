@@ -1,4 +1,4 @@
-﻿comp-containment-turned-on = Завантажується генератор поля стримування.
+comp-containment-turned-on = Завантажується генератор поля стримування.
 comp-containment-turned-off = Захисне поле: припинило роботу
 
 comp-containment-on = Перемекач [color=green]увімкнений[/color], готовий до генерації поля.

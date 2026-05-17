@@ -1,4 +1,4 @@
-﻿decal-placer-window-title = Розсип для наклейок
+decal-placer-window-title = Розсип для наклейок
 decal-placer-window-use-color = Спеціальний колір
 decal-placer-window-rotation = Обертання
 decal-placer-window-zindex = Глибина малювання

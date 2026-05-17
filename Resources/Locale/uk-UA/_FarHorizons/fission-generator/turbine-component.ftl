@@ -70,7 +70,7 @@ comp-turbine-ui-stator = Статор турбіни
 comp-turbine-ui-stator-potential = потенціал
 comp-turbine-ui-stator-supply = Постачання
 
-comp-turbine-ui-power = EY TCHEL TORT TU [[0]]
+comp-turbine-ui-power = EY TCHEL TORT TU { 0 }
 
 comp-turbine-ui-locked-message = Елементи керування заблоковано.
 comp-turbine-ui-footer-left = Небезпека: машини, що швидко рухаються.

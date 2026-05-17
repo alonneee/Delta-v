@@ -1,1 +1,1 @@
-﻿item-status-not-held = Немає утримуваного елемента
+item-status-not-held = Немає утримуваного елемента

@@ -1,4 +1,4 @@
-﻿changecvar-simple-debug_test_cvar = Нічого не робить.
+changecvar-simple-debug_test_cvar = Нічого не робить.
 changecvar-full-debug_test_cvar = Просте тестування cvar. Нічого не робить.
 
 changecvar-simple-events_enabled = Контролює, чи має гра запускати події станції.

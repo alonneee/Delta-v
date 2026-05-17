@@ -1,4 +1,4 @@
-﻿advertisement-discount-1 = Знижка Ден, він справжній!
+advertisement-discount-1 = Знижка Ден, він справжній!
 advertisement-discount-2 = У цьому світі немає нічого кращого, ніж укус таємниці.
 advertisement-discount-3 = Не слухайте ті інші вендомати, купуйте мій продукт!
 advertisement-discount-4 = Кількість над якістю!

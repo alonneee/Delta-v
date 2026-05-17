@@ -1,4 +1,4 @@
-﻿flavor-complex-jaegermister = як чорна солодка
+flavor-complex-jaegermister = як чорна солодка
 
 flavor-complex-blood-moon = як спогад, давно забутий.
 flavor-complex-jaegerbomb = як тривога з фруктовим смаком

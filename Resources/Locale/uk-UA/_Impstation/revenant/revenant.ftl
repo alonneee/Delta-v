@@ -1,4 +1,4 @@
-﻿
+
 item-jump-into-pocket = {CAPITALIZE(THE($target))} стрибає у вашу кишеню!
 item-jump-into-hands = {CAPITALIZE(THE($target))} переходить у ваші руки!
 

@@ -22,7 +22,7 @@ loadout-group-botanist-neck = Ботанік Шия
 
 loadout-group-mime-neck = Мімічна шия
 
-loadout-group-musician-neck = Я смиренно прошу один [[0]] для свого найбагатшого клієнта.
+loadout-group-musician-neck = Я смиренно прошу один { 0 } для свого найбагатшого клієнта.
 
 loadout-group-passenger-id-delta = Помічник КПК
 loadout-group-bartender-id-delta = КПК бармена

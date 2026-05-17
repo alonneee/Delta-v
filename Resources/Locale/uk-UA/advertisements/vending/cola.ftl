@@ -1,4 +1,4 @@
-﻿advertisement-cola-1 = Освіжає!
+advertisement-cola-1 = Освіжає!
 advertisement-cola-2 = Сподіваюся, ти спраглий!
 advertisement-cola-3 = Продано понад 1 мільйон напоїв!
 advertisement-cola-4 = Спрага? Чому не кола?

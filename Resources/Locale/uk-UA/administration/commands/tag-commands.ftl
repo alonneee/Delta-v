@@ -1,4 +1,4 @@
-﻿addtag-command-description = Додає тег до певної сутності
+addtag-command-description = Додає тег до певної сутності
 addtag-command-help = Використання: addtag ​​<entity uid> <tag>
 
 addtag-command-success = Додано {$tag}до {$target}.

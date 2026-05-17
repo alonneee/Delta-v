@@ -20,7 +20,7 @@ guide-entry-manualvalve = Ручний клапан
 guide-entry-signalvalve = Сигнальний клапан
 guide-entry-pneumaticvalve = Пневматичний клапан
 guide-entry-passivegate = Пасивні ворота
-guide-entry-ressureregulator = [[0]]. [[1]][[2]][[3]][[4]][[5]] набрав [[6]]{$points [[7]]
+guide-entry-ressureregulator = { 0 }. { 1 }{ 2 }{ 3 }{ 4 }{ 5 } набрав { 6 }{$points { 7 }
 guide-entry-mixingandfiltering = Змішування та фільтрування
 guide-entry-gascanisters = Газові балончики
 guide-entry-thermomachines = Термомашини
@@ -153,7 +153,7 @@ guide-entry-rules-lrp = Стандартний набір правил
 guide-entry-rules-mrp = Набір правил MRP
 guide-entry-rules-role-types = Типи ролей
 guide-entry-rules-core = Основні правила
-guide-entry-rules-c1 = [[0]][color=[[1]]]{CAPITALIZE($name)}[[2]][[3]]
+guide-entry-rules-c1 = { 0 }[color={ 1 }]{CAPITALIZE($name)}{ 2 }{ 3 }
 guide-entry-rules-c2 = C2
 guide-entry-rules-c3 = C3
 guide-entry-rules-c4 = C4

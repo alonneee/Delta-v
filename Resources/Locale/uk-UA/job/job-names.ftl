@@ -64,7 +64,7 @@ job-name-no-id = Без посвідчення особи
 job-name-prisoner = Ув'язнений
 job-name-roboticist = Робототехнік
 job-name-unknown = Невідомий
-job-name-virologist = [[0]]{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target)} символізується через { POSS-ADJ($target)} тіло.[[1]]
+job-name-virologist = { 0 }{ CAPITALIZE(SUBJECT($target)) } { CONJUGATE-HAVE($target)} символізується через { POSS-ADJ($target)} тіло.{ 1 }
 #job-name-zookeeper = Zookeeper # DeltaV - Keeping Boxer/Zookeper job
 
 # antagonist jobs

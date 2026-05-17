@@ -1,3 +1,3 @@
-﻿gift-packin-contains = {$marking-name}
+gift-packin-contains = {$marking-name}
 christmas-tree-got-gift = Трохи покопавшись, ви знайдете подарунок зі своїм іменем!
 christmas-tree-no-gift = Для вас немає подарунка під ялинкою...

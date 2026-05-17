@@ -1,4 +1,4 @@
-﻿### Localization used for the list verbs command.
+### Localization used for the list verbs command.
 # Mostly help + error messages.
 
 list-verbs-command-description = Перелічує всі дієслова, які гравець може використовувати для даної сутності.

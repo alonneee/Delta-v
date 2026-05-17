@@ -1,4 +1,4 @@
-﻿spacevillain-menu-title = Космічний лиходій
+spacevillain-menu-title = Космічний лиходій
 spacevillain-menu-label-player = гравець
 spacevillain-menu-button-attack = АТАКА
 spacevillain-menu-button-heal = ВИЦІЛИТИ

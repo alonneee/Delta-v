@@ -1,4 +1,4 @@
-﻿advertisement-chefvend-1 = Принаймні шістдесят відсотків наших яєць не розбиті, гарантовано!
+advertisement-chefvend-1 = Принаймні шістдесят відсотків наших яєць не розбиті, гарантовано!
 advertisement-chefvend-2 = Рис, мій любий рис, крихітко.
 advertisement-chefvend-3 = Намажте трохи масла!
 advertisement-chefvend-4 = Чи варті ви своєї солі? Саме так.

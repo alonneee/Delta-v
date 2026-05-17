@@ -1,4 +1,4 @@
-﻿advertisement-coffee-1 = випийте!
+advertisement-coffee-1 = випийте!
 advertisement-coffee-2 = О ні! Тільки не соєве молоко
 advertisement-coffee-3 = Це добре для вас!
 advertisement-coffee-4 = Хочете гарячого Джо?

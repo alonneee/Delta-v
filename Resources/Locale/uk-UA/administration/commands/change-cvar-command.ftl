@@ -1,4 +1,4 @@
-﻿cmd-changecvar-no-arguments = Ви повинні вказати cvar.
+cmd-changecvar-no-arguments = Ви повинні вказати cvar.
 cmd-changecvar-cvar-not-registered = Cvar {$cvar}не зареєстровано.
 cmd-changecvar-cvar-not-allowed = Ви не можете змінити цю cvar.
 cmd-changecvar-value-out-of-range = Значення виходить за межі діапазону. Діапазон від {$min}до {$max}.

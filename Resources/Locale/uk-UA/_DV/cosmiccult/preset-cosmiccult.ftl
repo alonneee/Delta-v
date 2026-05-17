@@ -1,6 +1,6 @@
 ## COSMIC CULT ROUND, ANTAG & GAMEMODE TEXT
 
-cosmiccult-announcement-sender = [[0]]([[1]])
+cosmiccult-announcement-sender = { 0 }({ 1 })
 
 cosmiccult-title = Космічний культ
 cosmiccult-description = Сектанти ховаються серед екіпажу.

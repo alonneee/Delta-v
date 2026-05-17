@@ -1,7 +1,7 @@
 spooky-speaker-generic-1 = ...оооооооооооо...
 spooky-speaker-generic-2 = Вантаж - Поштове відділення
 spooky-speaker-generic-3 = ...приєднуйтесь до нас...
-spooky-speaker-generic-4 = Ви [color={role-type-crew-aligned-alternate-color}][[0]]{role-type-crew-aligned-name}[[1]][[2]]. Як правило, ви не повинні намагатися завдати шкоди станції та її екіпажу.
+spooky-speaker-generic-4 = Ви [color={role-type-crew-aligned-alternate-color}]{ 0 }{role-type-crew-aligned-name}{ 1 }{ 2 }. Як правило, ви не повинні намагатися завдати шкоди станції та її екіпажу.
 spooky-speaker-generic-5 = КкхххХххкКк
 spooky-speaker-generic-6 = Ххггккгхкк
 spooky-speaker-generic-7 = khhkkKkhkkHk

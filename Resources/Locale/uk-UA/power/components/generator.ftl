@@ -1,4 +1,4 @@
-﻿generator-clogged = [[0]]
+generator-clogged = { 0 }
 
 portable-generator-verb-start = Запустити генератор
 portable-generator-verb-start-msg-unreliable = Запустити генератор. На це може знадобитися декілька спроб.

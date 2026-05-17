@@ -1,4 +1,4 @@
-﻿cmd-pardon-desc = Вибачте за чийсь бан.
+cmd-pardon-desc = Вибачте за чийсь бан.
 cmd-pardon-help = Використання: pardon <ban id>
 cmd-pardon-unable-to-parse = Неможливо розібрати {$id}як ціле число ідентифікатора заборони.
                              {$help}

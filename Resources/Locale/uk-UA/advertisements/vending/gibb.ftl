@@ -1,4 +1,4 @@
-﻿advertisement-gibb-1 = Смачного!
+advertisement-gibb-1 = Смачного!
 advertisement-gibb-2 = Рекомендований хоча б одним лікарем!
 advertisement-gibb-3 = Продано понад 1 мільйон напоїв!
 advertisement-gibb-4 = Доктор Гібб, що найгірше, що може статися?

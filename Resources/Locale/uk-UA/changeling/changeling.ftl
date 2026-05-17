@@ -1,4 +1,4 @@
-﻿roles-antag-changeling-name = Перемінник
+roles-antag-changeling-name = Перемінник
 roles-antag-changeling-objective = Розумний хижак, який приймає особи своїх жертв.
 
 changeling-devour-attempt-failed-rotting = Цей труп має лише гнилу біомасу.

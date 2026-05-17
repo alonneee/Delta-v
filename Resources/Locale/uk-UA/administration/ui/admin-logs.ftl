@@ -1,4 +1,4 @@
-﻿admin-logs-title = Панель журналів адміністратора
+admin-logs-title = Панель журналів адміністратора
 admin-logs-count = Показано {$showing}/{$total}з {$round}
 admin-logs-export = Експорт
 admin-logs-pop-out = Вискочити

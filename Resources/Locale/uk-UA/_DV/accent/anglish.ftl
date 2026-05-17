@@ -1276,7 +1276,7 @@ accent-anglish-replacement-802 = взятися
 accent-anglish-words-803 = процедура
 accent-anglish-replacement-803 = форсетування
 
-accent-anglish-words-426 = [[0]]([[1]])
+accent-anglish-words-426 = { 0 }({ 1 })
 accent-anglish-replacement-426 = SUF
 
 accent-anglish-words-427 = продовжити

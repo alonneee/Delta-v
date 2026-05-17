@@ -1,4 +1,4 @@
-﻿accent-mobster-prefix-1 = Нехх,
+accent-mobster-prefix-1 = Нехх,
 
 accent-mobster-suffix-boss-1 = , б-бач?
 accent-mobster-suffix-boss-2 = , з-забудь п-про є-єто.

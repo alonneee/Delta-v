@@ -1,4 +1,4 @@
-﻿### Localization for role ban command
+### Localization for role ban command
 
 cmd-roleban-desc = Блокує гравця в ролі
 cmd-roleban-help = Використання: roleban <ім'я або ідентифікатор користувача> <робота> <причина> [тривалість у хвилинах, пропустіть або 0 для постійного блокування]

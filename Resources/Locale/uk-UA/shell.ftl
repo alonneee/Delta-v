@@ -51,5 +51,5 @@ shell-argument-map-id-invalid = Аргумент {$index}має бути дій�
 shell-argument-number-invalid = Аргумент {$index}має бути дійсним числом!
 
 # Hints
-shell-argument-username-hint = [[0]] додано до чорного списку
+shell-argument-username-hint = { 0 } додано до чорного списку
 shell-argument-username-optional-hint = [username]

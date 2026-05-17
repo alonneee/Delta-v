@@ -16,7 +16,7 @@ steal-target-groups-weapon-energy-magnum = енергетичний магнум
 # Thief Collection
 steal-target-groups-figurines = статуетка
 steal-target-groups-heads-cloaks = головний плащ
-steal-target-groups-heads-bedsheets = Сервер: [[0]] | Раунд: #[[1]] | Автор: [[2]] | Час: [[3]]
+steal-target-groups-heads-bedsheets = Сервер: { 0 } | Раунд: #{ 1 } | Автор: { 2 } | Час: { 3 }
 steal-target-groups-stamps = штамп
 steal-target-groups-door-remotes = дверний пульт
 steal-target-groups-encryption-keys = ключ шифрування

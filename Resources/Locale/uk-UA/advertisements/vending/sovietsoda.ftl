@@ -1,4 +1,4 @@
-﻿advertisement-sovietsoda-1 = За товариша і батьківщину.
+advertisement-sovietsoda-1 = За товариша і батьківщину.
 advertisement-sovietsoda-2 = Махно мій батько, правду кажу!
 advertisement-sovietsoda-3 = Чудово, комради!
 advertisement-sovietsoda-4 = Ми проста люді, нічіво нізнаєм

@@ -1,4 +1,4 @@
-﻿reagent-name-jaegermister = єгермістер
+reagent-name-jaegermister = єгермістер
 reagent-desc-jaegermister = Гірко-солодкий алкоголь, який не змінював свого рецепту майже тисячу років.
 
 reagent-name-jaegerbomb = єгербомба

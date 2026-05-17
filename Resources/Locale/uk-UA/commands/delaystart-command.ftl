@@ -1,4 +1,4 @@
-﻿cmd-delaystart-desc = Затримує початок раунду.
+cmd-delaystart-desc = Затримує початок раунду.
 cmd-delaystart-help = Використання: відкладений старт [seconds]
                       If no arguments are passed, the round will be paused or resumed accordingly.
 cmd-delaystart-invalid-seconds = {$value}не є дійсною кількістю секунд.

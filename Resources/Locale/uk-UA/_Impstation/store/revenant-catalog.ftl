@@ -1,4 +1,4 @@
-﻿revenant-blood-writing-name = Письмо кров'ю
+revenant-blood-writing-name = Письмо кров'ю
 revenant-blood-writing-desc = Викликає ефірний олівець із крові, щоб малювати гліфи. Коштує сутність у використанні.
 
 revenant-animate-name = Анімувати

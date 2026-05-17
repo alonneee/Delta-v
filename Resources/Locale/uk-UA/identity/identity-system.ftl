@@ -1,4 +1,4 @@
-﻿identity-unknown-name = [[0]]([[1]])
+identity-unknown-name = { 0 }({ 1 })
 
 identity-age-young = молодого віку
 identity-age-middle-aged = середнього віку

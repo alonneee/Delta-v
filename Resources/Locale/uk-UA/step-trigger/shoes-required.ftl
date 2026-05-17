@@ -1,1 +1,1 @@
-﻿clothing-required-step-trigger-examine = Мабуть, не варто наступати на це босоніж.
+clothing-required-step-trigger-examine = Мабуть, не варто наступати на це босоніж.

@@ -1,4 +1,4 @@
-﻿action-popup-blocking-user = Ви підвищуєте свій {$shield}!
+action-popup-blocking-user = Ви підвищуєте свій {$shield}!
 action-popup-blocking-disabling-user = Ви опустили {$shield}!
 
 action-popup-blocking-other = {CAPITALIZE(THE($blockerName))} піднімає {POSS-ADJ($blockerName)} {$shield}!

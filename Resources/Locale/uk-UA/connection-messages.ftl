@@ -1,4 +1,4 @@
-﻿cmd-whitelistadd-desc = PB-[[0]]
+cmd-whitelistadd-desc = PB-{ 0 }
 cmd-whitelistadd-help = Використання: whitelistadd <ім'я користувача або ID користувача>
 cmd-whitelistadd-existing = {$username}вже в білому списку!
 cmd-whitelistadd-added = {$username}додано до білого списку
@@ -36,7 +36,7 @@ whitelist-blacklisted = Ви в чорному списку цього серв�
 whitelist-always-deny = Вам не дозволено приєднатися до цього сервера.
 whitelist-fail-prefix = Не в білому списку: {$msg}
 
-cmd-blacklistadd-desc = Аргумент [[0]] має бути дійсним ідентифікатором станції!
+cmd-blacklistadd-desc = Аргумент { 0 } має бути дійсним ідентифікатором станції!
 cmd-blacklistadd-help = Використання: blacklistadd <ім'я користувача>
 cmd-blacklistadd-existing = {$username}вже в чорному списку!
 cmd-blacklistadd-added = {$username}додано до чорного списку

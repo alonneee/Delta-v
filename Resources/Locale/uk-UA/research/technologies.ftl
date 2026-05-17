@@ -39,7 +39,7 @@ research-technology-kinetic-modifications = Кінетичні модифіка�
 research-technology-basic-shuttle-armament = Основне озброєння шатлу
 research-technology-advanced-shuttle-weapon = Удосконалена шатлова зброя
 research-technology-thermal-weaponry = Теплова зброя
-research-technology-dual-wielding-technology = [[0]]Заряд батареї:[[1]] [color=[[2]]][[3]][[4]]%
+research-technology-dual-wielding-technology = { 0 }Заряд батареї:{ 1 } [color={ 2 }]{ 3 }{ 4 }%
 
 research-technology-basic-robotics = Базова Робототехніка
 research-technology-basic-anomalous-research = Базові Аномальні Дослідження

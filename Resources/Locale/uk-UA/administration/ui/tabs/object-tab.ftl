@@ -1,4 +1,4 @@
-﻿object-tab-entity-id = ID сутності
+object-tab-entity-id = ID сутності
 object-tab-object-name = Назва об'єкта
 
 object-tab-object-type = Тип об'єкта:

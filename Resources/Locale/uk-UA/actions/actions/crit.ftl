@@ -1,1 +1,1 @@
-﻿action-name-crit-last-words = Скажи останні слова
+action-name-crit-last-words = Скажи останні слова

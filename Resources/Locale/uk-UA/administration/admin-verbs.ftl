@@ -46,7 +46,7 @@ admin-verbs-locate-cargo-shuttle = Знайдіть Cargo Shuttle
 admin-verbs-halt-movement = Припинення руху
 admin-verbs-unpause-map = Відновити карту
 admin-verbs-pause-map = Призупинити карту
-admin-verbs-snap-joints = Загальний час відтворення: [[0]]д:[[1]]год:[[2]]хв
+admin-verbs-snap-joints = Загальний час відтворення: { 0 }д:{ 1 }год:{ 2 }хв
 admin-verbs-make-minigun = Зробіть мініган
 admin-verbs-set-bullet-amount = Установіть суму маркера
 

@@ -1,4 +1,4 @@
-﻿# Loading Screen
+# Loading Screen
 
 replay-loading = Завантаження ({$cur}/{$total})
 replay-loading-reading = сварка

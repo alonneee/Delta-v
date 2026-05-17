@@ -1,4 +1,4 @@
-﻿## Strings for the "grant_connect_bypass" command.
+## Strings for the "grant_connect_bypass" command.
 
 cmd-grant_connect_bypass-desc = Тимчасово дозволити користувачеві обійти регулярні перевірки підключення.
 cmd-grant_connect_bypass-help = Використання: grant_connect_bypass <користувач> [duration minutes]

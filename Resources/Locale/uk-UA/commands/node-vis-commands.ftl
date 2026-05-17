@@ -1,4 +1,4 @@
-﻿cmd-nodevis-desc = Перемикає візуалізацію групи вузлів.
+cmd-nodevis-desc = Перемикає візуалізацію групи вузлів.
 cmd-nodevis-help = Використання: nodevis
 
 cmd-nodevisfilter-desc = Перемикає показ певної групи на nodevis.

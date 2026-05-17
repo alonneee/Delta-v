@@ -1,4 +1,4 @@
-﻿norepinephricacid-effect-eyelids = Ваші повіки швидко сіпаються.
+norepinephricacid-effect-eyelids = Ваші повіки швидко сіпаються.
 norepinephricacid-effect-eyes-itch = Ваші очі сверблять.
 norepinephricacid-effect-vision-fade = Ви відчуваєте, як ваш зір згасає.
 norepinephricacid-effect-vision-fail = Ви можете відчути, що ваш зір підводить.

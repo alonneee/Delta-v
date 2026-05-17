@@ -1,4 +1,4 @@
-﻿comp-kitchen-spike-begin-hook-self = Ви починаєте затягувати себе на { THE($hook) }!
+comp-kitchen-spike-begin-hook-self = Ви починаєте затягувати себе на { THE($hook) }!
 comp-kitchen-spike-begin-hook-self-other = { CAPITALIZE(THE($victim)) } починає перетягувати {REFLEXIVE($victim)} на {THE($hook)}!
 
 comp-kitchen-spike-begin-hook-other-self = Ви починаєте перетягувати { CAPITALIZE(THE($victim)) } на { THE($hook) }!

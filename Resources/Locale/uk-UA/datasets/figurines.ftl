@@ -254,7 +254,7 @@ figurines-mime-5 = ................
 figurines-mime-6 = ...........?
 figurines-mime-7 = !!!
 figurines-mime-8 = ....!
-figurines-mime-9 = [[0]]([[1]])
+figurines-mime-9 = { 0 }({ 1 })
 
 figurines-musician-1 = Ніколи не здам тебе!
 figurines-musician-2 = Ніколи не підведу!

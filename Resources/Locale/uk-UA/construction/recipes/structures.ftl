@@ -7,7 +7,7 @@ construction-recipe-reinforced-plasma-window-diagonal = посилене пла�
 construction-recipe-uranium-window-diagonal = уранове вікно (діагональ)
 construction-recipe-reinforced-uranium-window-diagonal = армоване уранове вікно (діагональ)
 construction-recipe-firelock-edge = спрямований вогонь
-construction-recipe-fence-metal-corner = Ваша роль [колір = [[0]]][[1]][[2]]
+construction-recipe-fence-metal-corner = Ваша роль [колір = { 0 }]{ 1 }{ 2 }
 construction-recipe-fence-metal-end = ланцюг огорожі кінця
 construction-recipe-barricade-directional = спрямована барикада
 construction-recipe-railing-corner = перила куточок

@@ -1,4 +1,4 @@
-﻿advertisement-smite-1 = ВРАЖИ! Забороніть свою спрагу!
+advertisement-smite-1 = ВРАЖИ! Забороніть свою спрагу!
 advertisement-smite-2 = Чарівний вибух лимона та лайма!
 advertisement-smite-3 = Продано понад 1 мільйон напоїв!
 advertisement-smite-4 = ВРАЖИ! Киньте 2d8 для СМАКУ.

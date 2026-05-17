@@ -1,4 +1,4 @@
-﻿# Rules
+# Rules
 
 ui-rules-header = Правила серверу Троєщенські пірати
 ui-rules-header-rp = Правила рольової поведінки серверу Троєщенські пірати Wizard's Den

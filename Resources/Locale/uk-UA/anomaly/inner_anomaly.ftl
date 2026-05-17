@@ -13,6 +13,6 @@ inner-anomaly-start-message-santa = Ви стаєте одержимі різд�
 inner-anomaly-end-message = Ненормальна діяльність у вас зникає безслідно....
 
 inner-anomaly-severity-info-50 = Ви відчуваєте, що аномалія захоплює половину вашого тіла.
-inner-anomaly-severity-info-75 = [[0]]Аномалія дає [[1]]% балів[[2]]
+inner-anomaly-severity-info-75 = { 0 }Аномалія дає { 1 }% балів{ 2 }
 inner-anomaly-severity-info-90 = Ви відчуваєте, що аномалія майже повністю захопила ваше тіло.
 inner-anomaly-severity-info-100 = Аномалія всередині вас нестримно зростає, завдаючи величезного болю та розриваючи вас на частини!

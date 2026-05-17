@@ -1,4 +1,4 @@
-﻿prayer-verbs-subtle-message = Тонке повідомлення
+prayer-verbs-subtle-message = Тонке повідомлення
 prayer-verbs-pray = Моліться
 prayer-verbs-call = Телефонуйте
 prayer-verbs-rub = натирати

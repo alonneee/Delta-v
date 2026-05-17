@@ -1,4 +1,4 @@
-﻿comp-gas-thermomachine-ui-title-freezer = Морозильна камера
+comp-gas-thermomachine-ui-title-freezer = Морозильна камера
 comp-gas-thermomachine-ui-title-heater = Нагрівач
 
 comp-gas-thermomachine-ui-temperature = Температура (Кельвіни):

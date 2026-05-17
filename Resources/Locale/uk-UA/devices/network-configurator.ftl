@@ -1,4 +1,4 @@
-﻿# Popups
+# Popups
 
 network-configurator-device-saved = Мережевий пристрій {$device}з адресою {$address}успішно збережено!
 network-configurator-device-failed = Не вдалося зберегти мережевий пристрій {$device}! Немає адреси!

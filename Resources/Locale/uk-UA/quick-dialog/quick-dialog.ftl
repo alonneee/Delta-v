@@ -1,4 +1,4 @@
-﻿quick-dialog-ui-integer = Ціле число..
+quick-dialog-ui-integer = Ціле число..
 quick-dialog-ui-float = Плавати..
 quick-dialog-ui-short-text = Короткий текст..
 quick-dialog-ui-long-text = Довгий текст..

@@ -18,7 +18,7 @@ marking-MothAntennasClassicRegal = Антени (Regal, Classic)
 marking-MothAntennasClassicRosy = Антени (Rosy, Classic)
 marking-MothAntennasClassicRoyal = Антени (Royal, Classic)
 marking-MothAntennasClassicSnow = Антени (снігові, класичні)
-marking-MothAntennasClassicWhitefly = Ви розливаєте [[0]]u {THE($spillable)} на {THE($target)}!
+marking-MothAntennasClassicWhitefly = Ви розливаєте { 0 }u {THE($spillable)} на {THE($target)}!
 marking-MothAntennasClassicWitchking = Антени (Король-чаклун, Класика)
 
 

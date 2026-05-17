@@ -26,7 +26,7 @@ station-beacon-janitor-office = Офіс Яні
 station-beacon-janitor-closet = Яні Шафа
 station-beacon-reporter = Репортер
 station-beacon-shop = Магазин
-station-beacon-clown = Опис задовгий! ([[0]]/[[1]] символів)
+station-beacon-clown = Опис задовгий! ({ 0 }/{ 1 } символів)
 station-beacon-mime = Мім
 station-beacon-musician = Музикант
 

@@ -11,6 +11,6 @@ stack-biogenerator-plastic1 = пластик (одинарний)
 stack-biogenerator-plastic10 = пластик (10)
 stack-biogenerator-plastic30 = пластик (30)
 
-stack-frosting = Колективно відсмоктуйте принаймні [[0]] ентропії від екіпажу.
+stack-frosting = Колективно відсмоктуйте принаймні { 0 } ентропії від екіпажу.
 
 stack-mowed-astro-snow-floor = скошена астро-снігова підлога

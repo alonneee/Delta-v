@@ -1,4 +1,4 @@
-﻿player-tab-player-count = Гравці: {$count}
+player-tab-player-count = Гравці: {$count}
 player-tab-username = Ім'я користувача
 player-tab-character = Персонаж
 player-tab-job = Посада

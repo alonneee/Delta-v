@@ -1,4 +1,4 @@
-﻿# UI
+# UI
 ban-list-bans = Бани
 ban-list-role-bans = Рольові бани
 
