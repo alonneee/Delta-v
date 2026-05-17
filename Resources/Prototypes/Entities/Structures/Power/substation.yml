@@ -84,8 +84,8 @@
   abstract: true
   id: BaseSubstation
   parent: [ CoreSubstation, BaseMachine, ConstructibleMachine ]
-  name: підстанція
-  description: Зменшує напругу електроенергії, що подається на нього.
+  name: substation
+  description: Reduces the voltage of electricity put into it.
   placement:
     mode: SnapgridCenter
   components:
@@ -161,8 +161,8 @@
   id: BaseSubstationWall
   parent: CoreSubstation
   categories: [ HideSpawnMenu ]
-  name: настінна підстанція
-  description: Підстанція, розроблена для компактних маршруток і просторів.
+  name: wallmount substation
+  description: A substation designed for compact shuttles and spaces.
   placement:
     mode: SnapgridCenter
   components:
@@ -235,7 +235,7 @@
 - type: entity
   parent: BaseSubstation
   id: SubstationBasic
-  suffix: Базовий, 2,5 МДж
+  suffix: Basic, 2.5MJ
   components:
   - type: Battery
     maxCharge: 2500000
@@ -244,7 +244,7 @@
 - type: entity
   parent: SubstationBasic
   id: SubstationBasicEmpty
-  suffix: Порожній
+  suffix: Empty
   components:
   - type: Battery
     startingCharge: 0
@@ -252,7 +252,7 @@
 - type: entity
   parent: BaseSubstationWall
   id: SubstationWallBasic
-  suffix: Базовий, 2МДж
+  suffix: Basic, 2MJ
   components:
   - type: Battery
     maxCharge: 2000000
@@ -272,8 +272,8 @@
 - type: entity
   id: BaseSubstationWallFrame
   categories: [ HideSpawnMenu ]
-  name: настінний каркас підстанції
-  description: Каркас підстанції для будівництва.
+  name: wallmount substation frame
+  description: A substation frame for construction.
   placement:
     mode: SnapgridCenter
   components:

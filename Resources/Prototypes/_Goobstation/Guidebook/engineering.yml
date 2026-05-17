@@ -7,5 +7,5 @@
 
 - type: guideEntry
   id: Automation
-  name: керівництво-введення-автомат
+  name: guide-entry-automation
   text: "/ServerInfo/_Goobstation/Guidebook/Engineering/Automation.xml"

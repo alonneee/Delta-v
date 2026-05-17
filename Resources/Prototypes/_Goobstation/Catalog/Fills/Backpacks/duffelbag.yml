@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingBackpackDuffelSyndicateBundle
   id: ClothingBackpackDuffelSyndicateStealthHardsuitBundle
-  name: набір невидимих ​​костюмів Cybersun
-  description: "Удосконалений набір стелс-скандюмів Cybersun».
+  name: cybersun stealthsuit bundle
+  description: "An advanced cybersun stealth hardsuit bundle."
   components:
   - type: EntityTableContainerFill
     containers:

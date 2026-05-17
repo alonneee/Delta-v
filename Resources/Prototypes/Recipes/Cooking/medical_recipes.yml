@@ -1,6 +1,6 @@
 - type: microwaveMealRecipe
   id: RecipeAloeCream
-  name: Рецепт крему з алое
+  name: aloe cream recipe
   result: AloeCream
   time: 5 # DeltaV - was 10
   group: Medicinal
@@ -9,7 +9,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMedicatedSuture
-  name: seeds-goldenapple-name
+  name: medicated suture recipe
   result: MedicatedSuture
   time: 5 # DeltaV - was 10
   group: Medicinal
@@ -23,7 +23,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeRegenerativeMesh
-  name: рецепт регенеративної сітки
+  name: regenerative mesh recipe
   result: RegenerativeMesh
   time: 5 # DeltaV - was 10
   group: Medicinal

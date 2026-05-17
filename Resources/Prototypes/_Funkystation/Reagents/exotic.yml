@@ -12,7 +12,7 @@
 
 - type: reagent
   id: Stasicillin
-  name: реагент-назва-стасицилін
+  name: reagent-name-stasicillin
   group: Exotic
   desc: reagent-desc-stasicillin
   physicalDesc: reagent-physical-desc-crystalline
@@ -67,9 +67,9 @@
 
 - type: reagent
   id: StabilisedStimulants
-  name: реагент-ім'я-стабілізовані стимулятори
+  name: reagent-name-stabilisedstimulants
   group: Exotic
-  desc: реагент-деск-стабілізовані стимулятори
+  desc: reagent-desc-stabilisedstimulants
   physicalDesc: reagent-physical-desc-opaque
   flavor: bitter
   color: "#e1e1e1"

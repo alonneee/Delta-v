@@ -1,6 +1,6 @@
 - type: species
   id: Ovinia
-  name: вид-назва-ovinia
+  name: species-name-ovinia
   roundStart: true
   prototype: MobOvinia
   sprites: MobOviniaSprites

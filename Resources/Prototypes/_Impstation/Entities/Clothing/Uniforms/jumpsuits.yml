@@ -2,8 +2,8 @@
 - type: entity
   parent: [ClothingUniformBase]
   id: ClothingUniformHitmanSuit
-  name: костюм найманого вбивці
-  description: зовнішня середина дороги (шлях)
+  name: contract killer suit
+  description: The perfect outfit for blending in at any event, office, or space station.
   components:
   - type: Sprite
     sprite: _Impstation/Clothing/Uniforms/Jumpsuit/hitmansuit.rsi
@@ -13,8 +13,8 @@
 - type: entity
   parent: [ClothingUniformBase]
   id: ClothingUniformFuneralSuit
-  name: похоронний костюм
-  description: Бо коли заборонено жоден колір і все треба оплакувати.
+  name: funeral suit
+  description: For when no color is allowed and all must be mourned.
   components:
   - type: Sprite
     sprite: _Impstation/Clothing/Uniforms/Jumpsuit/funeralsuit.rsi
@@ -24,8 +24,8 @@
 - type: entity
   parent: [ClothingUniformBase]
   id: ClothingUniformNightclubSuit
-  name: костюм для нічного клубу
-  description: ID, будь ласка?
+  name: nightclub suit
+  description: ID please?
   components:
   - type: Sprite
     sprite: _Impstation/Clothing/Uniforms/Jumpsuit/nightclubsuit.rsi
@@ -35,8 +35,8 @@
 - type: entity
   parent: [ClothingUniformBase]
   id: ClothingUniformMrSpaceWide
-  name: космічний скафандр
-  description: Невимовний одяг для будь-яких заходів у готелі, мотелі чи фірмовому готелі.
+  name: mr space wide suit
+  description: The unspoken attire for any hotel, motel, or branded inn activities.
   components:
   - type: Sprite
     sprite: _Impstation/Clothing/Uniforms/Jumpsuit/mrspacewide.rsi
@@ -46,8 +46,8 @@
 - type: entity
   parent: [ClothingUniformBase]
   id: ClothingUniformBrownSuit
-  name: коричневий костюм
-  description: Гарантовано, що навіть найгірші розлиті кави не виявляться на цьому цуценяті.
+  name: brown suit
+  description: Not even the worst coffee spills will show up on this puppy, guaranteed.
   components:
   - type: Sprite
     sprite: _Impstation/Clothing/Uniforms/Jumpsuit/brownsuit.rsi
@@ -57,8 +57,8 @@
 - type: entity
   parent: [ClothingUniformBase]
   id: ClothingUniformCreamSuit
-  name: кремовий костюм
-  description: Костюм, який підходить для скромного джентльмена з маленького містечка, якому є що сказати.
+  name: cream suit
+  description: A suit fit for a humble, small town gentleman with something to say.
   components:
   - type: Sprite
     sprite: _Impstation/Clothing/Uniforms/Jumpsuit/creamsuit.rsi
@@ -68,8 +68,8 @@
 - type: entity
   parent: [ClothingUniformBase]
   id: ClothingUniformDetectiveSuit
-  name: костюм детектива
-  description: А тепер вибачте, якщо я можу отримати хвилинку вашого часу...
+  name: detective suit
+  description: Now excuse me, if I may just have a moment of your time...
   components:
   - type: Sprite
     sprite: _Impstation/Clothing/Uniforms/Jumpsuit/detectivesuit.rsi
@@ -79,8 +79,8 @@
 - type: entity
   parent: [ClothingUniformBase]
   id: ClothingUniformMiamiVice
-  name: Майамі віце костюм
-  description: Коли треба затримати клоуна о дванадцятій годині, а бугі-борд о першій.
+  name: miami vice suit
+  description: When you need to arrest the clown at twelve o'clock and boogie board at one.
   components:
   - type: Sprite
     sprite: _Impstation/Clothing/Uniforms/Jumpsuit/miamivice.rsi
@@ -90,8 +90,8 @@
 - type: entity
   parent: [ClothingUniformBase]
   id: ClothingUniformSeniorBartender
-  name: костюм старшого бармена
-  description: Але ти бармен, ти завжди був барменом.
+  name: senior bartender suit
+  description: But you are the bartender, you've always been the bartender.
   components:
   - type: Sprite
     sprite: _Impstation/Clothing/Uniforms/Jumpsuit/senior_bartender.rsi
@@ -101,8 +101,8 @@
 - type: entity
   parent: [ClothingUniformBase]
   id: ClothingUniformBrosBlazer
-  name: Блейзер і джинси BROS
-  description: БРАТИ... Два!
+  name: BROS blazer and jeans
+  description: BROS... Two!
   components:
   - type: Sprite
     sprite: _Impstation/Clothing/Uniforms/Jumpsuit/brosblazer.rsi

@@ -1,7 +1,7 @@
 - type: job
   id: Warden
-  name: робота-назва-наглядач
-  description: посадова інструкція-сторож
+  name: job-name-warden
+  description: job-description-warden
   playTimeTracker: JobWarden
   requirements:
     - !type:RoleTimeRequirement

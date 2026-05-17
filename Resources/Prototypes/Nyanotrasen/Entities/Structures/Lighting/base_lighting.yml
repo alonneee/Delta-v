@@ -1,8 +1,8 @@
 - type: entity
   parent: PoweredlightExterior
   id: PoweredLightBlueInterior
-  suffix: Синій зовнішній вигляд, Delta V
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
+  suffix: Blue Exterior, Delta V
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
   components:
   - type: PoweredLight
     hasLampOnSpawn: BlueLightTube
@@ -21,7 +21,7 @@
   parent: AlwaysPoweredWallLight
   id: AlwaysPoweredLightBlueInterior
   suffix: Always Powered, Blue Exterior, Delta V
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
   components:
   - type: PointLight
     radius: 12
@@ -32,8 +32,8 @@
 - type: entity
   parent: PoweredSmallLight
   id: PoweredSmallLightMaintenance
-  suffix: Технічне обслуговування
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено лампочкою».
+  suffix: Maintenance
+  description: "A light fixture. Draws power and produces light when equipped with a light bulb."
   components:
   - type: PoweredLight
     hasLampOnSpawn: LightBulbMaintenance
@@ -51,8 +51,8 @@
 - type: entity
   parent: SmallLight
   id: AlwaysPoweredSmallLightMaintenance
-  suffix: Завжди під струмом, технічне обслуговування
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
+  suffix: Always Powered, Maintenance
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
   components:
   - type: PointLight
     radius: 5
@@ -64,8 +64,8 @@
 
 - type: entity
   id: PoweredLightColoredRed
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
-  suffix: М’який червоний #Delta V – змінено, щоб відрізнити світло від верхніх вогнів.
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
+  suffix: Soft Red #Delta V - Changed to differentiate from upstream lights.
   parent: Poweredlight
   components:
   - type: PoweredLight
@@ -83,8 +83,8 @@
 
 - type: entity
   id: AlwaysPoweredLightColoredRed
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
-  suffix: Завжди підключений, червоний
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
+  suffix: Always Powered, Red
   parent: AlwaysPoweredWallLight
   components:
   - type: PointLight
@@ -95,8 +95,8 @@
 
 - type: entity
   id: PoweredLightColoredFrostyBlue
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
-  suffix: Морозний
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
+  suffix: Frosty
   parent: Poweredlight
   components:
   - type: PoweredLight
@@ -114,8 +114,8 @@
 
 - type: entity
   id: AlwaysPoweredLightColoredFrostyBlue
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
-  suffix: Завжди на заряді, Фрості
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
+  suffix: Always Powered, Frosty
   parent: AlwaysPoweredWallLight
   components:
   - type: PointLight
@@ -126,8 +126,8 @@
 
 - type: entity
   id: PoweredLightColoredBlack
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
-  suffix: чорний
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
+  suffix: Black
   parent: Poweredlight
   components:
   - type: PoweredLight
@@ -145,8 +145,8 @@
 
 - type: entity
   id: AlwaysPoweredLightColoredBlack
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
-  suffix: Завжди підключений, чорний
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
+  suffix: Always Powered, Black
   parent: AlwaysPoweredWallLight
   components:
   - type: PointLight
@@ -157,9 +157,9 @@
 
 - type: entity
   id: PoweredLightPostSmallRed
-  name: пост світло
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
-  suffix: Червоний
+  name: post light
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
+  suffix: Red
   parent: PoweredLightPostSmallEmpty
   components:
   - type: Sprite
@@ -183,9 +183,9 @@
 
 - type: entity
   id: AlwaysPoweredLightPostSmallRed
-  name: пост світло
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
-  suffix: Завжди підключений, червоний
+  name: post light
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
+  suffix: Always Powered, Red
   parent: LightPostSmall
   components:
   - type: Sprite

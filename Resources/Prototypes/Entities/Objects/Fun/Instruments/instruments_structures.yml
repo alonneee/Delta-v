@@ -1,8 +1,8 @@
 ﻿- type: entity
-  name: піаніно
+  name: piano
   parent: BasePlaceableInstrumentRotatable
   id: PianoInstrument
-  description: Грайте на піаніно Needles зараз.
+  description: Play Needles Piano Now.
   components:
   - type: Instrument
     program: 1
@@ -11,10 +11,10 @@
   - type: Climbable
 
 - type: entity
-  name: вертикальне піаніно
+  name: upright piano
   parent: BasePlaceableInstrumentRotatable
   id: UprightPianoInstrument
-  description: Я сказав Піанні!
+  description: I said Piannie!
   components:
   - type: Instrument
     program: 3
@@ -23,10 +23,10 @@
   - type: Climbable
 
 - type: entity
-  name: вібрафон
+  name: vibraphone
   id: VibraphoneInstrument
   parent: BasePlaceableInstrumentRotatable
-  description: Хороший настрій навколо.
+  description: Good vibes all around.
   components:
   - type: Instrument
     program: 11
@@ -34,7 +34,7 @@
     state: vibraphone
 
 - type: entity
-  name: маримба
+  name: marimba
   id: MarimbaInstrument
   parent: BasePlaceableInstrumentRotatable
   components:
@@ -44,10 +44,10 @@
     state: marimba
 
 - type: entity
-  name: церковний орган
+  name: church organ
   parent: BasePlaceableInstrumentRotatable
   id: ChurchOrganInstrument
-  description: Ця штука справді вражає!
+  description: This thing really blows!
   components:
   - type: Instrument
     program: 19
@@ -55,10 +55,10 @@
     state: church-organ
 
 - type: entity
-  name: туба
+  name: tuba
   parent: BasePlaceableInstrument
   id: TubaInstrument
-  description: Великий тато родини духових. Стоячи поруч із його величчю, ви відчуваєте невпевненість.
+  description: The big daddy of the brass family. Standing next to its majesty makes you feel insecure.
   components:
   - type: Instrument
     program: 58
@@ -68,8 +68,8 @@
 - type: entity
   id: HarpInstrument
   parent: BasePlaceableInstrument
-  name: арфа
-  description: Перебирання струн ріже пальці, але принаймні музика гарна.
+  name: harp
+  description: Plucking at the strings cuts your fingers, but at least the music is pretty.
   components:
   - type: Instrument
     program: 46
@@ -79,8 +79,8 @@
 - type: entity
   id: TimpaniInstrument
   parent: BasePlaceableInstrumentRotatable
-  name: литаври
-  description: Іде БУМ БУМ БУМ БУМ!
+  name: timpani
+  description: It goes BOOM BOOM BOOM BOOM!
   components:
   - type: Instrument
     program: 47
@@ -90,8 +90,8 @@
 - type: entity
   id: TaikoInstrument
   parent: BasePlaceableInstrumentRotatable
-  name: вупі подушка
-  description: Великий барабан. Дивлячись на це, ви сповнюєтеся бажанням дати йому ляпаса.
+  name: taiko
+  description: A large drum. Looking at it fills you with the urge to slap it.
   components:
   - type: Instrument
     program: 116
@@ -101,8 +101,8 @@
 - type: entity
   id: ContrabassInstrument
   parent: BasePlaceableInstrument
-  name: скуб
-  description: Ідеально підходить для гарного джазового ритму.
+  name: contrabass
+  description: Perfect for laying down a nice jazzy beat.
   components:
   - type: Instrument
     program: 43
@@ -129,7 +129,7 @@
   name: minimoog
   parent: BasePlaceableInstrumentRotatable
   id: MinimoogInstrument
-  description: Це мінімуг, як космічне піаніно, але більш космічний!
+  description: This is a minimoog, like a space piano, but more spacey!
   components:
   - type: Instrument
     program: 81
@@ -139,8 +139,8 @@
 - type: entity
   id: TomDrumsInstrument
   parent: BasePlaceableInstrumentRotatable
-  name: томні барабани
-  description: Куди поділася решта комплекту?
+  name: tom drums
+  description: Where'd the rest of the kit go?
   components:
   - type: Instrument
     program: 117
@@ -150,8 +150,8 @@
 - type: entity
   parent: [ BasePlaceableInstrumentRotatable, ConstructibleMachine]
   id: DawInstrument
-  name: цифрова аудіо робоча станція
-  description: Передова музична технологія з 90-х років.
+  name: digital audio workstation
+  description: Cutting edge music technology, straight from the 90s.
   components:
   - type: Sprite
     layers:

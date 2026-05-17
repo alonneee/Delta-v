@@ -151,7 +151,7 @@
   parent: Medkit
   id: MedkitO2
   result: MedkitO2
-  name: плитка-темна-підлога
+  name: lathe-recipe-MedkitO2-name
 
 - type: latheRecipe
   parent: Medkit

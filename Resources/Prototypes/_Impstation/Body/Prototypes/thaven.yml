@@ -1,6 +1,6 @@
 - type: body
   id: Thaven
-  name: "тевен"
+  name: "thaven"
   root: torso
   slots:
     head:

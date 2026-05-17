@@ -1,6 +1,6 @@
 - type: reagent
   id: JuiceApple
-  name: ім'я-реагенту-сок-яблуко
+  name: reagent-name-juice-apple
   parent: BaseJuice
   desc: reagent-desc-juice-apple
   physicalDesc: reagent-physical-desc-crisp
@@ -10,7 +10,7 @@
 
 - type: reagent
   id: JuiceBanana
-  name: назва-реагенту-сік-банан
+  name: reagent-name-juice-banana
   parent: BaseJuice
   desc: reagent-desc-juice-banana
   physicalDesc: reagent-physical-desc-crisp
@@ -28,7 +28,7 @@
 
 - type: reagent
   id: JuiceBluePumpkin
-  name: ім'я-реагенту-сік-синього-гарбуза
+  name: reagent-name-juice-blue-pumpkin
   parent: BaseJuice
   desc: reagent-desc-juice-blue-pumpkin
   physicalDesc: reagent-physical-desc-strong-smelling
@@ -46,7 +46,7 @@
 
 - type: reagent
   id: JuiceCarrot
-  name: ім'я-реагенту-сік-морква
+  name: reagent-name-juice-carrot
   parent: BaseJuice
   desc: reagent-desc-juice-carrot
   physicalDesc: reagent-physical-desc-crisp
@@ -66,7 +66,7 @@
 
 - type: reagent
   id: JuiceGrape
-  name: ім'я-реагенту-сік-виноградний
+  name: reagent-name-juice-grape
   parent: BaseJuice
   desc: reagent-desc-juice-grape
   physicalDesc: reagent-physical-desc-crisp
@@ -75,7 +75,7 @@
 
 - type: reagent
   id: JuiceLemon
-  name: ім'я-реагенту-сік-лимона
+  name: reagent-name-juice-lemon
   parent: BaseJuice
   desc: reagent-desc-juice-lemon
   physicalDesc: reagent-physical-desc-citric
@@ -107,7 +107,7 @@
 
 - type: reagent
   id: JuiceOrange
-  name: назва-реагенту-сік-апельсина
+  name: reagent-name-juice-orange
   parent: BaseJuice
   desc: reagent-desc-juice-orange
   physicalDesc: reagent-physical-desc-citric
@@ -122,7 +122,7 @@
 
 - type: reagent
   id: JuicePineapple
-  name: назва-реагенту-сік-ананаса
+  name: reagent-name-juice-pineapple
   parent: BaseJuice
   desc: reagent-desc-juice-pineapple
   physicalDesc: reagent-physical-desc-tropical
@@ -131,7 +131,7 @@
 
 - type: reagent
   id: JuicePotato
-  name: назва-реагенту-сок-картопля
+  name: reagent-name-juice-potato
   parent: BaseJuice
   desc: reagent-desc-juice-potato
   physicalDesc: reagent-physical-desc-starchy
@@ -140,7 +140,7 @@
 
 - type: reagent
   id: JuiceTomato
-  name: назва-реагенту-сок-томатний
+  name: reagent-name-juice-tomato
   parent: BaseJuice
   desc: reagent-desc-juice-tomato
   physicalDesc: reagent-physical-desc-saucey
@@ -149,7 +149,7 @@
 
 - type: reagent
   id: JuiceWatermelon
-  name: ім'я-реагенту-сок-кавун
+  name: reagent-name-juice-watermelon
   parent: BaseJuice
   desc: reagent-desc-juice-watermelon
   physicalDesc: reagent-physical-desc-sweet

@@ -2,7 +2,7 @@
 
 - type: trait
   id: Blindness
-  name: риса-сліпота-ім
+  name: trait-blindness-name
   description: trait-blindness-desc
   category: Disabilities
   conditions:
@@ -17,7 +17,7 @@
 
 - type: trait
   id: PoorVision
-  name: ім'я-поганий-зір
+  name: trait-poor-vision-name
   description: trait-poor-vision-desc
   category: Disabilities
   conditions:
@@ -33,7 +33,7 @@
 
 - type: trait
   id: Monochromacy
-  name: ознака-монохромність-назва
+  name: trait-monochromacy-name
   description: trait-monochromacy-desc
   category: Disabilities
   effects:
@@ -43,8 +43,8 @@
 
 - type: trait
   id: Deuteranopia
-  name: риса-дейтеранопія-назва
-  description: риса-дейтеранопія-деск
+  name: trait-deuteranopia-name
+  description: trait-deuteranopia-desc
   category: Disabilities
   effects:
   - !type:AddCompsEffect
@@ -103,8 +103,8 @@
 
 - type: trait
   id: Dysgraphia
-  name: риса-дисграфія-ім
-  description: риса-дисграфія-дес
+  name: trait-dysgraphia-name
+  description: trait-dysgraphia-desc
   category: Disabilities
   effects:
   - !type:AddCompsEffect
@@ -113,7 +113,7 @@
 
 - type: trait
   id: PainNumbness
-  name: риса-біль-оніміння-назва
+  name: trait-painnumbness-name
   description: trait-painnumbness-desc
   category: Disabilities
   effects:
@@ -123,8 +123,8 @@
 
 - type: trait
   id: Hemophilia
-  name: риса-гемофілія-назва
-  description: риса-гемофілія-дес
+  name: trait-hemophilia-name
+  description: trait-hemophilia-desc
   category: Disabilities
   effects:
   - !type:ApplyStatusEffect

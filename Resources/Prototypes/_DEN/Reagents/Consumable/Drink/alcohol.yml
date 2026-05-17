@@ -98,7 +98,7 @@
   id: SurferOnAcid
   name: reagent-name-surfer-on-acid
   parent: BaseAlcohol
-  desc: reagent-name-blood
+  desc: reagent-desc-surfer-on-acid
   physicalDesc: reagent-physical-desc-oily
   flavor: surfer-on-acid
   color: "#7a6d0d"
@@ -171,7 +171,7 @@
 
 - type: reagent
   id: InsideScoop
-  name: ім'я реагенту всередині совки
+  name: reagent-name-inside-scoop
   parent: BaseAlcohol
   desc: reagent-desc-inside-scoop
   physicalDesc: reagent-physical-desc-fizzy-and-creamy
@@ -331,7 +331,7 @@
 
 - type: reagent
   id: NaughtyBartender
-  name: реагент-ім'я-неслухняний-бармен
+  name: reagent-name-naughty-bartender
   parent: BaseAlcohol
   desc: reagent-desc-naughty-bartender
   physicalDesc: reagent-physical-desc-soothing
@@ -403,7 +403,7 @@
 
 - type: reagent
   id: BloodRedLicorice
-  name: reagent-name-bloed-red-licorice
+  name: reagent-name-blood-red-licorice
   parent: BaseAlcohol
   desc: reagent-desc-blood-red-licorice
   physicalDesc: reagent-physical-desc-volatile

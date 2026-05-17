@@ -11,12 +11,12 @@
 
 - type: guideEntry
   id: Glossary
-  name: довідник-запис-глосарій
+  name: guide-entry-glossary
   text: "/ServerInfo/Guidebook/Glossary.xml"
 
 - type: guideEntry
   id: Survival
-  name: путівник-вхід-виживання
+  name: guide-entry-survival
   text: "/ServerInfo/Guidebook/Survival.xml"
   children: # DeltaV
   - AlertProcedure

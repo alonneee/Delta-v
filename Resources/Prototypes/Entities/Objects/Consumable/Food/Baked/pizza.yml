@@ -602,10 +602,10 @@
           Quantity: 16
 
 - type: entity
-  name: скибочка гострої рок-піци
+  name: slice of spicy rock pizza
   parent: FoodPizzaSliceBase
   id: FoodPizzaUraniumSlice
-  description: Сяючий шматочок гострої рок-піци.
+  description: A glowing slice of spicy rock pizza.
   components:
   - type: FlavorProfile
     flavors:
@@ -641,10 +641,10 @@
 # Tastes like crust, tomato, cheese, radiation.
 
 - type: entity
-  name: бавовняна піца
+  name: cotton pizza
   parent: FoodPizzaBase
   id: FoodPizzaCotton
-  description: Пласке бавовняне тісто з бавовняною начинкою. Неймовірно.
+  description: Flat fabric cotton dough with cotton topping. Incredible.
   components:
   - type: FlavorProfile
     flavors:
@@ -674,10 +674,10 @@
           Quantity: 10
 
 - type: entity
-  name: скибочка бавовняної піци
+  name: slice of cotton pizza
   parent: FoodPizzaSliceBase
   id: FoodPizzaCottonSlice
-  description: Шматочок бавовняної піци. Бавовна включена.
+  description: A slice of cotton pizza. Cotton included.
   components:
   - type: FlavorProfile
     flavors:
@@ -706,10 +706,10 @@
           Quantity: 1.5
 
 - type: entity
-  name: світ peazza
+  name: world peazza
   parent: FoodPizzaBase
   id: FoodPizzaWorldpeas
-  description: Сучасна дипломатія у формі диска.
+  description: Modern diplomacy in the shape of a disc.
   components:
   - type: FlavorProfile
     flavors:
@@ -733,10 +733,10 @@
           Quantity: 8
 
 - type: entity
-  name: скибочка світової пеаци
+  name: slice of world peazza
   parent: FoodPizzaSliceBase
   id: FoodPizzaWorldpeasSlice
-  description: Поділ світу — це невелика ціна за гармонію.
+  description: Dividing the world up is a small price to pay for harmony.
   components:
   - type: FlavorProfile
     flavors:

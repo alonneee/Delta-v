@@ -26,8 +26,8 @@
 - type: entity
   parent: BaseChemistryVial
   id: ChemistryEmptyVial
-  name: флакон
-  description: Маленький флакончик.
+  name: vial
+  description: A small vial.
   components:
   - type: Item
     sprite: Objects/Specific/Chemistry/vial.rsi
@@ -72,8 +72,8 @@
 - type: entity
   parent: BaseChemistryVial
   id: ChemistryEmptyVialSmall
-  name: амбузол
-  description: Менший флакон.
+  name: mini vial
+  description: A smaller vial.
   components:
   - type: Item
     sprite: Objects/Specific/Chemistry/vial_mini.rsi
@@ -111,7 +111,7 @@
 - type: entity
   parent: ChemistryEmptyVial
   id: VestineChemistryVial
-  suffix: вестин
+  suffix: vestine
   components:
   - type: Label
     currentLabel: reagent-name-vestine
@@ -130,7 +130,7 @@
 - type: entity
   parent: ChemistryEmptyVialSmall
   id: RadiumChemistryVial
-  suffix: радій
+  suffix: radium
   components:
   - type: Label
     currentLabel: reagent-name-radium
@@ -147,7 +147,7 @@
 - type: entity
   parent: ChemistryEmptyVialSmall
   id: ChlorineChemistryVial
-  suffix: хлор
+  suffix: chlorine
   components:
   - type: Label
     currentLabel: reagent-name-chlorine
@@ -164,7 +164,7 @@
 - type: entity
   parent: ChemistryEmptyVialSmall
   id: PlasmaChemistryVial
-  suffix: плазма
+  suffix: plasma
   components:
   - type: Label
     currentLabel: reagent-name-plasma

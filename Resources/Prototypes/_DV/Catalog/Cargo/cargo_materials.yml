@@ -1,7 +1,7 @@
 - type: cargoProduct
   id: MaterialAmmoniaTank
-  name: бак для аміаку
-  description: Бак для зберігання рідини великої місткості. Його заливають нашатирним спиртом.
+  name: ammonia tank
+  description: A high capacity liquid storage tank. It is filled with ammonia.
   icon:
     sprite: _DV/Structures/Storage/tanks.rsi
     state: highcapacityammoniatank

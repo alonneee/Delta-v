@@ -1,7 +1,7 @@
 - type: stack
   parent: BaseVeryLargeStack
   id: Biomass
-  name: стек-біомаса
+  name: stack-biomass
   icon: { sprite: /Textures/Objects/Misc/monkeycube.rsi, state: cube }
   spawn: MaterialBiomass1
 
@@ -10,14 +10,14 @@
 - type: stack
   parent: BaseMediumStack
   id: WoodPlank
-  name: стек-дерев'яна дошка
+  name: stack-wood-plank
   icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: wood }
   spawn: MaterialWoodPlank1
 
 - type: stack
   parent: BaseMediumStack
   id: Cardboard
-  name: стопка-картон
+  name: stack-cardboard
   icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: cardboard }
   spawn: MaterialCardboard1
 
@@ -26,14 +26,14 @@
 - type: stack
   parent: BaseLargeStack
   id: WebSilk
-  name: стек-шовк
+  name: stack-silk
   icon: { sprite: /Textures/Objects/Materials/silk.rsi, state: icon }
   spawn: MaterialWebSilk1
 
 - type: stack
   parent: BaseMediumStack
   id: Bones
-  name: стек-кістки
+  name: stack-bones
   icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: bones }
   spawn: MaterialBones1
 
@@ -47,13 +47,13 @@
 - type: stack
   parent: BaseMediumStack
   id: SharkMinnowTooth
-  name: стек-акула-гольян
+  name: stack-sharkminnow-tooth
   icon: { sprite: /Textures/Objects/Materials/Mob/sharktooth.rsi, state: tooth }
   spawn: MaterialToothSharkminnow1
 
 - type: stack
   parent: BaseMediumStack
   id: GoliathHide
-  name: стек-голіаф-ховатися
+  name: stack-goliath-hide
   icon: { sprite: /Textures/Objects/Materials/hide.rsi, state: goliath_hide }
   spawn: MaterialGoliathHide1

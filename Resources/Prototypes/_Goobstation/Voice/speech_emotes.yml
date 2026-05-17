@@ -1,6 +1,6 @@
 - type: emote
   id: Gulp
-  name: свято-ім'я-літнього сонцестояння
+  name: chat-emote-name-gulp
   category: Vocal
   icon: _Goobstation/Interface/Emotes/gulp.png
   whitelist:

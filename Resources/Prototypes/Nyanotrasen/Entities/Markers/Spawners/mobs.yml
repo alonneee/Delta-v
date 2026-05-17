@@ -14,7 +14,7 @@
       - MobMothroach
 
 - type: entity
-  name: Тхір спаунер
+  name: Ferret Spawner
   id: SpawnMobFerret
   parent: MarkerBase
   components:

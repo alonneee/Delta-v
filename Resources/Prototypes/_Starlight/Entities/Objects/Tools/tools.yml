@@ -1,8 +1,8 @@
 - type: entity
-  name: саморобний лом-ключ
+  name: makeshift crowbar-wrench
   parent: BaseItem
   id: CrowbarWrenchMakeshift
-  description: Імпровізована комбінація інструментів, яка все ще лише трохи краща, ніж нічого.
+  description: A makeshift combination of tools that's still only marginally better than nothing.
   components:
   - type: EmitSoundOnLand
     sound:
@@ -47,10 +47,10 @@
       # End DeltaV additions
 
 - type: entity
-  name: саморобний лом-ключ-викрутка
+  name: makeshift crowbar-wrench-screwdriver
   parent: CrowbarWrenchMakeshift
   id: CrowbarWrenchScrewdriverMakeshift
-  description: Це... корисно?
+  description: It's.. useful?
   components:
   - type: MeleeWeapon
     wideAnimationRotation: -135
@@ -90,10 +90,10 @@
       - Screwdriver
 
 - type: entity
-  name: імпровізований омні-інструмент
+  name: makeshift omni-tool
   parent: CrowbarWrenchScrewdriverMakeshift
   id: OmnitoolMakeshift
-  description: кований щит-щит
+  description: Who would've thought a red toolbox would have so many uses?
   components:
   - type: Tool
     qualities:
@@ -132,10 +132,10 @@
       - Wirecutter
 
 - type: entity
-  name: імпровізована викрутка
+  name: improvised screwdriver
   parent: BaseItem
   id: ScrewdriverImprovised
-  description: Жменя металу, обгорнута навколо неї тканиною, із загостреним кінчиком. Це працює.
+  description: A handful of metal with some cloth wrapped around it, and sharpened at the tip. It works.
   components:
   - type: EmitSoundOnLand
     sound:
@@ -165,10 +165,10 @@
       - Screwdriver
 
 - type: entity
-  name: імпровізований дроторіз
+  name: improvised wirecutter
   parent: BaseItem
   id: WirecutterImprovised
-  description: Метал достатньо гострий, щоб прорізати товсті дроти.
+  description: The metal's just sharp enough to cut through thick wires.
   components:
   - type: EmitSoundOnLand
     sound:
@@ -200,10 +200,10 @@
     speedModifier: 0.50
 
 - type: entity
-  name: імпровізований гайковий ключ
+  name: improvised wrench
   parent: BaseItem
   id: WrenchImprovised
-  description: Один розмір підходить для всіх.. Ніби.
+  description: One size fits all.. Kinda.
   components:
   - type: EmitSoundOnLand
     sound:
@@ -235,10 +235,10 @@
     speedModifier: 0.50
 
 - type: entity
-  name: імпровізований мультиінструмент
+  name: improvised multitool
   parent: BaseItem
   id: MultitoolImprovised
-  description: guide-entry-cd-records
+  description: A not so advanced tool to break into places. Why else would you have this?
   components:
   - type: EmitSoundOnLand
     sound:
@@ -277,10 +277,10 @@
       - DoorElectronicsConfigurator
 
 - type: entity
-  name: імпровізований омніінструмент
+  name: improvised omnitool
   parent: BaseItem
   id: OmnitoolImprovised
-  description: Нечестива мерзота, що поступається самому великому Тронглеру.
+  description: An unholy abomination only second to the great Throngler itself.
   components:
   - type: EmitSoundOnLand
     sound:
@@ -502,10 +502,10 @@
       - Screwdriver
 
 - type: entity
-  name: crafting-menu-name-ISC
+  name: forged omnitool
   parent: BaseItem
   id: OmnitoolForged
-  description: Якийсь абсолютний психопат вирішив відпиляти головки всіх знарядь, які знайдуть, і розбити їх разом на саморобну дриль. Виглядає гарно, враховуючи походження.
+  description: Some absolute psychopath decided to saw off the heads of all tools they could find and smash it together into a makeshift drill. Looks nice, considering it's origins.
   components:
   - type: EmitSoundOnLand
     sound:

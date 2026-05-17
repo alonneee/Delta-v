@@ -16,8 +16,8 @@
 - type: entity
   parent: BaseAsakimObjective
   id: AsakimKillObjective
-  name: "> ПРИПИНИТИ"
-  description: loadout-group-security-gun
+  name: ">TERMINATE"
+  description: Vital signs MUST reach zero in subject. Once.
   components:
   - type: Objective
     issuer: objective-issuer-asakim
@@ -28,7 +28,7 @@
   - type: KillPersonCondition
     requireDead: true
   - type: TargetObjective
-    title: object-condition-asakim-terminate-title
+    title: objective-condition-asakim-terminate-title
   - type: PickRandomPerson
     filters:
     - !type:BodyMindFilter
@@ -48,39 +48,39 @@
 - type: entity
   parent: [BaseAsakimObjective, BaseSurviveObjective]
   id: AsakimTheftObjective
-  name: ">КОНФІСКАТИ"
-  description: Записи вказують на те, що в цьому секторі можуть бути цінні предмети. Такі предмети вилучити для подальшого вивчення.
+  name: ">CONFISCATE"
+  description: Records indicate that this sector may have valuable items. Confiscate such items for further study.
   components:
   - type: Objective
 
 - type: entity
   parent: [BaseAsakimObjective, BaseSurviveObjective]
   id: AsakimInfiltrateObjective
-  name: ">ІНФІЛЬТРАТ"
-  description: У навколишньому радіомовленні згадується "Зони суворої безпеки". Дослідіть такі місця, якщо вони існують.
+  name: ">INFILTRATE"
+  description: Ambient radio chatter mentions "High-Security Areas". Investigate such places, if they do exist.
   components:
   - type: Objective
 
 - type: entity
   parent: [BaseAsakimObjective, BaseSurviveObjective]
   id: AsakimInterrogateObjective
-  name: ">ДОПИТУЙТЕ"
-  description: ПОПЕРЕДЖЕННЯ. Виявлено розрив у [ERROR] років. Записи можуть бути застарілими. Проконсультуйтеся з місцевим населенням.
+  name: ">INTERROGATE"
+  description: WARNING - Time-gap of [ERROR] years detected. Records may be outdated. Consult local population.
   components:
   - type: Objective
 
 - type: entity
   parent: [BaseAsakimObjective, BaseSurviveObjective]
   id: AsakimUpgradeObjective
-  name: ">ОНОВИТИ"
-  description: Попереднє сканування секторів виявляє можливу важливу кібернетику. Оновіть своє тіло.
+  name: ">UPGRADE"
+  description: Preliminary sector scans detect possible high-value cybernetics. Upgrade your body.
   components:
   - type: Objective
 
 - type: entity
   parent: [BaseAsakimObjective, BaseSurviveObjective]
   id: AsakimAllyObjective
-  name: ">ФІЛІЯ"
-  description: видова назва-оні
+  name: ">AFFILIATE"
+  description: Prior records indicate possible persons-of-interest in this sector. Find or make allies in the local populace.
   components:
   - type: Objective

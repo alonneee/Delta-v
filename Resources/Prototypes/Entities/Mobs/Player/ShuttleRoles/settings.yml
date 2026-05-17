@@ -21,7 +21,7 @@
   parent: VisitorHead
   components:
     - type: GhostRole
-      name: робота-ім'я-капітан
+      name: job-name-captain
       description: ghost-role-information-command-description
     - type: Loadout
       prototypes: [ VisitorCaptain, VisitorCaptainAlt ]
@@ -32,7 +32,7 @@
   parent: VisitorHead
   components:
     - type: GhostRole
-      name: робота-назва-це
+      name: job-name-ce
       description: ghost-role-information-command-description
     - type: Loadout
       prototypes: [ VisitorCE, VisitorCEAlt ]
@@ -54,7 +54,7 @@
   parent: VisitorHead
   components:
     - type: GhostRole
-      name: робота-назва-хоп
+      name: job-name-hop
       description: ghost-role-information-command-description
     - type: Loadout
       prototypes: [ VisitorHOP, VisitorHOPAlt ]
@@ -112,7 +112,7 @@
   parent: VisitorSecurity
   components:
     - type: GhostRole
-      name: робота-ім'я-курсант
+      name: job-name-cadet
     - type: Loadout
       prototypes: [ VisitorSecurityCadet, VisitorSecurityCadetAlt ]
       roleLoadout: [ RoleSurvivalSecurity ]
@@ -122,7 +122,7 @@
   parent: VisitorSecurity
   components:
     - type: GhostRole
-      name: безпека імені вакансії
+      name: job-name-security
     - type: Loadout
       prototypes: [ VisitorSecurityOfficer, VisitorSecurityOfficerAlt ]
       roleLoadout: [ RoleSurvivalSecurity ]
@@ -132,7 +132,7 @@
   parent: VisitorSecurity
   components:
     - type: GhostRole
-      name: робота-назва-детектив
+      name: job-name-detective
     - type: Loadout
       prototypes: [ VisitorDetective, VisitorDetectiveAlt ]
       roleLoadout: [ RoleSurvivalSecurity ]
@@ -142,7 +142,7 @@
   parent: VisitorSecurity
   components:
     - type: GhostRole
-      name: робота-назва-наглядач
+      name: job-name-warden
     - type: Loadout
       prototypes: [ VisitorWarden, VisitorWardenAlt ]
       roleLoadout: [ RoleSurvivalSecurity ]
@@ -208,7 +208,7 @@
   parent: VisitorEngineering
   components:
     - type: GhostRole
-      name: робота-назва-технічного-помічника
+      name: job-name-technical-assistant
     - type: Loadout
       prototypes: [ VisitorTechnicalAssistant, VisitorTechnicalAssistantAlt ]
       roleLoadout: [ RoleSurvivalExtended ]
@@ -218,7 +218,7 @@
   parent: VisitorEngineering
   components:
     - type: GhostRole
-      name: робота-назва-інженера
+      name: job-name-engineer
     - type: Loadout
       prototypes: [ VisitorEngineer, VisitorEngineerAlt ]
       roleLoadout: [ RoleSurvivalExtended ]
@@ -241,7 +241,7 @@
   parent: VisitorMedical
   components:
     - type: GhostRole
-      name: робота-назва-інтерн
+      name: job-name-intern
     - type: Loadout
       prototypes: [ VisitorMedicalIntern, VisitorMedicalInternAlt ]
       roleLoadout: [ RoleSurvivalMedical ]
@@ -251,7 +251,7 @@
   parent: VisitorMedical
   components:
     - type: GhostRole
-      name: робота-назва-лікаря
+      name: job-name-doctor
     - type: Loadout
       prototypes: [ VisitorMedicalDoctor, VisitorMedicalDoctorAlt , VisitorScrubsPurple, VisitorScrubsGreen, VisitorScrubsBlue]
       roleLoadout: [ RoleSurvivalMedical ]
@@ -261,7 +261,7 @@
   parent: VisitorMedical
   components:
     - type: GhostRole
-      name: робота-назва-фельдшер
+      name: job-name-paramedic
     - type: Loadout
       prototypes: [ VisitorParamedic, VisitorParamedicAlt ]
       roleLoadout: [ RoleSurvivalMedical ]
@@ -271,7 +271,7 @@
   parent: VisitorMedical
   components:
     - type: GhostRole
-      name: ghost-role-information-medical-virusologist-name
+      name: ghost-role-information-medical-virologist-name
     - type: Loadout
       prototypes: [ VisitorVirologist, VisitorVirologistAlt ]
       roleLoadout: [ RoleSurvivalMedical ]
@@ -291,7 +291,7 @@
   parent: VisitorMedical
   components:
     - type: GhostRole
-      name: робота-назва-психолог
+      name: job-name-psychologist
     - type: Loadout
       prototypes: [ VisitorPsychologist, VisitorPsychologistAlt ]
       roleLoadout: [ RoleSurvivalMedical ]
@@ -301,7 +301,7 @@
   parent: VisitorMedical
   components:
     - type: GhostRole
-      name: робота-ім'я-хімік
+      name: job-name-chemist
     - type: Loadout
       prototypes: [ VisitorChemist, VisitorChemistAlt ]
       roleLoadout: [ RoleSurvivalMedical ]
@@ -334,7 +334,7 @@
   parent: VisitorScience
   components:
     - type: GhostRole
-      name: робота-назва-науковий-асистент
+      name: job-name-research-assistant
     - type: Loadout
       prototypes: [ VisitorResearchAssistant, VisitorResearchAssistantAlt ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -344,7 +344,7 @@
   parent: VisitorScience
   components:
     - type: GhostRole
-      name: робота-назва-вчений
+      name: job-name-scientist
     - type: Loadout
       prototypes: [ VisitorScientist, VisitorScientistAlt ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -367,7 +367,7 @@
   parent: VisitorCivilian
   components:
     - type: GhostRole
-      name: робота-назва-бармена
+      name: job-name-bartender
     - type: Loadout
       prototypes: [ VisitorBartender, VisitorBartenderAlt ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -377,7 +377,7 @@
   parent: VisitorCivilian
   components:
     - type: GhostRole
-      name: робота-назва-ботанік
+      name: job-name-botanist
     - type: Loadout
       prototypes: [ VisitorBotanist, VisitorBotanistAlt ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -387,7 +387,7 @@
   parent: VisitorCivilian
   components:
     - type: GhostRole
-      name: робота-назва-боксер
+      name: job-name-boxer
     - type: Loadout
       prototypes: [ VisitorBoxer, VisitorBoxerAlt ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -398,7 +398,7 @@
   components:
     - type: BibleUser
     - type: GhostRole
-      name: робота-ім'я-капелан
+      name: job-name-chaplain
     - type: Loadout
       prototypes: [ VisitorChaplain, VisitorChaplainAlt ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -408,7 +408,7 @@
   parent: VisitorCivilian
   components:
     - type: GhostRole
-      name: словосполучення-вид-коза
+      name: job-name-chef
     - type: Loadout
       prototypes: [ VisitorChef, VisitorChefAlt ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -419,7 +419,7 @@
   randomizeName: false
   components:
     - type: GhostRole
-      name: робота-ім'я-клоун
+      name: job-name-clown
     - type: Loadout
       prototypes: [ VisitorClown ]
       roleLoadout: [ RoleSurvivalClown ]
@@ -432,7 +432,7 @@
   parent: VisitorCivilian
   components:
     - type: GhostRole
-      name: робота-назва-двірник
+      name: job-name-janitor
     - type: Loadout
       prototypes: [ VisitorJanitor, VisitorJanitorAlt ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -442,7 +442,7 @@
   parent: VisitorCivilian
   components:
     - type: GhostRole
-      name: робота-назва-юрист
+      name: job-name-lawyer
     - type: Loadout
       prototypes: [ VisitorLawyerAltA, VisitorLawyerAltB, VisitorLawyerAltC, VisitorLawyerAltD, VisitorLawyerAltE ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -463,7 +463,7 @@
   parent: VisitorCivilian
   components:
     - type: GhostRole
-      name: робота-назва-бібліотекар
+      name: job-name-librarian
     - type: Loadout
       prototypes: [ VisitorLibrarian, VisitorLibrarianAlt ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -473,7 +473,7 @@
   parent: VisitorCivilian
   components:
     - type: GhostRole
-      name: робота-ім'я-музикант
+      name: job-name-musician
     - type: Loadout
       prototypes: [ VisitorMusicianFancyAltA, VisitorMusicianFancyAltB, VisitorMusicianFancyAltC, VisitorMusicianFancyAltD, VisitorMusicianFancyAltE, VisitorMusicianFancyAltF, VisitorMusicianFancyAltG, VisitorMusicianFancyAltH, VisitorMusicianFancyAltI, VisitorMusicianRelaxedAltA, VisitorMusicianRelaxedAltB, VisitorMusicianRelaxedAltC, VisitorMusicianRelaxedAltD, VisitorMusicianRelaxedAltE, VisitorMusicianRelaxedAltF, VisitorMusicianMariachi ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -483,7 +483,7 @@
   parent: VisitorCivilian
   components:
     - type: GhostRole
-      name: робота-ім'я-музикант
+      name: job-name-musician
     - type: Loadout
       prototypes: [ VisitorMusicianFancyAltA, VisitorMusicianFancyAltB, VisitorMusicianFancyAltC, VisitorMusicianFancyAltD, VisitorMusicianFancyAltE, VisitorMusicianFancyAltF, VisitorMusicianFancyAltG, VisitorMusicianFancyAltH, VisitorMusicianFancyAltI ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -493,7 +493,7 @@
   parent: VisitorCivilian
   components:
     - type: GhostRole
-      name: робота-ім'я-музикант
+      name: job-name-musician
     - type: Loadout
       prototypes: [ VisitorMusicianRelaxedAltA, VisitorMusicianRelaxedAltB, VisitorMusicianRelaxedAltC, VisitorMusicianRelaxedAltD, VisitorMusicianRelaxedAltE, VisitorMusicianRelaxedAltF, VisitorMusicianMariachi ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -504,7 +504,7 @@
   components:
     - type: MimePowers
     - type: GhostRole
-      name: робота-назва-мім
+      name: job-name-mime
     - type: Loadout
       prototypes: [ VisitorMime, VisitorMimeAlt ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -534,7 +534,7 @@
   parent: VisitorCivilian
   components:
     - type: GhostRole
-      name: робота-ім'я-зоопарка
+      name: job-name-zookeeper
     - type: Loadout
       prototypes: [ VisitorZookeeper, VisitorZookeeperAlt ]
       roleLoadout: [ RoleSurvivalStandard ]
@@ -564,7 +564,7 @@
   randomizeName: false
   components:
     - type: GhostRole
-      name: ghost-role-information-lost-challenge-commander name
+      name: ghost-role-information-lost-challenge-commander-name
       description: ghost-role-information-lost-challenge-commander-description
       rules: ghost-role-information-lost-challenge-commander-rules
       raffle:
@@ -585,7 +585,7 @@
   randomizeName: false
   components:
     - type: GhostRole
-      name: ghost-role-information-lost-challenge-commander name
+      name: ghost-role-information-lost-challenge-commander-name
       description: ghost-role-information-lost-challenge-commander-description
       rules: ghost-role-information-lost-challenge-commander-rules
       raffle:
@@ -606,7 +606,7 @@
   randomizeName: false
   components:
     - type: GhostRole
-      name: ghost-role-information-lost-challenge-commander name
+      name: ghost-role-information-lost-challenge-commander-name
       description: ghost-role-information-lost-challenge-commander-description
       rules: ghost-role-information-lost-challenge-commander-rules
       raffle:
@@ -627,7 +627,7 @@
   randomizeName: false
   components:
     - type: GhostRole
-      name: ghost-role-information-lost-challenge-commander name
+      name: ghost-role-information-lost-challenge-commander-name
       description: ghost-role-information-lost-challenge-commander-description
       rules: ghost-role-information-lost-challenge-commander-rules
       raffle:
@@ -648,7 +648,7 @@
   randomizeName: false
   components:
     - type: GhostRole
-      name: ghost-role-information-lost-challenge-commander name
+      name: ghost-role-information-lost-challenge-commander-name
       description: ghost-role-information-lost-challenge-commander-description
       rules: ghost-role-information-lost-challenge-commander-rules
       raffle:
@@ -669,7 +669,7 @@
   randomizeName: false
   components:
     - type: GhostRole
-      name: ghost-role-information-lost-challenge-commander name
+      name: ghost-role-information-lost-challenge-commander-name
       description: ghost-role-information-lost-challenge-commander-description
       rules: ghost-role-information-lost-challenge-commander-rules
       raffle:
@@ -690,7 +690,7 @@
   randomizeName: false
   components:
     - type: GhostRole
-      name: ghost-role-information-lost-challenge-commander name
+      name: ghost-role-information-lost-challenge-commander-name
       description: ghost-role-information-lost-challenge-commander-description
       rules: ghost-role-information-lost-challenge-commander-rules
       raffle:
@@ -751,8 +751,8 @@
       - Syndicate
     - type: NukeOperative
     - type: GhostRole
-      name: ghost-role-information-syndie-soldie-teamlead-name
-      description: ghost-role-information-syndie-soldie-teamlead-description
+      name: ghost-role-information-syndie-soldier-teamlead-name
+      description: ghost-role-information-syndie-soldier-teamlead-description
       rules: ghost-role-information-rules-team-antagonist
       mindRoles:
       - MindRoleGhostRoleTeamAntagonist
@@ -771,7 +771,7 @@
       - Syndicate
     - type: NukeOperative
     - type: GhostRole
-      name: ghost-role-information-syndie-soldie-name
+      name: ghost-role-information-syndie-soldier-name
       description: ghost-role-information-syndie-soldier-description
       rules: ghost-role-information-rules-team-antagonist
       mindRoles:
@@ -866,8 +866,8 @@
     - type: SlurredAccent
     - type: SouthernAccent
     - type: GhostRole
-      name: привид-роль-інформація-козацьке-ім'я
-      description: привид-роль-інформація-козак-опис
+      name: ghost-role-information-cossack-name
+      description: ghost-role-information-cossack-description
       rules: ghost-role-information-freeagent-rules
       mindRoles:
       - MindRoleGhostRoleFreeAgent

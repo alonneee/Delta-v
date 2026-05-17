@@ -1,6 +1,6 @@
 ﻿- type: body
   id: Mothroach
-  name: "мокриця"
+  name: "mothroach"
   root: torso
   slots:
     torso:

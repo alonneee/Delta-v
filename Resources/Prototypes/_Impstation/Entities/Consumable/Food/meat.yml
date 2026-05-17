@@ -1,9 +1,9 @@
 - type: entity
-  name: сире філе тавену
+  name: raw thaven fillet
   parent: FoodMeatBase
   # MeatFish?...
   id: FoodThavenMeat
-  description: Стосовно.
+  description: Concerning.
   components:
   - type: FlavorProfile
     flavors:

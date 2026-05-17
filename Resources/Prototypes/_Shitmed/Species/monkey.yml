@@ -1,6 +1,6 @@
 - type: species
   id: Monkey
-  name: вид-назва-мавпа
+  name: species-name-monkey
   roundStart: false # sad...
   prototype: MobMonkey
   sprites: MobMonkeySprites

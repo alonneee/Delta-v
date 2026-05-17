@@ -1,6 +1,6 @@
 - type: trait
   id: MarkedAsProtected
-  name: назва, захищена ознакою
+  name: trait-protected-name
   description: trait-protected-desc
   category: Meta
   conditions:

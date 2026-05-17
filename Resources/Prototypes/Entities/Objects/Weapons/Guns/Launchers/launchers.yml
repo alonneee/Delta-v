@@ -2,7 +2,7 @@
   name: BaseWeaponLauncher
   parent: BaseItem
   id: BaseWeaponLauncher
-  description: Коренеподібний зубчастий гострий і стрілчастий.
+  description: A rooty tooty point and shooty.
   abstract: true
   components:
   - type: Sprite
@@ -21,10 +21,10 @@
         ents: []
 
 - type: entity
-  name: Китайське озеро
+  name: china lake
   parent: [BaseWeaponLauncher, BaseGunWieldable, BaseSyndicateContraband]
   id: WeaponLauncherChinaLake
-  description: ПЛУП.
+  description: PLOOP.
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Launchers/china_lake.rsi
@@ -63,8 +63,8 @@
 - type: entity
   parent: [ BaseWeaponLauncher, BaseGunWieldable, BaseMajorContraband ]
   id: WeaponLauncherHydra
-  name: гідра
-  description: ПЛУП... ФСССССС...
+  name: hydra
+  description: PLOOP... FSSSSSS...
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Launchers/hydra_launcher.rsi
@@ -106,16 +106,16 @@
 - type: entity
   parent: [WeaponLauncherHydra]
   id: WeaponLauncherHydraLethal
-  suffix: осколок
+  suffix: frag
   components:
   - type: RevolverAmmoProvider
     proto: GrenadeFrag
 
 - type: entity
-  name: РПГ-7
+  name: RPG-7
   parent: [ BaseWeaponLauncher, BaseMajorContraband ]
   id: WeaponLauncherRocket
-  description: Модифікований старовинний реактивний гранатомет.
+  description: A modified ancient rocket-propelled grenade launcher.
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Launchers/rocket.rsi
@@ -148,7 +148,7 @@
   name: multiple rocket launcher
   parent: BaseWeaponLauncher
   id: WeaponLauncherMultipleRocket
-  description: Модифікований старовинний реактивний гранатомет.
+  description: A modified ancient rocket-propelled grenade launcher.
   components:
   - type: Sprite
     sprite: Objects/Weapons/Guns/Launchers/rocket.rsi
@@ -183,7 +183,7 @@
   name: pirate cannon
   parent: BaseWeaponLauncher
   id: WeaponLauncherPirateCannon
-  description: Кабум!
+  description: Kaboom!
   components:
     - type: Sprite
       sprite: Objects/Weapons/Guns/Launchers/pirate_cannon.rsi

@@ -1,8 +1,8 @@
 - type: entity
-  name: загальний штамп
+  name: generic rubber stamp
   parent: BaseItem
   id: RubberStampBase
-  description: Штамп гумовий для проштампування важливих документів.
+  description: A rubber stamp for stamping important documents.
   abstract: true
   components:
   - type: Stamp
@@ -26,7 +26,7 @@
     - Stamps
 
 - type: entity
-  name: Корисно для носіння предметів у ваших руках.
+  name: alternate rubber stamp
   parent: RubberStampBase
   id: RubberStampBaseAlt
   abstract: true
@@ -43,7 +43,7 @@
     categories: []
 
 - type: entity
-  name: капітанський штамп
+  name: captain's rubber stamp
   parent: [RubberStampBase, BaseCommandContraband]
   id: RubberStampCaptain
   categories: [ DoNotMap ]
@@ -56,7 +56,7 @@
     state: stamp-cap
 
 - type: entity
-  name: CentComm штамп
+  name: CentComm rubber stamp
   parent: RubberStampBase
   id: RubberStampCentcom
   categories: [ DoNotMap ]
@@ -69,7 +69,7 @@
     state: stamp-centcom
 
 - type: entity
-  name: штамп капелана
+  name: chaplain's rubber stamp
   parent: RubberStampBase
   id: RubberStampChaplain
   categories: [ DoNotMap ]
@@ -82,7 +82,7 @@
     state: stamp-chaplain
 
 - type: entity
-  name: адвокатський штамп
+  name: lawyer's rubber stamp
   parent: RubberStampBase
   id: RubberStampLawyer
   categories: [ DoNotMap ]
@@ -95,7 +95,7 @@
     state: stamp-lawyer
 
 - type: entity
-  name: клоун штамп
+  name: clown's rubber stamp
   parent: RubberStampBase
   id: RubberStampClown
   categories: [ DoNotMap ]
@@ -108,7 +108,7 @@
     state: stamp-clown
 
 - type: entity
-  name: штамп головного інженера
+  name: chief engineer's rubber stamp
   parent: [RubberStampBase, BaseCommandContraband]
   id: RubberStampCE
   categories: [ DoNotMap ]
@@ -121,7 +121,7 @@
     state: stamp-ce
 
 - type: entity
-  name: штамп головного медичного лікаря
+  name: chief medical officer's rubber stamp
   parent: [RubberStampBase, BaseCommandContraband]
   id: RubberStampCMO
   categories: [ DoNotMap ]
@@ -134,7 +134,7 @@
     state: stamp-cmo
 
 - type: entity
-  name: керівник персоналу штамп
+  name: head of personnel's rubber stamp
   parent: [RubberStampBase, BaseCommandContraband]
   id: RubberStampHop
   categories: [ DoNotMap ]
@@ -147,7 +147,7 @@
     state: stamp-hop
 
 - type: entity
-  name: начальник служби безпеки штамп
+  name: head of security's rubber stamp
   parent: [RubberStampBase, BaseCommandContraband]
   id: RubberStampHos
   categories: [ DoNotMap ]
@@ -160,7 +160,7 @@
     state: stamp-hos
 
 - type: entity
-  name: мім штамп
+  name: mime's rubber stamp
   parent: RubberStampBase
   id: RubberStampMime
   categories: [ DoNotMap ]
@@ -174,7 +174,7 @@
     state: stamp-mime
 
 - type: entity
-  name: штамп офіцера з логістики # DeltaV - відділ логістики замінює вантаж
+  name: logistics officer's rubber stamp # DeltaV - Logistics Department replacing Cargo
   parent: [RubberStampBase, BaseCommandContraband]
   id: RubberStampQm
   categories: [ DoNotMap ]
@@ -187,7 +187,7 @@
     state: stamp-qm
 
 - type: entity
-  name: гумовий штамп mystagogue # DeltaV - Департамент епістемології замінює науку
+  name: mystagogue's rubber stamp # DeltaV - Epistemics Department replacing Science
   parent: [RubberStampBase, BaseCommandContraband]
   id: RubberStampRd
   categories: [ DoNotMap ]
@@ -200,7 +200,7 @@
     state: stamp-rd
 
 - type: entity
-  name: трейдер штамп
+  name: trader's rubber stamp
   parent: RubberStampBase
   id: RubberStampTrader
   components:
@@ -212,7 +212,7 @@
     state: stamp-trader
 
 - type: entity
-  name: синдикат штамп
+  name: syndicate rubber stamp
   parent: [RubberStampBase, BaseSyndicateContraband]
   id: RubberStampSyndicate
   categories: [ DoNotMap ]
@@ -227,7 +227,7 @@
     price: 1000
 
 - type: entity
-  name: наглядача штамп
+  name: warden's rubber stamp
   parent: [RubberStampBase, BaseSecurityContraband]
   id: RubberStampWarden
   categories: [ DoNotMap ]
@@ -240,7 +240,7 @@
     state: stamp-warden
 
 - type: entity
-  name: Затверджено штамп
+  name: APPROVED rubber stamp
   parent: RubberStampBaseAlt
   id: RubberStampApproved
   components:
@@ -252,7 +252,7 @@
     state: stamp-ok
 
 - type: entity
-  name: Відмовлено штамп
+  name: DENIED rubber stamp
   parent: RubberStampBaseAlt
   id: RubberStampDenied
   components:
@@ -264,7 +264,7 @@
     state: stamp-deny
 
 - type: entity
-  name: детектив штамп
+  name: detective's rubber stamp
   parent: [RubberStampBase, BaseSecurityContraband]
   id: RubberStampDetective
   categories: [ DoNotMap ]
@@ -277,10 +277,10 @@
     state: stamp-detective
 
 - type: entity
-  name: гумовий штамп greytide
+  name: greytide's rubber stamp
   parent: RubberStampBase
   id: RubberStampGreytide
-  description: Штамп гумовий для проштампування важливих документів. Приплив омиває вас, просто дивлячись на це...
+  description: A rubber stamp for stamping important documents. The tide washes over you, just looking at it...
   components:
   - type: Stamp
     stampedName: stamp-component-stamped-name-greytide
@@ -292,11 +292,11 @@
     categories: []
 
 - type: entity
-  name: психолога штамп
+  name: psychologist's rubber stamp
   parent: RubberStampBase
   id: RubberStampPsychologist
   categories: [ DoNotMap ]
-  description: Штамп гумовий для проштампування важливих документів. Призначте ці лікування!
+  description: A rubber stamp for stamping important documents. Prescribe those treatments!
   components:
   - type: Stamp
     stampedName: stamp-component-stamped-name-psychologist
@@ -306,10 +306,10 @@
     state: stamp-psychologist
 
 - type: entity
-  name: майстра штамп
+  name: wizard's rubber stamp
   parent: [RubberStampBase, BaseMagicalContraband]
   id: RubberStampWizard
-  description: Хаотичний штамп майстра для обслуговування нехаотичних документів, яка іронія.
+  description: A chaotic wizard stamp for serving unchaotic paperwork, how ironic.
   categories: [ DoNotMap ]
   components:
   - type: Stamp

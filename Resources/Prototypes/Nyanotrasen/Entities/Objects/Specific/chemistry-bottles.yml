@@ -1,6 +1,6 @@
 - type: entity
   id: MercuryChemistryBottle
-  name: пляшка ртуті
+  name: mercury bottle
   parent: BaseChemistryEmptyBottle
   components:
   - type: SolutionContainerManager

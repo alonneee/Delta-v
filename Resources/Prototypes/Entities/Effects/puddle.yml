@@ -11,12 +11,12 @@
 - type: entity
   id: PuddleSmear
   parent: PuddleTemporary
-  suffix: Мазок
+  suffix: Smear
 
 - type: entity
   id: PuddleVomit
   parent: PuddleTemporary
-  suffix: Блювота
+  suffix: Vomit
   components:
   - type: SolutionContainerManager
     solutions:
@@ -29,7 +29,7 @@
 - type: entity
   id: PuddleEgg
   parent: PuddleTemporary
-  suffix: яйце
+  suffix: Egg
   components:
   - type: SolutionContainerManager
     solutions:
@@ -42,7 +42,7 @@
 - type: entity
   id: PuddleTomato
   parent: PuddleTemporary
-  suffix: помідор
+  suffix: Tomato
   components:
   - type: SolutionContainerManager
     solutions:
@@ -55,7 +55,7 @@
 - type: entity
   parent: PuddleTemporary
   id: PuddleBloodSmall
-  suffix: Кров (5u)
+  suffix: Blood (5u)
   components:
   - type: SolutionContainerManager
     solutions:
@@ -68,7 +68,7 @@
 - type: entity
   parent: PuddleTemporary
   id: PuddleBlood
-  suffix: Кров (30u)
+  suffix: Blood (30u)
   components:
   - type: SolutionContainerManager
     solutions:
@@ -81,7 +81,7 @@
 - type: entity
   parent: PuddleTemporary
   id: PuddleFluorosulfuricAcidSmall
-  suffix: Фторосірчана кислота (5u)
+  suffix: FluorosulfuricAcid (5u)
   components:
   - type: SolutionContainerManager
     solutions:
@@ -94,7 +94,7 @@
 - type: entity
   parent: PuddleTemporary
   id: PuddleFluorosulfuricAcid
-  suffix: Сірчана фториста кислота (15u)
+  suffix: FluorosulfuricAcid (15u)
   components:
   - type: SolutionContainerManager
     solutions:
@@ -107,7 +107,7 @@
 - type: entity
   id: PuddleWatermelon
   parent: PuddleTemporary
-  suffix: пакет пробників ароматного мила
+  suffix: Watermelon
   components:
   - type: SolutionContainerManager
     solutions:
@@ -120,7 +120,7 @@
 - type: entity
   id: PuddleFlour
   parent: PuddleTemporary
-  suffix: Борошно
+  suffix: Flour
   components:
   - type: SolutionContainerManager
     solutions:
@@ -132,7 +132,7 @@
 
 - type: entity
   id: PuddleSparkle
-  name: блиск
+  name: sparkle
   placement:
     mode: SnapgridCenter
   components:
@@ -151,9 +151,9 @@
       color: "#FFFFFF80"
 
 - type: entity
-  name: калюжа
+  name: puddle
   id: Puddle
-  description: Калюжа рідини.
+  description: A puddle of liquid.
   placement:
     mode: SnapgridCenter
   components:
@@ -218,10 +218,10 @@
   - type: PuddleFootPrints # DeltaV- Begin updates from EE Blood Puddle
 
 - type: entity
-  name: крок
+  name: footstep
   id: Footstep
   save: false
-  description: Сліди рідини
+  description: Trace of liquid
   components:
   - type: Clickable
   - type: FootstepModifier

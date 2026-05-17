@@ -1,6 +1,6 @@
 - type: species
   id: Kitsune
-  name: вид-назва-кіцуне
+  name: species-name-kitsune
   roundStart: true
   prototype: MobKitsune
   sprites: MobHumanSprites

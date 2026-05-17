@@ -3,69 +3,69 @@
 - type: stack
   parent: BaseMediumStack
   id: GoldOre
-  name: стек-золото-руда
+  name: stack-gold-ore
   icon: { sprite: /Textures/Objects/Materials/ore.rsi, state: gold }
   spawn: GoldOre1
 
 - type: stack
   parent: BaseMediumStack
   id: DiamondOre
-  name: стек-необроблений алмаз
+  name: stack-rough-diamond
   icon: { sprite: /Textures/Objects/Materials/ore.rsi, state: diamond }
   spawn: DiamondOre1
 
 - type: stack
   parent: BaseMediumStack
   id: SteelOre
-  name: стек-залізоруда
+  name: stack-iron-ore
   icon: { sprite: /Textures/Objects/Materials/ore.rsi, state: iron }
   spawn: SteelOre1
 
 - type: stack
   parent: BaseMediumStack
   id: PlasmaOre
-  name: стек-плазма-руда
+  name: stack-plasma-ore
   icon: { sprite: /Textures/Objects/Materials/ore.rsi, state: plasma }
   spawn: PlasmaOre1
 
 - type: stack
   parent: BaseMediumStack
   id: SilverOre
-  name: стек-срібло-рудний
+  name: stack-silver-ore
   icon: { sprite: /Textures/Objects/Materials/ore.rsi, state: silver }
   spawn: SilverOre1
 
 - type: stack
   parent: BaseMediumStack
   id: SpaceQuartz
-  name: стек-простір-кварц
+  name: stack-space-quartz
   icon: { sprite: /Textures/Objects/Materials/ore.rsi, state: spacequartz }
   spawn: SpaceQuartz1
 
 - type: stack
   parent: BaseMediumStack
   id: UraniumOre
-  name: стек-уран-руда
+  name: stack-uranium-ore
   icon: { sprite: /Textures/Objects/Materials/ore.rsi, state: uranium }
   spawn: UraniumOre1
 
 - type: stack
   parent: BaseMediumStack
   id: BananiumOre
-  name: стек-банан-руда
+  name: stack-bananium-ore
   icon: { sprite: /Textures/Objects/Materials/ore.rsi, state: bananium }
   spawn: BananiumOre1
 
 - type: stack
   parent: BaseMediumStack
   id: Coal
-  name: штабель-вугілля
+  name: stack-coal
   icon: { sprite: /Textures/Objects/Materials/ore.rsi, state: coal }
   spawn: Coal1
 
 - type: stack
   parent: BaseMediumStack
   id: SaltOre
-  name: стек-сіль
+  name: stack-salt
   icon: { sprite: /Textures/Objects/Materials/ore.rsi, state: salt }
   spawn: Salt1

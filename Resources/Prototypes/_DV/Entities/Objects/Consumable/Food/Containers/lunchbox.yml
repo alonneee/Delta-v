@@ -1,8 +1,8 @@
 - type: entity
   id: LunchboxGeneric
   parent: [ BoxCardboard, BaseBagOpenClose ]
-  name: ланчбокс
-  description: Для транспортування їжі в дорозі.
+  name: lunchbox
+  description: For on-the-go meal carrying needs.
   components:
   - type: Sprite
     sprite: _DV/Objects/Storage/lunchbox.rsi
@@ -35,9 +35,9 @@
 - type: entity
   parent: LunchboxGeneric
   id: LunchboxGenericFilledRandom
-  suffix: Заповнений, випадковий
-  name: упакований ланчбокс
-  description: Наповнений любов'ю.
+  suffix: Filled, Random
+  name: pre-packed lunchbox
+  description: Packed with love.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -102,9 +102,9 @@
 - type: entity
   parent: LunchboxGeneric
   id: LunchboxGenericFilledHealthy
-  suffix: Наповнений, здоровий
-  name: упакований ланчбокс
-  description: Сповнений здорової любові.
+  suffix: Filled, Healthy
+  name: pre-packed lunchbox
+  description: Packed with healthy love.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -135,9 +135,9 @@
 - type: entity
   parent: LunchboxGeneric
   id: LunchboxGenericFilledUnhealthy
-  suffix: Наповнений, Нездоровий
-  name: упакований ланчбокс
-  description: Наповнений любов'ю.
+  suffix: Filled, Unhealthy
+  name: pre-packed lunchbox
+  description: Packed with love.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -185,7 +185,7 @@
 - type: entity
   parent: LunchboxGeneric
   id: LunchboxCommand
-  suffix: Команда
+  suffix: Command
   components:
   - type: Sprite
     layers:
@@ -198,7 +198,7 @@
 - type: entity
   parent: LunchboxGenericFilledRandom
   id: LunchboxCommandFilledRandom
-  suffix: Командний, заповнений, випадковий
+  suffix: Command, Filled, Random
   components:
   - type: Sprite
     layers:
@@ -211,7 +211,7 @@
 - type: entity
   parent: LunchboxGeneric
   id: LunchboxSecurity
-  suffix: Безпека
+  suffix: Security
   components:
   - type: Sprite
     layers:
@@ -224,7 +224,7 @@
 - type: entity
   parent: LunchboxGenericFilledRandom
   id: LunchboxSecurityFilledRandom
-  suffix: Безпека, Заповнений, Випадковий
+  suffix: Security, Filled, Random
   components:
   - type: Sprite
     layers:
@@ -237,7 +237,7 @@
 - type: entity
   parent: LunchboxGeneric
   id: LunchboxMedical
-  suffix: Медичний
+  suffix: Medical
   components:
   - type: Sprite
     layers:
@@ -250,7 +250,7 @@
 - type: entity
   parent: LunchboxGenericFilledRandom
   id: LunchboxMedicalFilledRandom
-  suffix: Медичний, Заповнений, Випадковий
+  suffix: Medical, Filled, Random
   components:
   - type: Sprite
     layers:
@@ -263,7 +263,7 @@
 - type: entity
   parent: LunchboxGeneric
   id: LunchboxLogistics
-  suffix: Логістика
+  suffix: Logistics
   components:
   - type: Sprite
     layers:
@@ -276,7 +276,7 @@
 - type: entity
   parent: LunchboxGenericFilledRandom
   id: LunchboxLogisticsFilledRandom
-  suffix: Логістика, Заповнений, Випадковий
+  suffix: Logistics, Filled, Random
   components:
   - type: Sprite
     layers:
@@ -289,7 +289,7 @@
 - type: entity
   parent: LunchboxGeneric
   id: LunchboxEngineering
-  suffix: Інженерія
+  suffix: Engineering
   components:
   - type: Sprite
     layers:
@@ -302,7 +302,7 @@
 - type: entity
   parent: LunchboxGenericFilledRandom
   id: LunchboxEngineeringFilledRandom
-  suffix: Інженерний, заповнений, випадковий
+  suffix: Engineering, Filled, Random
   components:
   - type: Sprite
     layers:
@@ -315,7 +315,7 @@
 - type: entity
   parent: LunchboxGeneric
   id: LunchboxEpistemics
-  suffix: Епістеміка
+  suffix: Epistemics
   components:
   - type: Sprite
     layers:
@@ -328,7 +328,7 @@
 - type: entity
   parent: LunchboxGenericFilledRandom
   id: LunchboxEpistemicsFilledRandom
-  suffix: Епістеміки, заповнені, випадкові
+  suffix: Epistemics, Filled, Random
   components:
   - type: Sprite
     layers:
@@ -342,7 +342,7 @@
 - type: entity
   parent: LunchboxGeneric
   id: LunchboxService
-  suffix: Сервіс
+  suffix: Service
   components:
   - type: Sprite
     layers:
@@ -355,7 +355,7 @@
 - type: entity
   parent: LunchboxGenericFilledRandom
   id: LunchboxServiceFilledRandom
-  suffix: Обслуговування, Заповнений, Випадковий
+  suffix: Service, Filled, Random
   components:
   - type: Sprite
     layers:
@@ -368,7 +368,7 @@
 - type: entity
   parent: LunchboxGeneric
   id: LunchboxSyndicate
-  suffix: Синдикат
+  suffix: Syndicate
   components:
   - type: Sprite
     layers:
@@ -381,7 +381,7 @@
 - type: entity
   parent: LunchboxGenericFilledRandom
   id: LunchboxSyndicateFilledRandom
-  suffix: Синдикат, Заповнений, Випадковий
+  suffix: Syndicate, Filled, Random
   components:
   - type: Sprite
     layers:
@@ -394,7 +394,7 @@
 - type: entity
   parent: LunchboxGeneric
   id: LunchboxJustice
-  suffix: Справедливість
+  suffix: Justice
   components:
   - type: Sprite
     layers:
@@ -407,7 +407,7 @@
 - type: entity
   parent: LunchboxGenericFilledRandom
   id: LunchboxJusticeFilledRandom
-  suffix: Справедливість, Заповнений, Випадковий
+  suffix: Justice, Filled, Random
   components:
   - type: Sprite
     layers:
@@ -420,7 +420,7 @@
 - type: entity
   parent: LunchboxSyndicate
   id: LunchboxRecruiterMaid
-  suffix: Синдикат, Тактична покоївка
+  suffix: Syndicate, Tactical maid
   components:
   - type: EntityTableContainerFill
     containers:

@@ -7,7 +7,7 @@
         - to: spear
           completed:
           - !type:AdminLog # Needs a log for start of attempt in addition to the completion log
-            message: "Будівництво"
+            message: "Construction"
             impact: High
           steps:
             - material: MetalRod
@@ -17,7 +17,7 @@
               amount: 3
               doAfter: 1
             - tag: GlassShard
-              name: конструкція-граф-тег-осколок-скла
+              name: construction-graph-tag-glass-shard
               icon:
                 sprite: Objects/Materials/Shards/shard.rsi
                 state: shard1
@@ -34,7 +34,7 @@
         - to: spear
           completed:
           - !type:AdminLog # Needs a log for start of attempt in addition to the completion log
-            message: "Будівництво"
+            message: "Construction"
             impact: High
           steps:
             - material: MetalRod
@@ -44,7 +44,7 @@
               amount: 3
               doAfter: 1
             - tag: ReinforcedGlassShard
-              name: конструкція-граф-тег-посилений-склом-осколок
+              name: construction-graph-tag-reinforced-glass-shard
               icon:
                 sprite: Objects/Materials/Shards/shard.rsi
                 state: shard1
@@ -61,7 +61,7 @@
         - to: spear
           completed:
           - !type:AdminLog # Needs a log for start of attempt in addition to the completion log
-            message: "Будівництво"
+            message: "Construction"
             impact: High
           steps:
             - material: MetalRod
@@ -71,7 +71,7 @@
               amount: 3
               doAfter: 1
             - tag: PlasmaGlassShard
-              name: конструкція-граф-тег-плазма-скло-осколок
+              name: construction-graph-tag-plasma-glass-shard
               icon:
                 sprite: Objects/Materials/Shards/shard.rsi
                 state: shard1
@@ -88,7 +88,7 @@
         - to: spear
           completed:
           - !type:AdminLog # Needs a log for start of attempt in addition to the completion log
-            message: "Будівництво"
+            message: "Construction"
             impact: High
           steps:
             - material: MetalRod
@@ -98,7 +98,7 @@
               amount: 3
               doAfter: 1
             - tag: UraniumGlassShard
-              name: будівельний-граф-тег-урановий-скляний-осколок
+              name: construction-graph-tag-uranium-glass-shard
               icon:
                 sprite: Objects/Materials/Shards/shard.rsi
                 state: shard1
@@ -115,7 +115,7 @@
         - to: spear
           completed:
           - !type:AdminLog # Needs a log for start of attempt in addition to the completion log
-            message: "Будівництво"
+            message: "Construction"
             impact: High
           steps:
             - material: Bones

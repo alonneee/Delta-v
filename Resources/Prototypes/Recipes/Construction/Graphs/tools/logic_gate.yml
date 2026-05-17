@@ -40,7 +40,7 @@
         icon:
           sprite: Objects/Tools/multitool.rsi
           state: icon
-        name: конструкція-граф-тег-мультиінструмент
+        name: construction-graph-tag-multitool
       - material: Cable
         amount: 2
         doAfter: 1

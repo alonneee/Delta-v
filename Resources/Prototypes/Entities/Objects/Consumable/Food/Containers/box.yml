@@ -185,7 +185,7 @@
 - type: entity
   parent: FoodContainerEgg
   id: EggBoxBroken
-  suffix: зламаний
+  suffix: Broken
   components:
   - type: EntityTableContainerFill
     containers:
@@ -244,7 +244,7 @@
 - type: entity
   parent: FoodBoxPizza
   id: FoodBoxPizzaFilled
-  suffix: Заповнений
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:

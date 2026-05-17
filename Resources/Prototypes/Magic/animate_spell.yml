@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseEntitySpellAction
   id: ActionAnimateSpell
-  name: силова стінка
-  description: Оживіть неживий предмет!
+  name: Animate
+  description: Bring an inanimate object to life!
   components:
   - type: Action
     useDelay: 0

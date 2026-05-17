@@ -3,8 +3,8 @@
 
 - type: job
   id: RoleLaika
-  name: амплуа-лайка
-  description: роль-опис-лайка
+  name: role-name-laika
+  description: role-description-laika
   setPreference: false
   canBeAntag: false
   playTimeTracker: RoleLaika
@@ -15,8 +15,8 @@
 
 - type: job
   id: RoleShiva
-  name: роль-ім'я-шива
-  description: роль-опис-шива
+  name: role-name-shiva
+  description: role-description-shiva
   setPreference: false
   canBeAntag: false
   playTimeTracker: RoleShiva
@@ -27,8 +27,8 @@
 
 - type: job
   id: RoleSilvia
-  name: роль-ім'я-сільвія
-  description: роль-опис-сільвія
+  name: role-name-silvia
+  description: role-description-silvia
   setPreference: false
   canBeAntag: false
   playTimeTracker: RoleSilvia
@@ -39,8 +39,8 @@
 
 - type: job
   id: RoleIfrit
-  name: роль-ім'я-іфріт
-  description: роль-опис-іфрит
+  name: role-name-ifrit
+  description: role-description-ifrit
   setPreference: false
   canBeAntag: false
   playTimeTracker: RoleIfrit
@@ -53,8 +53,8 @@
 
 - type: job
   id: RoleCarpy
-  name: роль-ім'я-карпі
-  description: роль-опис-карпи
+  name: role-name-carpy
+  description: role-description-carpy
   setPreference: false
   canBeAntag: false
   playTimeTracker: RoleCarpy
@@ -65,8 +65,8 @@
 
 - type: job
   id: RolePunPun
-  name: роль-ім'я-каламбур
-  description: Seek to become the most feared person on the station. Змусьте їх відсахнутися при згадці вашого імені!
+  name: role-name-pun-pun
+  description: role-description-pun-pun
   setPreference: false
   playTimeTracker: RolePunPun
   requirements:
@@ -76,8 +76,8 @@
 
 - type: job
   id: RoleBaba
-  name: роль-ім'я-баба
-  description: фраза-розташування-півн
+  name: role-name-baba
+  description: role-description-baba
   setPreference: false
   playTimeTracker: RoleBaba
   requirements:

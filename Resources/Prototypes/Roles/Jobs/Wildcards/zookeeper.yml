@@ -1,7 +1,7 @@
 - type: job
   id: Zookeeper
-  name: робота-ім'я-зоопарка
-  description: посадова інструкція-зоохоронець
+  name: job-name-zookeeper
+  description: job-description-zookeeper
   playTimeTracker: JobZookeeper
   startingGear: ZookeeperGear
   icon: "JobIconZookeeper"

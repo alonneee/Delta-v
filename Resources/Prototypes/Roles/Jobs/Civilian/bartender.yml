@@ -1,7 +1,7 @@
 - type: job
   id: Bartender
-  name: робота-назва-бармена
-  description: посадова інструкція-бармен
+  name: job-name-bartender
+  description: job-description-bartender
   playTimeTracker: JobBartender
   antagAdvantage: 1 # DeltaV - Shotgun, and free room
   requirements:

@@ -4,8 +4,8 @@
 - type: entity
   parent: BaseStructure
   id: CosmicBorgChantry
-  name: порожній храм
-  description: Його поверхня бурхить нестримним злобним світлом.
+  name: vacuous chantry
+  description: Its surface churns with rampant malign light.
   placement:
     mode: AlignTileAny
   components:

@@ -3,37 +3,37 @@
 - type: flavor
   id: enthralling
   flavorType: Complex
-  description: смако-комплексно-захоплюючий
+  description: flavor-complex-enthralling
 
 - type: flavor
   id: sublime
   flavorType: Complex
-  description: смак-комплекс-піднесений
+  description: flavor-complex-sublime
 
 - type: flavor
   id: seeds
   flavorType: Base
-  description: смак-основа-насіння
+  description: flavor-base-seeds
 
 - type: flavor
   id: cotton
   flavorType: Complex
-  description: аромат-комплекс-бавовна
+  description: flavor-complex-cotton
 
 - type: flavor
   id: vanilla
   flavorType: Complex
-  description: аромат-комплекс-ваніль
+  description: flavor-complex-vanilla
 
 - type: flavor
   id: soju
   flavorType: Complex
-  description: кавун
+  description: flavor-complex-soju
 
 - type: flavor
   id: orangecreamcicle
   flavorType: Complex
-  description: alerts-light-level-neutral-desc
+  description: flavor-complex-orangecreamcicle
 
 - type: flavor
   id: silverjack
@@ -43,32 +43,32 @@
 - type: flavor
   id: brainbomb
   flavorType: Complex
-  description: смаковий комплекс-мозкова бомба
+  description: flavor-complex-brainbomb
 
 - type: flavor
   id: atomicpunch
   flavorType: Complex
-  description: ім'я сповіщень-схоплено
+  description: flavor-complex-atomicpunch
 
 - type: flavor
   id: circusjuice
   flavorType: Complex
-  description: смак-комплекс-циркус
+  description: flavor-complex-circusjuice
 
 - type: flavor
   id: pinkdrink
   flavorType: Complex
-  description: смако-комплекс-рожевийнапій
+  description: flavor-complex-pinkdrink
 
 - type: flavor
   id: sapopicante
   flavorType: Complex
-  description: назва реагенту-келотан
+  description: flavor-complex-sapopicante
 
 - type: flavor
   id: graveyard
   flavorType: Complex
-  description: смак-комплекс-могильник
+  description: flavor-complex-graveyard
 
 - type: flavor
   id: bubbletea
@@ -78,7 +78,7 @@
 - type: flavor
   id: corncob
   flavorType: Complex
-  description: смак-комплекс-кукурудза
+  description: flavor-complex-corncob
 
 #Delta V
 - type: flavor
@@ -89,17 +89,17 @@
 - type: flavor
   id: gunmetal
   flavorType: Complex
-  description: аромат-комплекс-зброя
+  description: flavor-complex-gunmetal
 
 - type: flavor
   id: lemondrop
   flavorType: Complex
-  description: смаковий комплекс-лемондропля
+  description: flavor-complex-lemondrop
 
 - type: flavor
   id: greengrass
   flavorType: Complex
-  description: аромат-комплекс-greengrass
+  description: flavor-complex-greengrass
 
 - type: flavor
   id: arsonistsbrew
@@ -109,23 +109,23 @@
 - type: flavor
   id: blellow
   flavorType: Complex
-  description: flavor-complex-blow
+  description: flavor-complex-blellow
 
 #Delta-V additional drink flavors
 - type: flavor
   id: deadrum
   flavorType: Complex
-  description: фуф
+  description: flavor-complex-deadrum-deltav
 
 - type: flavor
   id: n-t-cahors
   flavorType: Complex
-  description: зі смаком кота
+  description: flavor-complex-n-t-cahors-deltav
 
 - type: flavor
   id: poison-wine
   flavorType: Complex
-  description: смак-комплекс-отрута-вино-дельтав
+  description: flavor-complex-poison-wine-deltav
 
 - type: flavor
   id: doctors-delight
@@ -155,12 +155,12 @@
 - type: flavor
   id: syndicate-bomb
   flavorType: Complex
-  description: аромат-комплекс-синдикат-бомба-дельтав
+  description: flavor-complex-syndicate-bomb-deltav
 
 - type: flavor
   id: kvass
   flavorType: Complex
-  description: смаковий комплекс-квас-дельтав
+  description: flavor-complex-kvass-deltav
 
 - type: flavor
   id: mothamphetamine
@@ -175,18 +175,18 @@
 - type: flavor
   id: lemonlimebitters
   flavorType: Complex
-  description: аромат-комплекс-лимон-лайм-гіркота
+  description: flavor-complex-lemon-lime-bitters
 
 - type: flavor
   id: UnholyWater
   flavorType: Complex
-  description: смаковий комплекс-несвята-вода
+  description: flavor-complex-unholy-water
 
 # this is prefixed with "candy" to avoid clashes with potential future strawberries upstream
 - type: flavor
   id: candystrawberry
   flavorType: Complex
-  description: смак-комплекс-цукерки-полуниця
+  description: flavor-complex-candy-strawberry
 
 - type: flavor
   id: candybubblegum
@@ -196,17 +196,17 @@
 - type: flavor
   id: doubleicecream
   flavorType: Complex
-  description: смаковий-комплекс-подвійне-морозиво
+  description: flavor-complex-double-ice-cream
 
 - type: flavor
   id: spicypicklemoffs
   flavorType: Complex
-  description: смак-комплекс-пряно-соління
+  description: flavor-complex-spicy-pickle
 
 - type: flavor
   id: oldfashioned
   flavorType: Complex
-  description: смако-комплекс-старомодний
+  description: flavor-complex-old-fashioned
 
 - type: flavor
   id: mnatsacollins
@@ -216,12 +216,12 @@
 - type: flavor
   id: affogato
   flavorType: Complex
-  description: смаковий комплекс-аффогато
+  description: flavor-complex-affogato
 
 - type: flavor
   id: fiveoclock
   flavorType: Complex
-  description: аромат-комплекс-п'ять годин
+  description: flavor-complex-five-oclock
 
 - type: flavor
   id: mliko
@@ -231,24 +231,24 @@
 - type: flavor
   id: crispy
   flavorType: Base
-  description: смакова основа-хрустка
+  description: flavor-base-crispy
 
 - type: flavor
   id: stale
   flavorType: Base
-  description: аромат-основа-застарілий
+  description: flavor-base-stale
 
 - type: flavor
   id: burnt
   flavorType: Base
-  description: смак-основа-палена
+  description: flavor-base-burnt
 
 - type: flavor
   id: rancid
   flavorType: Base
-  description: аромат-основа-згірклий
+  description: flavor-base-rancid
 
 - type: flavor
   id: awful
   flavorType: Base
-  description: аромат-основа-жахливо
+  description: flavor-base-awful

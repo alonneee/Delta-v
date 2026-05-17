@@ -1,6 +1,6 @@
 - type: storeCategory
   id: UplinkObjectives
-  name: магазин-категорія-цілі
+  name: store-category-objectives
   priority: 11
 
 - type: storeCategory
@@ -10,7 +10,7 @@
 # recruiter
 - type: storeCategory
   id: RecruiterJunk
-  name: магазин-категорія-рекрутер-сміття
+  name: store-category-recruiter-junk
 
 - type: storeCategory
   id: RecruiterUniforms
@@ -18,7 +18,7 @@
 
 - type: storeCategory
   id: RecruiterTreasure
-  name: магазин-категорія-рекрутер-скарб
+  name: store-category-recruiter-treasure
 
 # NTAgent (nanolink)
 - type: entity
@@ -39,12 +39,12 @@
 
 - type: storeCategory
   id: NanolinkDeception
-  name: магазин-категорія-обман
+  name: store-category-deception
   priority: 0
 
 - type: storeCategory
   id: NanolinkSurveillance
-  name: магазин-категорія-спостереження
+  name: store-category-surveillance
   priority: 1
 
 - type: storeCategory
@@ -54,5 +54,5 @@
 
 - type: storeCategory
   id: NanolinkPointless
-  name: магазин-категорія-безглуздо
+  name: store-category-pointless
   priority: 3

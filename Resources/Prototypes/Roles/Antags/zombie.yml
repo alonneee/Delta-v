@@ -15,7 +15,7 @@
 
 - type: antag
   id: Zombie
-  name: roles-atag-zombie-name
+  name: roles-antag-zombie-name
   antagonist: true
   setPreference: false
   objective: roles-antag-zombie-objective

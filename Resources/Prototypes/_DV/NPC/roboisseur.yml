@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseMachine
   id: Roboisseur
-  name: Містер Батлертрон
-  description: Він просить їжу доставити екзотичним клієнтам у всьому космосі. Завдяки новітнім технологіям доставки їжі bluespace.
+  name: Mr. Butlertron
+  description: It asks for food to deliver to exotic customers across the cosmos. Powered by the latest technology in bluespace food delivery.
   components:
   - type: Sprite
     noRot: true

@@ -1,8 +1,8 @@
 - type: entity
-  name: базовий щит
+  name: base shield
   parent: BaseItem
   id: BaseShield
-  description: Щит!
+  description: A shield!
   abstract: true
   components:
     - type: Sprite
@@ -74,10 +74,10 @@
     # End DeltaV additions
 
 - type: entity
-  name: базовий ремонтний щит
+  name: base repairable shield
   parent: BaseShield
   id: BaseRepairableShield
-  description: Ремонтний щит!
+  description: A repairable shield!
   abstract: true
   components:
   - type: Repairable # Negative values represent healing
@@ -93,10 +93,10 @@
 #Security Shields
 
 - type: entity
-  name: бунтівський щит
+  name: riot shield
   parent: [ BaseRepairableShield, BaseSecurityContraband ]
   id: RiotShield
-  description: Великий баштовий щит. Добре підходить для контролю натовпу.
+  description: A large tower shield. Good for controlling crowds.
   components:
 # Begin of Harmony Change: Shield Rework -- Suit Storage Slot
     - type: Sprite
@@ -127,10 +127,10 @@
           Slash: 1
 
 - type: entity
-  name: лазерний щит
+  name: laser shield
   parent: [ BaseRepairableShield, BaseSecurityContraband ]
   id: RiotLaserShield
-  description: Щит, створений для протистояння лазерам, але нічого іншого.
+  description: A shield built for withstanding lasers, but not much else.
   components:
 # Begin of Harmony Change: Shield Rework -- Suit Storage Slot
     - type: Sprite
@@ -158,10 +158,10 @@
           Heat: 1
 
 - type: entity
-  name: балістичний щит
+  name: ballistic shield
   parent: [ BaseRepairableShield, BaseSecurityContraband ]
   id: RiotBulletShield
-  description: Щит, створений для захисту від балістики, але нічого іншого.
+  description: A shield built for protecting against ballistics, but not much else.
   components:
 # Begin of Harmony Change: Shield Rework -- Suit Storage Slot
     - type: Sprite
@@ -191,10 +191,10 @@
 #Craftable shields
 
 - type: entity
-  name: дерев'яний щит
+  name: wooden buckler
   parent: BaseShield
   id: WoodenBuckler
-  description: Невеликий круглий дерев'яний імпровізований щит.
+  description: A small round wooden makeshift shield.
   components:
 # Begin of Harmony Change: Shield Rework -- Suit Storage Slot
     - type: Sprite
@@ -257,10 +257,10 @@
       price: 150
 
 - type: entity
-  name: картонний щит
+  name: cardboard shield
   parent: BaseShield
   id: CardShield
-  description: Щит з картону. Не захистить вас від багато чого.
+  description: A shield made of cardboard. Won't protect you from much.
   components:
     - type: Sprite
       state: cardshield-icon
@@ -309,10 +309,10 @@
       price: 20
 
 - type: entity
-  name: імпровізований щит
+  name: makeshift shield
   parent: BaseRepairableShield
   id: MakeshiftShield
-  description: Поганий щит, не дуже хороший.
+  description: A rundown looking shield, not good for much.
   components:
 # Begin of Harmony Change: Shield Rework -- Suit Storage Slot
     - type: Sprite
@@ -376,10 +376,10 @@
 #Starlight Changes End
 
 - type: entity
-  name: веб-щит
+  name: web shield
   parent: BaseShield
   id: WebShield
-  description: Струнчастий щиток. Він слабкий і, здається, погано справляється з теплом.
+  description: A stringy shield. It's weak, and doesn't seem to do well against heat.
   components:
     - type: Sprite
       sprite: Objects/Weapons/Melee/web-shield.rsi
@@ -431,7 +431,7 @@
 #Magic/Cult Shields (give these to wizard for now)
 
 - type: entity
-  name: заводний щит
+  name: clockwork shield
   parent: BaseRepairableShield
   id: ClockworkShield
   description: Ratvar oyrffrf lbh jvgu uvf cebgrpgvba.
@@ -460,10 +460,10 @@
       #Have it break into brass when clock cult is in
 
 - type: entity
-  name: маримба
+  name: mirror shield
   parent: [ BaseShield, BaseMagicalContraband ]
   id: MirrorShield
-  description: Моторошно світиться червоним... чуєш геометр шепоче
+  description: Eerily glows red... you hear the geometer whispering
   components:
     - type: Sprite
       state: mirror-icon
@@ -508,10 +508,10 @@
                   max: 5
 
 - type: entity
-  name: енергетичний щит
+  name: energy shield
   parent: [BaseItem, BaseSyndicateContraband]
   id: EnergyShield
-  description: Екзотичний енергетичний щит у складеному вигляді поміститься навіть у кишені.
+  description: Exotic energy shield, when folded, can even fit in your pocket.
   components:
     - type: ItemToggle
       soundActivate:
@@ -609,10 +609,10 @@
       price: 350
 
 - type: entity
-  name: зламаний енергетичний щит
+  name: broken energy shield
   parent: BaseItem
   id: BrokenEnergyShield
-  description: Щось всередині вигоріло, вже не працює.
+  description: Something inside is burned out, it is no longer functional.
   components:
     - type: Sprite
       sprite: Objects/Weapons/Melee/e_shield.rsi
@@ -623,10 +623,10 @@
       heldPrefix: eshield
 
 - type: entity
-  name: телескопічний щит
+  name: telescopic shield
   parent: BaseRepairableShield
   id: TelescopicShield
-  description: Удосконалений захисний щит із легких матеріалів, який складається для зручного зберігання.
+  description: An advanced riot shield made of lightweight materials that collapses for easy storage.
   components:
     - type: ItemToggle
       soundActivate:

@@ -2,7 +2,7 @@
   save: false
   parent: [BaseMobKitsune, BaseMobHuman]
   id: MobKitsune
-  name: Уріст МакКіцуне
+  name: Urist McKitsune
   components:
   - type: HumanoidAppearance
     species: Kitsune

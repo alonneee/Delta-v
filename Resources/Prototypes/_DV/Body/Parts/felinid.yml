@@ -13,49 +13,49 @@
 - type: entity
   parent: [ PartFelinidBase, BaseTorso ]
   id: TorsoFelinid
-  name: "uplink-holy-hand-granade-name
+  name: "felinid torso"
 
 - type: entity
   parent: [ PartFelinidBase, BaseHead ]
   id: HeadFelinid
-  name: "котяча голова"
+  name: "felinid head"
 
 - type: entity
   parent: [ PartFelinidBase, BaseLeftArm ]
   id: LeftArmFelinid
-  name: "ліва кошача рука"
+  name: "left felinid arm"
 
 - type: entity
   parent: [ PartFelinidBase, BaseRightArm ]
   id: RightArmFelinid
-  name: "права кошача рука"
+  name: "right felinid arm"
 
 - type: entity
   parent: [ PartFelinidBase, BaseLeftHand ]
   id: LeftHandFelinid
-  name: "ліва котяча рука"
+  name: "left felinid hand"
 
 - type: entity
   parent: [ PartFelinidBase, BaseRightHand ]
   id: RightHandFelinid
-  name: "права котяча рука"
+  name: "right felinid hand"
 
 - type: entity
   parent: [ PartFelinidBase, BaseLeftLeg ]
   id: LeftLegFelinid
-  name: "ліва котяча нога"
+  name: "left felinid leg"
 
 - type: entity
   parent: [ PartFelinidBase, BaseRightLeg ]
   id: RightLegFelinid
-  name: "права котяча нога"
+  name: "right felinid leg"
 
 - type: entity
   parent: [ PartFelinidBase, BaseLeftFoot ]
   id: LeftFootFelinid
-  name: "ліва котяча стопа"
+  name: "left felinid foot"
 
 - type: entity
   parent: [ PartFelinidBase, BaseRightFoot ]
   id: RightFootFelinid
-  name: "права котяча нога"
+  name: "right felinid foot"

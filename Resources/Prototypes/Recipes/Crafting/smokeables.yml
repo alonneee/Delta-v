@@ -8,7 +8,7 @@
 
 - type: construction
   id: smokeableJointRainbow
-  name: будівництво-закопчуване-спільне-веселка
+  name: construction-smokeable-joint-rainbow
   graph: smokeableJointRainbow
   startNode: start
   targetNode: jointRainbow
@@ -25,7 +25,7 @@
 
 - type: construction
   id: smokeableBluntRainbow
-  name: будівельний-димний-тупий-веселковий
+  name: construction-smokeable-blunt-rainbow
   graph: smokeableBluntRainbow
   startNode: start
   targetNode: bluntRainbow

@@ -53,7 +53,7 @@
 - type: entity
   abstract: true
   id: DrinkBaseEmptyTrash
-  suffix: Порожній
+  suffix: Empty
   components:
   - type: SpaceGarbage
   - type: TrashOnSolutionEmpty

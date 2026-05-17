@@ -1,5 +1,5 @@
 - type: entity
-  description: "Якщо ви хочете захворіти на рак, зробіть це стильно».
+  description: "If you want to get cancer, might as well do it in style."
   id: BaseSmokable
   parent: BaseItem
   abstract: true
@@ -56,7 +56,7 @@
   - type: ItemSlots
   - type: SmokingPipe
     bowl_slot:
-      name: курильна-люлька-слот-компонент-слот-назва-чаша
+      name: smoking-pipe-slot-component-slot-name-bowl
       whitelist:
         tags:
           - Smokable

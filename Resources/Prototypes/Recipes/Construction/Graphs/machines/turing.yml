@@ -5,7 +5,7 @@
     - node: a0
       actions:
         - !type:PopupEveryone
-          text: "Вхідний біт A0..."
+          text: "Input bit A0..."
       edges:
         # Input 1
         - to: a1
@@ -22,7 +22,7 @@
     - node: a1
       actions:
         - !type:PopupEveryone
-          text: "Вхідний біт A1..."
+          text: "Input bit A1..."
       edges:
         # Input 1
         - to: b0
@@ -39,7 +39,7 @@
     - node: b0
       actions:
         - !type:PopupEveryone
-          text: "Вхідний біт B0..."
+          text: "Input bit B0..."
       edges:
         # Input 1
         - to: b1
@@ -56,7 +56,7 @@
     - node: b1
       actions:
         - !type:PopupEveryone
-          text: "Вхідний біт B1..."
+          text: "Input bit B1..."
       edges:
         # Input 1
         - to: result
@@ -214,11 +214,11 @@
               # If c2 == 0...
               action:
                 !type:PopupEveryone
-                text: "Результат: 0"
+                text: "Result: 0"
               # If c2 == 1...
               else:
                 !type:PopupEveryone
-                text: "Результат: 4"
+                text: "Result: 4"
             # If c1 == 1...
             else:
               !type:ConditionalAction
@@ -228,11 +228,11 @@
               # If c2 == 0...
               action:
                 !type:PopupEveryone
-                text: "Результат: 2"
+                text: "Result: 2"
               # If c2 == 1...
               else:
                 !type:PopupEveryone
-                text: "Результат: 6"
+                text: "Result: 6"
           # If c0 == 1...
           else:
             !type:ConditionalAction
@@ -248,11 +248,11 @@
               # If c2 == 0...
               action:
                 !type:PopupEveryone
-                text: "Результат: 1"
+                text: "Result: 1"
               # If c2 == 1...
               else:
                 !type:PopupEveryone
-                text: "Результат: 5"
+                text: "Result: 5"
             # If c1 == 1...
             else:
               !type:ConditionalAction
@@ -262,11 +262,11 @@
               # If c2 == 0...
               action:
                 !type:PopupEveryone
-                text: "Результат: 3"
+                text: "Result: 3"
               # If c2 == 1...
               else:
                 !type:PopupEveryone
-                text: "Результат: 7"
+                text: "Result: 7"
       edges:
         - to: a0
           completed:

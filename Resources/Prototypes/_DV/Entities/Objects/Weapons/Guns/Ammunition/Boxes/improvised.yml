@@ -2,7 +2,7 @@
   parent: BaseItem
   id: BaseMagazineBoxImprovised
   name: improvised ammunition box
-  description: Це підозріло схоже на коробку від магазину .20 із грубим малюнком кулі нагорі. Змішувати боєприпаси не рекомендується.
+  description: This looks suspiciously like a .20 magazine box with a crude bullet drawing ontop. Mixing ammo is not advised.
   components:
   - type: BallisticAmmoProvider
     mayTransfer: true
@@ -46,7 +46,7 @@
 - type: entity
   parent: BaseMagazineBoxImprovised
   id: MagazineBoxImprovisedPistol
-  name: імпровізований ящик для патронів (.35 auto improvised)
+  name: improvised ammunition box (.35 auto improvised)
   components:
   - type: BallisticAmmoProvider
     proto: CartridgePistolImprovised
@@ -63,7 +63,7 @@
 - type: entity
   parent: BaseMagazineBoxImprovised
   id: MagazineBoxImprovisedRifle
-  name: імпровізований ящик для патронів (гвинтівка .30 імпровізована)
+  name: improvised ammunition box (.30 rifle improvised)
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeLightRifleImprovised
@@ -80,7 +80,7 @@
 - type: entity
   parent: BaseMagazineBoxImprovised
   id: MagazineBoxImprovisedMagnum
-  name: імпровізований ящик для патронів (.45 magnum імпровізований)
+  name: improvised ammunition box (.45 magnum improvised)
   components:
   - type: BallisticAmmoProvider
     proto: CartridgeMagnumImprovised
@@ -97,7 +97,7 @@
 - type: entity
   parent: BaseMagazineBoxImprovised
   id: MagazineBoxImprovisedShotgun
-  name: променистий меч
+  name: improvised ammunition box (.50 shotgun improvised)
   components:
   - type: BallisticAmmoProvider
     proto: ShellShotgunImprovised

@@ -65,7 +65,7 @@
 - type: entity
   parent: AirlockAssembly
   id: AirlockAssemblyCommand
-  suffix: Команда
+  suffix: Command
   components:
   - type: Sprite
     sprite: _DV/Structures/Doors/Airlocks/Standard/command.rsi # DeltaV - Resprite Doors
@@ -84,7 +84,7 @@
 - type: entity
   parent: AirlockAssembly
   id: AirlockAssemblyEngineering
-  suffix: Інженерія
+  suffix: Engineering
   components:
   - type: Sprite
     sprite: _DV/Structures/Doors/Airlocks/Standard/engineering.rsi # DeltaV - Resprite Doors
@@ -132,7 +132,7 @@
 - type: entity
   parent: AirlockAssembly
   id: AirlockAssemblyFreezer
-  suffix: Морозильна камера
+  suffix: Freezer
   components:
   - type: Sprite
     sprite: _DV/Structures/Doors/Airlocks/Standard/freezer.rsi # DeltaV - Resprite Doors
@@ -161,7 +161,7 @@
 - type: entity
   parent: AirlockAssembly
   id: AirlockAssemblyMaintenance
-  suffix: Технічне обслуговування
+  suffix: Maintenance
   components:
   - type: Sprite
     sprite: _DV/Structures/Doors/Airlocks/Standard/maint.rsi # DeltaV - Resprite Doors
@@ -180,7 +180,7 @@
 - type: entity
   parent: AirlockAssembly
   id: AirlockAssemblyMedical
-  suffix: Медичний
+  suffix: Medical
   components:
   - type: Sprite
     sprite: _DV/Structures/Doors/Airlocks/Standard/medical.rsi # DeltaV - Resprite Doors
@@ -199,7 +199,7 @@
 - type: entity
   parent: AirlockAssembly
   id: AirlockAssemblySalvage
-  suffix: Порятунок
+  suffix: Salvage
   components:
   - type: Sprite
     sprite: _DV/Structures/Doors/Airlocks/Standard/salvage.rsi # DeltaV - Resprite Doors
@@ -237,7 +237,7 @@
 - type: entity
   parent: AirlockAssembly
   id: AirlockAssemblySecurity
-  suffix: Безпека
+  suffix: Security
   components:
   - type: Sprite
     sprite: _DV/Structures/Doors/Airlocks/Standard/security.rsi # DeltaV - Resprite Doors
@@ -275,7 +275,7 @@
 - type: entity
   parent: AirlockAssembly
   id: AirlockAssemblyVirology
-  suffix: Вірусологія
+  suffix: Virology
   components:
   - type: Sprite
     sprite: _DV/Structures/Doors/Airlocks/Standard/virology.rsi # DeltaV - Resprite Doors
@@ -332,7 +332,7 @@
 - type: entity
   parent: AirlockAssembly
   id: AirlockAssemblySyndicate
-  suffix: Синдикат
+  suffix: Syndicate
   components:
   - type: Sprite
     sprite: _DV/Structures/Doors/Airlocks/Standard/syndicate.rsi # DeltaV - Resprite Doors

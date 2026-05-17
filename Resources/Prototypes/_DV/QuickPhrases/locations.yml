@@ -48,91 +48,91 @@
 - type: quickPhrase
   parent: BaseLocationPhrase
   id: LocationNearPhrase
-  text: фраза-розташування-поруч
+  text: phrase-location-near
 
 - type: quickPhrase
   parent: BaseLocationPhrase
   id: LocationFarPhrase
-  text: фраза-розташування-далеко
+  text: phrase-location-far
 
 - type: quickPhrase
   parent: BaseLocationPhrase
   id: LocationInsidePhrase
-  text: Seek to become the most feared person on the station. Змусьте їх відсахнутися при згадці вашого імені!
+  text: phrase-location-inside
 
 - type: quickPhrase
   parent: BaseLocationPhrase
   id: LocationOutsidePhrase
-  text: фраза-розташування-зовні
+  text: phrase-location-outside
 
 ## Compass directions
 
 - type: quickPhrase
   parent: BaseLocationPhrase
   id: LocationNorthPhrase
-  text: фраза-розташування-півн
+  text: phrase-location-north
 
 - type: quickPhrase
   parent: BaseLocationPhrase
   id: LocationEastPhrase
-  text: фраза-локація-іст
+  text: phrase-location-east
 
 - type: quickPhrase
   parent: BaseLocationPhrase
   id: LocationSouthPhrase
-  text: фраза-розташування-пд
+  text: phrase-location-south
 
 - type: quickPhrase
   parent: BaseLocationPhrase
   id: LocationWestPhrase
-  text: фраза-ворожий-зловмисник
+  text: phrase-location-west
 
 - type: quickPhrase
   parent: BaseLocationPhrase
   id: LocationNorthEastPhrase
-  text: фраза-розташування-північний схід
+  text: phrase-location-northeast
 
 - type: quickPhrase
   parent: BaseLocationPhrase
   id: LocationSouthEastPhrase
-  text: фраза-розташування-пд
+  text: phrase-location-southeast
 
 - type: quickPhrase
   parent: BaseLocationPhrase
   id: LocationSouthWestPhrase
-  text: фраза-розташування-пд
+  text: phrase-location-southwest
 
 - type: quickPhrase
   parent: BaseLocationPhrase
   id: LocationNorthWestPhrase
-  text: фраза-розташування-півн.-зах
+  text: phrase-location-northwest
 
 # Command
 
 - type: quickPhrase
   parent: BaseCommandLocationPhrase
   id: LocationCommandPhrase
-  text: станція-маяк-команда
+  text: station-beacon-command
 
 - type: quickPhrase
   parent: BaseCommandLocationPhrase
   id: LocationBridgePhrase
-  text: станція-маяк-міст
+  text: station-beacon-bridge
 
 - type: quickPhrase
   parent: BaseCommandLocationPhrase
   id: LocationVaultPhrase
-  text: станція-маяк-склеп
+  text: station-beacon-vault
 
 - type: quickPhrase
   parent: BaseCommandLocationPhrase
   id: LocationCaptainPhrase
-  text: станція-маяк-капітан
+  text: station-beacon-captain
 
 - type: quickPhrase
   parent: BaseCommandLocationPhrase
   id: LocationConferenceRoomPhrase
-  text: станція-маяк-конференц-кімната
+  text: station-beacon-conference-room
 
 - type: quickPhrase
   parent: BaseCommandLocationPhrase
@@ -142,49 +142,49 @@
 - type: quickPhrase
   parent: BaseCommandLocationPhrase
   id: LocationAISatPhrase
-  text: станція-маяк-ай-сат
+  text: station-beacon-ai-sat
 
 # Engineering
 
 - type: quickPhrase
   parent: BaseEngineeringLocationPhrase
   id: LocationEngineeringPhrase
-  text: станція-маяк-техніка
+  text: station-beacon-engineering
 
 - type: quickPhrase
   parent: BaseEngineeringLocationPhrase
   id: LocationCePhrase
-  text: станція-маяк-це
+  text: station-beacon-ce
 
 - type: quickPhrase
   parent: BaseEngineeringLocationPhrase
   id: LocationAmePhrase
-  text: станція-маяк-аме
+  text: station-beacon-ame
 
 - type: quickPhrase
   parent: BaseEngineeringLocationPhrase
   id: LocationSolarsPhrase
-  text: станція-маяк-сонячні
+  text: station-beacon-solars
 
 - type: quickPhrase
   parent: BaseEngineeringLocationPhrase
   id: LocationGravPhrase
-  text: станція-маяк-гравген
+  text: station-beacon-gravgen
 
 - type: quickPhrase
   parent: BaseEngineeringLocationPhrase
   id: LocationPaPhrase
-  text: станція-маяк-па
+  text: station-beacon-pa
 
 - type: quickPhrase
   parent: BaseEngineeringLocationPhrase
   id: LocationSmesPhrase
-  text: станція-маяк-смес
+  text: station-beacon-smes
 
 - type: quickPhrase
   parent: BaseEngineeringLocationPhrase
   id: LocationTelecomsPhrase
-  text: станція-маяк-телеком
+  text: station-beacon-telecoms
 
 - type: quickPhrase
   parent: BaseEngineeringLocationPhrase
@@ -194,7 +194,7 @@
 - type: quickPhrase
   parent: BaseEngineeringLocationPhrase
   id: LocationTegPhrase
-  text: станція-маяк-тег
+  text: station-beacon-teg
 
 - type: quickPhrase
   parent: BaseEngineeringLocationPhrase
@@ -206,7 +206,7 @@
 - type: quickPhrase
   parent: BaseEpistemicsLocationPhrase
   id: LocationEpistemicsPhrase
-  text: станція-маяк-епістеміка
+  text: station-beacon-epistemics
 
 - type: quickPhrase
   parent: BaseEpistemicsLocationPhrase
@@ -221,17 +221,17 @@
 - type: quickPhrase
   parent: BaseEpistemicsLocationPhrase
   id: LocationChapelPhrase
-  text: loadout-group-roboticist-верхній одяг
+  text: station-beacon-chapel
 
 - type: quickPhrase
   parent: BaseEpistemicsLocationPhrase
   id: LocationRoboticsPhrase
-  text: станція-маяк-робототехніка
+  text: station-beacon-robotics
 
 - type: quickPhrase
   parent: BaseEpistemicsLocationPhrase
   id: LocationArtifactPhrase
-  text: станція-маяк-артефакт-лабораторія
+  text: station-beacon-artifact-lab
 
 - type: quickPhrase
   parent: BaseEpistemicsLocationPhrase
@@ -248,81 +248,81 @@
 - type: quickPhrase
   parent: BaseJusticeLocationPhrase
   id: LocationCourtroomPhrase
-  text: вокзал-маяк-зал суду
+  text: station-beacon-courtroom
 
 - type: quickPhrase
   parent: BaseJusticeLocationPhrase
   id: LocationLawOfficePhrase
-  text: станція-маяк-закон
+  text: station-beacon-law
 
 - type: quickPhrase
   parent: BaseJusticeLocationPhrase
   id: LocationProsecutorPhrase
-  text: станція-маяк-прокурор
+  text: station-beacon-prosecutor
 
 - type: quickPhrase
   parent: BaseJusticeLocationPhrase
   id: LocationChiefJusticePhrase
-  text: вокзал-маяк-головний суддя
+  text: station-beacon-chiefjustice
 
 - type: quickPhrase
   parent: BaseJusticeLocationPhrase
   id: LocationClerkPhrase
-  text: дільниця-маячник-діловод
+  text: station-beacon-clerk
 
 # Logistics
 
 - type: quickPhrase
   parent: BaseLogisticsLocationPhrase
   id: LocationLogisticsPhrase
-  text: станція-маяк-логістика
+  text: station-beacon-logistics
 
 - type: quickPhrase
   parent: BaseLogisticsLocationPhrase
   id: LocationLoPhrase
-  text: станція-маяк-ло
+  text: station-beacon-lo
 
 - type: quickPhrase
   parent: BaseLogisticsLocationPhrase
   id: LocationCargoBayPhrase
-  text: станція-маяк-вантажний відсік
+  text: station-beacon-cargo-bay
 
 - type: quickPhrase
   parent: BaseLogisticsLocationPhrase
   id: LocationSalvagePhrase
-  text: станція-маяк-рятувальний
+  text: station-beacon-salvage
 
 - type: quickPhrase
   parent: BaseLogisticsLocationPhrase
   id: LocationMailPhrase
-  text: станція-маяк-пошта
+  text: station-beacon-mailroom
 
 - type: quickPhrase
   parent: BaseLogisticsLocationPhrase
   id: LocationATSPhrase
-  text: фраза-локація-ац
+  text: phrase-location-ats
 
 - type: quickPhrase
   parent: BaseLogisticsLocationPhrase
   id: LocationShipyardPhrase
-  text: фраза-розташування-верф
+  text: phrase-location-shipyard
 
 # Medical
 
 - type: quickPhrase
   parent: BaseMedicalLocationPhrase
   id: LocationMedicalPhrase
-  text: станція-маяк-мед
+  text: station-beacon-medical
 
 - type: quickPhrase
   parent: BaseMedicalLocationPhrase
   id: LocationMedbayPhrase
-  text: станція-маяк-медбей
+  text: station-beacon-medbay
 
 - type: quickPhrase
   parent: BaseMedicalLocationPhrase
   id: LocationChemistryPhrase
-  text: станція-маяк-хімія
+  text: station-beacon-chemistry
 
 - type: quickPhrase
   parent: BaseMedicalLocationPhrase
@@ -337,49 +337,49 @@
 - type: quickPhrase
   parent: BaseMedicalLocationPhrase
   id: LocationMorguePhrase
-  text: станція-маяк-морг
+  text: station-beacon-morgue
 
 - type: quickPhrase
   parent: BaseMedicalLocationPhrase
   id: LocationSurgeryPhrase
-  text: станція-маяк-хірургія
+  text: station-beacon-surgery
 
 # Security
 
 - type: quickPhrase
   parent: BaseSecurityLocationPhrase
   id: LocationSecurityPhrase
-  text: станція-маяк-охорона
+  text: station-beacon-security
 
 - type: quickPhrase
   parent: BaseSecurityLocationPhrase
   id: LocationBrigPhrase
-  text: станція-маяк-бриг
+  text: station-beacon-brig
 
 - type: quickPhrase
   parent: BaseSecurityLocationPhrase
   id: LocationWardenPhrase
-  text: станція-маяк-наглядач
+  text: station-beacon-warden
 
 - type: quickPhrase
   parent: BaseSecurityLocationPhrase
   id: LocationHosPhrase
-  text: фраза-рудний мішок
+  text: station-beacon-hos
 
 - type: quickPhrase
   parent: BaseSecurityLocationPhrase
   id: LocationArmoryPhrase
-  text: станція-маяк-збройова
+  text: station-beacon-armory
 
 - type: quickPhrase
   parent: BaseSecurityLocationPhrase
   id: LocationPermaPhrase
-  text: станція-маяк-перма-бриг
+  text: station-beacon-perma-brig
 
 - type: quickPhrase
   parent: BaseSecurityLocationPhrase
   id: LocationDetectivePhrase
-  text: станція-маяк-детектив
+  text: station-beacon-detective
 
 - type: quickPhrase
   parent: BaseSecurityLocationPhrase
@@ -389,81 +389,81 @@
 - type: quickPhrase
   parent: BaseSecurityLocationPhrase
   id: LocationCorpsmanPhrase
-  text: станція-маячник-санітар
+  text: station-beacon-corpsman
 
 # Service
 
 - type: quickPhrase
   parent: BaseServiceLocationPhrase
   id: LocationServicePhrase
-  text: станція-маяк-служба
+  text: station-beacon-service
 
 - type: quickPhrase
   parent: BaseServiceLocationPhrase
   id: LocationKitchenPhrase
-  text: станція-маяк-кухня
+  text: station-beacon-kitchen
 
 - type: quickPhrase
   parent: BaseServiceLocationPhrase
   id: LocationBarPhrase
-  text: станція-маяк-бар
+  text: station-beacon-bar
 
 - type: quickPhrase
   parent: BaseServiceLocationPhrase
   id: LocationBotanyPhrase
-  text: фраза-срібло
+  text: station-beacon-botany
 
 - type: quickPhrase
   parent: BaseServiceLocationPhrase
   id: LocationJanitorPhrase
-  text: станція-маяк-двірник
+  text: station-beacon-janitor
 
 - type: quickPhrase
   parent: BaseServiceLocationPhrase
   id: LocationJaniOfficePhrase
-  text: вокзал-маяк-двірник-офіс
+  text: station-beacon-janitor-office
 
 - type: quickPhrase
   parent: BaseServiceLocationPhrase
   id: LocationJaniClosetPhrase
-  text: фраза-солодкий
+  text: station-beacon-janitor-closet
 
 - type: quickPhrase
   parent: BaseServiceLocationPhrase
   id: LocationReporterPhrase
-  text: станція-маяк-репортер
+  text: station-beacon-reporter
 
 - type: quickPhrase
   parent: BaseServiceLocationPhrase
   id: LocationTheaterPhrase
-  text: станція-маяк-театр
+  text: station-beacon-theater
 
 - type: quickPhrase
   parent: BaseServiceLocationPhrase
   id: LocationHopPhrase
-  text: станція-маяк-хоп
+  text: station-beacon-hop
 
 # Civilian
 
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
   id: LocationLibraryPhrase
-  text: станція-маяк-бібліотека
+  text: station-beacon-library
 
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
   id: LocationParkPhrase
-  text: станція-маяк-парк
+  text: station-beacon-park
 
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
   id: LocationBoxingRingPhrase
-  text: фраза-локація-боксерський-ринг
+  text: phrase-location-boxing-ring
 
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
   id: LocationToolsPhrase
-  text: станція-маяк-інструменти
+  text: station-beacon-tools
 
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
@@ -473,17 +473,17 @@
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
   id: LocationCryosleepPhrase
-  text: flavor-complex-silencer-deltav
+  text: station-beacon-cryosleep
 
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
   id: LocationDisposalsPhrase
-  text: станція-маяк-розпорядження
+  text: station-beacon-disposals
 
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
   id: LocationDormsPhrase
-  text: вокзал-маяк-гуртожитки
+  text: station-beacon-dorms
 
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
@@ -493,17 +493,17 @@
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
   id: LocationEvacPhrase
-  text: станція-маяк-евакуація
+  text: station-beacon-evac
 
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
   id: LocationArrivalsPhrase
-  text: станція-маяк-прибуття
+  text: station-beacon-arrivals
 
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
   id: LocationOutpostPhrase
-  text: фраза-локація-форпост
+  text: phrase-location-outpost
 
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
@@ -513,14 +513,14 @@
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
   id: LocationEscapeShuttlePhrase
-  text: фраза-розташування-втеча-шаттл
+  text: phrase-location-escape-shuttle
 
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
   id: LocationShuttlePhrase
-  text: фраза-розташування-човник
+  text: phrase-location-shuttle
 
 - type: quickPhrase
   parent: BaseCivilianLocationPhrase
   id: LocationMaintenancePhrase
-  text: фраза-розташування-обслуговування
+  text: phrase-location-maintenance

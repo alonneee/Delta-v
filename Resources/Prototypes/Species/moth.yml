@@ -1,6 +1,6 @@
 - type: species
   id: Moth
-  name: вид-назва-молі
+  name: species-name-moth
   roundStart: true
   prototype: MobMoth
   sprites: MobMothSprites

@@ -35,9 +35,9 @@
 - type: entity
   parent: [ BaseSubfloorAnchorStorageAnchored, ClothingBackpackSatchel, BaseMinorContraband ]
   id: ClothingBackpackSatchelSmuggler
-  name: контрабандистський ранець
-  suffix: Порожній
-  description: Зручний сумець підозрілого вигляду. Досить рівно, щоб поміститися під плитку для підлоги.
+  name: smuggler's satchel
+  suffix: Empty
+  description: A handy, suspicious looking satchel. Just flat enough to fit underneath floor tiles.
   components:
   - type: Sprite
     sprite: Clothing/Back/Satchels/smuggler.rsi
@@ -46,9 +46,9 @@
 - type: entity
   parent: [ BaseSubfloorAnchorStorage, ClothingBackpackSatchel, BaseMinorContraband ]
   id: ClothingBackpackSatchelSmugglerUnanchored
-  name: контрабандистський ранець
-  suffix: Порожній, незакріплений
-  description: Зручний сумець підозрілого вигляду. Досить рівно, щоб поміститися під плитку для підлоги.
+  name: smuggler's satchel
+  suffix: Empty, Unanchored
+  description: A handy, suspicious looking satchel. Just flat enough to fit underneath floor tiles.
   components:
   - type: Sprite
     sprite: Clothing/Back/Satchels/smuggler.rsi
@@ -57,8 +57,8 @@
 - type: entity
   parent: [ BaseSubfloorAnchorStorageAnchored, BriefcaseSyndie, BaseMinorContraband ]
   id: BriefcaseSmugglerCash
-  name: портфель контрабандиста
-  suffix: Контрабандист, не мапа
+  name: smuggler's briefcase
+  suffix: Smuggler, Do Not Map
   components:
   - type: EntityTableContainerFill
     containers:
@@ -71,8 +71,8 @@
 - type: entity
   parent: [ BaseSubfloorAnchorStorageAnchored, ClothingBackpackDuffelClown, BaseMinorContraband ]
   id: ClothingBackpackDuffelClownSmuggler
-  name: речовий мішок клоуна контрабандиста
-  suffix: Контрабандист, не мапа
+  name: smuggler's clown duffel bag
+  suffix: Smuggler, Do Not Map
   components:
   - type: EntityTableContainerFill
     containers:
@@ -83,7 +83,7 @@
 - type: entity
   parent: ClothingBackpackSatchelSmuggler
   id: ClothingBackpackSatchelSmugglerFilled
-  suffix: Контрабандист, не мапа
+  suffix: Smuggler, Do Not Map
   components:
   - type: Sprite
     sprite: Clothing/Back/Satchels/smuggler.rsi
@@ -96,8 +96,8 @@
 - type: entity
   parent: MarkerBase
   id: RandomSatchelSpawner
-  name: спавнер випадкового контрабандиста
-  suffix: Не мап
+  name: random smuggler's satchel spawner
+  suffix: Do Not Map
   components:
   - type: Sprite
     layers:

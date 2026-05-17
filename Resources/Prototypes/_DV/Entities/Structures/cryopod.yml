@@ -1,7 +1,7 @@
 - type: entity
   parent: CryogenicSleepUnit
   id: CryogenicSleepUnitSpawnerPrisoner
-  suffix: Або Прикріплений
+  suffix: Spawner, Prisoner
   components:
     - type: ContainerSpawnPoint
       containerId: storage

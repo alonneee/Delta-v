@@ -1,18 +1,18 @@
 - type: traitCategory
   id: Disabilities
-  name: риса-категорія-інваліди
+  name: trait-category-disabilities
   priority: 0
   accentColor: "#64748b"  # Slate / muted gray
 
 - type: traitCategory
   id: Mental
-  name: риса-категорія-психічний
+  name: trait-category-mental
   priority: 20
   accentColor: "#a855f7"  # Purple
 
 - type: traitCategory
   id: Accents
-  name: риса-категорія-акценти
+  name: trait-category-accents
   priority: 30
   maxTraits: 3
   maxPoints: 2
@@ -20,13 +20,13 @@
 
 - type: traitCategory
   id: Medical
-  name: ознака-категорія-мед
+  name: trait-category-medical
   priority: 40
   accentColor: "#ef4444"  # Red
 
 - type: traitCategory
   id: Meta
-  name: риса-категорія-мета
+  name: trait-category-meta
   priority: 50
   maxTraits: 1
   accentColor: "#eab308"  # Yellow

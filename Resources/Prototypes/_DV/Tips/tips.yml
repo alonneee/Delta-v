@@ -1,16 +1,16 @@
 # Basic tip shown to everyone
 - type: tip
   id: WelcomeTip
-  title: device-frequency-prototype-name-surveillance-camera-justice
-  description: порада-вітання-опис
+  title: tip-welcome-title
+  description: tip-welcome-description
   delay: 5
   priority: 0
 
 # Tip with custom sound
 - type: tip
   id: ChatTip
-  title: підказка-чат-заголовок
-  description: підказка-чат-опис
+  title: tip-chat-title
+  description: tip-chat-description
   delay: 30
   priority: 10
 #  sound: /Audio/Effects/adminhelp.ogg # not actually bwoinking people because heart attack but you can do that
@@ -68,7 +68,7 @@
 - type: tip
   id: MedicalTip
   title: tip-medical-title
-  description: підказка-медичний-опис
+  description: tip-medical-description
   delay: 10
   priority: 5
   conditions:
@@ -78,8 +78,8 @@
 # Tip for traitors, shown when becoming a traitor
 - type: tip
   id: TraitorTip
-  title: Гидота, породжена злобною масою. Він пливе з невагомою, нервуючою грацією.
-  description: підказка-зрадник-опис
+  title: tip-traitor-title
+  description: tip-traitor-description
   delay: 20
   priority: 2
   conditions:

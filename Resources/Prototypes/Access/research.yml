@@ -4,7 +4,7 @@
 
 - type: accessLevel
   id: Research
-  name: id-card-access-level-genpop-leave
+  name: id-card-access-level-research
 
 - type: accessGroup
   id: Research

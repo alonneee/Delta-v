@@ -2,7 +2,7 @@
 # These rulesets exist because Salvage mobs kept harassing the station and going out of control.
 
 - type: entity
-  name: Створювач ящиків для рятувальних матеріалів
+  name: Salvage Material Crate Spawner
   id: SalvageMaterialCrateSpawner
   parent: MarkerBase
   components:

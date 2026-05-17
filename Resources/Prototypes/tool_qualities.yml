@@ -7,21 +7,21 @@
 
 - type: tool
   id: Prying
-  name: tool-quality-priying-name
+  name: tool-quality-prying-name
   toolName: tool-quality-prying-tool-name
   spawn: Crowbar
   icon: { sprite: Objects/Tools/crowbar.rsi, state: icon }
 
 - type: tool
   id: Screwing
-  name: назва якості інструменту
+  name: tool-quality-screwing-name
   toolName: tool-quality-screwing-tool-name
   spawn: Screwdriver
   icon: { sprite: Objects/Tools/screwdriver.rsi, state: screwdriver-map }
 
 - type: tool
   id: Cutting
-  name: назва якості різання інструменту
+  name: tool-quality-cutting-name
   toolName: tool-quality-cutting-tool-name
   spawn: Wirecutter
   icon: { sprite: Objects/Tools/wirecutters.rsi, state: cutters-map }
@@ -49,7 +49,7 @@
 
 - type: tool
   id: Sawing
-  name: інструмент-якість-пиляння-назва
+  name: tool-quality-sawing-name
   toolName: tool-quality-sawing-tool-name
   spawn: Saw
   icon: { sprite: Objects/Specific/Medical/Surgery/saw.rsi, state: saw }

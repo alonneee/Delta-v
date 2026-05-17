@@ -96,28 +96,28 @@
     - to: "botany tools panel"
       steps:
       - tag: AugmentBotanyToolBelt
-        name: конструкція-граф-тег-ботаніка-інструменти-панель
+        name: construction-graph-tag-botany-tools-panel
         icon:
           sprite: Objects/Misc/module.rsi
           state: mainboard
     - to: "paperwork tools panel"
       steps:
       - tag: AugmentPaperworkToolBelt
-        name: конструкція-граф-тег-документи-інструменти-панель
+        name: construction-graph-tag-paperwork-tools-panel
         icon:
           sprite: Objects/Misc/module.rsi
           state: mainboard
     - to: "utility tools panel"
       steps:
       - tag: AugmentToolBelt
-        name: конструкція-граф-тег-панель-інструментів-утиліти
+        name: construction-graph-tag-utility-tools-panel
         icon:
           sprite: Objects/Misc/module.rsi
           state: mainboard
     - to: "surgery tools panel"
       steps:
       - tag: AugmentSurgeryToolBelt
-        name: flavor-complex-mnatsa-collins
+        name: construction-graph-tag-surgery-tools-panel
         icon:
           sprite: Objects/Misc/module.rsi
           state: mainboard

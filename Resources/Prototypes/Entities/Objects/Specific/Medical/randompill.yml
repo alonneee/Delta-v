@@ -101,10 +101,10 @@
       - Lead
 
 - type: entity
-  name: дивна таблетка
+  name: strange pill
   parent: Pill
   id: StrangePill
-  description: Ця незвичайна таблетка не має маркування. Невідомо, що він містить.
+  description: This unusual pill bears no markings. There's no telling what it contains.
   components:
   - type: SolutionContainerManager
     solutions:

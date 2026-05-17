@@ -1,7 +1,7 @@
 - type: entity
   id: WarpPoint
   parent: MarkerBase
-  name: точка викривлення
+  name: warp point
   components:
   - type: WarpPoint
   - type: Sprite
@@ -10,7 +10,7 @@
 - type: entity
   id: WarpPointBeacon
   parent: WarpPoint
-  name: точка деформації (маяк)
+  name: warp point (beacon)
   components:
   - type: NavMapBeacon
   - type: WarpPoint
@@ -20,8 +20,8 @@
 - type: entity
   id: GhostWarpPoint
   parent: MarkerBase
-  name: лише примарна точка деформації
-  suffix: Off-Station # Delta V – уточнення для картографів
+  name: ghost only warp point
+  suffix: Off-Station # Delta V - Clarify for mappers
   components:
   - type: Tag
     tags:

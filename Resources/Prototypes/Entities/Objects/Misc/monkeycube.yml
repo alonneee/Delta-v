@@ -1,8 +1,8 @@
 - type: entity
   parent: BoxCardboard
-  name: коробка для кубиків мавпи
+  name: monkey cube box
   id: MonkeyCubeBox
-  description: Кубики мавпи бренду Drymate. Просто додайте води!
+  description: Drymate brand monkey cubes. Just add water!
   components:
   - type: EntityTableContainerFill
     containers:
@@ -16,7 +16,7 @@
 - type: entity
   parent: BaseItem
   abstract: true
-  suffix: Загорнутий
+  suffix: Wrapped
   id: BaseWrappedCube
   components:
   - type: Item
@@ -29,9 +29,9 @@
 
 - type: entity
   parent: BaseWrappedCube
-  name: куб мавпи
+  name: monkey cube
   id: MonkeyCubeWrapped
-  description: Розгорніть це, щоб отримати куб мавпи.
+  description: Unwrap this to get a monkey cube.
   components:
   - type: SpawnItemsOnUse
     items:
@@ -44,9 +44,9 @@
 
 - type: entity
   parent: MonkeyCubeBox
-  name: кубична коробка Кобольда
+  name: kobold cube box
   id: KoboldCubeBox
-  description: Згущені кобольди в кубі. Просто додайте води!
+  description: Condensed kobolds in a cube. Just add water!
   components:
   - type: EntityTableContainerFill
     containers:
@@ -59,9 +59,9 @@
 
 - type: entity
   parent: MonkeyCubeBox
-  name: цукерниця"
+  name: variant cube box
   id: VariantCubeBox
-  description: І куби кобольда, і куби мавпи. Просто додайте води!
+  description: Both kobold cubes and monkey cubes. Just add water!
   components:
   - type: EntityTableContainerFill
     containers:
@@ -77,9 +77,9 @@
 
 - type: entity
   parent: BaseWrappedCube
-  name: куб кобольда
+  name: kobold cube
   id: KoboldCubeWrapped
-  description: Розгорніть це, щоб отримати куб Кобольда.
+  description: Unwrap this to get a kobold cube.
   components:
   - type: SpawnItemsOnUse
     items:
@@ -89,10 +89,10 @@
 
 - type: entity
   parent: MonkeyCubeBox
-  name: коробка для кубиків мавпи
-  suffix: Синдикат
+  name: monkey cube box
+  suffix: Syndicate
   id: SyndicateSpongeBox
-  description: Кубики мавпи бренду Drymate. Просто додайте води!
+  description: Drymate brand monkey cubes. Just add water!
   components:
   - type: EntityTableContainerFill
     containers:
@@ -105,8 +105,8 @@
 
 - type: entity
   parent: MonkeyCubeWrapped
-  name: куб мавпи
-  suffix: Загорнуто, Синдикат
+  name: monkey cube
+  suffix: Wrapped, Syndicate
   id: SyndicateSpongeWrapped
   components:
   - type: SpawnItemsOnUse

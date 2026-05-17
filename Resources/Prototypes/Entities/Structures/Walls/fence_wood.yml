@@ -154,7 +154,7 @@
 - type: entity
   parent: BaseFenceWood
   id: FenceWoodHighCorner
-  suffix: Куточок
+  suffix: Corner
   components:
   - type: Icon
     sprite: Structures/Walls/wooden_fence.rsi
@@ -335,7 +335,7 @@
 - type: entity
   parent: BaseFenceWoodSmall
   id: FenceWoodSmallCorner
-  suffix: Куточок
+  suffix: Corner
   components:
   - type: Icon
     sprite: Structures/Walls/wooden_fence.rsi

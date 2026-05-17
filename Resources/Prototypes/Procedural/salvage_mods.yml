@@ -1,7 +1,7 @@
 # Markers
 - type: entity
   id: SalvageShuttleMarker
-  name: salvage shuttle маркер
+  name: salvage shuttle marker
   parent: FTLPoint
 
 # Biome mods -> at least 1 required
@@ -50,7 +50,7 @@
 
 - type: salvageLightMod
   id: Evening
-  desc: salvage-light-mod-вечір
+  desc: salvage-light-mod-evening
   color: "#2b3143"
 
 - type: salvageLightMod
@@ -62,7 +62,7 @@
 # Temperatures
 - type: salvageTemperatureMod
   id: RoomTemp
-  desc: конструкція-рецепт-клен-mothroach-плащ
+  desc: salvage-temperature-mod-room-temperature
   cost: 0
 
 - type: salvageTemperatureMod
@@ -228,7 +228,7 @@
 #  For now just simple 1-dungeon setups
 - type: salvageDungeonMod
   id: Experiment
-  desc: salvage-dungeon-mod-експеримент
+  desc: salvage-dungeon-mod-experiment
   proto: Experiment
   biomes:
     #- LowDesert

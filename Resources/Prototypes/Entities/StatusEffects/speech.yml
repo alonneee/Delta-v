@@ -14,7 +14,7 @@
 - type: entity
   parent: SpeechStatusEffectBase
   id: StatusEffectStutter
-  name: заїкатися
+  name: stutter
   components:
   - type: StutteringAccent
 
@@ -22,7 +22,7 @@
 - type: entity
   parent: SpeechStatusEffectBase
   id: StatusEffectSlurred
-  name: невиразно
+  name: slurred
   components:
   - type: SlurredAccent
 
@@ -30,7 +30,7 @@
 - type: entity
   parent: SpeechStatusEffectBase
   id: StatusEffectScrambled
-  name: скремблював
+  name: scrambled
   components:
   - type: ScrambledAccent
 
@@ -46,6 +46,6 @@
 - type: entity
   parent: SpeechStatusEffectBase
   id: StatusEffectBark
-  name: баркасцент
+  name: barkaccent
   components:
   - type: BarkAccent

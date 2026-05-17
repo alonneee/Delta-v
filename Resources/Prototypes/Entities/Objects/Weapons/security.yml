@@ -1,8 +1,8 @@
 - type: entity
-  name: електрошокова палиця
+  name: stun baton
   parent: [BaseItem, BaseSecurityContraband]
   id: Stunbaton
-  description: Електрошокова палиця для виведення з ладу людей с. Активно шкодити цим вважається поганим тоном.
+  description: A stun baton for incapacitating people with. Actively harming with this is considered bad tone.
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/stunbaton.rsi
@@ -92,10 +92,10 @@
     - Antagonists
 
 - type: entity
-  name: кийок
+  name: truncheon
   parent: [BaseItem, BaseSecurityContraband]
   id: Truncheon
-  description: Жорсткий, оздоблений сталлю кийок, призначений завдавати шкоди.
+  description: A rigid, steel-studded baton, meant to harm.
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/truncheon.rsi
@@ -129,10 +129,10 @@
     - Antagonists
 
 - type: entity
-  name: спалах
+  name: flash
   parent: [BaseItem, BaseSecurityScienceCommandContraband]
   id: Flash
-  description: Ультраяскравий спалах із тригером, від якого жертва на мить одурманює та втрачає зір. Марний, коли згорів.
+  description: An ultrabright flashbulb with a trigger, which causes the victim to be dazed and lose their eyesight for a moment. Useless when burnt out.
   components:
     - type: Sprite
       sprite: Objects/Weapons/Melee/flash.rsi
@@ -178,19 +178,19 @@
       - Antagonists
 
 - type: entity
-  name: спалах
+  name: flash
   parent: Flash
-  suffix: 2 зарядки
+  suffix: 2 charges
   id: SciFlash
   components:
     - type: LimitedCharges
       maxCharges: 2
 
 - type: entity
-  name: переносний флешер
+  name: portable flasher
   parent: [BaseMachine, BaseSecurityContraband]
   id: PortableFlasher
-  description: Надяскрава лампа-спалах із безконтактним тригером, корисна для того, щоб зробити зону лише охороною.
+  description: An ultrabright flashbulb with a proximity trigger, useful for making an area security-only.
   components:
     - type: EmitSoundOnTrigger
       predicted: true

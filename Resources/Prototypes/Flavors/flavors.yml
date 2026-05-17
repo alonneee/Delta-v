@@ -2,402 +2,402 @@
 - type: flavor
   id: savory
   flavorType: Base
-  description: реагент-ім'я-стабілізовані стимулятори
+  description: flavor-base-savory
 
 - type: flavor
   id: sweet
   flavorType: Base
-  description: смак-основа-солодкий
+  description: flavor-base-sweet
 
 - type: flavor
   id: salty
   flavorType: Base
-  description: смак-основа-солоний
+  description: flavor-base-salty
 
 - type: flavor
   id: sour
   flavorType: Base
-  description: смак-основа-кислий
+  description: flavor-base-sour
 
 - type: flavor
   id: bitter
   flavorType: Base
-  description: смак-основа-гірка
+  description: flavor-base-bitter
 
 - type: flavor
   id: spicy
   flavorType: Base
-  description: смак-основа-пряний
+  description: flavor-base-spicy
 
 - type: flavor
   id: metallic
   flavorType: Base
-  description: аромат-неблагородний металік
+  description: flavor-base-metallic
 
 - type: flavor
   id: meaty
   flavorType: Base
-  description: смак-основа-м'ясо
+  description: flavor-base-meaty
 
 - type: flavor
   id: fishy
   flavorType: Base
-  description: смако-базова-рибна
+  description: flavor-base-fishy
 
 - type: flavor
   id: crabby
   flavorType: Base
-  description: аромат-основа-крабовий
+  description: flavor-base-crabby
 
 - type: flavor
   id: cheesy
   flavorType: Base
-  description: смак-основа-сирний
+  description: flavor-base-cheesy
 
 - type: flavor
   id: funny
   flavorType: Base
-  description: аромат-база-смішний
+  description: flavor-base-funny
 
 - type: flavor
   id: strange
   flavorType: Base
-  description: аромат-основа-дивний
+  description: flavor-base-strange
 
 - type: flavor
   id: tingly
   flavorType: Base
-  description: смак-база-почуття
+  description: flavor-base-tingly
 
 - type: flavor
   id: acid
   flavorType: Base
-  description: смак-основа-кислотність
+  description: flavor-base-acid
 
 - type: flavor
   id: leafy
   flavorType: Base
-  description: смако-основа-листяна
+  description: flavor-base-leafy
 
 - type: flavor
   id: minty
   flavorType: Base
-  description: аромат-основа-м'ята
+  description: flavor-base-minty
 
 - type: flavor
   id: nutty
   flavorType: Base
-  description: смак-основа-горіховий
+  description: flavor-base-nutty
 
 - type: flavor
   id: chalky
   flavorType: Base
-  description: аромат-основа-крейдовий
+  description: flavor-base-chalky
 
 - type: flavor
   id: oily
   flavorType: Base
-  description: смако-основа-масляна
+  description: flavor-base-oily
 
 - type: flavor
   id: peppery
   flavorType: Base
-  description: смак-основа-перцевий
+  description: flavor-base-peppery
 
 - type: flavor
   id: slimy
   flavorType: Base
-  description: смак-основа-слиз
+  description: flavor-base-slimy
 
 - type: flavor
   id: magical
   flavorType: Base
-  description: смак-основа-чарівна
+  description: flavor-base-magical
 
 - type: flavor
   id: fiber
   flavorType: Base
-  description: смак-основа-клітковина
+  description: flavor-base-fiber
 
 - type: flavor
   id: cold
   flavorType: Base
-  description: смак-основа-холод
+  description: flavor-base-cold
 
 - type: flavor
   id: spooky
   flavorType: Base
-  description: аромат-база-моторошний
+  description: flavor-base-spooky
 
 - type: flavor
   id: smokey
   flavorType: Base
-  description: аромат-основа-димчастий
+  description: flavor-base-smokey
 
 - type: flavor
   id: fruity
   flavorType: Base
-  description: смак-основа-фрукти
+  description: flavor-base-fruity
 
 - type: flavor
   id: creamy
   flavorType: Base
-  description: смак-основа-вершковий
+  description: flavor-base-creamy
 
 - type: flavor
   id: fizzy
   flavorType: Base
-  description: аромат-основа-шипучий
+  description: flavor-base-fizzy
 
 - type: flavor
   id: shocking
   flavorType: Base
-  description: аромат-база-шокуючий
+  description: flavor-base-shocking
 
 - type: flavor
   id: cheap
   flavorType: Base
-  description: смак-основа-дешево
+  description: flavor-base-cheap
 
 - type: flavor
   id: terrible
   flavorType: Base
-  description: аромат-база-жахливий
+  description: flavor-base-terrible
 
 - type: flavor
   id: sharp
   flavorType: Base
-  description: аромат-база-гострий
+  description: flavor-base-sharp
 
 - type: flavor
   id: syrupy
   flavorType: Base
-  description: смак-основа-сироповий
+  description: flavor-base-syrupy
 
 - type: flavor
   id: clean
   flavorType: Base
-  description: аромат-основа-чиста
+  description: flavor-base-clean
 
 - type: flavor
   id: mindful
   flavorType: Base
-  description: з урахуванням смакової основи
+  description: flavor-base-mindful
 
 - type: flavor
   id: chewy
   flavorType: Base
-  description: смако-базова-жувальна
+  description: flavor-base-chewy
 
 - type: flavor
   id: mustard
   flavorType: Complex
-  description: смако-комплекс-гірчиця
+  description: flavor-complex-mustard
 
 - type: flavor
   id: mayonnaise
   flavorType: Complex
-  description: смако-комплекс-майонез
+  description: flavor-complex-mayonnaise
 
 - type: flavor
   id: ketchunaise
   flavorType: Complex
-  description: смаковий комплекс-кетчуназ
+  description: flavor-complex-ketchunaise
 
 - type: flavor
   id: nothing
   flavorType: Complex
-  description: смак-комплекс-нічого
+  description: flavor-complex-nothing
 
 - type: flavor
   id: honey
   flavorType: Complex
-  description: смако-комплекс-мед
+  description: flavor-complex-honey
 
 - type: flavor
   id: nutriment
   flavorType: Complex
-  description: смак-комплекс-живлення
+  description: flavor-complex-nutriment
 
 - type: flavor
   id: vitamin
   flavorType: Complex
-  description: смако-комплекс-вітамін
+  description: flavor-complex-vitamin
 
 - type: flavor
   id: protein
   flavorType: Complex
-  description: смак-комплекс-протеїн
+  description: flavor-complex-protein
 
 - type: flavor
   id: food
   flavorType: Complex
-  description: смак-комплекс-харч
+  description: flavor-complex-food
 
 - type: flavor
   id: bun
   flavorType: Complex
-  description: смак-комплекс-булочка
+  description: flavor-complex-bun
 
 - type: flavor
   id: bread
   flavorType: Complex
-  description: смаковий комплекс-хліб
+  description: flavor-complex-bread
 
 - type: flavor
   id: batter
   flavorType: Complex
-  description: смак-комплекс-кляр
+  description: flavor-complex-batter
 
 - type: flavor
   id: butter
   flavorType: Complex
-  description: смако-комплекс-масло
+  description: flavor-complex-butter
 
 - type: flavor
   id: egg
   flavorType: Complex
-  description: смако-комплекс-яйця
+  description: flavor-complex-egg
 
 - type: flavor
   id: raw-egg
   flavorType: Complex
-  description: смаковий-комплекс-сире-яйце
+  description: flavor-complex-raw-egg
 
 - type: flavor
   id: bacon
   flavorType: Complex
-  description: смаковий комплекс-бекон
+  description: flavor-complex-bacon
 
 - type: flavor
   id: chicken
   flavorType: Complex
-  description: смак-комплекс-курка
+  description: flavor-complex-chicken
 
 - type: flavor
   id: duck
   flavorType: Complex
-  description: смак-комплекс-качка
+  description: flavor-complex-duck
 
 - type: flavor
   id: chocolate
   flavorType: Complex
-  description: смако-комплекс-шоколад
+  description: flavor-complex-chocolate
 
 - type: flavor
   id: pasta
   flavorType: Complex
-  description: смаковий комплекс-паста
+  description: flavor-complex-pasta
 
 - type: flavor
   id: rice
   flavorType: Complex
-  description: смак-комплекс-рис
+  description: flavor-complex-rice
 
 - type: flavor
   id: oats
   flavorType: Complex
-  description: смак-комплекс-овес
+  description: flavor-complex-oats
 
 - type: flavor
   id: jelly
   flavorType: Complex
-  description: смако-комплекс-желе
+  description: flavor-complex-jelly
 
 - type: flavor
   id: soy
   flavorType: Complex
-  description: смако-комплекс-соя
+  description: flavor-complex-soy
 
 - type: flavor
   id: icecream
   flavorType: Complex
-  description: смаковий комплекс-морозиво
+  description: flavor-complex-ice-cream
 
 - type: flavor
   id: dough
   flavorType: Complex
-  description: смак-комплекс-тісто
+  description: flavor-complex-dough
 
 - type: flavor
   id: sweetdough
   flavorType: Complex
-  description: смаковий комплекс-солодке-тісто
+  description: flavor-complex-sweet-dough
 
 - type: flavor
   id: tofu
   flavorType: Complex
-  description: смаковий комплекс-тофу
+  description: flavor-complex-tofu
 
 - type: flavor
   id: muffin
   flavorType: Complex
-  description: смак-комплекс-здоба
+  description: flavor-complex-muffin
 
 - type: flavor
   id: peas
   flavorType: Complex
-  description: смак-комплекс-горох
+  description: flavor-complex-peas
 
 - type: flavor
   id: lemoon
   flavorType: Complex
-  description: смак-комплекс-лимон
+  description: flavor-complex-lemoon
 
 - type: flavor
   id: pineapple
   flavorType: Complex
-  description: смак-комплекс-ананас
+  description: flavor-complex-pineapple
 
 - type: flavor
   id: onion
   flavorType: Complex
-  description: смако-комплекс-цибуля
+  description: flavor-complex-onion
 
 - type: flavor
   id: eggplant
   flavorType: Complex
-  description: смак-комплекс-баклажани
+  description: flavor-complex-eggplant
 
 - type: flavor
   id: carrot
   flavorType: Complex
-  description: смако-комплекс-морква
+  description: flavor-complex-carrot
 
 - type: flavor
   id: cabbage
   flavorType: Complex
-  description: смак-комплекс-капуста
+  description: flavor-complex-cabbage
 
 - type: flavor
   id: potatoes
   flavorType: Complex
-  description: смаковий комплекс-картопля
+  description: flavor-complex-potatoes
 
 - type: flavor
   id: mushroom
   flavorType: Complex
-  description: смако-комплекс-гриб
+  description: flavor-complex-mushroom
 
 - type: flavor
   id: tomato
   flavorType: Complex
-  description: смак-комплекс-томат
+  description: flavor-complex-tomato
 
 - type: flavor
   id: corn
   flavorType: Complex
-  description: смак-комплекс-кукурудза
+  description: flavor-complex-corn
 
 - type: flavor
   id: banana
   flavorType: Complex
-  description: смак-комплекс-банан
+  description: flavor-complex-banana
 
 - type: flavor
   id: apple
   flavorType: Complex
-  description: смак-комплекс-яблуко
+  description: flavor-complex-apple
 
 - type: flavor
   id: bungo
@@ -407,72 +407,72 @@
 - type: flavor
   id: raisins
   flavorType: Complex
-  description: смак-комплекс-родзинки
+  description: flavor-complex-raisins
 
 - type: flavor
   id: orange
   flavorType: Complex
-  description: смак-комплекс-апельсин
+  description: flavor-complex-orange
 
 - type: flavor
   id: pink
   flavorType: Complex
-  description: смак-комплекс-рожевий
+  description: flavor-complex-pink
 
 - type: flavor
   id: curry
   flavorType: Complex
-  description: смак-комплекс-каррі
+  description: flavor-complex-curry
 
 - type: flavor
   id: borsch1
   flavorType: Complex
-  description: flavoro-complex-borsch-1
+  description: flavor-complex-borsch-1
 
 - type: flavor
   id: borsch2
   flavorType: Complex
-  description: flavoro-complex-borsch-2
+  description: flavor-complex-borsch-2
 
 - type: flavor
   id: borsch3
   flavorType: Complex
-  description: flavoro-complex-borsch-3
+  description: flavor-complex-borsch-3
 
 - type: flavor
   id: borsch4
   flavorType: Complex
-  description: flavoro-complex-borsch-4
+  description: flavor-complex-borsch-4
 
 - type: flavor
   id: borsch5
   flavorType: Complex
-  description: flavoro-complex-borsch-5
+  description: flavor-complex-borsch-5
 
 - type: flavor
   id: mrebrownie
   flavorType: Complex
-  description: flavor-complex-mre-brownі
+  description: flavor-complex-mre-brownie
 
 - type: flavor
   id: fortunecookie
   flavorType: Complex
-  description: смаковий комплекс-печиво-передбачення
+  description: flavor-complex-fortune-cookie
 
 - type: flavor
   id: nutribrick
   flavorType: Complex
-  description: смак-комплекс-нутрибрик
+  description: flavor-complex-nutribrick
 
 - type: flavor
   id: cheapnoodles
   flavorType: Complex
-  description: смак-комплекс-дешева-локшина
+  description: flavor-complex-cheap-noodles
 
 - type: flavor
   id: syndicakes
   flavorType: Complex
-  description: смако-комплекс-синди-торти
+  description: flavor-complex-syndi-cakes
 
 - type: flavor
   id: susjerky
@@ -482,32 +482,32 @@
 - type: flavor
   id: boritos
   flavorType: Complex
-  description: аромат-комплекс-борітос
+  description: flavor-complex-boritos
 
 - type: flavor
   id: nachos
   flavorType: Complex
-  description: аромат-комплекс-начос
+  description: flavor-complex-nachos
 
 - type: flavor
   id: donk
   flavorType: Complex
-  description: смако-комплекс-донк
+  description: flavor-complex-donk
 
 - type: flavor
   id: copypasta
   flavorType: Complex
-  description: смаковий комплекс-копіпаста
+  description: flavor-complex-copypasta
 
 - type: flavor
   id: memoryleek
   flavorType: Complex
-  description: смаковий комплекс-пам'ять-порей
+  description: flavor-complex-memory-leek
 
 - type: flavor
   id: gunpowder
   flavorType: Complex
-  description: смак-комплекс-порох
+  description: flavor-complex-gunpowder
 
 - type: flavor
   id: validhunting
@@ -517,12 +517,12 @@
 - type: flavor
   id: people
   flavorType: Complex
-  description: смако-комплекс-люди
+  description: flavor-complex-people
 
 - type: flavor
   id: cat
   flavorType: Complex
-  description: смак-комплекс-кішка
+  description: flavor-complex-cat
 
 - type: flavor
   id: homerun
@@ -532,37 +532,37 @@
 - type: flavor
   id: grass
   flavorType: Complex
-  description: смак-комплекс-трава
+  description: flavor-complex-grass
 
 - type: flavor
   id: flare
   flavorType: Complex
-  description: аромат-комплекс-спалах
+  description: flavor-complex-flare
 
 - type: flavor
   id: cobwebs
   flavorType: Complex
-  description: смак-комплекс-павутинка
+  description: flavor-complex-cobwebs
 
 - type: flavor
   id: alcohol
   flavorType: Complex
-  description: стіна магазину
+  description: flavor-complex-alcohol
 
 - type: flavor
   id: soda
   flavorType: Complex
-  description: смако-комплекс-сода
+  description: flavor-complex-soda
 
 - type: flavor
   id: juice
   flavorType: Complex
-  description: смако-комплекс-сік
+  description: flavor-complex-juice
 
 - type: flavor
   id: water
   flavorType: Complex
-  description: смак-комплекс-вода
+  description: flavor-complex-water
 
 - type: flavor
   id: mopwata
@@ -572,27 +572,27 @@
 - type: flavor
   id: tonicwater
   flavorType: Complex
-  description: аромат-комплекс-тонік-вода
+  description: flavor-complex-tonic-water
 
 - type: flavor
   id: beer
   flavorType: Complex
-  description: плитка-дерево3
+  description: flavor-complex-beer
 
 - type: flavor
   id: cognac
   flavorType: Complex
-  description: смако-комплекс-коньяк
+  description: flavor-complex-cognac
 
 - type: flavor
   id: mead
   flavorType: Complex
-  description: смако-комплекс-медовуха
+  description: flavor-complex-mead
 
 - type: flavor
   id: vermouth
   flavorType: Complex
-  description: смако-комплекс-вермут
+  description: flavor-complex-vermouth
 
 - type: flavor
   id: irishslammer
@@ -602,12 +602,12 @@
 - type: flavor
   id: alienbrainhemorrhage
   flavorType: Complex
-  description: flavor-complex-alien-brain-hemorhage
+  description: flavor-complex-alien-brain-hemorrhage
 
 - type: flavor
   id: vodkaredbool
   flavorType: Complex
-  description: смак-комплекс-горілка-червоний-буль
+  description: flavor-complex-vodka-red-bool
 
 - type: flavor
   id: xenobasher
@@ -622,52 +622,52 @@
 - type: flavor
   id: budgetinsulsdrink
   flavorType: Complex
-  description: смаковий-комплекс-бюджетний-інсульс-напій
+  description: flavor-complex-budget-insuls-drink
 
 - type: flavor
   id: watermelonwakeup
   flavorType: Complex
-  description: смаковий комплекс-кавун-пробудження
+  description: flavor-complex-watermelon-wakeup
 
 - type: flavor
   id: electricshark
   flavorType: Complex
-  description: смаковий комплекс-електрична-акула
+  description: flavor-complex-electric-shark
 
 - type: flavor
   id: rubberneck
   flavorType: Complex
-  description: смак-комплекс-гумовий
+  description: flavor-complex-rubberneck
 
 - type: flavor
   id: blackrussian
   flavorType: Complex
-  description: аромат-комплекс-чорно-рос
+  description: flavor-complex-black-russian
 
 - type: flavor
   id: whiterussian
   flavorType: Complex
-  description: аромат-комплекс-білий-рос
+  description: flavor-complex-white-russian
 
 - type: flavor
   id: moonshine
   flavorType: Complex
-  description: смако-комплекс-самогон
+  description: flavor-complex-moonshine
 
 - type: flavor
   id: ale
   flavorType: Complex
-  description: аромат-комплекс-ель
+  description: flavor-complex-ale
 
 - type: flavor
   id: cola
   flavorType: Complex
-  description: смак-комплекс-кола
+  description: flavor-complex-cola
 
 - type: flavor
   id: energydrink
   flavorType: Complex
-  description: смаковий-комплекс-енергетичний-напій
+  description: flavor-complex-energy-drink
 
 - type: flavor
   id: drgibb
@@ -677,17 +677,17 @@
 - type: flavor
   id: gingersoda
   flavorType: Complex
-  description: аромат-комплекс-імбир-сода
+  description: flavor-complex-ginger-soda
 
 - type: flavor
   id: lemonlimesoda
   flavorType: Complex
-  description: аромат-комплекс-лимон-лайм-сода
+  description: flavor-complex-lemon-lime-soda
 
 - type: flavor
   id: lemonlimecranberrysoda
   flavorType: Complex
-  description: аромат-комплекс-лимон-лайм-журавлина-сода
+  description: flavor-complex-lemon-lime-cranberry-soda
 
 - type: flavor
   id: pwrgamesoda
@@ -697,7 +697,7 @@
 - type: flavor
   id: rootbeersoda
   flavorType: Complex
-  description: смак-комплекс-корінь-пиво-сода
+  description: flavor-complex-root-beer-soda
 
 - type: flavor
   id: rootbeerfloat
@@ -707,7 +707,7 @@
 - type: flavor
   id: sodacitrus
   flavorType: Complex
-  description: аромат-комплекс-цитрус-сода
+  description: flavor-complex-citrus-soda
 
 - type: flavor
   id: spaceup
@@ -717,7 +717,7 @@
 - type: flavor
   id: grapesoda
   flavorType: Complex
-  description: аромат-комплекс-виноград-сода
+  description: flavor-complex-grape-soda
 
 - type: flavor
   id: starkistsoda
@@ -727,7 +727,7 @@
 - type: flavor
   id: fourteenlokosoda
   flavorType: Complex
-  description: аромат-комплекс-чотирнадцять-локо-сода
+  description: flavor-complex-fourteen-loko-soda
 
 - type: flavor
   id: cogchamp
@@ -737,77 +737,77 @@
 - type: flavor
   id: vodka
   flavorType: Complex
-  description: смако-комплекс-горілка
+  description: flavor-complex-vodka
 
 - type: flavor
   id: tequila
   flavorType: Complex
-  description: смак-комплекс-текіла
+  description: flavor-complex-tequila
 
 - type: flavor
   id: sake
   flavorType: Complex
-  description: смак-комплекс-саке
+  description: flavor-complex-sake
 
 - type: flavor
   id: rum
   flavorType: Complex
-  description: смак-комплекс-ром
+  description: flavor-complex-rum
 
 - type: flavor
   id: coconutrum
   flavorType: Complex
-  description: смаковий комплекс-кокос-ром
+  description: flavor-complex-coconut-rum
 
 - type: flavor
   id: darkandstormy
   flavorType: Complex
-  description: аромат-комплекс-темно-бурхливий
+  description: flavor-complex-dark-and-stormy
 
 - type: flavor
   id: coffeeliquor
   flavorType: Complex
-  description: аромат-комплекс-кава-лікер
+  description: flavor-complex-coffee-liquor
 
 - type: flavor
   id: whiskey
   flavorType: Complex
-  description: бетонна плитка дрібна
+  description: flavor-complex-whiskey
 
 - type: flavor
   id: shittywine
   flavorType: Complex
-  description: смак-комплекс-хреново-вино
+  description: flavor-complex-shitty-wine
 
 - type: flavor
   id: champagne
   flavorType: Complex
-  description: аромат-комплекс-шампанське
+  description: flavor-complex-champagne
 
 - type: flavor
   id: icedtea
   flavorType: Complex
-  description: смаковий-комплекс-холодний-чай
+  description: flavor-complex-iced-tea
 
 - type: flavor
   id: coffee
   flavorType: Complex
-  description: керівництво-вхід-частина маніпуляції
+  description: flavor-complex-coffee
 
 - type: flavor
   id: milk
   flavorType: Complex
-  description: смако-комплекс-молоко
+  description: flavor-complex-milk
 
 - type: flavor
   id: tea
   flavorType: Complex
-  description: смак-комплекс-чай
+  description: flavor-complex-tea
 
 - type: flavor
   id: ice
   flavorType: Complex
-  description: смак-комплекс-лід
+  description: flavor-complex-ice
 
 - type: flavor
   id: arnoldpalmer
@@ -817,27 +817,27 @@
 - type: flavor
   id: tortuga
   flavorType: Complex
-  description: смак-комплекс-тортуга
+  description: flavor-complex-tortuga
 
 - type: flavor
   id: bluehawaiian
   flavorType: Complex
-  description: смаковий комплекс-блакитний-гавайський
+  description: flavor-complex-blue-hawaiian
 
 - type: flavor
   id: cosmopolitan
   flavorType: Complex
-  description: смак-комплекс-космополіт
+  description: flavor-complex-cosmopolitan
 
 - type: flavor
   id: painkiller
   flavorType: Complex
-  description: смако-комплекс-знеболювальне
+  description: flavor-complex-painkiller
 
 - type: flavor
   id: pinacolada
   flavorType: Complex
-  description: смак-комплекс-піна-колада
+  description: flavor-complex-pina-colada
 
 - type: flavor
   id: longisland
@@ -847,12 +847,12 @@
 - type: flavor
   id: threemileisland
   flavorType: Complex
-  description: смаковий комплекс-три-мильний-острів
+  description: flavor-complex-three-mile-island
 
 - type: flavor
   id: whiskeycola
   flavorType: Complex
-  description: смаковий комплекс-віскі-кола
+  description: flavor-complex-whiskey-cola
 
 - type: flavor
   id: singulo
@@ -867,22 +867,22 @@
 - type: flavor
   id: tequilasunrise
   flavorType: Complex
-  description: смаковий комплекс-текіла-санрайз
+  description: flavor-complex-tequila-sunrise
 
 - type: flavor
   id: irishcoffee
   flavorType: Complex
-  description: аромат-комплекс-ірландської-кави
+  description: flavor-complex-irish-coffee
 
 - type: flavor
   id: icedbeer
   flavorType: Complex
-  description: аромат-комплекс-холодне-пиво
+  description: flavor-complex-iced-beer
 
 - type: flavor
   id: radler
   flavorType: Complex
-  description: смако-комплекс-радлер
+  description: flavor-complex-radler
 
 - type: flavor
   id: gargleblaster
@@ -892,7 +892,7 @@
 - type: flavor
   id: bloodymary
   flavorType: Complex
-  description: смаковий комплекс-кривава-мері
+  description: flavor-complex-bloody-mary
 
 - type: flavor
   id: beepsky
@@ -907,17 +907,17 @@
 - type: flavor
   id: atomicbomb
   flavorType: Complex
-  description: смаковий комплекс-атомна-бомба
+  description: flavor-complex-atomic-bomb
 
 - type: flavor
   id: antifreeze
   flavorType: Complex
-  description: аромат-комплекс-антифриз
+  description: flavor-complex-antifreeze
 
 - type: flavor
   id: atomiccola
   flavorType: Complex
-  description: смак-комплекс-атомна-кола
+  description: flavor-complex-atomic-cola
 
 - type: flavor
   id: crushdepth
@@ -932,12 +932,12 @@
 - type: flavor
   id: gintonic
   flavorType: Complex
-  description: аромат-комплекс-джин-тонік
+  description: flavor-complex-gin-tonic
 
 - type: flavor
   id: jackrose
   flavorType: Complex
-  description: смаковий комплекс-джек-роза
+  description: flavor-complex-jack-rose
 
 - type: flavor
   id: junglebird
@@ -947,32 +947,32 @@
 - type: flavor
   id: kalimotxo
   flavorType: Complex
-  description: смак-комплекс-калімотхо
+  description: flavor-complex-kalimotxo
 
 - type: flavor
   id: vampiro
   flavorType: Complex
-  description: смак-комплекс-вампіро
+  description: flavor-complex-vampiro
 
 - type: flavor
   id: bronx
   flavorType: Complex
-  description: аромат-комплекс-бронкс
+  description: flavor-complex-bronx
 
 - type: flavor
   id: screwdriver
   flavorType: Complex
-  description: аромат-комплекс-викрутка
+  description: flavor-complex-screwdriver
 
 - type: flavor
   id: pilk
   flavorType: Complex
-  description: смако-комплекс-пилк
+  description: flavor-complex-pilk
 
 - type: flavor
   id: absinthe
   flavorType: Complex
-  description: смаковий комплекс-абсент-дельтав # DeltaV
+  description: flavor-complex-absinthe-deltav # DeltaV
 
 - type: flavor
   id: bluecuracao
@@ -982,23 +982,23 @@
 - type: flavor
   id: gin
   flavorType: Complex
-  description: смако-комплекс-джин
+  description: flavor-complex-gin
 
 - type: flavor
   id: acidspit
   flavorType: Complex
-  description: смак-комплекс-кислоти
+  description: flavor-complex-acidspit
 
 
 - type: flavor
   id: alliescocktail
   flavorType: Complex
-  description: смаковий-комплекс-союзники-коктейль-дельтав # DeltaV
+  description: flavor-complex-allies-cocktail-deltav # DeltaV
 
 - type: flavor
   id: aloe
   flavorType: Complex
-  description: смак-комплекс-алое
+  description: flavor-complex-aloe
 
 - type: flavor
   id: amasec
@@ -1008,7 +1008,7 @@
 - type: flavor
   id: andalusia
   flavorType: Complex
-  description: смаковий-комплекс-андалузія-дельтав # DeltaV
+  description: flavor-complex-andalusia-deltav # DeltaV
 
 - type: flavor
   id: b52
@@ -1023,7 +1023,7 @@
 - type: flavor
   id: barefoot
   flavorType: Complex
-  description: смаковий-комплекс-босоніж-дельтав # DeltaV
+  description: flavor-complex-barefoot-deltav # DeltaV
 
 - type: flavor
   id: booger
@@ -1033,7 +1033,7 @@
 - type: flavor
   id: bravebull
   flavorType: Complex
-  description: смаковий-комплекс-відважний-бик-дельтав # DeltaV
+  description: flavor-complex-brave-bull-deltav # DeltaV
 
 - type: flavor
   id: demonsblood
@@ -1043,22 +1043,22 @@
 - type: flavor
   id: devilskiss
   flavorType: Complex
-  description: смаковий-комплекс-дияволи-поцілунок-дельтав # DeltaV
+  description: flavor-complex-devils-kiss-deltav # DeltaV
 
 - type: flavor
   id: driestmartini
   flavorType: Complex
-  description: flavour-complex-driest-martini-deltav # DeltaV
+  description: flavor-complex-driest-martini-deltav # DeltaV
 
 - type: flavor
   id: eggnog
   flavorType: Complex
-  description: смак-комплекс-яєчний
+  description: flavor-complex-eggnog
 
 - type: flavor
   id: erikasurprise
   flavorType: Complex
-  description: SCRAM!
+  description: flavor-complex-erika-surprise-deltav # DeltaV
 
 - type: flavor
   id: ginfizz
@@ -1083,7 +1083,7 @@
 - type: flavor
   id: hooch
   flavorType: Complex
-  description: гід-вступ-мед
+  description: flavor-complex-hooch-deltav # DeltaV
 
 - type: flavor
   id: manhattan
@@ -1098,22 +1098,22 @@
 - type: flavor
   id: margarita
   flavorType: Complex
-  description: смаковий-комплекс-маргарита-дельтав # DeltaV
+  description: flavor-complex-margarita-deltav # DeltaV
 
 - type: flavor
   id: martini
   flavorType: Complex
-  description: смаковий-комплекс-мартіні-дельтав # DeltaV
+  description: flavor-complex-martini-deltav # DeltaV
 
 - type: flavor
   id: mojito
   flavorType: Complex
-  description: flavor-complex-mohito-deltav # DeltaV
+  description: flavor-complex-mojito-deltav # DeltaV
 
 - type: flavor
   id: monkeybusiness
   flavorType: Complex
-  description: смако-комплекс-мавпячий бізнес
+  description: flavor-complex-monkey-business
 
 - type: flavor
   id: neurotoxin
@@ -1128,17 +1128,17 @@
 - type: flavor
   id: redmead
   flavorType: Complex
-  description: смаковий комплекс-червоний-мед-дельтав # DeltaV
+  description: flavor-complex-red-mead-deltav # DeltaV
 
 - type: flavor
   id: sbiten
   flavorType: Complex
-  description: flavor-complex-sbiten-deltav # ДельтаВ
+  description: flavor-complex-sbiten-deltav # DeltaV
 
 - type: flavor
   id: snowwhite
   flavorType: Complex
-  description: смаковий-комплекс-білосніжний-дельтав # ДельтаВ
+  description: flavor-complex-snow-white-deltav # DeltaV
 
 - type: flavor
   id: suidream
@@ -1153,97 +1153,97 @@
 - type: flavor
   id: vodkamartini
   flavorType: Complex
-  description: смаковий-комплекс-горілка-мартіні-дельтав # ДельтаВ
+  description: flavor-complex-vodka-martini-deltav # DeltaV
 
 - type: flavor
   id: vodkatonic
   flavorType: Complex
-  description: аромат-комплекс-горілка-тонік-дельтав # ДельтаВ
+  description: flavor-complex-vodka-tonic-deltav # DeltaV
 
 - type: flavor
   id: medicine
   flavorType: Complex
-  description: Коричневий укорочений топ і яскраві штани, щоб викликати посмішки та пошту!
+  description: flavor-complex-medicine
 
 - type: flavor
   id: carpet
   flavorType: Complex
-  description: аромат-комплекс-килим
+  description: flavor-complex-carpet
 
 - type: flavor
   id: bee
   flavorType: Complex
-  description: смако-комплекс-бджола
+  description: flavor-complex-bee
 
 - type: flavor
   id: sax
   flavorType: Complex
-  description: аромат-комплекс-сакс
+  description: flavor-complex-sax
 
 - type: flavor
   id: watermelon
   flavorType: Complex
-  description: смаковий комплекс-кавун
+  description: flavor-complex-watermelon
 
 - type: flavor
   id: grape
   flavorType: Complex
-  description: смак-комплекс-виноград
+  description: flavor-complex-grape
 
 - type: flavor
   id: berry
   flavorType: Complex
-  description: смако-комплексно-ягідний
+  description: flavor-complex-berry
 
 - type: flavor
   id: garlic
   flavorType: Complex
-  description: смако-комплекс-часник
+  description: flavor-complex-garlic
 
 - type: flavor
   id: bad-joke
   flavorType: Complex
-  description: смаковий-комплекс-поганий-жарт
+  description: flavor-complex-bad-joke
 
 - type: flavor
   id: vegetables
   flavorType: Complex
-  description: смако-комплекс-овочі
+  description: flavor-complex-vegetables
 
 - type: flavor
   id: sadness
   flavorType: Complex
-  description: смак-комплекс-печаль
+  description: flavor-complex-sadness
 
 - type: flavor
   id: nettles
   flavorType: Complex
-  description: смак-комплекс-кропива
+  description: flavor-complex-nettles
 
 - type: flavor
   id: parents
   flavorType: Complex
-  description: смако-комплексні-батьки
+  description: flavor-complex-parents
 
 - type: flavor
   id: jungle
   flavorType: Complex
-  description: смаковий комплекс-джунглі
+  description: flavor-complex-jungle
 
 - type: flavor
   id: squirming
   flavorType: Complex
-  description: смак-комплекс-вививання
+  description: flavor-complex-squirming
 
 - type: flavor
   id: miso
   flavorType: Complex
-  description: смак-комплекс-місо
+  description: flavor-complex-miso
 
 - type: flavor
   id: electrons
   flavorType: Complex
-  description: аромат-комплекс-електрони
+  description: flavor-complex-electrons
 
 - type: flavor
   id: bottledlightning
@@ -1253,17 +1253,17 @@
 - type: flavor
   id: meatballs
   flavorType: Complex
-  description: смак-комплекс-фрикадельки
+  description: flavor-complex-meatballs
 
 - type: flavor
   id: hope
   flavorType: Complex
-  description: смак-комплекс-надія
+  description: flavor-complex-hope
 
 - type: flavor
   id: chaos
   flavorType: Complex
-  description: аромат-комплекс-хаос
+  description: flavor-complex-chaos
 
 - type: flavor
   id: themartinez
@@ -1278,17 +1278,17 @@
 - type: flavor
   id: plastic
   flavorType: Complex
-  description: смако-комплекс-пластик
+  description: flavor-complex-plastic
 
 - type: flavor
   id: glue
   flavorType: Complex
-  description: ароматизатор-комплекс-клей
+  description: flavor-complex-glue
 
 - type: flavor
   id: rocksandstones
   flavorType: Complex
-  description: аромат-комплекс-скеліпісковики
+  description: flavor-complex-rocksandstones
 
 - type: flavor
   id: spaceshroom
@@ -1303,57 +1303,57 @@
 - type: flavor
   id: lostfriendship
   flavorType: Complex
-  description: смаковий комплекс-втрачена-дружба
+  description: flavor-complex-lost-friendship
 
 - type: flavor
   id: pumpkin
   flavorType: Complex
-  description: смако-комплекс-гарбуз
+  description: flavor-complex-pumpkin
 
 - type: flavor
   id: punishment
   flavorType: Complex
-  description: аромат-комплекс-покарання
+  description: flavor-complex-punishment
 
 - type: flavor
   id: holy
   flavorType: Base
-  description: аромат-основа-святий
+  description: flavor-base-holy
 
 - type: flavor
   id: horrible
   flavorType: Base
-  description: аромат-база-жахливий
+  description: flavor-base-horrible
 
 - type: flavor
   id: light
   flavorType: Complex
-  description: смак-комплекс-легкий
+  description: flavor-complex-light
 
 - type: flavor
   id: profits
   flavorType: Complex
-  description: смак-комплекс-прибуток
+  description: flavor-complex-profits
 
 - type: flavor
   id: weh
   flavorType: Base
-  description: смак-ве
+  description: flavor-weh
 
 - type: flavor
   id: hew
   flavorType: Base
-  description: Спаунер аргоцитів
+  description: flavor-hew
 
 - type: flavor
   id: dogfood
   flavorType: Base
-  description: смаковий-комплекс-корм для собак
+  description: flavor-complex-dog-food
 
 - type: flavor
   id: cannedtuna
   flavorType: Complex
-  description: смак-комплекс-консерви-тунець
+  description: flavor-complex-canned-tuna
 
 - type: flavor
   id: fishops
@@ -1363,32 +1363,32 @@
 - type: flavor
   id: bluepumpkin
   flavorType: Complex
-  description: смак-комплекс-синій-гарбуз
+  description: flavor-complex-blue-pumpkin
 
 - type: flavor
   id: violets
   flavorType: Complex
-  description: смак-комплекс-фіалки
+  description: flavor-complex-violets
 
 - type: flavor
   id: pyrotton
   flavorType: Complex
-  description: аромат-комплекс-піротон
+  description: flavor-complex-pyrotton
 
 - type: flavor
   id: mothballs
   flavorType: Complex
-  description: смак-комплекс-нафталін
+  description: flavor-complex-mothballs
 
 - type: flavor
   id: paintthinner
   flavorType: Complex
-  description: ароматизатор-комплекс-фарба-розріджувач
+  description: flavor-complex-paint-thinner
 
 - type: flavor
   id: numbingtranquility
   flavorType: Complex
-  description: аромат-комплекс-оніміння-спокій
+  description: flavor-complex-numbing-tranquility
 
 - type: flavor
   id: truenature
@@ -1398,32 +1398,32 @@
 - type: flavor
   id: falsemeat
   flavorType: Complex
-  description: смаковий комплекс-фальшиве-м'ясо
+  description: flavor-complex-false-meat
 
 - type: flavor
   id: cherry
   flavorType: Complex
-  description: смак-комплекс-вишня
+  description: flavor-complex-cherry
 
 - type: flavor
   id: paper
   flavorType: Complex
-  description: ароматичний комплексний папір
+  description: flavor-complex-paper
 
 - type: flavor
   id: compressed-meat
   flavorType: Complex
-  description: смаковий комплекс-пресоване м'ясо
+  description: flavor-complex-compressed-meat
 
 - type: flavor
   id: caipirinha
   flavorType: Complex
-  description: смаковий комплекс-кайпірінья
+  description: flavor-complex-caipirinha
 
 - type: flavor
   id: daiquiri
   flavorType: Complex
-  description: смаковий-комплекс-модний # DeltaV
+  description: flavor-complex-fashionable # DeltaV
 
 - type: flavor
   id: deathintheafternoon
@@ -1438,27 +1438,27 @@
 - type: flavor
   id: espressomartini
   flavorType: Complex
-  description: аромат-комплекс-еспресомартіні
+  description: flavor-complex-espressomartini
 
 - type: flavor
   id: mayojito
   flavorType: Complex
-  description: смаковий комплекс-майохіто
+  description: flavor-complex-mayojito
 
 - type: flavor
   id: mimeosa
   flavorType: Complex
-  description: смак-комплекс-мімеоза
+  description: flavor-complex-mimeosa
 
 - type: flavor
   id: mimosa
   flavorType: Complex
-  description: аромат-комплекс-мімоза
+  description: flavor-complex-mimosa
 
 - type: flavor
   id: moscowmule
   flavorType: Complex
-  description: банку оливкової олії
+  description: flavor-complex-moscowmule
 
 - type: flavor
   id: thesunalsorises
@@ -1468,34 +1468,34 @@
 - type: flavor
   id: whiskeysour
   flavorType: Complex
-  description: смак-комплекс-віскікис
+  description: flavor-complex-whiskeysour
 
 - type: flavor
   id: zombiecocktail
   flavorType: Complex
-  description: смаковий комплекс-зомбікоктейль
+  description: flavor-complex-zombiecocktail
 
 - type: flavor
   id: bacchusblessing
   flavorType: Complex
-  description: аромат-комплекс-бакус-благословення
+  description: flavor-complex-bacchus-blessing
 
 - type: flavor
   id: trashy
   flavorType: Base
-  description: аромат-база-траш
+  description: flavor-base-trashy
 
 - type: flavor
   id: artifactglue
   flavorType: Complex
-  description: смаковий комплекс-артефакт-клей
+  description: flavor-complex-artifact-glue
 
 - type: flavor
   id: alkaline
   flavorType: Base
-  description: смак-основа-лужний
+  description: flavor-base-alkaline
 
 - type: flavor
   id: motivating
   flavorType: Base
-  description: смако-основа-мотивуюча
+  description: flavor-base-motivating

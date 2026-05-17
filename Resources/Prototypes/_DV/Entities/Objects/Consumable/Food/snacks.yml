@@ -1,8 +1,8 @@
 - type: entity
-  name: гострі солоні огірочки
+  name: spicy pickle moffs
   parent: FoodSnackBase
   id: FoodSnackSpicyPickleMoffs
-  description: Сухарики у формі мотиля з пряним кроповим смаком.
+  description: Moth shaped crackers with a spicy dill taste.
   components:
   - type: FlavorProfile
     flavors:

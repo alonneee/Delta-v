@@ -3,49 +3,49 @@
 - type: stack
   parent: BaseSmallStack
   id: Ointment
-  name: стек-мазь
+  name: stack-ointment
   icon: { sprite: "/Textures/Objects/Specific/Medical/medical.rsi", state: ointment }
   spawn: Ointment
 
 - type: stack
   parent: BaseSmallStack
   id: AloeCream
-  name: стек-алое-крем
+  name: stack-aloe-cream
   icon: { sprite: "/Textures/Objects/Specific/Hydroponics/aloe.rsi", state: cream }
   spawn: AloeCream
 
 - type: stack
   parent: BaseSmallStack
   id: Gauze
-  name: стек-марля
+  name: stack-gauze
   icon: { sprite: "/Textures/Objects/Specific/Medical/medical.rsi", state: gauze }
   spawn: Gauze
 
 - type: stack
   parent: BaseSmallStack
   id: Brutepack
-  name: стек-брутпак
+  name: stack-brutepack
   icon: { sprite: "/Textures/Objects/Specific/Medical/medical.rsi", state: gauze }
   spawn: Brutepack
 
 - type: stack
   parent: BaseSmallStack
   id: Bloodpack
-  name: стек-кровавка
+  name: stack-bloodpack
   icon: { sprite: "/Textures/Objects/Specific/Medical/medical.rsi", state: bloodpack }
   spawn: Bloodpack
 
 - type: stack
   parent: BaseSmallStack
   id: MedicatedSuture
-  name: стек-лікарський шов
+  name: stack-medicated-suture
   icon: {sprite: "/Textures/Objects/Specific/Medical/medical.rsi", state: medicated-suture }
   spawn: MedicatedSuture
 
 - type: stack
   parent: BaseSmallStack
   id: RegenerativeMesh
-  name: стек-регенеративно-сітка
+  name: stack-regenerative-mesh
   icon: {sprite: "/Textures/Objects/Specific/Medical/medical.rsi", state: regenerative-mesh}
   spawn: RegenerativeMesh
 

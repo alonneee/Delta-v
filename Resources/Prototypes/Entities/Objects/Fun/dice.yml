@@ -17,8 +17,8 @@
 - type: entity
   parent: BaseDice
   id: PercentileDie
-  name: процентиль померти
-  description: голіаф приховати пластини
+  name: percentile die
+  description: A die with ten sides. Works better for d100 rolls than a golf ball.
   components:
   - type: Dice
     sides: 10
@@ -32,7 +32,7 @@
   parent: BaseDice
   id: d20Dice
   name: d20
-  description: Кубик із двадцятьма сторонами. Найкращий кубик для кидання в GM.
+  description: A die with twenty sides. The preferred die to throw at the GM.
   components:
   - type: Dice
     sides: 20
@@ -44,7 +44,7 @@
   parent: BaseDice
   id: d12Dice
   name: d12
-  description: Щит, створений для протистояння лазерам, але нічого іншого.
+  description: A die with twelve sides. There's an air of neglect about it.
   components:
   - type: Dice
     sides: 12
@@ -56,7 +56,7 @@
   parent: BaseDice
   id: d10Dice
   name: d10
-  description: Кубик із десятьма сторонами. Корисно для відсотків.
+  description: A die with ten sides. Useful for percentages.
   components:
   - type: Dice
     sides: 10
@@ -69,7 +69,7 @@
   parent: BaseDice
   id: d8Dice
   name: d8
-  description: Кубик із вісьмома сторонами. Це відчуття... щастя.
+  description: A die with eight sides. It feels... lucky.
   components:
   - type: Dice
     sides: 8
@@ -81,7 +81,7 @@
   parent: BaseDice
   id: d6Dice
   name: d6
-  description: Кубик із шістьма сторонами. Базовий і справний.
+  description: A die with six sides. Basic and serviceable.
   components:
   - type: Dice
     sides: 6
@@ -93,7 +93,7 @@
   parent: BaseDice
   id: d4Dice
   name: d4
-  description: Плашка з чотирма сторонами. Кальтроп ботаніка.
+  description: A die with four sides. The nerd's caltrop.
   components:
   - type: Dice
     sides: 4
@@ -139,8 +139,8 @@
 - type: entity
   parent: BaseStorageItem
   id: DiceBag
-  name: мішок кубиків
-  description: Містить всю удачу, яка вам коли-небудь знадобиться.
+  name: bag of dice
+  description: Contains all the luck you'll ever need.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -168,7 +168,7 @@
 - type: entity
   parent: DiceBag
   id: MagicDiceBag
-  name: мішок кубиків
+  name: bag of dice
   components:
   - type: Sprite
     sprite: Objects/Fun/dice.rsi

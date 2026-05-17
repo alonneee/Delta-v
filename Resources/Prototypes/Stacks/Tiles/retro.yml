@@ -3,13 +3,13 @@
 - type: stack
   parent: BaseTileStack
   id: FloorTileLino
-  name: стопка-лінолеум-підлога
+  name: stack-linoleum-floor
   spawn: FloorTileItemLino
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileStackEighties
-  name: стек-вісімдесяті-плитка для підлоги
+  name: stack-eighties-floor-tile
   spawn: FloorTileItemEighties
 
 - type: stack

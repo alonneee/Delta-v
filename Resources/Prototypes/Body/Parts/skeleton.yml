@@ -3,7 +3,7 @@
   abstract: true
   parent: BasePartInorganic
   id: PartSkeletonBase
-  name: частина тіла скелета
+  name: skeleton body part
   components:
   - type: Sprite
     sprite: Mobs/Species/Skeleton/parts.rsi
@@ -28,13 +28,13 @@
 - type: entity
   parent: [ PartSkeletonBase, BaseTorsoInorganic ]
   id: TorsoSkeleton
-  name: скелет тулуба
+  name: skeleton torso
 
 - type: entity
   parent: [ PartSkeletonBase, BaseHead, BaseMob ]
   id: HeadSkeleton
-  name: череп
-  description: На жаль, бідний Йорик...
+  name: skull
+  description: Alas poor Yorick...
   components:
   - type: Sprite
     state: "skull_icon"
@@ -71,39 +71,39 @@
 - type: entity
   parent: [ PartSkeletonBase, BaseLeftArm ]
   id: LeftArmSkeleton
-  name: "ліва скелетна рука"
+  name: "left skeleton arm"
 
 - type: entity
   parent: [ PartSkeletonBase, BaseRightArm ]
   id: RightArmSkeleton
-  name: "права скелетна рука"
+  name: "right skeleton arm"
 
 - type: entity
   parent: [ PartSkeletonBase, BaseLeftHand ]
   id: LeftHandSkeleton
-  name: "лівий скелет руки"
+  name: "left skeleton hand"
 
 - type: entity
   parent: [ PartSkeletonBase, BaseRightHand ]
   id: RightHandSkeleton
-  name: "права скелетна рука"
+  name: "right skeleton hand"
 
 - type: entity
   parent: [ PartSkeletonBase, BaseLeftLeg ]
   id: LeftLegSkeleton
-  name: "ліва скелетна нога"
+  name: "left skeleton leg"
 
 - type: entity
   parent: [ PartSkeletonBase, BaseRightLeg ]
   id: RightLegSkeleton
-  name: "права скелетна нога"
+  name: "right skeleton leg"
 
 - type: entity
   parent: [ PartSkeletonBase, BaseLeftFoot ]
   id: LeftFootSkeleton
-  name: "ліва скелетна стопа"
+  name: "left skeleton foot"
 
 - type: entity
   parent: [ PartSkeletonBase, BaseRightFoot ]
   id: RightFootSkeleton
-  name: "loadout-group-capelan-head
+  name: "right skeleton foot"

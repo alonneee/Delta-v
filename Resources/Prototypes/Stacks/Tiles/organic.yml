@@ -3,11 +3,11 @@
 - type: stack
   parent: BaseTileStack
   id: FloorTileFlesh
-  name: стек-флеш-пол
+  name: stack-flesh-floor
   spawn: FloorTileItemFlesh
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileWeb
-  name: стек-веб-плитка
+  name: stack-web-tile
   spawn: FloorTileItemWeb

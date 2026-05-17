@@ -46,7 +46,7 @@
 
 - type: siliconLawset
   id: Corporate
-  name: закон-назва-корпорації
+  name: law-corporate-name
   laws:
   - Corporate1
   - Corporate2
@@ -77,7 +77,7 @@
 
 - type: siliconLawset
   id: NTDefault
-  name: ім'я-за замовчуванням закону
+  name: law-ntdefault-name
   laws:
   - NTDefault1
   - NTDefault2
@@ -103,7 +103,7 @@
 
 - type: siliconLawset
   id: Drone
-  name: закон-дрон-назва
+  name: law-drone-name
   laws:
   - Drone1
   - Drone2
@@ -130,7 +130,7 @@
 # intentionally excluded from IonStormLawsets
 - type: siliconLawset
   id: SyndicateStatic
-  name: назва закону-синдикату
+  name: law-syndicate-name
   laws:
   - Syndicate1
   - Syndicate2
@@ -160,7 +160,7 @@
 
 - type: siliconLawset
   id: Ninja
-  name: закон-ніндзя-ім'я
+  name: law-ninja-name
   laws:
   - Ninja1
   - Ninja2
@@ -222,7 +222,7 @@
 
 - type: siliconLawset
   id: CommandmentsLawset
-  name: закон-заповіді-ім
+  name: law-commandments-name
   laws:
   - Commandment1
   - Commandment2
@@ -260,7 +260,7 @@
 
 - type: siliconLawset
   id: PaladinLawset
-  name: закон-паладин-ім'я
+  name: law-paladin-name
   laws:
   - Paladin1
   - Paladin2
@@ -282,7 +282,7 @@
 
 - type: siliconLawset
   id: LiveLetLiveLaws
-  name: закон-лалл-ім'я
+  name: law-lall-name
   laws:
   - Lall1
   - Lall2
@@ -307,7 +307,7 @@
 
 - type: siliconLawset
   id: EfficiencyLawset
-  name: свято-іменини-міку-день
+  name: law-efficiency-name
   laws:
   - Efficiency1
   - Efficiency2
@@ -333,7 +333,7 @@
 
 - type: siliconLawset
   id: RobocopLawset
-  name: закон-робокоп-ім'я
+  name: law-robocop-name
   laws:
   - Robocop1
   - Robocop2
@@ -363,7 +363,7 @@
 
 - type: siliconLawset
   id: OverlordLawset
-  name: закон-повелитель-ім'я
+  name: law-overlord-name
   laws:
   - Overlord1
   - Overlord2
@@ -404,7 +404,7 @@
 
 - type: siliconLawset
   id: GameMasterLawset
-  name: закон-назва-гри
+  name: law-game-name
   laws:
   - Game1
   - Game2
@@ -437,7 +437,7 @@
 
 - type: siliconLawset
   id: PainterLawset
-  name: закон-маляр-назва
+  name: law-painter-name
   laws:
   - Painter1
   - Painter2
@@ -464,7 +464,7 @@
 
 - type: siliconLawset
   id: AntimovLawset
-  name: закон-антимов-назва
+  name: law-antimov-name
   laws:
   - Antimov1
   - Antimov2
@@ -500,7 +500,7 @@
 
 - type: siliconLawset
   id: NutimovLawset
-  name: закон-нутимов-назва
+  name: law-nutimov-name
   laws:
   - Nutimov1
   - Nutimov2
@@ -538,7 +538,7 @@
 
 - type: siliconLawset
   id: XenoborgLawset
-  name: закон-ксеноборг-назва
+  name: law-xenoborg-name
   laws:
   - Xenoborg1
   - Xenoborg2

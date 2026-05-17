@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseItem
   id: BaseFlatpack
-  name: базовий плоский пакет
-  description: Плоский пакет, який використовується для виготовлення чогось.
+  name: base flatpack
+  description: A flatpack used for constructing something.
   categories:
   - HideSpawnMenu
   components:
@@ -39,8 +39,8 @@
 - type: entity
   parent: BaseFlatpack
   id: SolarAssemblyFlatpack
-  name: сонячна збірка плоский пакет
-  description: Плоский пакет, який використовується для виготовлення сонячної установки.
+  name: solar assembly flatpack
+  description: A flatpack used for constructing a solar assembly.
   components:
   - type: Flatpack
     entity: SolarAssembly
@@ -53,8 +53,8 @@
 - type: entity
   parent: BaseFlatpack
   id: AmePartFlatpack
-  name: AME плоский пакет
-  description: Плоский пакет, який використовується для побудови двигуна-реактора антиматерії.
+  name: AME flatpack
+  description: A flatpack used for constructing an antimatter engine reactor.
   components:
   - type: Sprite
     layers:
@@ -73,8 +73,8 @@
 - type: entity
   parent: BaseFlatpack
   id: SingularityGeneratorFlatpack
-  name: генератор сингулярності плоский пакет
-  description: Плоский пакет, який використовується для побудови генератора сингулярності.
+  name: singularity generator flatpack
+  description: A flatpack used for constructing a singularity generator.
   components:
   - type: Flatpack
     entity: SingularityGenerator
@@ -89,8 +89,8 @@
 - type: entity
   parent: BaseFlatpack
   id: RadiationCollectorFlatpack
-  name: плоский колектор випромінювання
-  description: Плоский пакет, який використовується для створення колектора випромінювання.
+  name: radiation collector flatpack
+  description: A flatpack used for constructing a radiation collector.
   components:
   - type: Flatpack
     entity: RadiationCollectorNoTank
@@ -105,8 +105,8 @@
 - type: entity
   parent: BaseFlatpack
   id: ContainmentFieldGeneratorFlatpack
-  name: плоский генератор поля утримання
-  description: Плоский пакет, який використовується для створення генератора поля стримування.
+  name: containment field generator flatpack
+  description: A flatpack used for constructing a containment field generator.
   components:
   - type: Flatpack
     entity: ContainmentFieldGenerator
@@ -121,8 +121,8 @@
 - type: entity
   parent: BaseFlatpack
   id: EmitterFlatpack
-  name: випромінювач плоский пакет
-  description: Додає машинне посилання, яке запускається голосовими ключовими словами.
+  name: emitter flatpack
+  description: A flatpack used for constructing an emitter.
   components:
   - type: Flatpack
     entity: Emitter
@@ -137,8 +137,8 @@
 - type: entity
   parent: BaseFlatpack
   id: TeslaGeneratorFlatpack
-  name: Тесла генератор плоский пакет
-  description: Плоский пакет, який використовується для побудови генератора Тесла.
+  name: tesla generator flatpack
+  description: A flatpack used for constructing a tesla generator.
   components:
   - type: Flatpack
     entity: TeslaGenerator
@@ -153,8 +153,8 @@
 - type: entity
   parent: BaseFlatpack
   id: TeslaCoilFlatpack
-  name: плоский пакет котушки тесла
-  description: Плоский пакет, який використовується для побудови котушки Тесла.
+  name: tesla coil flatpack
+  description: A flatpack used for constructing a tesla coil.
   components:
   - type: Flatpack
     entity: TeslaCoil
@@ -169,8 +169,8 @@
 - type: entity
   parent: BaseFlatpack
   id: TeslaGroundingRodFlatpack
-  name: плоский пакет заземлювача
-  description: Плоский пакет, який використовується для виготовлення заземлювача.
+  name: grounding rod flatpack
+  description: A flatpack used for constructing a grounding rod.
   components:
   - type: Flatpack
     entity: TeslaGroundingRod
@@ -185,8 +185,8 @@
 - type: entity
   parent: BaseFlatpack
   id: GyroscopeFlatpack
-  name: плоский пакет гіроскопа
-  description: Плоский пакет, який використовується для побудови гіроскопа.
+  name: gyroscope flatpack
+  description: A flatpack used for constructing a gyroscope.
   components:
   - type: Flatpack
     entity: Gyroscope
@@ -200,8 +200,8 @@
 - type: entity
   parent: BaseFlatpack
   id: ThrusterFlatpack
-  name: підрулювач плоский пакет
-  description: Плоский пакет, який використовується для виготовлення двигуна.
+  name: thruster flatpack
+  description: A flatpack used for constructing a thruster.
   components:
   - type: Flatpack
     entity: Thruster
@@ -215,8 +215,8 @@
 - type: entity
   parent: BaseFlatpack
   id: SpaceHeaterFlatpack
-  name: плоский обігрівач
-  description: Плоский пакет, який використовується для виготовлення обігрівача.
+  name: space heater flatpack
+  description: A flatpack used for constructing a space heater.
   components:
   - type: Flatpack
     entity: SpaceHeaterAnchored
@@ -224,8 +224,8 @@
 - type: entity
   parent: BaseFlatpack
   id: FaxMachineFlatpack
-  name: факсимільний апарат плоский пакет
-  description: Плоский пакет, який використовується для виготовлення факсу.
+  name: fax machine flatpack
+  description: A flatpack used for constructing a fax machine.
   components:
   - type: Sprite
     layers:
@@ -236,8 +236,8 @@
 - type: entity
   parent: BaseFlatpack
   id: CrewMonitoringServerFlatpack
-  name: Flatpack сервера моніторингу екіпажу
-  description: Плоский пакет, який використовується для створення сервера моніторингу екіпажу.
+  name: crew monitoring server flatpack
+  description: A flatpack used for constructing a crew monitoring server.
   components:
   - type: Flatpack
     entity: CrewMonitoringServer
@@ -245,8 +245,8 @@
 - type: entity
   parent: BaseFlatpack
   id: CrewMonitoringComputerFlatpack
-  name: Плоский комп'ютер моніторингу екіпажу
-  description: Плоский пакет, який використовується для створення консолі спостереження екіпажу.
+  name: crew monitoring computer flatpack
+  description: A flatpack used for constructing a crew monitoring console.
   components:
   - type: Flatpack
     entity: ComputerCrewMonitoring
@@ -254,8 +254,8 @@
 - type: entity
   parent: BaseFlatpack
   id: HydroponicsTrayFlatpack
-  name: лоток для гідропоніки
-  description: Плоский пакет, який використовується для виготовлення лотка для гідропоніки.
+  name: hydroponics tray flatpack
+  description: A flatpack used for constructing a hydroponics tray.
   components:
   - type: Flatpack
     entity: hydroponicsTray

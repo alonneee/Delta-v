@@ -68,7 +68,7 @@
 - type: entity
   id: SpawnPointSecurityBorg
   parent: SpawnPointJobBase
-  name: охоронний кіборг
+  name: security cyborg
   components:
   - type: SpawnPoint
     job_id: SecurityBorg

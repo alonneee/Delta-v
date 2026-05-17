@@ -1,7 +1,7 @@
 - type: job
   id: ResearchDirector
   name: job-name-rd
-  description: посадова інструкція-рд
+  description: job-description-rd
   playTimeTracker: JobResearchDirector
   antagAdvantage: 6 # DeltaV - Reduced TC: Head of Staff
   requirements:

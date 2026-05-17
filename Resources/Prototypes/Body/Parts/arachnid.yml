@@ -3,7 +3,7 @@
 - type: entity
   id: PartArachnid
   parent: [BaseItem, BasePart]
-  name: "частина тіла павукоподібних"
+  name: "arachnid body part"
   abstract: true
   components:
   - type: BodyPart # Shitmed Change
@@ -18,7 +18,7 @@
 
 - type: entity
   id: TorsoArachnid
-  name: "павукоподібний торс"
+  name: "arachnid torso"
   parent: [PartArachnid, BaseTorso]
   components:
   - type: Sprite
@@ -34,7 +34,7 @@
 
 - type: entity
   id: HeadArachnid
-  name: "голова павука"
+  name: "arachnid head"
   parent: [PartArachnid, BaseHead]
   components:
   - type: Sprite
@@ -50,7 +50,7 @@
 
 - type: entity
   id: LeftArmArachnid
-  name: "ліва павукоподібна рука"
+  name: "left arachnid arm"
   parent: [PartArachnid, BaseLeftArm]
   components:
   - type: Sprite
@@ -59,7 +59,7 @@
 
 - type: entity
   id: RightArmArachnid
-  name: "права павукоподібна рука"
+  name: "right arachnid arm"
   parent: [PartArachnid, BaseRightArm]
   components:
   - type: Sprite
@@ -68,7 +68,7 @@
 
 - type: entity
   id: LeftHandArachnid
-  name: "ліва павукоподібна рука"
+  name: "left arachnid hand"
   parent: [PartArachnid, BaseLeftHand]
   components:
   - type: Sprite
@@ -77,7 +77,7 @@
 
 - type: entity
   id: RightHandArachnid
-  name: "uplink-radio-jammer-name
+  name: "right arachnid hand"
   parent: [PartArachnid, BaseRightHand]
   components:
   - type: Sprite
@@ -86,7 +86,7 @@
 
 - type: entity
   id: LeftLegArachnid
-  name: "ліва павукоподібна нога"
+  name: "left arachnid leg"
   parent: [PartArachnid, BaseLeftLeg]
   components:
   - type: Sprite
@@ -96,7 +96,7 @@
 
 - type: entity
   id: RightLegArachnid
-  name: "права павукоподібна нога"
+  name: "right arachnid leg"
   parent: [PartArachnid, BaseRightLeg]
   components:
   - type: Sprite
@@ -106,7 +106,7 @@
 
 - type: entity
   id: LeftFootArachnid
-  name: "ліва павукоподібна лапка"
+  name: "left arachnid foot"
   parent: [PartArachnid, BaseLeftFoot]
   components:
   - type: Sprite
@@ -115,7 +115,7 @@
 
 - type: entity
   id: RightFootArachnid
-  name: "права павукоподібна лапка"
+  name: "right arachnid foot"
   parent: [PartArachnid, BaseRightFoot]
   components:
   - type: Sprite

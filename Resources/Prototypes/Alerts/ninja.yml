@@ -17,7 +17,7 @@
     state: power6
   - sprite: /Textures/Interface/Alerts/ninja_power.rsi
     state: power7
-  name: сповіщення-костюм-сила-ім'я
+  name: alerts-suit-power-name
   description: alerts-suit-power-desc
   minSeverity: 0
   maxSeverity: 7

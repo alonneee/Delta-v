@@ -3,61 +3,61 @@
 - type: stack
   parent: BaseTileStack
   id: FloorTileConcrete
-  name: стек-бетон-плитка
+  name: stack-concrete-tile
   spawn: FloorTileItemGrayConcrete
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileConcreteMono
-  name: стек-бетон-моно-плитка
+  name: stack-concrete-mono-tile
   spawn: FloorTileItemConcreteMono
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileConcreteSmooth
-  name: стек-бетон-гладкий
+  name: stack-concrete-smooth
   spawn: FloorTileItemConcreteSmooth
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileGrayConcrete
-  name: стек-сіра-бетонна плитка
+  name: stack-gray-concrete-tile
   spawn: FloorTileItemGrayConcrete
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileGrayConcreteMono
-  name: стек-сірий-бетон-моно-плитка
+  name: stack-gray-concrete-mono-tile
   spawn: FloorTileItemGrayConcreteMono
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileGrayConcreteSmooth
-  name: стек-сірий-бетон-гладкий
+  name: stack-gray-concrete-smooth
   spawn: FloorTileItemGrayConcreteSmooth
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileOldConcrete
-  name: стек-стара-бетонна плитка
+  name: stack-old-concrete-tile
   spawn: FloorTileItemOldConcrete
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileOldConcreteMono
-  name: стек-старий-бетон-моно-плитка
+  name: stack-old-concrete-mono-tile
   spawn: FloorTileItemOldConcreteMono
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileOldConcreteSmooth
-  name: стек-старий-бетон-гладкий
+  name: stack-old-concrete-smooth
   spawn: FloorTileItemOldConcreteSmooth
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileIronsandConcrete
-  name: стек-залізо-бетонна плитка
+  name: stack-ironsand-concrete-tile
   spawn: FloorTileItemIronsandConcrete
 
 - type: stack

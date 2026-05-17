@@ -1,6 +1,6 @@
 # We need to copy paste the entire thing because we don't want Electrified component on that thang.
 - type: entity
-  name: блискавка
+  name: lightning
   id: PsionicLightning
   categories: [ HideSpawnMenu ]
   components:

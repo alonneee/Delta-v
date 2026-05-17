@@ -1,7 +1,7 @@
 - type: material
   parent: Steel # TODO: Materials
   id: Bohrum
-  name: матеріали-борум
+  name: materials-bohrum
   color: "#566558"
   price: 0.45 # $45 for 1 unit, arbitrary
   properties:
@@ -14,7 +14,7 @@
 - type: material
   id: Cerenkite
   stackEntity: SheetUranium1 # TODO: Materials
-  name: матеріали-черенкіт
+  name: materials-cerenkite
   icon: { sprite: Objects/Materials/Sheets/other.rsi, state: uranium } # TODO: Materials
   color: "#828aa4"
   price: 0.65 # $65 for 1 unit, arbitrary
@@ -29,7 +29,7 @@
 - type: material
   id: Plutonium
   stackEntity: IngotPlutonium1
-  name: матеріалів-плутоній
+  name: materials-plutonium
   unit: materials-unit-bar
   icon: { sprite: Objects/Materials/ingots.rsi, state: iron } # Why iron? Because I haven't gotten a spriter to make better
   color: "#404888"

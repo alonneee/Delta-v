@@ -1,8 +1,8 @@
 - type: entity
   parent: DrinkBottleGlassBaseFull
   id: DrinkSojuBottleFull
-  name: пляшка соджу
-  description: Вільний і повсякденний варіант стандартної форми охорони.
+  name: soju bottle
+  description: It's like sake but if you're trying to get FUCKED. UP.
   components:
   - type: SolutionContainerManager
     solutions:
@@ -16,8 +16,8 @@
 - type: entity
   parent: [DrinkBaseMaterialGlass, DrinkBaseCup]
   id: DrinkTokkuri
-  name: токкурі
-  description: Квітковий і повний осаке!
+  name: tokkuri
+  description: Floral and full of osake!
   components:
   - type: SolutionContainerManager
     solutions:
@@ -32,8 +32,8 @@
 - type: entity
   parent: DrinkBottleGlassBaseFull
   id: DrinkHolyWaterFull
-  name: фляга зі святою водою
-  description: Колба зі святою водою.
+  name: flask of holy water
+  description: A flask of holy water.
   components:
   - type: SolutionContainerManager
     solutions:

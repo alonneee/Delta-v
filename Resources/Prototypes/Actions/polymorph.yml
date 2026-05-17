@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseAction
   id: ActionRevertPolymorph
-  name: Повернути
-  description: Поверніться до початкової форми.
+  name: Revert
+  description: Revert back into your original form.
   components:
   #- type: ConfirmableAction # DeltaV - Don't ask for confirmation, affects Kitsune Foxes reverting
   #  popup: revert-polymorph-action-popup
@@ -23,8 +23,8 @@
 - type: entity
   parent: BaseActionPolymorph
   id: ActionPolymorphWizardSpider
-  name: Павук Поліморф
-  description: Перетворює вас на Павука.
+  name: Spider Polymorph
+  description: Polymorphs you into a Spider.
   components:
   - type: Action
     icon:
@@ -37,8 +37,8 @@
 - type: entity
   parent: BaseActionPolymorph
   id: ActionPolymorphWizardRod
-  name: Стрижнева форма
-  description: ДЗВІН!
+  name: Rod Form
+  description: CLANG!
   components:
   - type: Action
     icon:
@@ -51,8 +51,8 @@
 - type: entity
   parent: BaseActionPolymorph
   id: ActionPolymorphJaunt
-  name: Ефірна прогулянка
-  description: Розтопіться в Ethereal Plane, щоб швидко втекти!
+  name: Ethereal Jaunt
+  description: Melt into the Ethereal Plane for a quick getaway!
   components:
   - type: Magic
   - type: Action
@@ -73,7 +73,7 @@
   parent: ActionPolymorphJaunt
   id: ActionPolymorphJauntII
   name: Ethereal Jaunt II
-  description: Розтопіться в Ethereal Plane для ще швидшої втечі!
+  description: Melt into the Ethereal Plane for an even quicker getaway!
   components:
   - type: Action
     useDelay: 25
@@ -82,7 +82,7 @@
   parent: ActionPolymorphJaunt
   id: ActionPolymorphJauntIII
   name: Ethereal Jaunt III
-  description: Ви вже навіть відчутні?
+  description: Are you even tangible anymore?
   components:
   - type: Action
     useDelay: 20

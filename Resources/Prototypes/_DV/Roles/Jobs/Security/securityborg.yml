@@ -1,7 +1,7 @@
 - type: job
   id: SecurityBorg
   name: job-name-security-borg
-  description: посадовий опис-безпека-борг
+  description: job-description-security-borg
   playTimeTracker: JobSecurityBorg
   requirements:
     - !type:OverallPlaytimeRequirement

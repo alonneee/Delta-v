@@ -14,7 +14,7 @@
 
 - type: stationAiCustomizationGroup
   id: StationAiHolograms
-  name: station-ai-customization-gologram
+  name: station-ai-customization-hologram
   category: Hologram
   protoIds:
   - StationAiHologramFemale
@@ -73,7 +73,7 @@
 - type: stationAiCustomization
   parent: StationAiIconBase
   id: StationAiIconClown
-  name: плитка-сталь-підлога-моно
+  name: station-ai-icon-clown
   layerData:
     Occupied:
       sprite: Mobs/Silicon/station_ai.rsi
@@ -121,7 +121,7 @@
 # Holograms
 - type: stationAiCustomization
   id: StationAiHologramFemale
-  name: station-ai-gologram-female
+  name: station-ai-hologram-female
   previewKey: Hologram
   layerData:
     Hologram:
@@ -157,7 +157,7 @@
 
 - type: stationAiCustomization
   id: StationAiHologramDog
-  name: права ipc нога"
+  name: station-ai-hologram-dog
   previewKey: Hologram
   layerData:
     Hologram:
@@ -166,7 +166,7 @@
 
 - type: stationAiCustomization
   id: StationAiHologramKobold
-  name: alerts-handcuffed-desc
+  name: station-ai-hologram-kobold
   previewKey: Hologram
   layerData:
     Hologram:
@@ -175,7 +175,7 @@
 
 - type: stationAiCustomization
   id: StationAiHologramMonkey
-  name: station-ai-gologram-monkey
+  name: station-ai-hologram-monkey
   previewKey: Hologram
   layerData:
     Hologram:

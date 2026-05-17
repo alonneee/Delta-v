@@ -1,55 +1,55 @@
 # class
 - type: vesselCategory
   id: Civilian
-  name: судно-категорія-цивільне
+  name: vessel-category-civilian
 
 - type: vesselCategory
   id: Military
-  name: судно-категорія-військове
+  name: vessel-category-military
 
 - type: vesselCategory
   id: Experimental
-  name: посудина-категорія-дослідна
+  name: vessel-category-experimental
 
 # size
 - type: vesselCategory
   id: Small
-  name: судно-категорія-мале
+  name: vessel-category-small
 
 - type: vesselCategory
   id: Medium
-  name: судно-категорія-середній
+  name: vessel-category-medium
 
 - type: vesselCategory
   id: Large
-  name: судно-категорія-велике
+  name: vessel-category-large
 
 # purpose
 - type: vesselCategory
   id: Medical
-  name: судно-категорія-мед
+  name: vessel-category-medical
 
 - type: vesselCategory
   id: Mining
-  name: риса-слов'янське-ім'я
+  name: vessel-category-mining
 
 - type: vesselCategory
   id: Research
-  name: судно-категорія-дослідження
+  name: vessel-category-research
 
 - type: vesselCategory
   id: Shipping
-  name: судно-категорія-відвантаження
+  name: vessel-category-shipping
 
 - type: vesselCategory
   id: Transport
-  name: судно-категорія-транспорт
+  name: vessel-category-transport
 
 # admin
 - type: vesselCategory
   id: CentComm
-  name: судно-категорія-центком
+  name: vessel-category-centcomm
 
 - type: vesselCategory
   id: ERT
-  name: судно-категорія-ерт
+  name: vessel-category-ert

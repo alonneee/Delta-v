@@ -9,7 +9,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsCorpsman
-  suffix: Корпус, замкнено
+  suffix: Corpsman, Locked
   components:
   - type: AccessReader
     access: [["Corpsman"]]
@@ -17,7 +17,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsParamedic
-  suffix: Фельдшер, Зачинено
+  suffix: Paramedic, Locked
   components:
   - type: AccessReader
     access: [["Paramedic"]]
@@ -25,7 +25,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsBoxer
-  suffix: Боксер, заблоковано
+  suffix: Boxer, Locked
   components:
   - type: AccessReader
     access: [["Boxer"]]
@@ -33,7 +33,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsClown
-  suffix: Клоун, Заблоковано
+  suffix: Clown, Locked
   components:
   - type: AccessReader
     access: [["Clown"]]
@@ -41,7 +41,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsLibrary
-  suffix: Бібліотека, зачинено
+  suffix: Library, Locked
   components:
   - type: AccessReader
     access: [["Library"]]
@@ -49,7 +49,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsMime
-  suffix: Мім, заблоковано
+  suffix: Mime, Locked
   components:
   - type: AccessReader
     access: [["Mime"]]
@@ -57,7 +57,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsMusician
-  suffix: Музикант, Заблоковано
+  suffix: Musician, Locked
   components:
   - type: AccessReader
     access: [["Musician"]]
@@ -65,7 +65,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsReporter
-  suffix: Репортер, заблоковано
+  suffix: Reporter, Locked
   components:
   - type: AccessReader
     access: [["Reporter"]]
@@ -73,7 +73,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsZookeeper
-  suffix: Доглядач зоопарку, замкнено
+  suffix: Zookeeper, Locked
   components:
   - type: AccessReader
     access: [["Zookeeper"]]
@@ -81,7 +81,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsPsychologist
-  suffix: Психолог, Закрито
+  suffix: Psychologist, Locked
   components:
   - type: AccessReader
     access: [["Psychologist"]]
@@ -89,7 +89,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsSurgery
-  suffix: Хірургія, Заблоковано
+  suffix: Surgery, Locked
   components:
   - type: AccessReader
     access: [["Surgery"]]
@@ -113,7 +113,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsMail
-  suffix: Пошта, заблоковано
+  suffix: Mail, Locked
   components:
   - type: AccessReader
     access: [["Mail"]]
@@ -121,7 +121,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsChiefJustice
-  suffix: Головний суддя, заблоковано
+  suffix: ChiefJustice, Locked
   components:
   - type: AccessReader
     access: [["ChiefJustice"]]
@@ -129,7 +129,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsJustice
-  suffix: Правосуддя, заблоковано
+  suffix: Justice, Locked
   components:
   - type: AccessReader
     access: [["Justice"]]
@@ -137,7 +137,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsProsecutor
-  suffix: Прокурор, Заблоковано
+  suffix: Prosecutor, Locked
   components:
   - type: AccessReader
     access: [["Prosecutor"]]
@@ -145,7 +145,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsClerk
-  suffix: Службовець, зачинено
+  suffix: Clerk, Locked
   components:
   - type: AccessReader
     access: [["Clerk"]]
@@ -153,7 +153,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsRobotics
-  suffix: Робототехніка, заблоковано
+  suffix: Robotics, Locked
   components:
   - type: AccessReader
     access: [["Robotics"]]
@@ -161,7 +161,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsERT
-  suffix: ERT, заблоковано
+  suffix: ERT, Locked
   components:
   - type: AccessReader
     access: [["ERT"]]

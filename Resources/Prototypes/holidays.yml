@@ -1,6 +1,6 @@
 - type: holiday
   id: NewYear
-  name: свято-ім'я-новий-рік
+  name: holiday-name-new-year
   beginDay: 30
   beginMonth: December
   endDay: 2
@@ -8,137 +8,137 @@
 
 - type: holiday
   id: MisterLizard
-  name: свято-ім'я-пан-ящірка
+  name: holiday-name-mister-lizard
   beginDay: 15
   beginMonth: January
 
 - type: holiday
   id: ChineseNewYear
-  name: ім'я-свята-китайський-новий-рік
+  name: holiday-name-chinese-new-year
   shouldCelebrate:
     !type:ChineseNewYear {}
 
 - type: holiday
   id: GroundhogDay
-  name: свято-іменини-день-бабака
+  name: holiday-name-groundhog-day
   beginDay: 2
   beginMonth: February
 
 - type: holiday
   id: ValentinesDay
-  name: свято-іменини-день-валентина
+  name: holiday-name-valentines-day
   beginDay: 13
   endDay: 15
   beginMonth: February
 
 - type: holiday
   id: Birthday13
-  name: свято-іменини-день народження13
+  name: holiday-name-birthday13
   beginDay: 16
   beginMonth: February
 
 - type: holiday
   id: RandomKindness
-  name: свято-ім'я-випадкова-доброта
+  name: holiday-name-random-kindness
   beginDay: 17
   beginMonth: February
 
 - type: holiday
   id: LeapDay
-  name: свято-іменини-високосний
+  name: holiday-name-leap-day
   beginDay: 29
   beginMonth: February
 
 - type: holiday
   id: MikuDay
-  name: свято-іменини-міку-день
+  name: holiday-name-miku-day
   beginDay: 9
   beginMonth: March
 
 - type: holiday
   id: PiDay
-  name: свято-іменини-пі-день
+  name: holiday-name-pi-day
   beginDay: 14
   beginMonth: March
 
 - type: holiday
   id: StPatricksDay
-  name: свято іменин святого Патріка
+  name: holiday-name-st-patricks-day
   beginDay: 17
   beginMonth: March
 
 - type: holiday
   id: Easter
-  name: свято-ім'я-великдень
+  name: holiday-name-easter
   shouldCelebrate:
     !type:Computus { }
 
 - type: holiday
   id: AprilFoolDay
-  name: свято-іменини-квітня
+  name: holiday-name-april-fool-day
   beginDay: 1
   beginMonth: April
 
 - type: holiday
   id: AutismAwarenessDay
-  name: свято-ім'я-день-розповсюдження-аутизму
+  name: holiday-name-autism-awareness-day
   beginDay: 2
   beginMonth: April
 
 - type: holiday
   id: CosmonauticsDay
-  name: свято-іменини-день-космонавтики
+  name: holiday-name-cosmonautics-day
   beginDay: 12
   beginMonth: April
   greet:
     !type:Custom
-    text: свято-звичай-день-космонавтики
+    text: holiday-custom-cosmonautics-day
 
 - type: holiday
   id: FourTwenty
-  name: свято-назва-чотири-двадцять
+  name: holiday-name-four-twenty
   beginDay: 20
   beginMonth: April
 
 - type: holiday
   id: TeaDay
-  name: свято-іменини-чай-день
+  name: holiday-name-tea-day
   beginDay: 21
   beginMonth: April
 
 - type: holiday
   id: EarthDay
-  name: свято-іменини-день-землі
+  name: holiday-name-earth-day
   beginDay: 22
   beginMonth: April
 
 - type: holiday
   id: AnzacDay
-  name: свято-іменини-анзак-день
+  name: holiday-name-anzac-day
   beginDay: 25
   beginMonth: April
 
 - type: holiday
   id: Birthday14
-  name: свято-іменини-день народження14
+  name: holiday-name-birthday14
   beginDay: 26
   beginMonth: April
 
 - type: holiday
   id: LaborDay
-  name: свято-іменини-труд-день
+  name: holiday-name-labor-day
   beginDay: 1
   beginMonth: May
 
 - type: holiday
   id: FirefighterDay
-  name: свято-іменини-день-пожежника
+  name: holiday-name-firefighter-day
   beginDay: 4
   beginMonth: May
 
 - type: holiday
   id: MothersDay
-  name: свято-іменини-день-матері
+  name: holiday-name-mothers-day
   beginMonth: May
   shouldCelebrate:
     !type:WeekdayInMonth
@@ -146,41 +146,41 @@
     occurrence: 2
   greet:
     !type:Custom
-    text: свято-звичай-день-матері
+    text: holiday-custom-mothers-day
 
 - type: holiday
   id: OwlAndPussycatDay
-  name: свято-іменини-сови-і-кицьки-день
+  name: holiday-name-owl-and-pussycat-day
   beginDay: 12
   beginMonth: May
 
 - type: holiday
   id: TowelDay
-  name: свято-іменини-рушник-день
+  name: holiday-name-towel-day
   beginDay: 25
   beginMonth: May
 
 - type: holiday
   id: MoMMIDay
-  name: свято-іменини-мами-день
+  name: holiday-name-mommi-day
   beginDay: 30
   beginMonth: May
 
 - type: holiday
   id: GarbageDay
-  name: свято-іменини-смітник
+  name: holiday-name-garbage-day
   beginDay: 17
   beginMonth: June
 
 - type: holiday
   id: InternationalPicnicDay
-  name: свято-іменини-міжнародний-день-пікніка
+  name: holiday-name-international-picnic-day
   beginDay: 18
   beginMonth: June
 
 - type: holiday
   id: FathersDay
-  name: свято-іменини-батюшки
+  name: holiday-name-fathers-day
   beginMonth: August
   shouldCelebrate:
     !type:WeekdayInMonth
@@ -189,61 +189,61 @@
 
 - type: holiday
   id: SummerSolstice
-  name: свято-ім'я-літнього сонцестояння
+  name: holiday-name-summer-solstice
   beginDay: 21
   beginMonth: June
 
 - type: holiday
   id: StonewallRiotsAnniversary
-  name: свято-ім'я-стоунволл-бунтів-ювілей
+  name: holiday-name-stonewall-riots-anniversary
   beginDay: 28
   beginMonth: June
 
 - type: holiday
   id: DoctorDay
-  name: свято-іменини-лікаря
+  name: holiday-name-doctor-day
   beginDay: 1
   beginMonth: July
 
 - type: holiday
   id: UFODay
-  name: свято-іменини-уфо-день
+  name: holiday-name-ufo-day
   beginDay: 2
   beginMonth: July
 
 - type: holiday
   id: USIndependenceDay
-  name: свято ім'я-нас-день-незалежності
+  name: holiday-name-us-independence-day
   beginDay: 4
   beginMonth: July
 
 - type: holiday
   id: WritersDay
-  name: свято-іменини-день
+  name: holiday-name-writers-day
   beginDay: 8
   beginMonth: July
 
 - type: holiday
   id: BastilleDay
-  name: свято-іменини-день-бастилії
+  name: holiday-name-bastille-day
   beginDay: 14
   beginMonth: July
   greet:
     !type:Custom
-    text: свято-звичай-день взяття Бастилії
+    text: holiday-custom-bastille-day
 
 - type: holiday
   id: FriendshipDay
-  name: свято-іменини-дружби
+  name: holiday-name-friendship-day
   beginDay: 30
   beginMonth: July
   greet:
     !type:Custom
-    text: свято-звичай-дружби-день
+    text: holiday-custom-friendship-day
 
 - type: holiday
   id: BeerDay
-  name: імплантатор centcomm
+  name: holiday-name-beer-day
   shouldCelebrate:
     !type:WeekdayInMonth
     weekday: Friday
@@ -251,47 +251,47 @@
 
 - type: holiday
   id: TalkLikeAPirateDay
-  name: свято-імена-розмова-як-піратський-день
+  name: holiday-name-talk-like-a-pirate-day
   beginDay: 19
   beginMonth: September
   greet:
     !type:Custom
-    text: свято-звичай-розмова-як-піратський-день
+    text: holiday-custom-talk-like-a-pirate-day
 
 - type: holiday
   id: ProgrammersDay
-  name: свято-іменини-день-програмістів
+  name: holiday-name-programmers-day
   shouldCelebrate:
     !type:DayOfYear
     dayOfYear: 256
 
 - type: holiday
   id: BisexualPrideDay
-  name: свято-ім'я-бісексуал-прайд-день
+  name: holiday-name-bisexual-pride-day
   beginDay: 23
   beginMonth: September
 
 - type: holiday
   id: StupidQuestionsDay
-  name: свято-імені-дурні-питання-день
+  name: holiday-name-stupid-questions-day
   beginDay: 28
   beginMonth: September
 
 - type: holiday
   id: AnimalsDay
-  name: свято-іменини-день-тварин
+  name: holiday-name-animals-day
   beginDay: 4
   beginMonth: October
 
 - type: holiday
   id: SmilingDay
-  name: свято-іменини-усміхнений-день
+  name: holiday-name-smiling-day
   beginDay: 7
   beginMonth: October
 
 - type: holiday
   id: LesbianDay
-  name: свято-іменини-лесбіянки
+  name: holiday-name-lesbian-day
   beginDay: 8
   beginMonth: October
 
@@ -312,7 +312,7 @@
 
 - type: holiday
   id: SpiritDay
-  name: свято-іменини-духів
+  name: holiday-name-spirit-day
   beginMonth: October
   shouldCelebrate:
     !type:WeekdayInMonth
@@ -321,16 +321,16 @@
 
 - type: holiday
   id: Halloween
-  name: свято-ім'я-хелловін
+  name: holiday-name-halloween
   beginDay: 31
   beginMonth: October
   greet:
     !type:Custom
-    text: свято-звичай-хелловін
+    text: holiday-custom-halloween
 
 - type: holiday
   id: VeganDay
-  name: свято-іменини-веганський-день
+  name: holiday-name-vegan-day
   beginDay: 1
   beginMonth: November
 
@@ -351,31 +351,31 @@
 
 - type: holiday
   id: LifeDay
-  name: свято-іменини-день життя
+  name: holiday-name-life-day
   beginDay: 17
   beginMonth: November
 
 - type: holiday
   id: FlowersDay
-  name: свято-іменини-день-квітів
+  name: holiday-name-flowers-day
   beginDay: 19
   beginMonth: November
 
 - type: holiday
   id: TransgenderRemembranceDay
-  name: свято імен-трансгендерів-день-пам'яті
+  name: holiday-name-transgender-remembrance-day
   beginDay: 20
   beginMonth: November
 
 - type: holiday
   id: SayingHelloDay
-  name: свято імен-привітання-день
+  name: holiday-name-saying-hello-day
   beginDay: 21
   beginMonth: November
 
 - type: holiday
   id: Thanksgiving
-  name: свято-іменини-подяки
+  name: holiday-name-thanksgiving
   beginMonth: November
   shouldCelebrate:
     !type:WeekdayInMonth
@@ -384,63 +384,63 @@
 
 - type: holiday
   id: Sinterklaas
-  name: свято-ім'я-сінтерклаас
+  name: holiday-name-sinterklaas
   beginDay: 5
   beginMonth: December
 
 - type: holiday
   id: HumanRightsDay
-  name: свято-іменини-день-прав-людини
+  name: holiday-name-human-rights-day
   beginDay: 10
   beginMonth: December
 
 - type: holiday
   id: MonkeyDay
-  name: свято-іменини-день-мавпи
+  name: holiday-name-monkey-day
   beginDay: 14
   beginMonth: December
 
 - type: holiday
   id: MayanDoomsday
-  name: свято-ім'я-майя-судний день
+  name: holiday-name-mayan-doomsday
   beginDay: 21
   beginMonth: December
 
 - type: holiday
   id: Christmas
-  name: свято-ім'я-різдво
+  name: holiday-name-christmas
   beginDay: 24
   endDay: 26
   beginMonth: December
   greet:
     !type:Custom
-    text: свято-звичай-різдво
+    text: holiday-custom-christmas
 
 - type: holiday
   id: FestiveSeason
-  name: свято-назва-святковий-сезон
+  name: holiday-name-festive-season
   beginDay: 1
   endDay: 31
   beginMonth: December
   greet:
     !type:Custom
-    text: свято-звичай-святковий-сезон
+    text: holiday-custom-festive-season
 
 - type: holiday
   id: BoxingDay
-  name: свято-іменини-бокс-день
+  name: holiday-name-boxing-day
   beginDay: 26
   beginMonth: December
 
 - type: holiday
   id: FridayThirteenth
-  name: свято-ім'я-п'ятниця-тринадцяте
+  name: holiday-name-friday-thirteenth
   shouldCelebrate:
     !type:FridayThirteenth { }
 
 - type: holiday
   id: PrideMonth
-  name: свято-назва-гордість-місяць
+  name: holiday-name-pride-month
   beginDay: 1
   endDay: 31
   beginMonth: June

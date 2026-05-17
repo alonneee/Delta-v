@@ -2,7 +2,7 @@
 
 - type: technology
   id: PsionicCountermeasures
-  name: дослідження-технології-псіотехнічні-контрзаходи
+  name: research-technology-psionic-countermeasures
   icon:
     sprite: Nyanotrasen/Clothing/Head/Helmets/insulative_skullcap.rsi # DeltaV - Change the icon to the insulative skullcap
     state: icon

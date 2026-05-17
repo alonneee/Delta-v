@@ -11,7 +11,7 @@
 - type: entity
   id: LockerPilot
   parent: NFLockerBaseSecure
-  name: шафа пілота
+  name: pilot's locker
   components:
   - type: Appearance
   - type: EntityStorageVisuals

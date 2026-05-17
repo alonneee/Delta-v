@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseItem
   id: BaseHandheldStationMap
-  name: карта станції
-  description: Відображає зчитування поточної станції.
+  name: station map
+  description: Displays a readout of the current station.
   abstract: true
   components:
     - type: StationMap
@@ -36,12 +36,12 @@
   parent:
   - BaseHandheldStationMap
   - BaseHandheldComputer
-  suffix: Портативний
+  suffix: Handheld
 
 - type: entity
   id: HandheldStationMapEmpty
   parent: HandheldStationMap
-  suffix: Ручний, порожній
+  suffix: Handheld, Empty
   components:
   - type: ItemSlots
     slots:
@@ -51,12 +51,12 @@
 - type: entity
   id: HandheldStationMapUnpowered
   parent: BaseHandheldStationMap
-  suffix: Портативний, постійно живиться
+  suffix: Handheld, Always Powered
 
 - type: entity
   parent: HandheldStationMap
   id: HandheldStationMapStatic
-  suffix: Ручний, працює поза станцією
+  suffix: Handheld, Works Off-Station
   components:
   - type: StationMap
     initializeWithStation: true
@@ -64,9 +64,9 @@
 - type: entity
   parent: HandheldStationMap
   id: HandheldStationMapNukeops
-  name: карта цільової станції
-  suffix: Портативний пристрій, NukeOps
-  description: Відображає зчитування цільової станції.
+  name: target station map
+  suffix: Handheld, NukeOps
+  description: Displays a readout of the target station.
   components:
   - type: Sprite
     sprite: Objects/Devices/tablets.rsi

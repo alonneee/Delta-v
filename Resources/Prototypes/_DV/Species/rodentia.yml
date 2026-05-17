@@ -1,6 +1,6 @@
 - type: species
   id: Rodentia
-  name: вид-назва-rodentia
+  name: species-name-rodentia
   roundStart: true
   prototype: MobRodentia
   sprites: MobRodentiaSprites

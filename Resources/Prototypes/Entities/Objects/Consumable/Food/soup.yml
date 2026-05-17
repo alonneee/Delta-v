@@ -952,7 +952,7 @@
   name: eyeball soup
   parent: FoodBowlBase
   id: FoodSoupEyeball
-  description: Оглядається на тебе...
+  description: It's looking back at you...
   components:
   - type: FlavorProfile
     flavors:

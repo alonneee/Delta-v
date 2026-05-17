@@ -55,7 +55,7 @@
   - type: ItemSlots
     slots:
       gun_magazine:
-        name: Журнал
+        name: Magazine
         startingItem: MagazineLMGAntiMaterielBox
         insertSound: /Audio/Weapons/Guns/MagIn/batrifle_magin.ogg
         ejectSound: /Audio/Weapons/Guns/MagOut/batrifle_magout.ogg
@@ -64,7 +64,7 @@
           tags:
           - MagazineLMGAntiMaterielBox
       gun_chamber:
-        name: палата
+        name: Chamber
         startingItem: CartridgeLMGAntiMateriel
         priority: 1
         whitelist:

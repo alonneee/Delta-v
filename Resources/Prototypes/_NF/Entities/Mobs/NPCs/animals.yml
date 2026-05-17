@@ -1,8 +1,8 @@
 - type: entity
-  name: рожеві мокриці
+  name: rosy mothroach
   parent: MobMothroach
   id: MobRosyMothroach
-  description: Це чарівний побічний продукт мульти- зачекайте, чому цей рожевий?
+  description: This is the adorable by-product of mult- wait, why's this one pink?
   components:
   - type: FaxableObject
     insertingState: inserting_rosy_mothroach

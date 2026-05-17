@@ -7,12 +7,12 @@
     - to: skiaHoodie
       steps:
       - tag: Hoodie
-        name: конструкція-граф-тег-худі
+        name: construction-graph-tag-hoodie
         icon:
           sprite: Clothing/OuterClothing/Misc/chaplain_hoodie.rsi
           state: icon
       - tag: Ectoplasm
-        name: конструкція-граф-тег-ектоплазма
+        name: construction-graph-tag-ectoplasm
         icon:
           sprite: _DV/Mobs/Ghosts/revenant.rsi
           state: ectoplasm

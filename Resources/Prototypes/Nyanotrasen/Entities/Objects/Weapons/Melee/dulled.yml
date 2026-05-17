@@ -1,9 +1,9 @@
 - type: entity
-  name: катана
-  suffix: Притуплений
+  name: katana
+  suffix: Dulled
   parent: BaseItem
   id: KatanaDulled
-  description: Старовинні ремісничі вироби, виготовлені з не дуже стародавньої пласталі. Цей був притуплений.
+  description: Ancient craftwork made with not so ancient plasteel. This one has been dulled.
   components:
   - type: Tag
     tags:
@@ -21,11 +21,11 @@
     sprite: Objects/Weapons/Melee/katana.rsi
 
 - type: entity
-  name: клеймор
-  suffix: Притуплений
+  name: claymore
+  suffix: Dulled
   parent: BaseItem
   id: ClaymoreDulled
-  description: Старовинний бойовий клинок. Цей був притуплений.
+  description: An ancient war blade. This one has been dulled.
   components:
   - type: Sprite
     sprite: Objects/Weapons/Melee/claymore.rsi

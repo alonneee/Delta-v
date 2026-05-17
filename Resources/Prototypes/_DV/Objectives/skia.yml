@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseObjective
   id: SkiaReapObjective
-  name: Можливо, є місце, як друзі.
-  description: Переконайтеся, що цю душу хоча б один раз випустили зі свого тіла.
+  name: Reap the damned soul.
+  description: Ensure this soul is released from its body at least once.
   components:
   - type: Objective
     difficulty: 1.5
@@ -17,7 +17,7 @@
   - type: KillPersonCondition
     requireDead: true
   - type: TargetObjective
-    title: об'єктивна-умова-жати-душу-титул
+    title: objective-condition-reap-soul-title
   - type: PickRandomPerson
     filters:
     - !type:ObjectiveImmuneFilter

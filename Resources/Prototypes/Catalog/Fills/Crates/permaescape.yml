@@ -1,7 +1,7 @@
 - type: entity
   parent: CrateEmptySpawner
   id: CratePermaEscapeSpawner
-  name: Створювач Perma Escape Crate
+  name: Perma Escape Crate Spawner
   components:
   - type: EntityTableSpawner
     table: !type:GroupSelector
@@ -36,7 +36,7 @@
 - type: entity
   parent: CrateGenericSteel
   id: CratePermaEscapeDigging
-  suffix: Копання
+  suffix: Digging
   components:
   - type: EntityTableContainerFill
     containers:
@@ -91,7 +91,7 @@
 - type: entity
   parent: CrateGenericSteel
   id: CratePermaEscapeGun
-  suffix: ВН кабельний ящик
+  suffix: Gun
   components:
   - type: EntityTableContainerFill
     containers:
@@ -115,7 +115,7 @@
 - type: entity
   parent: CrateGenericSteel
   id: CratePermaEscapeBureaucracy
-  suffix: Бюрократія
+  suffix: Bureaucracy
   components:
   - type: EntityTableContainerFill
     containers:
@@ -148,7 +148,7 @@
 - type: entity
   parent: CrateGenericSteel
   id: CratePermaEscapeLights
-  suffix: Світяться палички
+  suffix: Glowsticks
   components:
   - type: EntityTableContainerFill
     containers:
@@ -188,7 +188,7 @@
 - type: entity
   parent: CrateGenericSteel
   id: CratePermaEscapeMats
-  suffix: Матеріали
+  suffix: Materials
   components:
   - type: EntityTableContainerFill
     containers:
@@ -201,7 +201,7 @@
 - type: entity
   parent: CrateGenericSteel
   id: CratePermaEscapeGiftsFromSyndicate
-  suffix: Подарунки синдикату
+  suffix: Syndicate gifts
   components:
   - type: EntityTableContainerFill
     containers:
@@ -243,7 +243,7 @@
 - type: entity
   parent: CrateGenericSteel
   id: CratePermaEscapeMerc
-  suffix: Найманець
+  suffix: Mercenary
   components:
   - type: EntityTableContainerFill
     containers:
@@ -276,7 +276,7 @@
 - type: entity
   parent: CrateGenericSteel
   id: CratePermaEscapeComs
-  suffix: Комунікації
+  suffix: Comms
   components:
   - type: EntityTableContainerFill
     containers:
@@ -308,7 +308,7 @@
 - type: entity
   parent: CrateGenericSteel
   id: CratePermaEscapeTowercap
-  suffix: Баштова шапка
+  suffix: Towercap
   components:
   - type: EntityTableContainerFill
     containers:

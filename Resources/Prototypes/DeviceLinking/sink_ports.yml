@@ -10,22 +10,22 @@
 
 - type: sinkPort
   id: On
-  name: назва сигнального порту на приймачі
-  description: опис сигнального-порту-на-приймачі
+  name: signal-port-name-on-receiver
+  description: signal-port-description-on-receiver
 
 - type: sinkPort
   id: Off
-  name: ім'я-порту сигналу-від-приймача
-  description: сигнальний-порт-опис-від-приймача
+  name: signal-port-name-off-receiver
+  description: signal-port-description-off-receiver
 
 - type: sinkPort
   id: Forward
-  name: пересилання назви-порту сигналу
+  name: signal-port-name-forward
   description: signal-port-description-forward
 
 - type: sinkPort
   id: Reverse
-  name: ім'я-порту сигналу-реверс
+  name: signal-port-name-reverse
   description: signal-port-description-reverse
 
 - type: sinkPort
@@ -35,7 +35,7 @@
 
 - type: sinkPort
   id: Close
-  name: назва-порту-сигналу-закриття
+  name: signal-port-name-close
   description: signal-port-description-close
 
 - type: sinkPort
@@ -45,7 +45,7 @@
 
 - type: sinkPort
   id: Trigger
-  name: назва сигнального порту тригер-приймач
+  name: signal-port-name-trigger-receiver
   description: signal-port-description-trigger-receiver
 
 - type: sinkPort
@@ -56,17 +56,17 @@
 - type: sinkPort
   id: OrderReceiver
   name: signal-port-name-order-receiver
-  description: signal-port-name-med-scanner-sender
+  description: signal-port-description-order-receiver
 
 - type: sinkPort
   id: Pressurize
-  name: ім'я сигнального порту тиск
+  name: signal-port-name-pressurize
   description: signal-port-description-pressurize
 
 - type: sinkPort
   id: Depressurize
   name: signal-port-name-depressurize
-  description: barsign-prototype-name-the-lightbulb
+  description: signal-port-description-depressurize
 
 - type: sinkPort
   id: CloningPodReceiver
@@ -75,7 +75,7 @@
 
 - type: sinkPort
   id: MedicalScannerReceiver
-  name: Викликати пекельний контракт
+  name: signal-port-name-med-scanner-receiver
   description: signal-port-description-med-scanner-receiver
 
 - type: sinkPort
@@ -85,22 +85,22 @@
 
 - type: sinkPort
   id: InputA
-  name: ім'я-сигнального-порту-логічний-вхід-a
+  name: signal-port-name-logic-input-a
   description: signal-port-description-logic-input-a
 
 - type: sinkPort
   id: InputB
-  name: ім'я-сигнального-порту-логічний-вхід-b
+  name: signal-port-name-logic-input-b
   description: signal-port-description-logic-input-b
 
 - type: sinkPort
   id: Input
-  name: ім'я-логічного-порту-сигналу
-  description: сигнал-порт-опис-логічний-вхід
+  name: signal-port-name-logic-input
+  description: signal-port-description-logic-input
 
 - type: sinkPort
   id: MemoryInput
-  name: ім'я-логічного-порту-сигналу
+  name: signal-port-name-logic-input
   description: signal-port-description-logic-memory-input
 
 - type: sinkPort
@@ -110,7 +110,7 @@
 
 - type: sinkPort
   id: RandomGateInput
-  name: ім'я-сигнального-порту-логічний-випадковий-вхід
+  name: signal-port-name-logic-random-input
   description: signal-port-description-logic-random-input
   
 - type: sinkPort

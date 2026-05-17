@@ -1,8 +1,8 @@
 - type: entity
-  name: радіоперешкод
+  name: radio jammer
   parent: [BaseItem, BaseSyndicateContraband]
   id: RadioJammer
-  description: Цей пристрій порушить будь-який вихідний радіозв’язок поблизу, а також датчики костюма, коли його активовано.
+  description: This device will disrupt any nearby outgoing radio communication as well as suit sensors when activated.
   components:
   - type: Sprite
     sprite: Objects/Devices/jammer.rsi
@@ -54,7 +54,7 @@
 - type: entity
   parent: [RadioJammer, BaseXenoborgContraband]
   id: XenoborgRadioJammer
-  name: радіоперешкоди xenoborg
+  name: xenoborg radio jammer
   components:
   - type: RadioJammer
     frequenciesExcluded:

@@ -157,7 +157,7 @@
 # spawner
 - type: entity
   id: RandomCloneSpawner
-  name: Випадковий клон
+  name: Random Clone
   suffix: Non-Antag
   components:
   - type: Sprite

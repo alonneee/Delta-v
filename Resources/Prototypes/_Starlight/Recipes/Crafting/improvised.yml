@@ -219,7 +219,7 @@
   description: crafting-menu-text-MC
 
 - type: construction
-  name: reagent-name-serenitol
+  name: crafting-menu-name-IC
   id: CrowbarImprovised
   graph: ImprovisedCrowbarGraph
   startNode: start
@@ -316,7 +316,7 @@
   targetNode: blade
   category: construction-category-tools
   objectType: Item
-  description: стопка-млинець
+  description: crafting-menu-text-SB
 
 - type: construction
   name: crafting-menu-name-PB
@@ -379,7 +379,7 @@
   description: crafting-menu-text-TSW
 
 - type: construction
-  name: стек-бетон-плитка
+  name: crafting-menu-name-ISH
   id: ImprovisedShield
   graph: ImprovisedShieldGraph
   startNode: start

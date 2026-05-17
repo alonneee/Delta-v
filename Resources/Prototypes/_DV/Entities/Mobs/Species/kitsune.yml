@@ -1,7 +1,7 @@
 - type: entity
   save: false
   id: BaseMobKitsune
-  name: Уріст МакКіцуне
+  name: Urist McKitsune
   abstract: true
   components:
   - type: Physics
@@ -51,8 +51,8 @@
   parent: MobHumanDummy
   id: MobKitsuneDummy
   categories: [ HideSpawnMenu ]
-  name: Уріст Макхендс
-  description: Фіктивна кіцуне, призначена для налаштування персонажа.
+  name: Urist McHands
+  description: A dummy kitsune meant to be used in character setup.
   components:
   - type: HumanoidAppearance
     species: Kitsune

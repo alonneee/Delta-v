@@ -1,7 +1,7 @@
 # Engineering Void Suit
 - type: entity
   id: LockerEngineerFilledVoidsuit
-  suffix: Заповнений, пустотний костюм
+  suffix: Filled, Void suit
   parent: LockerEngineerFilled
   components:
   - type: EntityTableContainerFill
@@ -17,7 +17,7 @@
 
 - type: entity
   id: LockerEngineerFilledOnlyHardsuit # Probably need a better ID than the existing LockerEngineerFilledHardsuit. Leaving up to mappers.
-  suffix: Заповнений, Hardsuit
+  suffix: Filled, Hardsuit
   parent: LockerEngineerFilled
   components:
   - type: EntityTableContainerFill
@@ -35,7 +35,7 @@
 - type: entity
   parent: LockerEvacPodLocker
   id: LockerEvacPodLockerFilled
-  suffix: Заповнений
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:

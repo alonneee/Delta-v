@@ -1,6 +1,6 @@
 - type: tile
   id: PlatingBurnt
-  name: облицювання плиткою
+  name: tiles-plating
   sprite: /Textures/Tiles/plating_burnt.png
   baseTurf: Lattice
   isSubfloor: true

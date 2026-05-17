@@ -1,7 +1,7 @@
 - type: entity
   parent: ToteBase
   id: BoxCaptainCircuitboards
-  name: тоталізатор мосту
+  name: bridge circuit tote
   components:
   - type: EntityTableContainerFill
     containers:
@@ -14,7 +14,7 @@
 - type: entity
   parent: ToteBase
   id: BoxCECircuitboards
-  name: інженерна схема тоталізатора
+  name: engineering circuit tote
   components:
   - type: EntityTableContainerFill
     containers:
@@ -32,7 +32,7 @@
 - type: entity
   parent: ToteBase
   id: BoxCMOCircuitboards
-  name: медична сумка
+  name: medical circuit tote
   components:
   - type: EntityTableContainerFill
     containers:
@@ -47,7 +47,7 @@
 - type: entity
   parent: ToteBase
   id: BoxHoPCircuitboards
-  name: начальник відділу кадрів
+  name: head of personnel circuit tote
   components:
   - type: EntityTableContainerFill
     containers:
@@ -60,7 +60,7 @@
 - type: entity
   parent: BoxStamps
   id: BoxHoPStamps
-  name: скринька для печаток начальника відділу кадрів
+  name: head of personnel's stamp box
   components:
   - type: EntityTableContainerFill
     containers:
@@ -73,7 +73,7 @@
 - type: entity
   parent: ToteBase
   id: BoxHoSCircuitboards
-  name: тоталізатор схеми безпеки
+  name: security circuit tote
   components:
   - type: EntityTableContainerFill
     containers:
@@ -85,7 +85,7 @@
 - type: entity
   parent: ToteBase
   id: BoxQMCircuitboards
-  name: вантажний тоталізатор
+  name: cargo circuit tote
   components:
   - type: EntityTableContainerFill
     containers:
@@ -109,7 +109,7 @@
 - type: entity
   parent: BoxStamps
   id: BoxQMStamps
-  name: інтендантська скринька для штемпелів
+  name: quartermaster's stamp box
   components:
   - type: EntityTableContainerFill
     containers:
@@ -122,7 +122,7 @@
 - type: entity
   parent: ToteBase
   id: BoxRDCircuitboards
-  name: тоталізатор наукової схеми
+  name: science circuit tote
   components:
   - type: EntityTableContainerFill
     containers:

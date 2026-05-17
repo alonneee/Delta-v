@@ -90,7 +90,7 @@
 - type: entity
   parent: BaseBarrelChem
   id: BarrelChemEmpty
-  suffix: Порожній
+  suffix: Empty
 
 - type: entity
   parent: BaseBarrelChem
@@ -204,7 +204,7 @@
 - type: entity
   parent: BaseBarrelChemRadioactive
   id: BaseBarrelChemRadioactiveEmpty
-  suffix: Порожній
+  suffix: Empty
 
 - type: entity
   parent: BaseBarrelChemRadioactive
@@ -222,7 +222,7 @@
 - type: entity
   parent: BaseBarrelChemRadioactive
   id: BaseBarrelChemRadioactiveFilledUranium
-  suffix: Уран
+  suffix: Uranium
   components:
   - type: SolutionContainerManager
     solutions:

@@ -1,8 +1,8 @@
 ﻿- type: entity
-  name: груші пашот
+  name: poached pears
   parent: FoodBowlBase
   id: FoodMealPoachedPears
-  description: Найкласніший спосіб використання банки вина.
+  description: The classiest use for a can of wine.
   components:
   - type: FlavorProfile
     flavors:
@@ -30,10 +30,10 @@
     - Fruit
 
 - type: entity
-  name: груші belle helene
+  name: pears belle helene
   parent: FoodBowlBase
   id: FoodMealPearsBelleHelene
-  description: Ніжний смак бездоганної груші, просоченої шоколадом.
+  description: The delicate flavor of the immaculate pear drenched in chocolate.
   components:
   - type: FlavorProfile
     flavors:
@@ -61,10 +61,10 @@
     - Fruit
 
 - type: entity
-  name: грушевий кекс
+  name: pear muffin
   parent: FoodMealBase
   id: FoodBakedMuffinPear
-  description: Я не скажу, якщо ви просто спробуєте вибрати шоколад.
+  description: I won't tell if you just try to pick out the chocolate.
   components:
   - type: FlavorProfile
     flavors:
@@ -91,10 +91,10 @@
     - Fruit
 
 - type: entity
-  name: пиріг з груші та сиру
+  name: pear and cheese tart
   parent: FoodPieBase
   id: FoodTartPearCheese
-  description: Сама піднесена пара.
+  description: The most sublime pair.
   components:
   - type: FlavorProfile
     flavors:
@@ -112,10 +112,10 @@
     - Pie
 
 - type: entity
-  name: кавові ягоди
+  name: coffee berries
   parent: FoodProduceBase
   id: FoodCoffee
-  description: Червоні ягоди в кавових зернах.
+  description: Red berries encasing coffee beans.
   components:
     - type: FlavorProfile
       flavors:

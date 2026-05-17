@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseAction
   id: ActionBlink
-  name: Поморгайте
-  description: Телепортуйтеся в вибране місце.
+  name: Blink
+  description: Teleport to the clicked location.
   components:
   - type: Action
     useDelay: 10
@@ -24,8 +24,8 @@
 - type: entity
   parent: BaseEntitySpellAction
   id: ActionVoidApplause
-  name: Порожні аплодисменти
-  description: Плескайте в долоні і міняйтеся місцями з мішенню.
+  name: Void Applause
+  description: Clap your hands and swap places with the target.
   components:
   - type: Action
     useDelay: 15

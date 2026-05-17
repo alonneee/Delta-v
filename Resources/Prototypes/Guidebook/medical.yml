@@ -1,6 +1,6 @@
 - type: guideEntry
   id: Medical
-  name: гід-вступ-мед
+  name: guide-entry-medical
   text: "/ServerInfo/Guidebook/Medical/Medical.xml"
   children:
   - MedicalDoctor
@@ -11,22 +11,22 @@
 
 - type: guideEntry
   id: MedicalDoctor
-  name: гід-вхід-лікар
+  name: guide-entry-medicaldoctor
   text: "/ServerInfo/Guidebook/_DV/Medical/MedicalDoctorDV.xml" # DeltaV - we basically re-did the whole page
 
 - type: guideEntry
   id: Cloning
-  name: керівництво-запис-клонування
+  name: guide-entry-cloning
   text: "/ServerInfo/Guidebook/_DV/Medical/CloningDV.xml" # DeltaV - We also added Unrevivable = Uncloneable.
 
 - type: guideEntry
   id: Cryogenics
-  name: керівництво-вхід-кріогеніка
+  name: guide-entry-cryogenics
   text: "/ServerInfo/Guidebook/Medical/Cryogenics.xml"
 
 - type: guideEntry
   id: Chemist
-  name: рецепт щурячого тако
+  name: guide-entry-chemist
   text: "/ServerInfo/Guidebook/Medical/Chemist.xml"
   children:
   # - Medicine
@@ -38,17 +38,17 @@
 
 - type: guideEntry
   id: Medicine
-  name: гід-вхід-медицина
+  name: guide-entry-medicine
   text: "/ServerInfo/Guidebook/Medical/Medicine.xml"
   filterEnabled: True
 
 - type: guideEntry
   id: Botanicals
-  name: гід-вхід-ботаніка
+  name: guide-entry-botanicals
   text: "/ServerInfo/Guidebook/Medical/Botanicals.xml"
   filterEnabled: True
 
 - type: guideEntry
   id: AdvancedBrute
-  name: гід-вхід-брут
+  name: guide-entry-brute
   text: "/ServerInfo/Guidebook/Medical/AdvancedBrute.xml"

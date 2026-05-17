@@ -1,7 +1,7 @@
 - type: entity
   id: PartMotorkind
   parent: BasePart
-  name: "частина кузова мотоцикла"
+  name: "motorkind body part"
   abstract: true
   components:
   - type: Sprite
@@ -13,13 +13,13 @@
 
 - type: entity
   id: TorsoMotorkind
-  name: "мотоциклетний торс"
+  name: "motorkind torso"
   parent: [PartMotorkind, BaseTorso]
 
 - type: entity
   id: LeftArmMotorkind
-  name: "мотоцикл переднє ліве колесо"
-  description: "Колеса для мотоциклів, на жаль, не є універсальними, це було зроблено навмисно з міркувань капіталізму».
+  name: "motorkind front-left wheel"
+  description: "Motorkind wheels are unfortunately not universal, this was done intentionally for capitalism reasons."
   parent: [PartMotorkind, BaseLeftArm]
   components:
   - type: Sprite
@@ -29,8 +29,8 @@
 
 - type: entity
   id: RightArmMotorkind
-  name: "мотоцикл переднє праве колесо"
-  description: "Колеса для мотоциклів, на жаль, не є універсальними, це було зроблено навмисно з міркувань капіталізму».
+  name: "motorkind front-right wheel"
+  description: "Motorkind wheels are unfortunately not universal, this was done intentionally for capitalism reasons."
   parent: [PartMotorkind, BaseRightArm]
   components:
   - type: Sprite
@@ -40,8 +40,8 @@
 
 - type: entity
   id: LeftLegMotorkind
-  name: "заднє ліве колесо мотоцикла"
-  description: "Колеса для мотоциклів, на жаль, не є універсальними, це було зроблено навмисно з міркувань капіталізму».
+  name: "motorkind back-left wheel"
+  description: "Motorkind wheels are unfortunately not universal, this was done intentionally for capitalism reasons."
   parent: [PartMotorkind, BaseLeftLeg]
   components:
   - type: MovementBodyPart
@@ -55,8 +55,8 @@
 
 - type: entity
   id: RightLegMotorkind
-  name: "uplink-syndicate-sponge-box-desc
-  description: "Колеса для мотоциклів, на жаль, не є універсальними, це було зроблено навмисно з міркувань капіталізму».
+  name: "motorkind back-right wheel"
+  description: "Motorkind wheels are unfortunately not universal, this was done intentionally for capitalism reasons."
   parent: [PartMotorkind, BaseRightLeg]
   components:
   - type: MovementBodyPart
@@ -70,5 +70,5 @@
 
 - type: entity
   id: HeadMotorkind
-  name: "моторна голова"
+  name: "motorkind head"
   parent: [PartMotorkind, BaseHead]

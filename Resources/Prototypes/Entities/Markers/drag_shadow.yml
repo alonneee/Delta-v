@@ -1,5 +1,5 @@
 - type: entity
-  name: перетягнути тінь
+  name: drag shadow
   id: dragshadow
   categories: [ HideSpawnMenu ]
   components:

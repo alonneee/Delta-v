@@ -1,8 +1,8 @@
 ﻿- type: entity
-  name: аварійна ракета
+  name: emergency flare
   parent: BaseItem
   id: Flare
-  description: Спалах, який створює дуже яскраве світло на короткий час. Направте вогонь від себе.
+  description: A flare that produces a very bright light for a short while. Point the flame away from yourself.
   components:
   - type: Tag
     tags:

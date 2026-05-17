@@ -1,7 +1,7 @@
 - type: entity
   id: PresentBase
-  name: присутній
-  description: Маленька коробочка з неймовірними сюрпризами всередині.
+  name: present
+  description: A little box with incredible surprises inside.
   abstract: true
   components:
   - type: Sprite
@@ -12,7 +12,7 @@
 - type: entity
   id: Present
   parent: [PresentBase, BaseStorageItem]
-  suffix: Порожній
+  suffix: Empty
   components:
   - type: Item
     size: Normal
@@ -20,7 +20,7 @@
 - type: entity
   id: PresentRandomUnsafe
   parent: [PresentBase, BaseItem]
-  suffix: Заповнений, будь-який предмет
+  suffix: Filled, any item
   components:
   - type: RandomGift
     wrapper: PresentTrash
@@ -35,7 +35,7 @@
 - type: entity
   id: PresentRandomInsane
   parent: PresentRandomUnsafe
-  suffix: Заповнена, будь-яка сутність
+  suffix: Filled, any entity
   components:
     - type: RandomGift
       insaneMode: true
@@ -43,7 +43,7 @@
 - type: entity
   id: PresentRandom
   parent: [PresentBase, BaseItem]
-  suffix: Заповнений сейф
+  suffix: Filled Safe
   components:
   - type: SpawnItemsOnUse
     items:
@@ -414,7 +414,7 @@
 - type: entity
   id: PresentRandomCoal
   parent: [PresentBase, BaseItem]
-  suffix: Заповнене вугілля
+  suffix: Filled Coal
   components:
   - type: SpawnItemsOnUse
     items:
@@ -436,7 +436,7 @@
 - type: entity
   id: PresentRandomCash
   parent: [PresentBase, BaseItem]
-  suffix: Заповнена готівка
+  suffix: Filled Cash
   components:
   - type: SpawnItemsOnUse
     items:
@@ -474,8 +474,8 @@
   id: PresentTrash
   categories: [ HideSpawnMenu ]
   parent: BaseItem
-  name: обгортковий папір
-  description: Акуратно складений, обклеєний та зав'язаний бантом. Потім урочисто розірвали і кинули на підлогу.
+  name: wrapping paper
+  description: Carefully folded, taped, and tied with a bow. Then ceremoniously ripped apart and tossed on the floor.
   components:
   - type: Sprite
     sprite: Objects/Decoration/present.rsi

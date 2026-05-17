@@ -1,8 +1,8 @@
 - type: entity
-  name: Ідеально підходить для будь-якого поважаючого себе обсмажувача кави.
+  name: plant analyzer
   parent: BaseItem
   id: BasePlantAnalyzer
-  description: Портативний пристрій, який дозволяє сканувати насіння та рослини, щоб отримати детальну інформацію про їхні гени.
+  description: A handheld device that allows you to scan seeds and plants to get detailed information about their genes.
   abstract: true
   components:
   - type: Sprite
@@ -47,7 +47,7 @@
 - type: entity
   id: PlantAnalyzerEmpty
   parent: PlantAnalyzer
-  suffix: Порожній
+  suffix: Empty
   components:
   - type: ItemSlots
     slots:
@@ -57,7 +57,7 @@
 - type: entity
   id: PlantAnalyzerDebug
   parent: BasePlantAnalyzer
-  suffix: Налагодження
+  suffix: Debug
   components:
   - type: PlantAnalyzer
     settings:

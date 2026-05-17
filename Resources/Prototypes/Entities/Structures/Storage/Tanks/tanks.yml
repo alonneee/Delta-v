@@ -5,7 +5,7 @@
   parent: [StorageTank, StructureWheeled]
   name: fuel tank
   description: A fuel tank. It's used to store high amounts of fuel.
-  suffix: Порожній
+  suffix: Empty
   components:
   - type: StaticPrice
     price: 750
@@ -43,7 +43,7 @@
 - type: entity
   id: WeldingFuelTankFull
   parent: WeldingFuelTank
-  suffix: Повний
+  suffix: Full
   components:
   - type: SolutionContainerManager
     solutions:
@@ -57,7 +57,7 @@
   id: WeldingFuelTankHighCapacity
   name: high-capacity fuel tank
   description: A highly pressurized fuel tank made to hold gargantuan amounts of welding fuel.
-  suffix: Повний
+  suffix: Full
   components:
   - type: StaticPrice
     price: 2500
@@ -89,7 +89,7 @@
   parent: [StorageTank, StructureWheeled]
   name: water tank
   description: A water tank. It's used to store high amounts of water.
-  suffix: Порожній
+  suffix: Empty
   components:
   - type: StaticPrice
     price: 500
@@ -110,7 +110,7 @@
 - type: entity
   parent: WaterTank
   id: WaterTankFull
-  suffix: Повний
+  suffix: Full
   components:
   - type: SolutionContainerManager
     solutions:
@@ -173,7 +173,7 @@
   id: WaterTankHighCapacity
   name: high-capacity water tank
   description: A highly pressurized water tank made to hold gargantuan amounts of water.
-  suffix: Повний
+  suffix: Full
   components:
   - type: StaticPrice
     price: 2500
@@ -205,7 +205,7 @@
 - type: entity
   id: GenericTank
   parent: [StorageTank, StructureWheeled]
-  suffix: Порожній
+  suffix: Empty
   components:
     - type: StaticPrice
       price: 500

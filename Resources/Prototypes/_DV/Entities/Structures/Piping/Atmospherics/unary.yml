@@ -2,7 +2,7 @@
 - type: entity
   parent: [ BaseUnsetSensor, GasVentScrubber ]
   id: GasVentScrubberTritium
-  suffix: Тритій
+  suffix: Tritium
   components:
   - type: GasVentScrubber
     wideNet: true
@@ -13,7 +13,7 @@
 - type: entity
   parent: GasThermoMachineFreezer
   id: GasThermoMachineKitchenFreezer
-  name: кухонна морозильна камера
+  name: kitchen freezer
   components:
   - type: Sprite
     sprite: _DV/Structures/Piping/Atmospherics/kitchenthermomachine.rsi

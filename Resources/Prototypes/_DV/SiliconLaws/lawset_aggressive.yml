@@ -21,7 +21,7 @@
 
 - type: siliconLawset
   id: Aggressive
-  name: фраза-сумка
+  name: law-agressive-name
   laws:
   - Aggressive1
   - Aggressive2

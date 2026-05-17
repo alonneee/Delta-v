@@ -1,7 +1,7 @@
 - type: entity
   id: CartridgeLightRifleImprovised
-  name: саморобний патрон (.30 rifle)
-  description: Гвинтівкова куля ручної роботи, яка використовує фосфор замість пороху.
+  name: improvised cartridge (.30 rifle)
+  description: A handmade rifle bullet, uses phosphorus as a propellent instead of gunpowder. 
   parent: BaseCartridgeLightRifle
   components:
   - type: CartridgeAmmo

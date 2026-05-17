@@ -1,6 +1,6 @@
 - type: radioChannel
   id: Conspiracy
-  name: чат-радіо-змова
+  name: chat-radio-conspiracy
   keycode: 'o'
   frequency: 1174
   color: "#724F29"

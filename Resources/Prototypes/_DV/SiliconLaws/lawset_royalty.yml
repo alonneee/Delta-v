@@ -25,7 +25,7 @@
 
 - type: siliconLawset
   id: Royalty
-  name: закон-роялті-ім'я
+  name: law-royalty-name
   laws:
   - Royalty1
   - Royalty2

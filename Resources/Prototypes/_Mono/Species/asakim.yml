@@ -4,7 +4,7 @@
 
 - type: species
   id: Asakim
-  name: вид-назва-асакім
+  name: species-name-asakim
   roundStart: false # sad...
   prototype: MobAsakim
   sprites: MobAsakimSprites

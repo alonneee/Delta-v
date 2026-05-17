@@ -1,5 +1,5 @@
 - type: damageGroup
   id: Electronic
-  name: група пошкоджень-електрон
+  name: damage-group-electronic
   damageTypes:
     - Ion

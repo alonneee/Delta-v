@@ -1,8 +1,8 @@
 - type: reagent
   id: Heparin
-  name: reagent-name-exotic
+  name: reagent-name-heparin
   group: Toxins
-  desc: реагент-деск-гепарин
+  desc: reagent-desc-heparin
   physicalDesc: reagent-physical-desc-shiny
   flavor: sharp
   color: "#f9cab3"
@@ -20,7 +20,7 @@
 
 - type: reagent
   id: Rhigoxane # Reference to the old name for Hercuri on SS13, but directly a toxin.
-  name: назва реагенту-ригоксан
+  name: reagent-name-rhigoxane
   group: Toxins
   desc: reagent-desc-rhigoxane
   physicalDesc: reagent-physical-desc-refreshing
@@ -52,7 +52,7 @@
 
 - type: reagent
   id: Pestiline # Horseman of the Apocalypse >:3
-  name: назва-реагенту-пестилін
+  name: reagent-name-pestiline
   group: Toxins
   desc: reagent-desc-pestiline
   flavor: punishment

@@ -1,11 +1,11 @@
 - type: entity
   parent: BaseItem
   id: DefaultStationBeacon
-  name: станційний маяк
-  description: Смачно приготовлена ​​котлета Діно.
+  name: station beacon
+  description: A small device that transmits information to station maps. Can be configured.
   placement:
     mode: SnapgridCenter
-  suffix: Загальний
+  suffix: General
   components:
   - type: Sprite
     sprite: Objects/Devices/station_beacon.rsi
@@ -81,7 +81,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconUnanchored
-  suffix: Генерал, Безанкорний
+  suffix: General, Unanchored
   placement:
     mode: PlaceFree
   components:
@@ -99,8 +99,8 @@
 - type: entity
   parent: BaseItem
   id: StationBeaconPart
-  name: станційний маяк плоский пакет
-  description: Плоский пакет, який використовується для створення станційного маяка.
+  name: station beacon flatpack
+  description: A flatpack used for constructing a station beacon.
   components:
   - type: Item
     size: Small
@@ -117,7 +117,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconCommand
-  suffix: Команда
+  suffix: Command
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-command
@@ -126,7 +126,7 @@
 - type: entity
   parent: DefaultStationBeaconCommand
   id: DefaultStationBeaconBridge
-  suffix: Міст
+  suffix: Bridge
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-bridge
@@ -134,7 +134,7 @@
 - type: entity
   parent: DefaultStationBeaconCommand
   id: DefaultStationBeaconVault
-  suffix: Сховище
+  suffix: Vault
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-vault
@@ -142,7 +142,7 @@
 - type: entity
   parent: DefaultStationBeaconCommand
   id: DefaultStationBeaconGateway
-  suffix: Шлюз
+  suffix: Gateway
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-gateway
@@ -150,7 +150,7 @@
 - type: entity
   parent: DefaultStationBeaconCommand
   id: DefaultStationBeaconCaptainsQuarters
-  suffix: Капітанська квартира
+  suffix: Captain's Quarters
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-captain
@@ -158,7 +158,7 @@
 - type: entity
   parent: DefaultStationBeaconCommand
   id: DefaultStationBeaconHOPOffice
-  suffix: Офіс HOP
+  suffix: HOP's Office
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-hop
@@ -166,7 +166,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconSecurity
-  suffix: Безпека
+  suffix: Security
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-security
@@ -175,7 +175,7 @@
 - type: entity
   parent: DefaultStationBeaconSecurity
   id: DefaultStationBeaconBrig
-  suffix: Бриг
+  suffix: Brig
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-brig
@@ -183,7 +183,7 @@
 - type: entity
   parent: DefaultStationBeaconSecurity
   id: DefaultStationBeaconWardensOffice
-  suffix: Офіс наглядача
+  suffix: Warden's Office
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-warden
@@ -191,7 +191,7 @@
 - type: entity
   parent: DefaultStationBeaconSecurity
   id: DefaultStationBeaconHOSRoom
-  suffix: Кімната HOS
+  suffix: HOS’s Room
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-hos
@@ -199,7 +199,7 @@
 - type: entity
   parent: DefaultStationBeaconSecurity
   id: DefaultStationBeaconArmory
-  suffix: Збройова палата
+  suffix: Armory
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-armory
@@ -215,7 +215,7 @@
 - type: entity
   parent: DefaultStationBeaconSecurity
   id: DefaultStationBeaconDetectiveRoom
-  suffix: Кімната детектива
+  suffix: Detective's Room
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-detective
@@ -223,7 +223,7 @@
 - type: entity
   parent: DefaultStationBeaconJustice # Delta V - Courtroom uses justice colors
   id: DefaultStationBeaconCourtroom
-  suffix: Зал суду
+  suffix: Courtroom
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-courtroom
@@ -231,7 +231,7 @@
 - type: entity
   parent: DefaultStationBeaconJustice # Delta V - Law office uses justice colors
   id: DefaultStationBeaconLawOffice
-  suffix: Адвокатське бюро
+  suffix: Law Office
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-law
@@ -239,7 +239,7 @@
 - type: entity
   parent: DefaultStationBeaconSecurity
   id: DefaultStationBeaconSecurityCheckpoint
-  suffix: Сек КПП
+  suffix: Sec Checkpoint
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-security-checkpoint
@@ -247,7 +247,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconMedical
-  suffix: Медичний
+  suffix: Medical
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-medical
@@ -256,7 +256,7 @@
 - type: entity
   parent: DefaultStationBeaconMedical
   id: DefaultStationBeaconMedbay
-  suffix: Медбай
+  suffix: Medbay
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-medbay
@@ -264,7 +264,7 @@
 - type: entity
   parent: DefaultStationBeaconMedical
   id: DefaultStationBeaconChemistry
-  suffix: Хімія
+  suffix: Chemistry
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-chemistry
@@ -272,7 +272,7 @@
 - type: entity
   parent: DefaultStationBeaconMedical
   id: DefaultStationBeaconCryonics
-  suffix: Кріоніка
+  suffix: Cryonics
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-cryonics
@@ -280,7 +280,7 @@
 - type: entity
   parent: DefaultStationBeaconMedical
   id: DefaultStationBeaconCMORoom
-  suffix: Кімната CMO
+  suffix: CMO's room
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-cmo
@@ -288,7 +288,7 @@
 - type: entity
   parent: DefaultStationBeaconMedical
   id: DefaultStationBeaconMorgue
-  suffix: Морг
+  suffix: Morgue
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-morgue
@@ -296,7 +296,7 @@
 - type: entity
   parent: DefaultStationBeaconMedical
   id: DefaultStationBeaconSurgery
-  suffix: Хірургія
+  suffix: Surgery
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-surgery
@@ -304,7 +304,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconScience
-  suffix: Епістеміка #Delta V – перейменовано
+  suffix: Epistemics #Delta V - Renamed
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-epistemics #Delta V - Renamed
@@ -313,7 +313,7 @@
 - type: entity
   parent: DefaultStationBeaconScience
   id: DefaultStationBeaconRND
-  suffix: електроніка таймера сигналу
+  suffix: Research and Development
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-research-and-development
@@ -321,7 +321,7 @@
 - type: entity
   parent: DefaultStationBeaconScience
   id: DefaultStationBeaconServerRoom
-  suffix: Дослідницька серверна кімната
+  suffix: Research Server Room
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-research-server
@@ -329,7 +329,7 @@
 - type: entity
   parent: DefaultStationBeaconScience
   id: DefaultStationBeaconRDRoom
-  suffix: Кімната MG
+  suffix: MG's Room
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-mystagogue  #Delta V - Renamed
@@ -337,7 +337,7 @@
 - type: entity
   parent: DefaultStationBeaconScience
   id: DefaultStationBeaconRobotics
-  suffix: Робототехніка
+  suffix: Robotics
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-robotics
@@ -345,7 +345,7 @@
 - type: entity
   parent: DefaultStationBeaconScience
   id: DefaultStationBeaconArtifactLab
-  suffix: Лабораторія артефактів
+  suffix: Artifact Lab
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-artifact-lab
@@ -353,7 +353,7 @@
 - type: entity
   parent: DefaultStationBeaconScience
   id: DefaultStationBeaconAnomalyGenerator
-  suffix: Генератор аномалій
+  suffix: Anomaly Generator
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-anomaly-gen
@@ -361,7 +361,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconSupply
-  suffix: Логістика #Delta V - перейменовано
+  suffix: Logistics #Delta V - Renamed
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-logistics #Delta V - Renamed
@@ -370,7 +370,7 @@
 - type: entity
   parent: DefaultStationBeaconSupply
   id: DefaultStationBeaconCargoReception
-  suffix: Прийом логістики #Delta V - перейменовано
+  suffix: Logistics Reception #Delta V - Renamed
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-logistics-reception #Delta V - Renamed
@@ -378,7 +378,7 @@
 - type: entity
   parent: DefaultStationBeaconSupply
   id: DefaultStationBeaconCargoBay
-  suffix: Вантажний відсік
+  suffix: Cargo Bay
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-cargo-bay
@@ -386,7 +386,7 @@
 - type: entity
   parent: DefaultStationBeaconSupply
   id: DefaultStationBeaconQMRoom
-  suffix: LO #Delta V - перейменовано
+  suffix: LO #Delta V - Renamed
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-lo #Delta V - Renamed
@@ -394,7 +394,7 @@
 - type: entity
   parent: DefaultStationBeaconSupply
   id: DefaultStationBeaconSalvage
-  suffix: Порятунок
+  suffix: Salvage
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-salvage
@@ -402,7 +402,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconEngineering
-  suffix: Інженерія
+  suffix: Engineering
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-engineering
@@ -411,7 +411,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconCERoom
-  suffix: Кімната CE
+  suffix: CE's Room
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-ce
@@ -427,7 +427,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconSolars
-  suffix: Соляри
+  suffix: Solars
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-solars
@@ -438,7 +438,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconSolarsN
-  suffix: Солярс, Півн
+  suffix: Solars, North
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-solars-N
@@ -446,7 +446,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconSolarsNE
-  suffix: Соларс, північний схід
+  suffix: Solars, Northeast
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-solars-NE
@@ -454,7 +454,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconSolarsE
-  suffix: Солярс, іст
+  suffix: Solars, East
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-solars-E
@@ -462,7 +462,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconSolarsSE
-  suffix: Плата електроніки, яка використовується в картах станцій.
+  suffix: Solars, Southeast
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-solars-SE
@@ -470,7 +470,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconSolarsS
-  suffix: Солярс, Пд
+  suffix: Solars, South
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-solars-S
@@ -478,7 +478,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconSolarsSW
-  suffix: Соларс, південний захід
+  suffix: Solars, Southwest
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-solars-SW
@@ -486,7 +486,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconSolarsW
-  suffix: Соларс, Захід
+  suffix: Solars, West
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-solars-W
@@ -494,7 +494,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconSolarsNW
-  suffix: Соларс, північний захід
+  suffix: Solars, Northwest
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-solars-NW
@@ -510,7 +510,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconAnchor
-  suffix: Якір
+  suffix: Anchor
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-anchor
@@ -534,7 +534,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconTelecoms
-  suffix: Телекомунікації
+  suffix: Telecoms
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-telecoms
@@ -542,7 +542,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconAtmospherics
-  suffix: Атмосферність
+  suffix: Atmospherics
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-atmos
@@ -550,7 +550,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconTEG
-  suffix: ТЕГ
+  suffix: TEG
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-teg
@@ -558,7 +558,7 @@
 - type: entity
   parent: DefaultStationBeaconEngineering
   id: DefaultStationBeaconTechVault
-  suffix: Технічне сховище
+  suffix: Tech Vault
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-tech-vault
@@ -566,7 +566,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconService
-  suffix: Сервіс
+  suffix: Service
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-service
@@ -575,7 +575,7 @@
 - type: entity
   parent: DefaultStationBeaconService
   id: DefaultStationBeaconKitchen
-  suffix: кухня
+  suffix: Kitchen
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-kitchen
@@ -583,7 +583,7 @@
 - type: entity
   parent: DefaultStationBeaconService
   id: DefaultStationBeaconBar
-  suffix: Бар
+  suffix: Bar
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-bar
@@ -591,7 +591,7 @@
 - type: entity
   parent: DefaultStationBeaconService
   id: DefaultStationBeaconBotany
-  suffix: Ботаніка
+  suffix: Botany
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-botany
@@ -599,7 +599,7 @@
 - type: entity
   parent: DefaultStationBeaconService
   id: DefaultStationBeaconJanitorsCloset
-  suffix: Шафа Двірника
+  suffix: Janitor's Closet
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-janitor-closet #Delta V - Add for closet/outpost
@@ -607,7 +607,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconAI
-  suffix: ШІ
+  suffix: AI
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-ai
@@ -616,7 +616,7 @@
 - type: entity
   parent: DefaultStationBeaconAI
   id: DefaultStationBeaconAISatellite
-  suffix: ШІ супутник
+  suffix: AI Satellite
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-ai-sat
@@ -624,7 +624,7 @@
 - type: entity
   parent: DefaultStationBeaconAI
   id: DefaultStationBeaconAICore
-  suffix: Ядро ШІ
+  suffix: AI Core
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-ai-core
@@ -632,7 +632,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconArrivals
-  suffix: Прибуття
+  suffix: Arrivals
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-arrivals
@@ -643,7 +643,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconEvac
-  suffix: Евакуація
+  suffix: Evac
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-evac
@@ -651,7 +651,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconEVAStorage
-  suffix: Зберігання EVA
+  suffix: EVA Storage
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-eva-storage
@@ -659,7 +659,7 @@
 - type: entity
   parent: DefaultStationBeaconScience #Delta V - Chapel in Epi
   id: DefaultStationBeaconChapel
-  suffix: Каплиця
+  suffix: Chapel
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-chapel
@@ -667,7 +667,7 @@
 - type: entity
   parent: DefaultStationBeaconScience #Delta V - Library is in Epi
   id: DefaultStationBeaconLibrary
-  suffix: Бібліотека
+  suffix: Library
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-library
@@ -675,7 +675,7 @@
 - type: entity
   parent: DefaultStationBeaconService # Delta V - Use Service colors
   id: DefaultStationBeaconTheater
-  suffix: Театр
+  suffix: Theater
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-theater
@@ -683,7 +683,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconDorms
-  suffix: Гуртожитки
+  suffix: Dorms
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-dorms
@@ -691,7 +691,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconToolRoom
-  suffix: Інструментальна кімната
+  suffix: Tool Room
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-tools
@@ -699,7 +699,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconDisposals
-  suffix: Вибуття
+  suffix: Disposals
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-disposals
@@ -707,7 +707,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconCryosleep
-  suffix: Кріосон
+  suffix: Cryosleep
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-cryosleep
@@ -726,7 +726,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconEscapePodN
-  suffix: Escape Pod, північ
+  suffix: Escape Pod, North
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-escape-pod-N
@@ -734,7 +734,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconEscapePodNE
-  suffix: Escape Pod, північний схід
+  suffix: Escape Pod, Northeast
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-escape-pod-NE
@@ -742,7 +742,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconEscapePodE
-  suffix: Escape Pod, Схід
+  suffix: Escape Pod, East
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-escape-pod-E
@@ -750,7 +750,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconEscapePodSE
-  suffix: Escape Pod, південний схід
+  suffix: Escape Pod, Southeast
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-escape-pod-SE
@@ -758,7 +758,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconEscapePodS
-  suffix: Escape Pod, південь
+  suffix: Escape Pod, South
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-escape-pod-S
@@ -766,7 +766,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconEscapePodSW
-  suffix: Escape Pod, південний захід
+  suffix: Escape Pod, Southwest
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-escape-pod-SW
@@ -782,7 +782,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconEscapePodNW
-  suffix: Escape Pod, північний захід
+  suffix: Escape Pod, Northwest
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-escape-pod-NW
@@ -790,7 +790,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconVox
-  suffix: {
+  suffix: Vox
   components:
   - type: NavMapBeacon
     defaultText: station-beacon-vox
@@ -799,7 +799,7 @@
 - type: entity
   parent: DefaultStationBeacon
   id: DefaultStationBeaconGhost
-  suffix: Бу
+  suffix: Boo
   components:
   - type: Tag
     tags:
@@ -821,10 +821,10 @@
 - type: entity
   parent: DefaultStationBeaconGhost
   id: DefaultStationBeaconCentCommAfterhours
-  suffix: CentComm у позаурочний час
+  suffix: CentComm Afterhours
   components:
   - type: NavMapBeacon
-    text: Неробочий час
+    text: Afterhours
 
 - type: entity
   parent: DefaultStationBeaconGhost
@@ -832,7 +832,7 @@
   suffix: CentComm Thunder Dome
   components:
   - type: NavMapBeacon
-    text: Громокупол
+    text: Thunderdome
 
 - type: entity
   parent: DefaultStationBeaconGhost

@@ -1,7 +1,7 @@
 - type: job
   id: Brigmedic
-  name: робота-назва-бригмедик
-  description: посадова інструкція-бригмед
+  name: job-name-brigmedic
+  description: job-description-brigmedic
   playTimeTracker: JobBrigmedic
   requirements:
     - !type:DepartmentTimeRequirement

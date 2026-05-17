@@ -6,149 +6,149 @@
 - type: quickPhrase
   id: BountyPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-баунті
+  text: phrase-bounty
 
 - type: quickPhrase
   id: CargoShuttlePhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-вантаж-човник
+  text: phrase-cargo-shuttle
 
 - type: quickPhrase
   id: CratePhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-ящик
+  text: phrase-crate
 
 - type: quickPhrase
   id: MailPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-пошта
+  text: phrase-mail
 
 - type: quickPhrase
   id: OrderPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-порядок
+  text: phrase-order
 
 - type: quickPhrase
   id: OreProcessorPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-рудний процесор
+  text: phrase-ore-processor
 
 - type: quickPhrase
   id: RequestPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-прохання
+  text: phrase-request
 
 - type: quickPhrase
   id: SpesosPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-spesos
+  text: phrase-spesos
 
 - type: quickPhrase
   id: RestockPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-ресток
+  text: phrase-restock
 
 - type: quickPhrase
   id: FultonPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: словосполучення-фаєр
+  text: phrase-fulton
 
 - type: quickPhrase
   id: JetpackPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-реактивний ранець
+  text: phrase-jetpack
 
 - type: quickPhrase
   id: CrusherPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фразеолог
+  text: phrase-crusher
 
 - type: quickPhrase
   id: PKAPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-пка
+  text: phrase-pka
 
 - type: quickPhrase
   id: PickaxePhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-кирка
+  text: phrase-pickaxe
 
 - type: quickPhrase
   id: DrillPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фразеологізм
+  text: phrase-drill
 
 - type: quickPhrase
   id: OreBagPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-рудний мішок
+  text: phrase-ore-bag
 
 - type: quickPhrase
   id: SalvMagnetPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: плитка-сталева підлога
+  text: phrase-salv-magnet
 
 - type: quickPhrase
   id: ExpeditionPhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-експедиція
+  text: phrase-expedition
 
 - type: quickPhrase
   id: PlanetsidePhrase
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-planetside
+  text: phrase-planetside
 
 # Ores
 
 - type: quickPhrase
   id: PhraseLogisticsIron
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-залізо
+  text: phrase-iron
 
 - type: quickPhrase
   id: PhraseLogisticsCoal
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-вугілля
+  text: phrase-coal
 
 - type: quickPhrase
   id: PhraseLogisticsQuartz
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-кварц
+  text: phrase-quartz
 
 - type: quickPhrase
   id: PhraseLogisticsSalt
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-сіль
+  text: phrase-salt
 
 - type: quickPhrase
   id: PhraseLogisticsGold
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-золото
+  text: phrase-gold
 
 - type: quickPhrase
   id: PhraseLogisticsSilver
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-срібло
+  text: phrase-silver
 
 - type: quickPhrase
   id: PhraseLogisticsPlasma
   parent: BaseLogisticsSubjectPhrase
-  text: закон-репортер-ім'я
+  text: phrase-plasma
 
 - type: quickPhrase
   id: PhraseLogisticsUranium
   parent: BaseLogisticsSubjectPhrase
-  text: словосполучення-уран
+  text: phrase-uranium
 
 - type: quickPhrase
   id: PhraseLogisticsBananium
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-бананіум
+  text: phrase-bananium
 
 - type: quickPhrase
   id: PhraseLogisticsArtifactFragment
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-артефакт-фрагмент
+  text: phrase-artifact-fragment
 
 - type: quickPhrase
   id: PhraseLogisticsBluespaceCrystal
@@ -158,4 +158,4 @@
 - type: quickPhrase
   id: PhraseLogisticsDiamond
   parent: BaseLogisticsSubjectPhrase
-  text: фраза-діамант
+  text: phrase-diamond

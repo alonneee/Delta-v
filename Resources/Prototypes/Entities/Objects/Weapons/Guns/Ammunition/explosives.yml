@@ -153,7 +153,7 @@
 - type: entity
   parent: BaseGrenade
   id: GrenadeEMP
-  name: Граната ЕМП
+  name: EMP grenade
   components:
   - type: CartridgeAmmo
     proto: BulletGrenadeEMP
@@ -186,7 +186,7 @@
   parent: BaseCannonBall
   id: CannonBall
   name: cannonball
-  suffix: Пірат
+  suffix: Pirate
   components:
   - type: CartridgeAmmo
     proto: BulletCannonBall
@@ -199,7 +199,7 @@
   parent: BaseCannonBall
   id: CannonBallGrapeshot
   name: grapeshot
-  suffix: Пірат
+  suffix: Pirate
   components:
   - type: CartridgeAmmo
     proto: PelletGrapeshotSpread
@@ -212,7 +212,7 @@
   parent: BaseCannonBall
   id: CannonBallGlassshot
   name: glassshot
-  suffix: Пірат
+  suffix: Pirate
   components:
   - type: CartridgeAmmo
     proto: PelletGlassSpread

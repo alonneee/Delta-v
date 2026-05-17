@@ -23,9 +23,9 @@
 - type: entity
   parent: N14SignBase
   id: N14FlagWallUS
-  name: прапор
-  suffix: США
-  description: Прапор США.
+  name: flag
+  suffix: US
+  description: A US flag.
   components:
   - type: Sprite
     sprite: _Nuclear14/Structures/Wallmounts/walldecor.rsi
@@ -34,8 +34,8 @@
 - type: entity
   parent: N14FlagWallUS
   id: N14FlagWallChina
-  suffix: Китай
-  description: Китайський прапор.
+  suffix: China
+  description: A Chinese flag.
   components:
   - type: Sprite
     state: flag_china
@@ -43,8 +43,8 @@
 - type: entity
   parent: N14FlagWallUS
   id: N14FlagWallCalifornia
-  suffix: Каліфорнія
-  description: Прапор Каліфорнії.
+  suffix: California
+  description: A flag of California.
   components:
   - type: Sprite
     state: flag_cali
@@ -52,8 +52,8 @@
 - type: entity
   parent: N14FlagWallUS
   id: N14FlagWallArizona
-  suffix: Арізона
-  description: Прапор Арізони.
+  suffix: Arizona
+  description: A flag of Arizona.
   components:
   - type: Sprite
     state: flag_arizona
@@ -61,8 +61,8 @@
 - type: entity
   parent: N14FlagWallUS
   id: N14FlagWallColorado
-  suffix: Колорадо
-  description: Прапор штату Колорадо
+  suffix: colorado
+  description: A flag for the state of Colorado
   components:
   - type: Sprite
     state: flag_colorado
@@ -70,8 +70,8 @@
 - type: entity
   parent: N14FlagWallUS
   id: N14FlagWallDenver
-  suffix: Денвер
-  description: Прапор штату Денвер
+  suffix: denver
+  description: A flag for the state of Denver
   components:
   - type: Sprite
     state: flag_denver
@@ -80,8 +80,8 @@
 - type: entity
   parent: N14SignBase
   id: N14WallDecorClock
-  name: годинник
-  description: Годинник. # DeltaV
+  name: clock
+  description: A clock. # DeltaV
   components:
   - type: Sprite
     sprite: _Nuclear14/Structures/Wallmounts/walldecor.rsi
@@ -93,8 +93,8 @@
 - type: entity
   parent: N14WallDecorClock
   id: N14WallDecorCalendar
-  name: календар
-  description: Настінний календар.
+  name: calendar
+  description: A wall calendar.
   components:
   - type: Sprite
     state: calendar
@@ -109,8 +109,8 @@
 - type: entity
   parent: N14WallDecorClock
   id: N14WallDecorCross
-  name: хрестик
-  description: Дерев'яний хрест.
+  name: cross
+  description: A wooden cross.
   components:
   - type: Sprite
     state: cross
@@ -118,8 +118,8 @@
 - type: entity
   parent: N14WallDecorClock
   id: N14WallDecorWallscreen
-  name: настінний екран
-  description: На стіні висіла група моніторів.
+  name: wall screen
+  description: A cluster of monitors hung on the wall.
   components:
   - type: Sprite
     state: wallscreen

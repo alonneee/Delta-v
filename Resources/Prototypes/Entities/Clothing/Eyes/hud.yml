@@ -28,8 +28,8 @@
 - type: entity
   parent: [ ClothingEyesBase, BaseToggleClothing ] # DeltaV - Added BaseToggleClothing
   id: ClothingEyesHudDiagnostic
-  name: діагностичний худ
-  description: Наявний дисплей, здатний аналізувати цілісність і стан робототехніки та екзокостюмів. Виготовлений із се-борг-іуму. Має мод камери для роботи з Station AI. # DeltaV - Додати останнє речення
+  name: diagnostic hud
+  description: A heads-up display capable of analyzing the integrity and status of robotics and exosuits. Made out of see-borg-ium. Has a camera mod to work with Station AI. # DeltaV - Add last sentence
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/diag.rsi
@@ -60,8 +60,8 @@
 - type: entity
   parent: [ClothingEyesBase, ShowMedicalIcons]
   id: ClothingEyesHudMedical
-  name: медичний худ
-  description: Головний дисплей, який сканує гуманоїдів у полі зору та надає точні дані про стан їх здоров’я.
+  name: medical hud
+  description: A heads-up display that scans the humanoids in view and provides accurate data about their health status.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/med.rsi
@@ -76,8 +76,8 @@
 - type: entity
   parent: [ClothingEyesBase, ShowSecurityIcons, BaseSecurityContraband]
   id: ClothingEyesHudSecurity
-  name: худ безпеки
-  description: Проекційний дисплей, який сканує гуманоїдів у полі зору та надає точні дані про їхні ідентифікаційні статуси та записи безпеки.
+  name: security hud
+  description: A heads-up display that scans the humanoids in view and provides accurate data about their ID status and security records.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/sec.rsi
@@ -92,8 +92,8 @@
 - type: entity
   parent: [ClothingEyesBase, BaseCommandContraband]
   id: ClothingEyesHudCommand
-  name: адміністрації худ
-  description: Проекційний дисплей, який сканує гуманоїдів у полі зору та надає точні дані про їхній ідентифікаційний статус.
+  name: administration hud
+  description: A heads-up display that scans the humanoids in view and provides accurate data about their ID status.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/command.rsi
@@ -108,8 +108,8 @@
 - type: entity
   parent: ClothingEyesBase
   id: ClothingEyesHudBeer
-  name: пивні окуляри
-  description: Пара sunHud оснащена апаратурою для сканування реагентів, а також забезпечує вроджене розуміння в’язкості рідини під час руху.
+  name: beer goggles
+  description: A pair of sunHud outfitted with apparatus to scan reagents, as well as providing an innate understanding of liquid viscosity while in motion.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/beergoggles.rsi
@@ -128,8 +128,8 @@
 - type: entity
   parent: ClothingEyesBase
   id: ClothingEyesHudFriedOnion
-  name: смаженої цибулі окуляри
-  description: Наповнювач
+  name: fried onion goggles
+  description: Filler
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/friedonion.rsi
@@ -152,8 +152,8 @@
 - type: entity
   parent: ClothingEyesBase
   id: ClothingEyesHudOnionBeer
-  name: захисні окуляри
-  description: Наповнювач
+  name: thungerst goggles
+  description: Filler
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/onionbeer.rsi
@@ -165,8 +165,8 @@
 - type: entity
   parent: [ClothingEyesBase, ShowMedicalIcons]
   id: ClothingEyesHudMedOnion
-  name: медоніон худ
-  description: Наповнювач
+  name: medonion hud
+  description: Filler
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/medonion.rsi
@@ -177,8 +177,8 @@
 - type: entity
   parent: [ClothingEyesBase, ShowMedicalIcons]
   id: ClothingEyesHudMedOnionBeer
-  name: medthungerst худ
-  description: Наповнювач
+  name: medthungerst hud
+  description: Filler
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/medonionbeer.rsi
@@ -190,8 +190,8 @@
 - type: entity
   parent: [ClothingEyesBase, ShowSecurityIcons, ShowMedicalIcons, BaseSecurityCommandContraband]
   id: ClothingEyesHudMedSec
-  name: медсек худ
-  description: Очний дисплей, який виглядає як суміш медичного та охоронного екранів.
+  name: medsec hud
+  description: An eye display that looks like a mixture of medical and security huds.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/medsec.rsi
@@ -207,8 +207,8 @@
 - type: entity
   parent: [ClothingEyesBase, ShowSecurityIcons, ShowMedicalIcons]
   id: ClothingEyesHudMultiversal
-  name: мультиверсальний худ
-  description: Наповнювач
+  name: multiversal hud
+  description: Filler
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/medsecengi.rsi
@@ -224,7 +224,7 @@
   parent: [ClothingEyesBase, ShowSecurityIcons, ShowMedicalIcons]
   id: ClothingEyesHudOmni
   name: omni hud
-  description: Наповнювач
+  description: Filler
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/omni.rsi
@@ -241,8 +241,8 @@
 - type: entity
   parent: [ClothingEyesBase, ShowSecurityIcons, BaseSyndicateContraband]
   id: ClothingEyesHudSyndicate
-  name: синдикат візир
-  description: Професійний хед-ап дисплей синдикату, призначений для кращого виявлення гуманоїдів і їх подальшого усунення.
+  name: syndicate visor
+  description: The syndicate's professional head-up display, designed for better detection of humanoids and their subsequent elimination.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/synd.rsi
@@ -257,8 +257,8 @@
 - type: entity
   parent: [ClothingEyesBase, ShowSecurityIcons, BaseSyndicateContraband]
   id: ClothingEyesHudSyndicateAgent
-  name: синдикат медичний козирок
-  description: Професійний хедз-ап-дисплей Syndicate Corpsman, розроблений для швидкої діагностики статусу команди.
+  name: syndicate medical visor
+  description: The Syndicate Corpsman's professional heads-up display, designed for quick diagnosis of their team's status.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/syndagent.rsi
@@ -280,13 +280,13 @@
 - type: entity
   parent: [ClothingEyesGlassesSunglasses, ShowSecurityIcons]
   id: ClothingEyesGlassesHiddenSecurity
-  suffix: Синдикат
+  suffix: Syndicate
 
 - type: entity
   parent: [ClothingEyesHudMedical, ClothingHeadEyeBaseFlippable]
   id: ClothingEyesEyepatchHudMedical
-  name: медична пов'язка на око
-  description: Головний дисплей, який сканує гуманоїдів у полі зору та надає точні дані про стан їх здоров’я. Для справжніх патріотів.
+  name: medical hud eyepatch
+  description: A heads-up display that scans the humanoids in view and provides accurate data about their health status. For true patriots.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/medpatch.rsi
@@ -301,13 +301,13 @@
 - type: entity
   parent: [ClothingEyesEyepatchHudMedical, ClothingHeadEyeBaseFlipped]
   id: ClothingEyesEyepatchHudMedicalFlipped
-  name: медична пов'язка на око
+  name: medical hud eyepatch
 
 - type: entity
   parent: [ClothingEyesHudSecurity, ClothingHeadEyeBaseFlippable]
   id: ClothingEyesEyepatchHudSecurity
-  name: пов'язка на око безпеки hud
-  description: Проекційний дисплей, який сканує гуманоїдів у полі зору та надає точні дані про їхні ідентифікаційні статуси та записи безпеки. Для справжніх патріотів.
+  name: security hud eyepatch
+  description: A heads-up display that scans the humanoids in view and provides accurate data about their ID status and security records. For true patriots.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/secpatch.rsi
@@ -322,13 +322,13 @@
 - type: entity
   parent: [ClothingEyesEyepatchHudSecurity,  ClothingHeadEyeBaseFlipped]
   id: ClothingEyesEyepatchHudSecurityFlipped
-  name: пов'язка на око безпеки hud
+  name: security hud eyepatch
 
 - type: entity
   parent: [ClothingEyesHudBeer, ClothingHeadEyeBaseFlippable]
   id: ClothingEyesEyepatchHudBeer
-  name: пивна пов'язка на око
-  description: Пара sunHud оснащена апаратурою для сканування реагентів, а також забезпечує вроджене розуміння в’язкості рідини під час руху. Для справжніх патріотів.
+  name: beer hud eyepatch
+  description: A pair of sunHud outfitted with apparatus to scan reagents, as well as providing an innate understanding of liquid viscosity while in motion. For true patriots.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/beerpatch.rsi
@@ -338,13 +338,13 @@
 - type: entity
   parent: [ClothingEyesEyepatchHudBeer, ClothingHeadEyeBaseFlipped]
   id: ClothingEyesEyepatchHudBeerFlipped
-  name: пивна пов'язка на око
+  name: beer hud eyepatch
 
 - type: entity
   parent: [ClothingEyesHudDiagnostic, ClothingHeadEyeBaseFlippable]
   id: ClothingEyesEyepatchHudDiag
-  name: діагностична пов'язка на око hud
-  description: Наявний дисплей, здатний аналізувати цілісність і стан робототехніки та екзокостюмів. Виготовлений із се-борг-іуму.
+  name: diagnostic hud eyepatch
+  description: A heads-up display capable of analyzing the integrity and status of robotics and exosuits. Made out of see-borg-ium.
   components:
   - type: Sprite
     sprite: Clothing/Eyes/Hud/diagpatch.rsi
@@ -354,4 +354,4 @@
 - type: entity
   parent: [ClothingEyesEyepatchHudDiag, ClothingHeadEyeBaseFlipped]
   id: ClothingEyesEyepatchHudDiagFlipped
-  name: діагностична пов'язка на око hud
+  name: diagnostic hud eyepatch

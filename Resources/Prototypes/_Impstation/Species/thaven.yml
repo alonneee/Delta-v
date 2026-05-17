@@ -1,6 +1,6 @@
 - type: species
   id: Thaven
-  name: вид-назва-тавен
+  name: species-name-thaven
   roundStart: true
   prototype: MobThaven
   sprites: MobThavenSprites

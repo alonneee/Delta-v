@@ -2,7 +2,7 @@
 - type: entity
   parent: MarkerBase
   id: RandomItem
-  name: спавнер випадкових предметів
+  name: random item spawner
   components:
   - type: Sprite
     layers:

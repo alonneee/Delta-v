@@ -5,10 +5,10 @@
 
 - type: guideEntry
   id: Altars
-  name: путівник-вхід-вівтарі
+  name: guide-entry-altars
   text: "/ServerInfo/Guidebook/_DV/Epistemics/Altar.xml"
 
 - type: guideEntry
   id: ReverseEngineering
-  name: керівництво-введення-реверс-інжиніринг
+  name: guide-entry-reverse-engineering
   text: "/ServerInfo/Nyanotrasen/Guidebook/Epistemics/ReverseEngineering.xml"

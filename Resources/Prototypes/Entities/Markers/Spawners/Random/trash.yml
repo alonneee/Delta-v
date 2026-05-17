@@ -46,7 +46,7 @@
 - type: entity
   parent: MarkerBase
   id: RandomSpawner
-  name: Смітник
+  name: Trash Spawner
   suffix: 50
   components:
     - type: Sprite
@@ -77,7 +77,7 @@
 - type: entity
   parent: MarkerBase
   id: RandomBananaPeel90
-  name: спавнер випадкової бананової шкірки
+  name: random banana peel spawner
   components:
   - type: Sprite
     layers:

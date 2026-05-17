@@ -1,44 +1,44 @@
 - type: guideEntry
   id: Felinid
-  name: вид-назва-фелінід
+  name: species-name-felinid
   text: "/ServerInfo/Guidebook/Mobs/_DV/Felinid.xml"
 
 - type: guideEntry
   id: Harpy
-  name: вид-назва-гарпія
+  name: species-name-harpy
   text: "/ServerInfo/Guidebook/Mobs/_DV/Harpy.xml"
 
 - type: guideEntry
   id: Vulpkanin
-  name: вид-назва-вулпканін
+  name: species-name-vulpkanin
   text: "/ServerInfo/Guidebook/Mobs/_DV/Vulpkanin.xml"
 
 - type: guideEntry
   id: Oni
-  name: видова назва-оні
+  name: species-name-oni
   text: "/ServerInfo/Guidebook/Mobs/_DV/Oni.xml"
 
 - type: guideEntry
   id: Rodentia
-  name: вид-назва-rodentia
+  name: species-name-rodentia
   text: "/ServerInfo/Guidebook/Mobs/_DV/Rodentia.xml"
 
 - type: guideEntry
   id: Chitinid
-  name: вид-назва-хітинід
+  name: species-name-chitinid
   text: "/ServerInfo/Guidebook/Mobs/_DV/Chitinid.xml"
 
 - type: guideEntry
   id: Feroxi
-  name: motorkind
+  name: species-name-feroxi
   text: "/ServerInfo/Guidebook/Mobs/_DV/Feroxi.xml"
 
 - type: guideEntry
   id: Kitsune
-  name: вид-назва-кіцуне
+  name: species-name-kitsune
   text: "/ServerInfo/Guidebook/Mobs/_DV/Kitsune.xml"
 
 - type: guideEntry
   id: Avali
-  name: видова-назва-авали
+  name: species-name-avali
   text: "/ServerInfo/Guidebook/Mobs/_DV/Avali.xml"

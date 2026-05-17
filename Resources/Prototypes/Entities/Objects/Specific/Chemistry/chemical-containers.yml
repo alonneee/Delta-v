@@ -1,8 +1,8 @@
 - type: entity
   parent: [ DrinkBaseMaterialStrongPlastic, DrinkBase, DrinkVisualsAll ]
   id: Jug
-  name: глечик
-  description: Використовується для зберігання дуже великої кількості хімікатів або розчинів. Пихкати вкрай нерозумно.
+  name: jug
+  description: Used to contain a very large amount of chemicals or solutions. Chugging is extremely ill-advised.
   components:
   - type: Sprite
     sprite: _DV/Objects/Specific/Chemistry/jug.rsi # DeltaV - Resprited some medical items
@@ -50,7 +50,7 @@
 - type: entity
   parent: Jug
   id: JugPyraDerma
-  suffix: піра та дерма
+  suffix: pyra & derma
   components:
   - type: Label
     currentLabel: reagent-name-pyrazine-dermaline
@@ -66,7 +66,7 @@
 - type: entity
   parent: Jug
   id: JugDexPlusSaline
-  suffix: dex+ і фізіологічний розчин
+  suffix: dex+ & saline
   components:
   - type: Label
     currentLabel: reagent-name-dexalin-plus-saline
@@ -82,7 +82,7 @@
 - type: entity
   parent: Jug
   id: JugTrico
-  suffix: трикордразин
+  suffix: tricordrazine
   components:
   - type: Label
     currentLabel: reagent-name-tricordrazine
@@ -96,7 +96,7 @@
 - type: entity
   parent: Jug
   id: JugBlood
-  suffix: кров
+  suffix: blood
   components:
   - type: Label
     currentLabel: reagent-name-blood
@@ -110,7 +110,7 @@
 - type: entity
   parent: Jug
   id: JugWater
-  suffix: води
+  suffix: water
   components:
   - type: Label
     currentLabel: reagent-name-water
@@ -123,7 +123,7 @@
 
 - type: entity
   parent: Jug
-  suffix: вуглець
+  suffix: carbon
   id: JugCarbon
   categories: [ HideSpawnMenu ]
   components:
@@ -138,7 +138,7 @@
 
 - type: entity
   parent: Jug
-  suffix: йод
+  suffix: iodine
   id: JugIodine
   categories: [ HideSpawnMenu ]
   components:
@@ -153,7 +153,7 @@
 
 - type: entity
   parent: Jug
-  suffix: фтор
+  suffix: fluorine
   id: JugFluorine
   categories: [ HideSpawnMenu ]
   components:
@@ -168,7 +168,7 @@
 
 - type: entity
   parent: Jug
-  suffix: хлор
+  suffix: chlorine
   id: JugChlorine
   categories: [ HideSpawnMenu ]
   components:
@@ -183,7 +183,7 @@
 
 - type: entity
   parent: Jug
-  suffix: алюміній
+  suffix: aluminium
   id: JugAluminium
   categories: [ HideSpawnMenu ]
   components:
@@ -198,7 +198,7 @@
 
 - type: entity
   parent: Jug
-  suffix: фосфор
+  suffix: phosphorus
   id: JugPhosphorus
   categories: [ HideSpawnMenu ]
   components:
@@ -213,7 +213,7 @@
 
 - type: entity
   parent: Jug
-  suffix: сірка
+  suffix: sulfur
   id: JugSulfur
   categories: [ HideSpawnMenu ]
   components:
@@ -228,7 +228,7 @@
 
 - type: entity
   parent: Jug
-  suffix: кремній
+  suffix: silicon
   id: JugSilicon
   categories: [ HideSpawnMenu ]
   components:
@@ -243,7 +243,7 @@
 
 - type: entity
   parent: Jug
-  suffix: водень
+  suffix: hydrogen
   id: JugHydrogen
   categories: [ HideSpawnMenu ]
   components:
@@ -258,7 +258,7 @@
 
 - type: entity
   parent: Jug
-  suffix: літій
+  suffix: lithium
   id: JugLithium
   categories: [ HideSpawnMenu ]
   components:
@@ -273,7 +273,7 @@
 
 - type: entity
   parent: Jug
-  suffix: натрію
+  suffix: sodium
   id: JugSodium
   categories: [ HideSpawnMenu ]
   components:
@@ -288,7 +288,7 @@
 
 - type: entity
   parent: Jug
-  suffix: калію
+  suffix: potassium
   id: JugPotassium
   categories: [ HideSpawnMenu ]
   components:
@@ -303,7 +303,7 @@
 
 - type: entity
   parent: Jug
-  suffix: радій
+  suffix: radium
   id: JugRadium
   categories: [ HideSpawnMenu ]
   components:
@@ -318,7 +318,7 @@
 
 - type: entity
   parent: Jug
-  suffix: залізо
+  suffix: iron
   id: JugIron
   categories: [ HideSpawnMenu ]
   components:
@@ -333,7 +333,7 @@
 
 - type: entity
   parent: Jug
-  suffix: мідь
+  suffix: copper
   id: JugCopper
   categories: [ HideSpawnMenu ]
   components:
@@ -348,7 +348,7 @@
 
 - type: entity
   parent: Jug
-  suffix: золото
+  suffix: gold
   id: JugGold
   categories: [ HideSpawnMenu ]
   components:
@@ -363,7 +363,7 @@
 
 - type: entity
   parent: Jug
-  suffix: ртуть
+  suffix: mercury
   id: JugMercury
   categories: [ HideSpawnMenu ]
   components:
@@ -378,7 +378,7 @@
 
 - type: entity
   parent: Jug
-  suffix: срібло
+  suffix: silver
   id: JugSilver
   categories: [ HideSpawnMenu ]
   components:
@@ -393,7 +393,7 @@
 
 - type: entity
   parent: Jug
-  suffix: етанол
+  suffix: ethanol
   id: JugEthanol
   categories: [ HideSpawnMenu ]
   components:
@@ -408,7 +408,7 @@
 
 - type: entity
   parent: Jug
-  suffix: цукор
+  suffix: sugar
   id: JugSugar
   categories: [ HideSpawnMenu ]
   components:
@@ -423,7 +423,7 @@
 
 - type: entity
   parent: Jug
-  suffix: азот
+  suffix: nitrogen
   id: JugNitrogen
   categories: [ HideSpawnMenu ]
   components:
@@ -438,7 +438,7 @@
 
 - type: entity
   parent: Jug
-  suffix: кисень
+  suffix: oxygen
   id: JugOxygen
   categories: [ HideSpawnMenu ]
   components:
@@ -468,7 +468,7 @@
 
 - type: entity
   parent: Jug
-  suffix: паливо для зварювання
+  suffix: welding fuel
   id: JugWeldingFuel
   categories: [ HideSpawnMenu ]
   components:
@@ -483,7 +483,7 @@
 
 - type: entity
   parent: Jug
-  suffix: бікаридин
+  suffix: bicaridine
   id: JugBicaridine
   categories: [ HideSpawnMenu ]
   components:
@@ -498,7 +498,7 @@
 
 - type: entity
   parent: Jug
-  suffix: пунктураза
+  suffix: puncturase
   id: JugPuncturase
   categories: [ HideSpawnMenu ]
   components:
@@ -513,7 +513,7 @@
 
 - type: entity
   parent: Jug
-  suffix: дермалін
+  suffix: dermaline
   id: JugDermaline
   categories: [ HideSpawnMenu ]
   components:
@@ -528,7 +528,7 @@
 
 - type: entity
   parent: Jug
-  suffix: диловен
+  suffix: dylovene
   id: JugDylovene
   categories: [ HideSpawnMenu ]
   components:
@@ -543,7 +543,7 @@
 
 - type: entity
   parent: Jug
-  suffix: транексамова кислота
+  suffix: tranexamic acid
   id: JugTranexamicAcid
   categories: [ HideSpawnMenu ]
   components:
@@ -558,7 +558,7 @@
 
 - type: entity
   parent: Jug
-  suffix: гіроналін
+  suffix: hyronalin
   id: JugHyronalin
   categories: [ HideSpawnMenu ]
   components:
@@ -573,7 +573,7 @@
 
 - type: entity
   parent: Jug
-  suffix: фізіологічний розчин
+  suffix: saline
   id: JugSaline
   categories: [ HideSpawnMenu ]
   components:
@@ -588,7 +588,7 @@
 
 - type: entity
   parent: Jug
-  suffix: дексалін плюс
+  suffix: dexalin plus
   id: JugDexalinPlus
   categories: [ HideSpawnMenu ]
   components:

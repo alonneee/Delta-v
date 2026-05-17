@@ -1,7 +1,7 @@
 - type: job
   id: Botanist
-  name: робота-назва-ботанік
-  description: посадова інструкція-ботанік
+  name: job-name-botanist
+  description: job-description-botanist
   playTimeTracker: JobBotanist
   startingGear: BotanistGear
   icon: "JobIconBotanist"

@@ -7,14 +7,14 @@
   - type: CargoSellBlacklist
 
 - type: entity
-  name: Кліппі
+  name: Clippy
   parent: [NFMobPet, MobCatGhost]
   id: MobCatClippy
-  description: Здається, ви пишете листа, вам потрібна допомога?
+  description: It looks like you’re writing a letter, would you like help?
   components:
   - type: GhostRole
     name: ghost-role-information-clippy-name
-    description: ghost-role-information-deltav-clippy-description # DeltaV - Альтернативний опис
+    description: ghost-role-information-deltav-clippy-description # DeltaV - Alternate Description
     rules: ghost-role-information-nonantagonist-rules
 #    prototype: CatClippy # DeltaV - Comment out
   - type: Loadout

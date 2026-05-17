@@ -2,7 +2,7 @@
 
 - type: species
   id: Avali
-  name: видова-назва-авали
+  name: species-name-avali
   roundStart: true
   prototype: MobAvali # DeltaV - rename base entity
   sprites: MobAvaliSprites

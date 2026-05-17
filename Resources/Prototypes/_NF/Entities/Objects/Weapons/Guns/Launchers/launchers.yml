@@ -1,8 +1,8 @@
 - type: entity
-  name: пошта RPDS
+  name: mail RPDS
   parent: WeaponLauncherChinaLake
   id: WeaponMailLake
-  description: Система доставки посилок Rap(b?)id
+  description: Rap(b?)id Parcel Delivery System
   components:
   - type: Sprite
     sprite: _NF/Objects/Weapons/Guns/Launchers/mail.rsi

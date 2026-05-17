@@ -1,8 +1,8 @@
 - type: entity
   parent: BoxCardboard
   id: BoxTapeRecorder
-  name: коробка магнітофона
-  description: Коробка з різнокольоровими касетами та магнітофоном.
+  name: tape recorder box
+  description: A box with colorful cassette tapes and a tape recorder.
   components:
   - type: Sprite
     layers:
@@ -20,8 +20,8 @@
 - type: entity
   parent: BoxCardboard
   id: BoxMindshield
-  name: коробка розумового щита
-  description: Коробка, наповнена імплантатами щита розуму.
+  name: mindshield box
+  description: A box filled with mindshield implants.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -32,8 +32,8 @@
 - type: entity
   parent: BoxCardboard
   id: BoxC4
-  name: коробка c4
-  description: Ящик, наповнений C4.
+  name: c4 box
+  description: A box filled with C4s.
   components:
   - type: EntityTableContainerFill
     containers:

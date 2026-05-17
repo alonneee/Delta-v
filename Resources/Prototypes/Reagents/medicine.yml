@@ -1,6 +1,6 @@
 - type: reagent
   id: Cryptobiolin
-  name: назва-реагенту-криптобіолін
+  name: reagent-name-cryptobiolin
   group: Medicine
   desc: reagent-desc-cryptobiolin
   physicalDesc: reagent-physical-desc-fizzy
@@ -20,7 +20,7 @@
 
 - type: reagent
   id: Dylovene
-  name: ім'я-реагенту-диловен
+  name: reagent-name-dylovene
   group: Medicine
   desc: reagent-desc-dylovene
   physicalDesc: reagent-physical-desc-translucent
@@ -74,7 +74,7 @@
 
 - type: reagent
   id: Diphenhydramine
-  name: назва реагенту-димедрол
+  name: reagent-name-diphenhydramine
   group: Medicine
   desc: reagent-desc-diphenhydramine
   physicalDesc: reagent-physical-desc-chalky
@@ -100,7 +100,7 @@
 
 - type: reagent
   id: Ethylredoxrazine
-  name: назва реагенту етилредоксазин
+  name: reagent-name-ethylredoxrazine
   group: Medicine
   desc: reagent-desc-ethylredoxrazine
   physicalDesc: reagent-physical-desc-opaque
@@ -120,7 +120,7 @@
 
 - type: reagent
   id: Arithrazine
-  name: ім'я-реагенту-аритразин
+  name: reagent-name-arithrazine
   group: Medicine
   desc: reagent-desc-arithrazine
   physicalDesc: reagent-physical-desc-cloudy
@@ -174,7 +174,7 @@
 
 - type: reagent
   id: Cryoxadone
-  name: назва-реагенту-кріоксадон
+  name: reagent-name-cryoxadone
   group: Medicine
   desc: reagent-desc-cryoxadone
   physicalDesc: reagent-physical-desc-fizzy
@@ -203,7 +203,7 @@
 
 - type: reagent
   id: Doxarubixadone
-  name: назва реагенту-доксарубіксадон
+  name: reagent-name-doxarubixadone
   group: Medicine
   desc: reagent-desc-doxarubixadone-deltav # DeltaV
   physicalDesc: reagent-physical-desc-bubbling
@@ -223,7 +223,7 @@
 
 - type: reagent
   id: Dermaline
-  name: назва-реагенту-дермалін
+  name: reagent-name-dermaline
   group: Medicine
   desc: reagent-desc-dermaline
   physicalDesc: reagent-physical-desc-translucent
@@ -257,9 +257,9 @@
 
 - type: reagent
   id: Dexalin
-  name: ім'я реагенту-дексалін
+  name: reagent-name-dexalin
   group: Medicine
-  desc: reagent-desc-dexalin-deltav # Deltav - видалити згадку про dex+
+  desc: reagent-desc-dexalin-deltav # Deltav - Remove mention of dex+
   physicalDesc: reagent-physical-desc-opaque
   flavor: medicine
   color: "#0041a8"
@@ -283,7 +283,7 @@
 
 - type: reagent
   id: DexalinPlus
-  name: назва-реагенту-дексалін-плюс
+  name: reagent-name-dexalin-plus
   abstract: true # Funkychem - no more dex+
   group: Medicine
   desc: reagent-desc-dexalin-plus
@@ -318,7 +318,7 @@
 # this ones a doozy
 - type: reagent
   id: Epinephrine
-  name: реагент-назва-епінефрин
+  name: reagent-name-epinephrine
   group: Medicine
   desc: reagent-desc-epinephrine
   physicalDesc: reagent-physical-desc-odorless
@@ -421,7 +421,7 @@
 
 - type: reagent
   id: Ipecac
-  name: назва-реагенту-іпекакуани
+  name: reagent-name-ipecac
   group: Medicine
   desc: reagent-desc-ipecac
   physicalDesc: reagent-physical-desc-inky
@@ -441,9 +441,9 @@
 
 - type: reagent
   id: Inaprovaline
-  name: назва-реагенту-сіра речовина
+  name: reagent-name-inaprovaline
   group: Medicine
-  desc: reagent-name-silver
+  desc: reagent-desc-inaprovaline
   physicalDesc: reagent-physical-desc-opaque
   flavor: medicine
   color: "#731024"
@@ -464,7 +464,7 @@
 
 - type: reagent
   id: Kelotane
-  name: назва реагенту-келотан
+  name: reagent-name-kelotane
   group: Medicine
   desc: reagent-desc-kelotane
   physicalDesc: reagent-physical-desc-strong-smelling
@@ -535,7 +535,7 @@
   id: Barozine
   name: reagent-name-barozine
   group: Medicine
-  desc: reagent-desc-fersilicite
+  desc: reagent-desc-barozine
   physicalDesc: reagent-physical-desc-viscous
   flavor: medicine
   color: "#ff867d"
@@ -579,7 +579,7 @@
 
 - type: reagent
   id: Phalanximine
-  name: реагент-назва-фаланксимін
+  name: reagent-name-phalanximine
   group: Medicine
   desc: reagent-desc-phalanximine
   physicalDesc: reagent-physical-desc-acrid
@@ -647,9 +647,9 @@
 
 - type: reagent
   id: Ambuzol
-  name: ім'я-реагенту-амбузол
+  name: reagent-name-ambuzol
   group: Medicine
-  desc: reagent-desc-амбузол
+  desc: reagent-desc-ambuzol
   physicalDesc: reagent-physical-desc-crisp
   flavor: medicine
   color: "#86caf7"
@@ -664,9 +664,9 @@
 
 - type: reagent
   id: AmbuzolPlus
-  name: назва-реагенту-амбузол-плюс
+  name: reagent-name-ambuzol-plus
   group: Medicine
-  desc: реагент-дес-амбузол-плюс
+  desc: reagent-desc-ambuzol-plus
   physicalDesc: reagent-physical-desc-crisp
   flavor: medicine
   color: "#1274b5"
@@ -696,7 +696,7 @@
 
 - type: reagent
   id: Saline
-  name: назва-реагенту-фізіологічний розчин
+  name: reagent-name-saline
   group: Medicine
   desc: reagent-desc-saline
   physicalDesc: reagent-physical-desc-salty
@@ -856,7 +856,7 @@
   # Should heal quite literally everything, use in very small amounts
 - type: reagent
   id: Omnizine
-  name: назва-реагенту-омнізин
+  name: reagent-name-omnizine
   group: Medicine
   desc: reagent-desc-omnizine-deltav
   physicalDesc: reagent-physical-desc-soothing
@@ -958,7 +958,7 @@
 
 - type: reagent
   id: Cognizine
-  name: Сліпуча напівпрозора сутність, яскраве око здається небезпечним і обпікаючим.
+  name: reagent-name-cognizine
   desc: reagent-desc-cognizine
   group: Medicine
   physicalDesc: reagent-physical-desc-enigmatic
@@ -975,8 +975,8 @@
 
 - type: reagent
   id: Ethyloxyephedrine
-  name: назва реагенту - етилоксиефедрин
-  desc: reagent-desc-ethyloxyefedrine
+  name: reagent-name-ethyloxyephedrine
+  desc: reagent-desc-ethyloxyephedrine
   group: Medicine
   physicalDesc: reagent-physical-desc-shiny
   flavor: medicine
@@ -1005,8 +1005,8 @@
 
 - type: reagent
   id: Diphenylmethylamine
-  name: назва реагенту-дифенілметиламін
-  desc: reagent-desc-дифенілметиламін
+  name: reagent-name-diphenylmethylamine
+  desc: reagent-desc-diphenylmethylamine
   group: Medicine
   physicalDesc: reagent-physical-desc-glowing
   flavor: medicine
@@ -1031,7 +1031,7 @@
 
 - type: reagent
   id: Sigynate
-  name: назва-реагенту-сигинат
+  name: reagent-name-sigynate
   group: Medicine
   desc: reagent-desc-sigynate
   physicalDesc: reagent-physical-desc-thick
@@ -1091,7 +1091,7 @@
 
 - type: reagent
   id: Lacerinol
-  name: реагент-назва-лацеринол
+  name: reagent-name-lacerinol
   group: Medicine
   desc: reagent-desc-lacerinol
   physicalDesc: reagent-physical-desc-viscous
@@ -1117,7 +1117,7 @@
 
 - type: reagent
   id: Puncturase
-  name: реагент-назва-пунктураза
+  name: reagent-name-puncturase
   group: Medicine
   desc: reagent-desc-puncturase
   physicalDesc: reagent-physical-desc-fizzy
@@ -1261,7 +1261,7 @@
 
 - type: reagent
   id: Insuzine
-  name: назва-реагенту-інсузин
+  name: reagent-name-insuzine
   group: Medicine
   desc: reagent-desc-insuzine
   physicalDesc: reagent-physical-desc-frosty
@@ -1308,7 +1308,7 @@
 
 - type: reagent
   id: Opporozidone #Name based of an altered version of the startreck chem "Opporozine"
-  name: ім'я-реагенту-оппорозидон
+  name: reagent-name-opporozidone
   group: Medicine
   desc: reagent-desc-opporozidone
   physicalDesc: reagent-physical-desc-sickly
@@ -1329,7 +1329,7 @@
 
 - type: reagent
   id: Arcryox
-  name: назва-реагенту-аркріокс
+  name: reagent-name-arcryox
   group: Medicine
   desc: reagent-desc-arcryox
   physicalDesc: reagent-physical-desc-arcryox
@@ -1393,7 +1393,7 @@
 
 - type: reagent
   id: Aloxadone
-  name: назва-реагенту-алоксадон
+  name: reagent-name-aloxadone
   group: Medicine
   desc: reagent-desc-aloxadone
   physicalDesc: reagent-physical-desc-soothing
@@ -1412,7 +1412,7 @@
 
 - type: reagent
   id : Mannitol # currently this is just a way to create psicodine
-  name: назва реагенту-маніт
+  name: reagent-name-mannitol
   group: Medicine
   desc: reagent-desc-mannitol
   physicalDesc: reagent-physical-desc-opaque
@@ -1433,7 +1433,7 @@
 
 - type: reagent
   id: Psicodine
-  name: назва-реагенту-псикодин
+  name: reagent-name-psicodine
   group: Medicine
   desc: reagent-desc-psicodine
   physicalDesc: reagent-physical-desc-shiny
@@ -1477,9 +1477,9 @@
 
 - type: reagent
   id: PotassiumIodide
-  name: назва-реагенту-атомна-бомба
+  name: reagent-name-potassium-iodide
   group: Medicine
-  desc: reagent-desc-potassium-jodide
+  desc: reagent-desc-potassium-iodide
   physicalDesc: reagent-physical-desc-grainy
   flavor: medicine
   color: "#baa15d"
@@ -1502,7 +1502,7 @@
 
 - type: reagent
   id: Haloperidol
-  name: назва реагенту-галоперидол
+  name: reagent-name-haloperidol
   group: Medicine
   desc: reagent-desc-haloperidol
   physicalDesc: reagent-physical-desc-crystalline
@@ -1554,7 +1554,7 @@
 
 - type: reagent
   id: Warfarin
-  name: назва реагенту варфарин
+  name: reagent-name-warfarin
   group: Medicine
   desc: reagent-desc-warfarin
   physicalDesc: reagent-physical-desc-thin

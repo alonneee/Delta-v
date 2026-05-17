@@ -1,8 +1,8 @@
 - type: entity
-  name: Ремілія
+  name: Remilia
   parent: MobBat
   id: MobBatRemilia
-  description: Капелан знайомий. Любить фрукти.
+  description: The chaplain's familiar. Likes fruit.
   components:
   - type: GhostRole
     makeSentient: true
@@ -39,10 +39,10 @@
   - type: Psionic #Nyano - Summary: Makes psionic on creation.
 
 - type: entity
-  name: Цербер
+  name: Cerberus
   parent: MobCorgiNarsi
   id: MobCorgiCerberus
-  description: Це цуценя не корисне.
+  description: This pupper is not wholesome.
   components:
   - type: GhostRole
     makeSentient: true

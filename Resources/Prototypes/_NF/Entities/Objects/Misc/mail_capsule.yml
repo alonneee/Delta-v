@@ -1,6 +1,6 @@
 - type: entity
-  name: поштова капсула
-  suffix: Заґрунтований
+  name: mail capsule
+  suffix: Primed
   id: MailCapsulePrimed
   parent: BaseItem
   components:
@@ -22,7 +22,7 @@
       mail_slot:
         insertVerbText: Put in Mail
         ejectVerbText: Take out Mail
-        name: { ent-CrateHolyWaterKit }
+        name: Mail
         startingItem: null
         whitelist:
           tags:
@@ -37,7 +37,7 @@
       food_slot:
         insertVerbText: Put in Food
         ejectVerbText: Take out Food
-        name: харчування
+        name: Food
         startingItem: null
         whitelist:
           components:
@@ -51,7 +51,7 @@
       cash_slot:
         insertVerbText: Put in Cash
         ejectVerbText: Take out Cash
-        name: Готівка
+        name: Cash
         startingItem: null
         whitelist:
           components:
@@ -124,10 +124,10 @@
         Blunt: 9.5
 
 - type: entity
-  name: поштова капсульна скринька
+  name: mail capsule box
   parent: BoxCardboard
   id: BoxMailCapsulePrimed
-  description: Коробка заправлених поштових капсул.
+  description: A box of primed mail capsules.
   components:
   - type: Storage
     grid:

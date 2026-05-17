@@ -1,7 +1,7 @@
 - type: entity
   id: AdminInstantEffectBase
   abstract: true
-  name: миттєвий ефект
+  name: instant effect
   components:
   - type: Sprite
     sprite: /Textures/Objects/Fun/goldbikehorn.rsi
@@ -30,7 +30,7 @@
 
 - type: entity
   id: AdminInstantEffectFlash
-  suffix: Спалах
+  suffix: Flash
   parent: AdminInstantEffectBase
   components:
   - type: FlashOnTrigger
@@ -40,7 +40,7 @@
 
 - type: entity
   id: AdminInstantEffectSmoke3
-  suffix: Дим (03 сек)
+  suffix: Smoke (03 sec)
   parent: AdminInstantEffectBase
   components:
   - type: SmokeOnTrigger
@@ -54,7 +54,7 @@
 
 - type: entity
   id: AdminInstantEffectSmoke10
-  suffix: Дим (10 с)
+  suffix: Smoke (10 sec)
   parent: AdminInstantEffectBase
   components:
   - type: SmokeOnTrigger
@@ -68,7 +68,7 @@
 
 - type: entity
   id: AdminInstantEffectSmoke30
-  suffix: Дим (30 с)
+  suffix: Smoke (30 sec)
   parent: AdminInstantEffectBase
   components:
   - type: SmokeOnTrigger
@@ -82,7 +82,7 @@
 
 - type: entity
   id: AdminInstantEffectTearGas
-  suffix: Сльозогінний газ
+  suffix: Tear Gas
   parent: AdminInstantEffectBase
   components:
   - type: SmokeOnTrigger
@@ -95,7 +95,7 @@
 
 - type: entity
   id: AdminInstantEffectGravityWell
-  suffix: Гравітаційний колодязь
+  suffix: Gravity Well
   parent: AdminInstantEffectBase
   components:
   - type: EmitSoundOnTrigger

@@ -30,7 +30,7 @@
 
 - type: siliconLawset
   id: Cowboy
-  name: закон-ковбой-ім'я
+  name: law-cowboy-name
   laws:
   - Cowboy1
   - Cowboy2

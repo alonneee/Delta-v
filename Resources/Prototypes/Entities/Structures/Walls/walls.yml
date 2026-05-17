@@ -67,7 +67,7 @@
   abstract: true
   parent: BaseStructureWall
   id: WallDiagonalBase
-  suffix: Діагональ
+  suffix: Diagonal
   components:
   - type: Tag
     tags:
@@ -269,7 +269,7 @@
   parent: BaseWall
   id: WallDebug
   name: debug wall
-  suffix: НАЛАШТУВАННЯ
+  suffix: DEBUG
   components:
   - type: Tag
     tags:
@@ -865,7 +865,7 @@
 - type: entity
   parent: WallDiagonalBase
   id: WallShuttleDiagonal
-  name: човникова стінка
+  name: shuttle wall
   components:
   - type: Sprite
     drawdepth: Walls
@@ -935,7 +935,7 @@
 - type: entity
   parent: BaseWall
   id: WallShuttle
-  name: човникова стінка
+  name: shuttle wall
   suffix: Reinforced, Exterior # DeltaV - distinguish it from interior
   components:
   - type: Damageable

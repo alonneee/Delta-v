@@ -1,8 +1,8 @@
 - type: entity
-  name: токсин, що порушує розум
+  name: mindbreaker toxin
   parent: Pill
   id: PillMindbreakerToxin
-  description: Видаляє псіоніку при попаданні всередину. Слабо отруйний.
+  description: Removes psionics when ingested. Mildly poisonous.
   components:
   - type: SolutionContainerManager
     solutions:

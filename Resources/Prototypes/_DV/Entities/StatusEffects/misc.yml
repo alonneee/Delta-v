@@ -3,6 +3,6 @@
 - type: entity
   parent: MobStatusEffectDebuff
   id: StatusEffectChronicPainSuppressed
-  name: придушення хронічного болю
+  name: chronic pain suppression
   components:
   - type: ChronicPainSuppressedStatusEffect

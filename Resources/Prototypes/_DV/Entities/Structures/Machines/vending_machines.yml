@@ -39,7 +39,7 @@
 - type: entity
   parent: VendingMachineBooze
   id: VendingMachineBoozeCommand
-  suffix: Команда
+  suffix: Command
   components:
   - type: VendingMachine
     pack: BoozeOMatCommandInventory

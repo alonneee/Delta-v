@@ -22,8 +22,8 @@
   parent: GasTankBase
   abstract: true
   id: BaseJetpack
-  name: реактивний ранець
-  description: Це реактивний ранець. Він може вмістити 5 л газу.
+  name: jetpack
+  description: It's a jetpack. It can hold 5 L of gas.
   components:
     - type: Sprite
       sprite: _DV/Objects/Tanks/Jetpacks/blue.rsi # DeltaV - Modified sprites to allow SUITSTORAGE use.
@@ -65,8 +65,8 @@
 - type: entity
   parent: BaseAction
   id: ActionToggleJetpack
-  name: Перемкнути реактивний ранець
-  description: Перемикає реактивний ранець, дозволяючи рухатися за межами станції.
+  name: Toggle jetpack
+  description: Toggles the jetpack, giving you movement outside the station.
   components:
   - type: Action
     icon:
@@ -83,8 +83,8 @@
 - type: entity
   id: JetpackBlue
   parent: BaseJetpack
-  name: реактивний ранець
-  suffix: Порожній
+  name: jetpack
+  suffix: Empty
   components:
   - type: Sprite
     sprite: _DV/Objects/Tanks/Jetpacks/blue.rsi # DeltaV - Modified sprites to allow SUITSTORAGE use.
@@ -99,8 +99,8 @@
 - type: entity
   id: JetpackBlueFilled
   parent: JetpackBlue
-  name: реактивний ранець
-  suffix: Заповнений
+  name: jetpack
+  suffix: Filled
   components:
   - type: GasTank
     outputPressure: 42.6
@@ -116,8 +116,8 @@
 - type: entity
   id: JetpackBlack
   parent: [BaseJetpack, BaseSyndicateContraband]
-  name: реактивний ранець
-  suffix: Порожній
+  name: jetpack
+  suffix: Empty
   components:
   - type: Item
     sprite: _DV/Objects/Tanks/Jetpacks/black.rsi # DeltaV - Modified sprites to allow SUITSTORAGE use.
@@ -136,8 +136,8 @@
 - type: entity
   id: JetpackBlackFilled
   parent: JetpackBlack
-  name: реактивний ранець
-  suffix: Заповнений
+  name: jetpack
+  suffix: Filled
   components:
   - type: GasTank
     outputPressure: 42.6
@@ -153,8 +153,8 @@
 - type: entity
   id: JetpackCaptain
   parent: [BaseJetpack, BaseGrandTheftContraband]
-  name: пакетик насіння амброзії деус
-  suffix: Порожній
+  name: captain's jetpack
+  suffix: Empty
   components:
   - type: Sprite
     sprite: Objects/Tanks/Jetpacks/captain.rsi
@@ -177,8 +177,8 @@
 - type: entity
   id: JetpackCaptainFilled
   parent: JetpackCaptain
-  name: пакетик насіння амброзії деус
-  suffix: Заповнений
+  name: captain's jetpack
+  suffix: Filled
   components:
   - type: GasTank
     outputPressure: 42.6
@@ -194,9 +194,9 @@
 - type: entity
   id: JetpackMini
   parent: BaseJetpack
-  name: міні реактивний ранець
-  description: Комуністи стережіться: прибуло підкріплення! На ярлику написано ЛИШЕ ДЛЯ ОХОРОНИ".
-  suffix: Порожній
+  name: mini jetpack
+  description: It's a jetpack. It can hold 1.5 L of gas.
+  suffix: Empty
   components:
     - type: Item
       sprite: Objects/Tanks/Jetpacks/mini.rsi
@@ -217,8 +217,8 @@
 - type: entity
   id: JetpackMiniFilled
   parent: JetpackMini
-  name: міні реактивний ранець
-  suffix: Заповнений
+  name: mini jetpack
+  suffix: Filled
   components:
   - type: GasTank
     outputPressure: 42.6
@@ -234,9 +234,9 @@
 - type: entity
   id: JetpackSecurity
   parent: [BaseJetpack, BaseSecurityContraband] # DeltaV - Change parent from JetpackMini to BaseJetpack
-  name: Міні реактивний ранець безпеки
-  description: Компактний реактивний ранець, який використовується охороною станції під час патрулювання зовнішньої території станції. Не призначений для подорожей на великі відстані, він вміщує лише 1,5 л газу.
-  suffix: Порожній
+  name: security mini jetpack
+  description: A compact jetpack utilized by station security when patrolling the station's exterior. Not intended for long range travel, it holds only 1.5 L of gas.
+  suffix: Empty
   components:
   # DeltaV - Add override to gas tank for empty security jetpack to correspond with filled jetpack (So empty sec jetpacks aren't 5L while filled jetpacks are 3L)
   - type: GasTank
@@ -260,8 +260,8 @@
 - type: entity
   id: JetpackSecurityFilled
   parent: JetpackSecurity
-  name: реактивний ранець безпеки
-  suffix: Заповнений
+  name: security jetpack
+  suffix: Filled
   components:
   - type: GasTank
     outputPressure: 42.6
@@ -279,8 +279,8 @@
 - type: entity
   id: JetpackVoid
   parent: BaseJetpack
-  name: порожній реактивний ранець
-  suffix: Порожній
+  name: void jetpack
+  suffix: Empty
   components:
   - type: Item
     sprite: Objects/Tanks/Jetpacks/void.rsi
@@ -297,8 +297,8 @@
 - type: entity
   id: JetpackVoidFilled
   parent: JetpackVoid
-  name: порожній реактивний ранець
-  suffix: Заповнений
+  name: void jetpack
+  suffix: Filled
   components:
   - type: GasTank
     outputPressure: 42.6
@@ -314,8 +314,8 @@
 - type: entity
   parent: [ JetpackBlack, BaseXenoborgContraband ]
   id: JetpackXenoborg
-  name: реактивний ранець ксеноборг
-  suffix: Нескінченна
+  name: xenoborg jetpack
+  suffix: Infinite
   components:
   - type: GasTank
     outputPressure: 21.3

@@ -28,7 +28,7 @@
 - type: entity
   parent: CommandLockerBaseSecureDeltaV
   id: LockerChiefJustice
-  name: бак великої місткості
+  name: chief justice's locker
   components:
   - type: Appearance
   - type: EntityStorageVisuals
@@ -41,7 +41,7 @@
 - type: entity
   parent: LockerBaseSecureDeltaV
   id: LockerClerk
-  name: шафка службовця
+  name: clerk's locker
   components:
   - type: Appearance
   - type: EntityStorageVisuals
@@ -54,7 +54,7 @@
 - type: entity
   parent: LockerBaseSecureDeltaV
   id: LockerPsychologist
-  name: шафка психолога
+  name: psychologist's locker
   components:
   - type: EntityStorageVisuals
     stateBaseClosed: psych
@@ -66,7 +66,7 @@
 - type: entity
   parent: LockerBaseSecureDeltaV
   id: LockerSurgeon
-  name: шафка хірурга
+  name: surgeon's locker
   components:
   - type: EntityStorageVisuals
     stateBaseClosed: surgeon
@@ -78,7 +78,7 @@
 - type: entity
   parent: LockerBaseSecureDeltaV
   id: LockerKitchen
-  name: кухонна шафка
+  name: kitchen locker
   components:
   - type: EntityStorageVisuals
     stateBaseClosed: chef
@@ -90,7 +90,7 @@
 - type: entity
   parent: LockerBaseSecureDeltaV
   id: LockerJanitor
-  name: шафка двірника
+  name: janitor's locker
   components:
   - type: EntityStorageVisuals
     stateBaseClosed: jani
@@ -102,7 +102,7 @@
 - type: entity
   parent: LockerBaseSecure
   id: LockerLogistics # Wizden has sprites for this but doesn't have an entity that uses them?
-  name: логістична шафа
+  name: logistics locker
   components:
   - type: EntityStorageVisuals
     stateBaseClosed: cargo
@@ -127,7 +127,7 @@
   parent: LockerBooze
   id: LockerForensicMantis
   name: psionic mantis' cabinet
-  suffix: Порожній
+  suffix: Empty
   description: You'll never know what's inside until you collapse the quantum superposition of all possible mysteries.
   components:
   - type: AccessReader
@@ -286,7 +286,7 @@
 - type: entity
   id: SecurityGunSafeNonlethalHandgunBaseSecureDV
   parent: SecurityGunSafeNonlethalHandgunDV
-  suffix: Охорона, зачинено
+  suffix: Security, Locked
   components:
   - type: AccessReader
     access: [["Security"]]
@@ -304,7 +304,7 @@
 - type: entity
   id: SecurityGunSafeNonlethalBaseSecureDV
   parent: SecurityGunSafeNonlethalDV
-  suffix: Охорона, зачинено
+  suffix: Security, Locked
   components:
   - type: AccessReader
     access: [["Security"]]
@@ -331,7 +331,7 @@
   parent: LockerForensicMantis
   id: LockerArchivist
   name: archivist's cabinet
-  suffix: Порожній
+  suffix: Empty
   description: You'll never know what's inside until you collapse the quantum superposition of all possible mysteries.
   components:
   - type: AccessReader

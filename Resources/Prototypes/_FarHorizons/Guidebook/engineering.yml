@@ -1,11 +1,11 @@
 - type: guideEntry
   id: NuclearReactor
-  name: напрямний-вхід-ядерний-реактор
+  name: guide-entry-nuclear-reactor
   text: "/ServerInfo/_FarHorizons/Guidebook/Engineering/NuclearReactor.xml"
   children:
   - NuclearMaterials
 
 - type: guideEntry
   id: NuclearMaterials
-  name: посібник-вхід-ядерні-матеріали
+  name: guide-entry-nuclear-materials
   text: "/ServerInfo/_FarHorizons/Guidebook/Engineering/NuclearMaterials.xml"

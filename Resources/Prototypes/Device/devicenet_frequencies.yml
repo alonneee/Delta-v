@@ -10,12 +10,12 @@
 
 - type: deviceFrequency
   id: SurveillanceCamera
-  name: пристрій-частота-прототип-назва-камера-спостереження
+  name: device-frequency-prototype-name-surveillance-camera
   frequency: 1926 # i only have so many of these, y'know?
 
 - type: deviceFrequency
   id: SurveillanceCameraEngineering
-  name: пристрій-частота-прототип-назва-розробка камери-спостереження
+  name: device-frequency-prototype-name-surveillance-camera-engineering
   frequency: 1931
 
 - type: deviceFrequency
@@ -25,7 +25,7 @@
 
 - type: deviceFrequency
   id: SurveillanceCameraScience
-  name: пристрій-частота-прототип-назва-камера-спостереження-наука
+  name: device-frequency-prototype-name-surveillance-camera-science
   frequency: 1933
 
 - type: deviceFrequency
@@ -45,7 +45,7 @@
 
 - type: deviceFrequency
   id: SurveillanceCameraMedical
-  name: посадова характеристика-гладіатор
+  name: device-frequency-prototype-name-surveillance-camera-medical
   frequency: 1937
 
 - type: deviceFrequency
@@ -72,7 +72,7 @@
 # Crew monitors listen to this for a list of suit sensor statuses
 - type: deviceFrequency
   id: CrewMonitor
-  name: пристрій-частота-прототип-назва-екіпажу-монітор
+  name: device-frequency-prototype-name-crew-monitor
   frequency: 1261
 
 # Cyborgs broadcast to consoles on this frequency
@@ -136,12 +136,12 @@
 
 - type: deviceFrequency
   id: BasicDevice
-  name: пристрій-частота-прототип-назва-базовий-пристрій
+  name: device-frequency-prototype-name-basic-device
   frequency: 1280
 
 - type: deviceFrequency
   id: Xenoborg
-  name: пристрій-частота-прототип-назва-ксеноборг
+  name: device-frequency-prototype-name-xenoborg
   frequency: 2004
 
 - type: deviceFrequency

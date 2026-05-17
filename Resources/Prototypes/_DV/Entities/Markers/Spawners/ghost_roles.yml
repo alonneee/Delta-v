@@ -154,7 +154,7 @@
 - type: entity
   id: SpawnPointGhostIfrit
   name: ifrit role spawn point
-  suffix: Іфрит
+  suffix: Ifrit
   parent: MarkerBase
   components:
   - type: GhostRole

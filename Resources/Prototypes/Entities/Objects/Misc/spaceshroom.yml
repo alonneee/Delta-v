@@ -2,8 +2,8 @@
   name: spaceshroom
   parent: BaseStructure
   id: Spaceshroom
-  suffix: Структура
-  description: Скупчення диких грибів, які люблять рости в темному вологому середовищі.
+  suffix: Structure
+  description: A cluster of wild mushrooms that likes to grow in dark, moist environments.
   components:
     - type: Sprite
       sprite: Objects/Misc/spaceshroom.rsi
@@ -43,7 +43,7 @@
   name: spaceshroom
   parent: FoodProduceBase
   id: FoodSpaceshroom
-  description: Дикорослий гриб. Невідомо, який ефект це може мати...
+  description: A wild mushroom. There's no telling what effect it could have...
   components:
   - type: Produce
   - type: Sprite
@@ -124,10 +124,10 @@
 
 # Cooked Object
 - type: entity
-  name: приготований космічний гриб
+  name: cooked spaceshroom
   parent: FoodProduceBase
   id: FoodSpaceshroomCooked
-  description: Дикорослий гриб, який пройшов термічну обробку. Здається, спека усунула його хімічний вплив.
+  description: A wild mushroom that has been cooked through. It seems the heat has removed its chemical effects.
   components:
   - type: FlavorProfile
     flavors:

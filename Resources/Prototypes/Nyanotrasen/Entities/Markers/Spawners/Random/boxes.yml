@@ -2,7 +2,7 @@
 - type: entity
   parent: MarkerBase
   id: RandomBox
-  name: спаунер випадкових коробок
+  name: random box spawner
   components:
   - type: Sprite
     layers:
@@ -17,8 +17,8 @@
 - type: entity
   parent: MarkerBase
   id: RandomAmmoBox
-  name: спавнер випадкових ящиків з боєприпасами
-  suffix: 25%, залишки
+  name: random ammo box spawner
+  suffix: 25%, Salvage
   components:
   - type: Sprite
     layers:
@@ -33,7 +33,7 @@
 - type: entity
   parent: RandomAmmoBox
   id: RandomArmoryAmmoBox
-  suffix: 90%, Збройова палата
+  suffix: 90%, Armory
   components:
   - type: EntityTableSpawner
     table: !type:NestedSelector

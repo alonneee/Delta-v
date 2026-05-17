@@ -42,7 +42,7 @@
   parent: [ BaseStructureDynamic, BaseBagOpenClose ]
   id: BaseFilingCabinet
   description: A cabinet for all your filing needs.
-  suffix: Порожній
+  suffix: Empty
   abstract: true
   components:
   - type: Storage
@@ -165,7 +165,7 @@
 - type: entity
   abstract: true
   id: BaseBureaucraticStorageFill
-  suffix: Заповнений
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:

@@ -4,8 +4,8 @@
   id: DelayedSmoke
   parent: BaseItem
   categories: [ HideSpawnMenu ]
-  name: уповільнений дим
-  suffix: "(10 с)"
+  name: delayed smoke
+  suffix: "(10s)"
   components:
   - type: Sprite # DeltaV: Apparently these want sprites, probably because they're baseitems
     sprite: /Textures/Objects/Fun/goldbikehorn.rsi
@@ -17,7 +17,7 @@
 - type: entity
   id: AdminInstantEffectEMP7
   categories: [ HideSpawnMenu ]
-  suffix: ЕМП, 7 метрів
+  suffix: EMP, 7 meters
   parent: AdminInstantEffectBase
   components:
   - type: EmpOnTrigger
@@ -28,7 +28,7 @@
   id: DelayedEMP
   parent: BaseItem
   categories: [ HideSpawnMenu ]
-  name: затримка ЕМП (7 метрів)
+  name: delayed EMP (7 meters)
   components:
   - type: Sprite # DeltaV: Apparently these want sprites, probably because they're baseitems
     sprite: /Textures/Objects/Fun/goldbikehorn.rsi
@@ -42,7 +42,7 @@
 - type: entity
   id: SyringeCognizine
   parent: Syringe
-  name: когнізин шприц
+  name: cognizine syringe
   components:
   - type: SolutionContainerManager
     solutions:
@@ -55,7 +55,7 @@
 - type: entity
   id: SyringeOpporozidone
   parent: Syringe
-  name: оппорозидон шприц
+  name: opporozidone syringe
   components:
   - type: SolutionContainerManager
     solutions:
@@ -70,35 +70,35 @@
 - type: entity
   id: DrinkPremiumVodkaBottleFull
   parent: DrinkVodkaBottleFull
-  name: Пляшка горілки «Момент ясності».
-  description: Коли справи стають дещо неспокійними, все, що вам потрібно, це мить ясності.
+  name: Moment of Clarity vodka bottle
+  description: When things get a bit hectic, all you need is a Moment of Clarity.
 
 - type: entity
   id: DrinkPremiumGinBottleFull
   parent: DrinkGinBottleFull
-  name: Пляшка джину Гаррі
-  description: Напевно, цікавий набір рослинних матеріалів. Це гарбуз?
+  name: Harry's gin bottle
+  description: An interesting set of botanicals, for sure. Is that pumpkin?
 
 - type: entity
   id: DrinkPremiumTequilaBottleFull
   parent: DrinkTequilaBottleFull
-  name: Пляшка текіли Casa del Eorg
-  description: Збережіть найкраще наостанок. Casa del Eorg, 100% агава.
+  name: Casa del Eorg tequila bottle
+  description: Save the best for last. Casa del Eorg, 100% agave.
 
 - type: entity
   id: DrinkPremiumWhiskeyBottleFull
   parent: DrinkWhiskeyBottleFull
-  name: Пляшка віскі Ol' Prowler 18
-  description: Напрочуд гладкий, він має неприємну звичку підкрадатися до вас.
+  name: Ol' Prowler 18 whiskey bottle
+  description: Surprisingly smooth, it has a nasty habit of sneaking up on you.
 
 - type: entity
   id: DrinkPremiumRumBottleFull
   parent: DrinkRumBottleFull
-  name: Пляшка рому Redeemer's Bounty
-  description: Ну, ти про це просив. Сила ВМС.
+  name: Redeemer's Bounty rum bottle
+  description: Well, you asked for it. Navy strength.
 
 - type: entity
   id: DrinkPremiumAbsintheBottleFull
   parent: DrinkAbsintheBottleFull
-  name: Пляшка абсенту Bureaucracy's Kiss
-  description: Вишуканий смак, який має властивість затягуватися.
+  name: Bureaucracy's Kiss absinthe bottle
+  description: A refined taste that tends to linger.

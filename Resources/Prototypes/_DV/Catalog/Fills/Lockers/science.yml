@@ -1,6 +1,6 @@
 - type: entity
   id: LockerArchivistFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: LockerArchivist
   components:
   - type: EntityTableContainerFill
@@ -23,7 +23,7 @@
 # Epistemics EVA Suit
 - type: entity
   id: LockerScienceFilledSoftsuit
-  suffix: Наповнений, Softsuit
+  suffix: Filled, Softsuit
   parent: LockerScienceFilled
   components:
   - type: EntityTableContainerFill

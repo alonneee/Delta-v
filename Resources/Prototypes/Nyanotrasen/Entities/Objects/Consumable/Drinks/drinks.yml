@@ -1,8 +1,8 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkSakeGlass
-  suffix: ради
-  description: Вино з рису, це саке!
+  suffix: sake
+  description: Wine made from rice, it's sake!
   components:
   - type: SolutionContainerManager
     solutions:
@@ -20,8 +20,8 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkOrangeCreamiceGlass
-  suffix: апельсиновий крем-цикл
-  description: Помаранчевий, кремовий смак.
+  suffix: orange creamcicle
+  description: Orangy, creamy goodness.
   components:
   - type: SolutionContainerManager
     solutions:
@@ -37,8 +37,8 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkSilverjackGlass
-  suffix: Велика затемнена скляна банка з простою етикеткою зі стебла кукурудзи.
-  description: Нагадує про сім'ю.
+  suffix: silverjack
+  description: Reminds you of family.
   components:
   - type: SolutionContainerManager
     solutions:
@@ -54,8 +54,8 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkBrainbombGlass
-  suffix: мозкова бомба
-  description: Токсичний для всього живого, особливо для печінки.
+  suffix: brainbomb
+  description: Toxic to about anything alive, especially your liver.
   components:
   - type: SolutionContainerManager
     solutions:
@@ -71,8 +71,8 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkClownBloodGlass
-  suffix: кров клоуна
-  description: Улюблений напій силовиків після довгого дня.
+  suffix: clown blood
+  description: Security Officers favorite drink after a long day.
   components:
   - type: SolutionContainerManager
     solutions:
@@ -88,8 +88,8 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkCircusJuiceGlass
-  suffix: цирковий сік
-  description: Honkmother буде пишатися.
+  suffix: circus juice
+  description: Honkmother would be proud.
   components:
   - type: SolutionContainerManager
     solutions:
@@ -105,8 +105,8 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkSapoPicanteGlass
-  suffix: сапо піканте
-  description: На смак не схожий на жабу.
+  suffix: sapo picante
+  description: Tastes nothing like a toad.
   components:
   - type: SolutionContainerManager
     solutions:
@@ -122,8 +122,8 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkGraveyardGlass
-  suffix: кладовище
-  description: Для тих змін, які, здається, ніколи не закінчаться.
+  suffix: graveyard
+  description: For those shifts that never seem to end.
   components:
   - type: SolutionContainerManager
     solutions:
@@ -139,8 +139,8 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkAtomicPunchGlass
-  suffix: атомний удар
-  description: НЕ зробить вас імунітетом до куль; Ізотопи включені!
+  suffix: atomic punch
+  description: Will NOT make you immune to bullets; Isotopes included!
   components:
   - type: SolutionContainerManager
     solutions:
@@ -156,8 +156,8 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkPinkDrinkGlass
-  suffix: рожевий напій
-  description: Цілі цивілізації розпалися, намагаючись визначити, чи справді цей напій має рожевий смак...
+  suffix: pink drink
+  description: Entire civilizations have crumbled trying to decide if this drink really tastes like pink...
   components:
   - type: SolutionContainerManager
     solutions:
@@ -173,8 +173,8 @@
 - type: entity
   parent: DrinkGlass
   id: DrinkBubbleTeaGlass
-  suffix: пухирчастий чай
-  description: Велика соломинка не входить.
+  suffix: bubble tea
+  description: Big straw not included.
   components:
   - type: SolutionContainerManager
     solutions:

@@ -1,6 +1,6 @@
 ﻿- type: reagent
   id: CoffeeGrounds
-  name: reagent-name-coffeeground
+  name: reagent-name-coffeegrounds
   group: Foods
   desc: reagent-desc-coffeegrounds
   flavor: bitter

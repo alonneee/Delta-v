@@ -4,7 +4,7 @@
 - type: entity
   parent: GasPipeSensor
   id: GasPipeSensorControlOxygen
-  suffix: Контроль, вміст кисню
+  suffix: Control, Oxygen Content
   components:
   - type: Label
     currentLabel: gas-pipe-sensor-control-oxygen
@@ -25,7 +25,7 @@
 - type: entity
   parent: GasPipeSensor
   id: GasPipeSensorControlNitrogen
-  suffix: Контроль, вміст азоту
+  suffix: Control, Nitrogen Content
   components:
   - type: Label
     currentLabel: gas-pipe-sensor-control-nitrogen
@@ -46,7 +46,7 @@
 - type: entity
   parent: GasPipeSensor
   id: GasPipeSensorControlOverpressure
-  suffix: Контроль, надлишковий тиск
+  suffix: Control, Overpressure
   components:
   - type: Label
     currentLabel: gas-pipe-sensor-control-overpressure

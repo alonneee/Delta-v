@@ -1,6 +1,6 @@
 - type: reagent
   id: Netinadone
-  name: назва-реагенту-нетинадон
+  name: reagent-name-netinadone
   group: Medicine
   desc: reagent-desc-netinadone
   physicalDesc: reagent-physical-desc-sickly
@@ -25,7 +25,7 @@
 
 - type: reagent
   id: Umbroxol
-  name: назва реагенту-умброксол
+  name: reagent-name-umbroxol
   group: Medicine
   desc: reagent-desc-umbroxol
   physicalDesc: reagent-physical-desc-dark
@@ -61,7 +61,7 @@
 
 - type: reagent
   id: Anodynafil
-  name: реагент-назва-анодинафіл
+  name: reagent-name-anodynafil
   desc: reagent-desc-anodynafil
   flavor: tingly
   color: "#8FABA3"
@@ -86,7 +86,7 @@
 
 - type: reagent
   id: Photoxadone
-  name: назва-реагенту-фотоксадон
+  name: reagent-name-photoxadone
   desc: reagent-desc-photoxadone
   flavor: clean
   color: "#A695AD"
@@ -105,7 +105,7 @@
 
 - type: reagent
   id: Stabilizine
-  name: назва-реагенту-стабілізин
+  name: reagent-name-stabilizine
   group: Medicine
   desc: reagent-desc-stabilizine
   physicalDesc: reagent-physical-desc-thick

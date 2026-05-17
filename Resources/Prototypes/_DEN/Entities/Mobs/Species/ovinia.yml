@@ -1,5 +1,5 @@
 - type: entity
-  name: Уріст МакШіпі
+  name: Urist McSheepy
   parent: BaseMobSpeciesOrganic
   id: MobOviniaBase
   abstract: true
@@ -137,11 +137,11 @@
 
 - type: entity
   save: false
-  name: Уріст Макхендс
+  name: Urist McHands
   parent: MobHumanDummy
   id: MobOviniaDummy
   categories: [ HideSpawnMenu ]
-  description: Манекен ovinia призначений для використання в налаштуваннях персонажа.
+  description: A dummy ovinia meant to be used in character setup.
   components:
   - type: Inventory
     speciesId: ovinia

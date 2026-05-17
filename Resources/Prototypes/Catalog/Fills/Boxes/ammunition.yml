@@ -1,10 +1,10 @@
 # As opposed to MagazineBox these are boxes of magazines so BoxMagazine
 # CaselessRifle
 - type: entity
-  name: коробка журналів
+  name: box of magazines
   parent: BoxCardboard
   id: BoxMagazine
-  description: Ящик, повний журналів.
+  description: A box full of magazines.
   components:
   - type: Sprite
     layers:
@@ -12,10 +12,10 @@
       - state: magazine
 
 - type: entity
-  name: коробка безгільзових магазинів .25
+  name: box of .25 caseless magazines
   parent: BoxMagazine
   id: BoxMagazinePistolCaselessRifle
-  description: Ящик, повний безгільзових магазинів .25.
+  description: A box full of .25 caseless magazines.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -24,10 +24,10 @@
         amount: 4
 
 - type: entity
-  name: коробка безгільзових (практичних) журналів .25
+  name: box of .25 caseless (practice) magazines
   parent: BoxMagazine
   id: BoxMagazinePistolCaselessRiflePractice
-  description: Коробка, наповнена практичними магазинами без гільз калібру .25.
+  description: A box full of .25 caseless practice magazines.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -37,10 +37,10 @@
 
 # LightRifle
 - type: entity
-  name: коробка .30 гвинтівкових магазинів
+  name: box of .30 rifle magazines
   parent: BoxMagazine
   id: BoxMagazineLightRifle
-  description: Ящик, повний магазинів калібру .30.
+  description: A box full of .30 rifle magazines.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -49,10 +49,10 @@
         amount: 4
 
 - type: entity
-  name: коробка .30 гвинтівкових (тренувальних) магазинів
+  name: box of .30 rifle (practice) magazines
   parent: BoxMagazine
   id: BoxMagazineLightRiflePractice
-  description: коробка гарнітури
+  description: A box full of .30 rifle (practice) magazines.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -62,10 +62,10 @@
 
 # Magnum
 - type: entity
-  name: ящик для магазинів SMG .45 magnum
+  name: box of SMG .45 magnum magazines
   parent: BoxMagazine
   id: BoxMagazineMagnumSubMachineGun
-  description: Ящик, повний магазинів SMG .45 magnum.
+  description: A box full of SMG .45 magnum magazines.
   components:
   - type: StorageFill
     contents:
@@ -73,10 +73,10 @@
         amount: 3
 
 - type: entity
-  name: коробка з магазинами SMG .45 magnum (практикувальні).
+  name: box of SMG .45 magnum (practice) magazines
   parent: BoxMagazine
   id: BoxMagazineMagnumSubMachineGunPractice
-  description: Коробка, наповнена магазинами SMG .45 magnum (практикувальними).
+  description: A box full of SMG .45 magnum (practice) magazines.
   components:
   - type: StorageFill
     contents:
@@ -85,10 +85,10 @@
 
 # Pistol
 - type: entity
-  name: коробка автомагазинів WT550 .35
+  name: box of WT550 .35 auto magazines
   parent: BoxMagazine
   id: BoxMagazinePistolSubMachineGunTopMounted
-  description: Коробка, повна автомобільних магазинів WT550 .35.
+  description: A box full of WT550 .35 auto magazines.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -97,10 +97,10 @@
         amount: 3
 
 - type: entity
-  name: коробка з-під пістолетних магазинів .35
+  name: box of pistol .35 auto magazines
   parent: BoxMagazine
   id: BoxMagazinePistol
-  description: Ящик, наповнений автоматичними магазинами калібру .35.
+  description: A box full of pistol .35 auto magazines.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -109,10 +109,10 @@
         amount: 4
 
 - type: entity
-  name: коробка пістолетних .35 автомобільних (тренувальних) магазинів
+  name: box of pistol .35 auto (practice) magazines
   parent: BoxMagazine
   id: BoxMagazinePistolPractice
-  description: Ящик, повний журналів.
+  description: A box full of  magazines.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -121,10 +121,10 @@
         amount: 4
 
 - type: entity
-  name: коробка від автоматних магазинів .35
+  name: box of machine pistol .35 auto magazines
   parent: BoxMagazine
   id: BoxMagazinePistolHighCapacity
-  description: loadout-group-капітан-комбінезон
+  description: A box full of machine pistol .35 auto magazines.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -133,10 +133,10 @@
         amount: 4
 
 - type: entity
-  name: коробка з-під автомата .35 авто (тренувальних) магазинів
+  name: box of machine pistol .35 auto (practice) magazines
   parent: BoxMagazine
   id: BoxMagazinePistolHighCapacityPractice
-  description: Ящик, наповнений автоматичними (тренувальними) магазинами калібру .35.
+  description: A box full of machine pistol .35 auto (practice) magazines.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -145,10 +145,10 @@
         amount: 4
 
 - type: entity
-  name: ящик для автомагазинів SMG .35
+  name: box of SMG .35 auto magazines
   parent: BoxMagazine
   id: BoxMagazinePistolSubMachineGun
-  description: Ящик, повний автоматичних магазинів SMG .35.
+  description: A box full of SMG .35 auto magazines.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -157,10 +157,10 @@
         amount: 3
 
 - type: entity
-  name: ящик для автоматичних (тренувальних) магазинів SMG .35
+  name: box of SMG .35 auto (practice) magazines
   parent: BoxMagazine
   id: BoxMagazinePistolSubMachineGunPractice
-  description: Ящик, повний автоматичних (тренувальних) магазинів SMG .35.
+  description: A box full of SMG .35 auto (practice) magazines.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -170,10 +170,10 @@
 
 # Shotgun
 - type: entity
-  name: коробка (.50 пелет) боєприпасів
+  name: box of (.50 pellet) ammo drums
   parent: BoxMagazine
   id: BoxMagazineShotgun
-  description: Ящик, наповнений (.50) боєприпасами.
+  description: A box full of (.50 pellet) ammo drums.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -182,10 +182,10 @@
         amount: 4
 
 - type: entity
-  name: коробка (.50 beanbag) боєприпасів
+  name: box of (.50 beanbag) ammo drums
   parent: BoxMagazine
   id: BoxMagazineShotgunBeanbag
-  description: Ящик, наповнений (.50 beanbag) барабанами боєприпасів.
+  description: A box full of (.50 beanbag) ammo drums.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -194,10 +194,10 @@
         amount: 4
 
 - type: entity
-  name: коробка (.50 slug) боєприпасів
+  name: box of (.50 slug) ammo drums
   parent: BoxMagazine
   id: BoxMagazineShotgunSlug
-  description: Ящик, наповнений барабанами (.50 slug).
+  description: A box full of (.50 slug) ammo drums.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -206,10 +206,10 @@
         amount: 4
 
 - type: entity
-  name: коробка (.50 запальних) боєприпасів
+  name: box of (.50 incendiary) ammo drums
   parent: BoxMagazine
   id: BoxMagazineShotgunIncendiary
-  description: Ящик, повний (.50) боєприпасів.
+  description: A box full of (.50 incendiary) ammo drums.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -219,10 +219,10 @@
 
 # Rifle
 - type: entity
-  name: коробка магазинів .20
+  name: box of .20 rifle magazines
   parent: BoxMagazine
   id: BoxMagazineRifle
-  description: Ящик, повний магазинів калібру .20.
+  description: A box full of .20 rifle magazines.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -231,10 +231,10 @@
         amount: 4
 
 - type: entity
-  name: коробка .20 гвинтівкових (тренувальних) магазинів
+  name: box of .20 rifle (practice) magazines
   parent: BoxMagazine
   id: BoxMagazineRiflePractice
-  description: Ящик, наповнений гвинтівковими (тренувальними) магазинами калібру .20.
+  description: A box full of .20 rifle (practice) magazines.
   components:
   - type: EntityTableContainerFill
     containers:

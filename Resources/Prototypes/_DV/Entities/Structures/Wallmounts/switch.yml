@@ -1,7 +1,7 @@
 - type: entity
   parent: LockableButton
   id: LockableButtonRobotics
-  suffix: Робототехніка
+  suffix: Robotics
   components:
   - type: AccessReader
     access: [["Robotics"]]
@@ -9,7 +9,7 @@
 - type: entity
   parent: LockableButton
   id: LockableButtonJustice
-  suffix: Справедливість
+  suffix: Justice
   components:
   - type: AccessReader
     access: [["Justice"]]
@@ -17,7 +17,7 @@
 - type: entity
   parent: LockableButton
   id: LockableButtonProsecutor
-  suffix: Прокурор
+  suffix: Prosecutor
   components:
   - type: AccessReader
     access: [["Prosecutor"]]
@@ -25,7 +25,7 @@
 - type: entity
   parent: LockableButton
   id: LockableButtonClerk
-  suffix: Клерк
+  suffix: Clerk
   components:
   - type: AccessReader
     access: [["Clerk"]]
@@ -33,7 +33,7 @@
 - type: entity
   parent: LockableButton
   id: LockableButtonCJ
-  suffix: Головний суддя
+  suffix: Chief Justice
   components:
   - type: AccessReader
     access: [["ChiefJustice"]]
@@ -41,7 +41,7 @@
 - type: entity
   parent: LockableButton
   id: LockableButtonSyndicate
-  suffix: Синдикат
+  suffix: Syndicate
   components:
   - type: AccessReader
     access: [["SyndicateAgent"]]
@@ -86,7 +86,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchCaptain
-  suffix: Капітан
+  suffix: Captain
   components:
   - type: AccessReader
     access: [["Captain"]]
@@ -126,7 +126,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchResearchDirector
-  suffix: Містагога
+  suffix: Mystagogue
   components:
   - type: AccessReader
     access: [["ResearchDirector"]]
@@ -134,7 +134,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchCommand
-  suffix: Команда
+  suffix: Command
   components:
   - type: AccessReader
     access: [["Command"]]
@@ -150,7 +150,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchSecurity
-  suffix: Безпека
+  suffix: Security
   components:
   - type: AccessReader
     access: [["Security"]]
@@ -158,7 +158,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchDetective
-  suffix: Детектив
+  suffix: Detective
   components:
   - type: AccessReader
     access: [["Detective"]]
@@ -182,7 +182,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchEngineering
-  suffix: Інженерія
+  suffix: Engineering
   components:
   - type: AccessReader
     access: [["Engineering"]]
@@ -190,7 +190,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchMedical
-  suffix: Медичний
+  suffix: Medical
   components:
   - type: AccessReader
     access: [["Medical"]]
@@ -198,7 +198,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchQuartermaster
-  suffix: Офіцер з логістики
+  suffix: Logistics Officer
   components:
   - type: AccessReader
     access: [["Quartermaster"]]
@@ -206,7 +206,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchSalvage
-  suffix: Порятунок
+  suffix: Salvage
   components:
   - type: AccessReader
     access: [["Salvage"]]
@@ -214,7 +214,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchCargo
-  suffix: Логістика
+  suffix: Logistics
   components:
   - type: AccessReader
     access: [["Cargo"]]
@@ -222,7 +222,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchResearch
-  suffix: Епістеміка
+  suffix: Epistemics
   components:
   - type: AccessReader
     access: [["Research"]]
@@ -278,7 +278,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchChemistry
-  suffix: Хімія
+  suffix: Chemistry
   components:
   - type: AccessReader
     access: [["Chemistry"]]
@@ -326,7 +326,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchRobotics
-  suffix: Робототехніка
+  suffix: Robotics
   components:
   - type: AccessReader
     access: [["Robotics"]]
@@ -334,7 +334,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchJustice
-  suffix: Справедливість
+  suffix: Justice
   components:
   - type: AccessReader
     access: [["Justice"]]
@@ -342,7 +342,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchProsecutor
-  suffix: Прокурор
+  suffix: Prosecutor
   components:
   - type: AccessReader
     access: [["Prosecutor"]]
@@ -350,7 +350,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchClerk
-  suffix: Клерк
+  suffix: Clerk
   components:
   - type: AccessReader
     access: [["Clerk"]]
@@ -358,7 +358,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchCJ
-  suffix: Головний суддя
+  suffix: Chief Justice
   components:
   - type: AccessReader
     access: [["ChiefJustice"]]
@@ -366,7 +366,7 @@
 - type: entity
   parent: LockableSwitch
   id: LockableSwitchSyndicate
-  suffix: Синдикат
+  suffix: Syndicate
   components:
   - type: AccessReader
     access: [["SyndicateAgent"]]

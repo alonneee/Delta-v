@@ -472,10 +472,10 @@
 # No Slice
 
 - type: entity
-  name: мухоморовий пиріг
+  name: amanita pie
   parent: FoodPieBase
   id: FoodPieAmanita
-  description: Надзвичайно солодкий кишеню, тепер теплий і смачний.
+  description: Sweet and tasty poison pie.
   components:
   - type: FlavorProfile
     flavors:
@@ -496,10 +496,10 @@
 # Tastes like pie, mushrooms.
 
 - type: entity
-  name: пухкий пиріг
+  name: plump pie
   parent: FoodPieBase
   id: FoodPiePlump
-  description: Б'юся об заклад, ви любите речі, зроблені з пухких шоломів!
+  description: I bet you love stuff made out of plump helmets!
   components:
   - type: FlavorProfile
     flavors:
@@ -511,10 +511,10 @@
 # Tart
 
 - type: entity
-  name: виноградний пиріг
+  name: grape tart
   parent: FoodPieBase
   id: FoodTartGrape
-  description: Смачний десерт, який нагадує про вино, яке ви не робили.
+  description: A tasty dessert that reminds you of the wine you didn't make.
   components:
   - type: FlavorProfile
     flavors:
@@ -539,10 +539,10 @@
 # Tastes like tart, grape.
 
 - type: entity
-  name: золотистий яблучний пиріг
+  name: golden apple streusel tart
   parent: FoodPieBase
   id: FoodTartGapple
-  description: Смачний десерт, який не пройде через металошукач.
+  description: A tasty dessert that won't make it through a metal detector.
   components:
   - type: FlavorProfile
     flavors:
@@ -556,10 +556,10 @@
 # Tastes like tart, apple, expensive metal.
 
 - type: entity
-  name: шоколадний лава пиріг
+  name: chocolate lava tart
   parent: FoodPieBase
   id: FoodTartCoco
-  description: Смачний шоколадний десерт з рідкою серцевиною.
+  description: A tasty dessert made of chocolate, with a liquid core.
   components:
   - type: FlavorProfile
     flavors:

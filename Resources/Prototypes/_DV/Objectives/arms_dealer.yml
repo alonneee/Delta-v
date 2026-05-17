@@ -12,8 +12,8 @@
 - type: entity
   parent: [BaseArmsdealerObjective, BaseSurviveObjective]
   id: ArmsdealerSurviveObjective
-  description: Виживіть, щоб розпродати свої товари ще один день!
-  name: Вижити і процвітати
+  description: Survive to sell off your goods another day!
+  name: Survive and Prosper
   components:
   - type: Objective
     icon:
@@ -23,8 +23,8 @@
 - type: entity
   parent: [BaseArmsdealerObjective, BaseSurviveObjective]
   id: ArmsdealerSaleObjective
-  description: Ваш підрядник доручив вам заробити 50 тисяч песо.
-  name: Всі спесо
+  description: Your contractor has tasked you to earn 50k spesos.
+  name: All the spesos
   components:
   - type: Objective
     icon:

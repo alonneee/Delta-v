@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseItem
-  name: швабра
+  name: mop
   id: MopItem
-  description: Швабра, яку неможливо зупинити, деталі очищення внутрішніх органів чекають.
+  description: A mop that can't be stopped, viscera cleanup detail awaits.
   components:
   - type: Sprite
     sprite: Objects/Specific/Janitorial/mop.rsi
@@ -62,9 +62,9 @@
 
 - type: entity
   parent: MopItem
-  name: вдосконалена швабра
+  name: advanced mop
   id: AdvMopItem
-  description: Моторизована швабра, яка має більший резервуар і швидко замінює реагенти всередині водою. Автоматична протидія клоунам не входить.
+  description: Motorized mop that has a bigger reservoir and quickly replaces reagents inside with water. Automatic Clown Countermeasure not included.
   components:
     - type: Sprite
       sprite: Objects/Specific/Janitorial/advmop.rsi
@@ -99,10 +99,10 @@
       cleaningSolutionName: absorbed
 
 - type: entity
-  name: мокра підлога знак
+  name: wet floor sign
   id: WetFloorSign
   parent: ClothingOuterBase
-  description: Обережно! Мокра підлога!
+  description: Caution! Wet Floor!
   components:
   - type: Sprite
     sprite: Objects/Specific/Janitorial/wet_floor_sign.rsi
@@ -124,7 +124,7 @@
 
 
 - type: entity
-  suffix: Вибуховий
+  suffix: Explosive
   parent: WetFloorSign
   id: WetFloorSignMineExplosive
   components:
@@ -184,10 +184,10 @@
     - WetFloorSign
 
 - type: entity
-  name: поршень
+  name: plunger
   id: Plunger
   parent: BaseItem
-  description: Плунжер з пластиковою присоскою червоного кольору і дерев'яною ручкою. Використовується для прочищення каналізації.
+  description: A plunger with a red plastic suction-cup and a wooden handle. Used to unclog drains.
   components:
   - type: Tag
     tags:
@@ -249,10 +249,10 @@
       Wood: 100
 
 - type: entity
-  name: золотий поршень
+  name: golden plunger
   id: GoldenPlunger
   parent: Plunger
-  description: Плунжер з пластиковою присоскою, покритою тонким шаром золота, вручається на знак подяки за багаторічну службу. Досі використовується для прочищення каналізації.
+  description: A plunger with a plastic suction cup coated in a thin layer of gold given as a token of appreciation for years of service. Still used to unclog drains.
   components:
   - type: Tag # TODO change Plunger into a tool so we dont got to layer Tags like below.
     tags:
@@ -294,9 +294,9 @@
 
 - type: entity
   parent: BaseItem
-  name: волога ганчірка
+  name: damp rag
   id: RagItem
-  description: Для прибирання безладу, ви гадаєте.
+  description: For cleaning up messes, you suppose.
   components:
     - type: Sprite
       sprite: Objects/Specific/Janitorial/rag.rsi
@@ -346,8 +346,8 @@
 - type: entity
   parent: BaseItem
   id: WireBrush
-  name: дротяна щітка
-  description: Щітка зі сталевого дроту з щетиною ідеально підходить для видалення навіть найстійкіших плям іржі.
+  name: wire brush
+  description: A bristly steel wire brush, perfect for scraping away even the toughest patches of rust.
   components:
   - type: Sprite
     sprite: Objects/Specific/Janitorial/wirebrush.rsi
@@ -382,8 +382,8 @@
 - type: entity
   parent: WireBrush
   id: WireBrushElectrical
-  name: електрична дротяна щітка
-  description: Щітка зі сталевого дроту з щетиною з рухомою головкою спрощує очищення.
+  name: electrical wire brush
+  description: A bristly steel wire brush with a moving head, allowing for a way easier time cleaning.
   components:
   - type: Tool
     speedModifier: 1.5

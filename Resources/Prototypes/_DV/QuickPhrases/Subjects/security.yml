@@ -6,79 +6,79 @@
 - type: quickPhrase
   id: HandcuffsPhrase
   parent: BaseSecuritySubjectPhrase
-  text: фрази-кайданки
+  text: phrase-handcuffs
 
 - type: quickPhrase
   id: StunBatonPhrase
   parent: BaseSecuritySubjectPhrase
-  text: фраза-апк
+  text: phrase-stun-baton
 
 - type: quickPhrase
   id: DisablerPhrase
   parent: BaseSecuritySubjectPhrase
-  text: засіб відключення фрази
+  text: phrase-disabler
 
 - type: quickPhrase
   id: FlashPhrase
   parent: BaseSecuritySubjectPhrase
-  text: фраза-спалах
+  text: phrase-flash
 
 - type: quickPhrase
   id: FlashbangPhrase
   parent: BaseSecuritySubjectPhrase
-  text: фраза-спалах
+  text: phrase-flashbang
 
 - type: quickPhrase
   id: ArrestPhrase
   parent: BaseSecuritySubjectPhrase
-  text: фраза-арешт
+  text: phrase-arrest
 
 - type: quickPhrase
   id: WarrantPhrase
   parent: BaseSecuritySubjectPhrase
-  text: фраза-ордер
+  text: phrase-warrant
 
 - type: quickPhrase
   id: wantedPhrase
   parent: BaseSecuritySubjectPhrase
-  text: фраза-хотів
+  text: phrase-wanted
 
 - type: quickPhrase
   id: SearchPhrase
   parent: BaseSecuritySubjectPhrase
-  text: фразовий пошук
+  text: phrase-search
 
 - type: quickPhrase
   id: DetainPhrase
   parent: BaseSecuritySubjectPhrase
-  text: фраза-затримати
+  text: phrase-detain
 
 - type: quickPhrase
   id: SuspectPhrase
   parent: BaseSecuritySubjectPhrase
-  text: фраза-підозр
+  text: phrase-suspect
 
 - type: quickPhrase
   id: ForensicScannerPhrase
   parent: BaseSecuritySubjectPhrase
-  text: станція-маяк-прокурор
+  text: phrase-forensic-scanner
 
 - type: quickPhrase
   id: ForensicPadPhrase
   parent: BaseSecuritySubjectPhrase
-  text: фрази-криміналістики
+  text: phrase-forensic-pad
 
 - type: quickPhrase
   id: LogProbePhrase
   parent: BaseSecuritySubjectPhrase
-  text: фраза-доступ
+  text: phrase-log-probe
 
 - type: quickPhrase
   id: ReleasePhrase
   parent: BaseSecuritySubjectPhrase
-  text: фраза-відпуск
+  text: phrase-release
 
 - type: quickPhrase
   id: ParolePhrase
   parent: BaseSecuritySubjectPhrase
-  text: фраза-звинувачення
+  text: phrase-parole

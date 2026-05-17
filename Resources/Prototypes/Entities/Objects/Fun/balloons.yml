@@ -25,8 +25,8 @@
 - type: entity
   parent: BaseBalloon
   id: BalloonSyn
-  name: синді повітряна куля
-  description: Роздано найсміливішим людям, які вижили під час атракціону «атомний твістер» у Синділенді.
+  name: syndie balloon
+  description: Handed out to the bravest souls who survived the "atomic twister" ride at Syndieland.
   components:
   - type: Sprite
     sprite: Objects/Fun/Balloons/syndicate.rsi
@@ -39,8 +39,8 @@
 - type: entity
   parent: BaseBalloon
   id: BalloonNT
-  name: нанотрасен повітряна куля
-  description: Спеціально розроблений для нанесення максимальної психологічної шкоди оперативникам Синдикату.
+  name: nanotrasen balloon
+  description: Specially designed to inflict maximum psychological damage to Syndicate operatives.
   components:
   - type: Sprite
     sprite: Objects/Fun/Balloons/nanotrasen.rsi
@@ -51,8 +51,8 @@
 - type: entity
   parent: BaseBalloon
   id: BalloonCorgi
-  name: повітряна куля коргі
-  description: Так само, як мати справжню собаку, але набагато плаваючу.
+  name: corgi balloon
+  description: Just like owning a real dog - but a lot floatier.
   components:
   - type: Sprite
     sprite: Objects/Fun/Balloons/corgi.rsi

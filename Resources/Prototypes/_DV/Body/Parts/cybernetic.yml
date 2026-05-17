@@ -1,8 +1,8 @@
 - type: entity
   parent: LeftArmCyberneticBase
   id: ForcewallLeftArm
-  name: FWL ліва рука
-  description: Протез руки, створений шляхом поєднання передової кібернетики та потужної псіоніки. Це дозволяє використовувати здатність forcewall.
+  name: FWL left arm
+  description: A prosthetic arm made by blending advanced cybernetics and powerful psionics. This one grants the use of the ability forcewall.
   components:
   - type: BodyPart
     onAdd:
@@ -14,8 +14,8 @@
 - type: entity
   parent: LeftArmCyberneticBase
   id: RecallLeftArm
-  name: RCL ліва рука
-  description: Протез руки, створений шляхом поєднання передової кібернетики та потужної псіоніки. Цей надає можливість використання здатності Recall.
+  name: RCL left arm
+  description: A prosthetic arm made by blending advanced cybernetics and powerful psionics. This one grants the use of the ability Recall.
   components:
   - type: BodyPart
     onAdd:
@@ -27,8 +27,8 @@
 - type: entity
   parent: LeftArmCyberneticBase
   id: DispelLeftArm
-  name: DSP ліва рука
-  description: Протез руки, створений шляхом поєднання передової кібернетики та потужної псіоніки. Цей надає можливість використання здатності Dispel.
+  name: DSP left arm
+  description: A prosthetic arm made by blending advanced cybernetics and powerful psionics. This one grants the use of the ability Dispel.
   components:
   - type: BodyPart
     onAdd:
@@ -40,8 +40,8 @@
 - type: entity
   parent: LeftArmCyberneticBase
   id: PyroLeftArm
-  name: BRN ліва рука
-  description: Протез руки, створений шляхом поєднання передової кібернетики та потужної псіоніки. Цей надає можливість використовувати здатність Пірокінез.
+  name: BRN left arm
+  description: A prosthetic arm made by blending advanced cybernetics and powerful psionics. This one grants the use of the ability Pyrokinesis.
   components:
   - type: BodyPart
     onAdd:
@@ -53,8 +53,8 @@
 - type: entity
   parent: LeftArmCyberneticBase
   id: ZapLeftArm
-  name: ЗАП лівої руки
-  description: ліва вульпканина рука"
+  name: ZAP left arm
+  description: A prosthetic arm made by blending advanced cybernetics and powerful psionics. This one grants the use of the ability Noospheric Zap.
   components:
   - type: BodyPart
     onAdd:

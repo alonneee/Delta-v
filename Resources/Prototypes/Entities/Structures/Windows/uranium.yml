@@ -57,7 +57,7 @@
   id: UraniumWindowDirectional
   parent: [BaseDeltaPressurePlasmaQuarter, WindowDirectionalRCDResistant]
   name: directional uranium window
-  description: Не розмазуйте там скло.
+  description: Don't smudge up the glass down there.
   placement:
     mode: SnapgridCenter
     snap:
@@ -109,7 +109,7 @@
 - type: entity
   parent: UraniumWindow
   id: UraniumWindowDiagonal
-  suffix: діагональ
+  suffix: diagonal
   placement:
     mode: SnapgridCenter
     snap:

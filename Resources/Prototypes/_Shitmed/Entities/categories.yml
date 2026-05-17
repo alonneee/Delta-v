@@ -1,6 +1,6 @@
 - type: entityCategory
   id: Surgeries
-  name: entity-category-name-surgery
+  name: entity-category-name-surgeries
   hideSpawnMenu: true
 
 - type: entityCategory

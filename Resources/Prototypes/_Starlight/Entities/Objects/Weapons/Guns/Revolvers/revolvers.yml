@@ -1,8 +1,8 @@
 - type: entity
-  name: Імпровізований револьвер
+  name: Makeshift Revolver
   parent: [BaseWeaponRevolver, BaseMinorContraband]
   id: WeaponRevolverMakeshift
-  description: Трохи більше, ніж ручна гармата з високим шансом вибухнути вам прямо в обличчя.
+  description: Little more than a hand-cannon with a high chance of blowing up in your face.
   components:
   - type: Sprite
     sprite: _Starlight/Objects/Weapons/Guns/Revolvers/makeshift_revolver.rsi
@@ -37,10 +37,10 @@
         prob: 0.80
 
 - type: entity
-  name: Імпровізований револьвер
+  name: Improvised Revolver
   parent: WeaponRevolverMakeshift
   id: WeaponRevolverImprovised
-  description: Револьвер, який має два стволи і не має циліндра. Ви справді можете назвати це револьвером?
+  description: A revolver that has two barrels and no cylinder. Can you really call this a revolver?
   components:
   - type: Sprite
     sprite: _Starlight/Objects/Weapons/Guns/Revolvers/improvised_revolver.rsi
@@ -70,10 +70,10 @@
         prob: 0.80
 
 - type: entity
-  name: Кований револьвер
+  name: Forged Revolver
   parent: WeaponRevolverImprovised
   id: WeaponRevolverForged
-  description: Найкраще, що може запропонувати Tider, револьвер із здатністю втримувати 4 кулі!
+  description: The best Tider engineering can offer, a revolver with the ability to hold 4 bullets! 
   components:
   - type: Sprite
     sprite: _Starlight/Objects/Weapons/Guns/Revolvers/forged_revolver.rsi

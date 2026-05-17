@@ -1,10 +1,10 @@
 # To be implemented: see #9072
 
 - type: entity
-  name: персонал зцілення
+  name: staff of healing
   parent: WeaponStaffBase
   id: WeaponStaffHealing
-  description: Ви не передбачите, що вам доведеться занадто часто використовувати це у своїх пошуках бійні.
+  description: You don't foresee having to use this in your quest for carnage too often.
   components:
   - type: Sprite
     layers:
@@ -21,10 +21,10 @@
     count: 10
 
 - type: entity
-  name: персонал входу
+  name: staff of entrance
   parent: WeaponStaffBase
   id: WeaponStaffPolymorphDoor
-  description: Коли вам потрібен маршрут для від’їзду.
+  description: For when you need a get-away route.
   components:
   - type: Sprite
     layers:

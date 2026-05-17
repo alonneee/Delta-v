@@ -1,5 +1,5 @@
 - type: entity
-  name: Уріст МакШіпі
+  name: Urist McSheepy
   parent: MobOviniaBase
   id: MobOvinia
   components:

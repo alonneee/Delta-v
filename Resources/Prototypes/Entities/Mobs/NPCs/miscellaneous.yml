@@ -1,8 +1,8 @@
 - type: entity
-  name: лазерний раптор
+  name: laser raptor
   id: MobLaserRaptor
   parent: SimpleMobBase
-  description: З епохи вікінгів.
+  description: From the Viking age.
   components:
     - type: Body # Shitmed Change
       prototype: LaserRaptor
@@ -81,8 +81,8 @@
   - MobBloodstream
   - MobFlammable
   - MobCombat
-  name: вбивця помідорів
-  description: Схоже, не ти сьогодні їси помідори, а помідори їдять тебе.
+  name: tomato killer
+  description: Looks like it's not you eating tomatoes today, it's the tomatoes eating you.
   components:
   - type: GhostRole
     prob: 0.05

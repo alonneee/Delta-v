@@ -3,8 +3,8 @@
   parent: BaseStructure
   abstract: true
   categories: [ HideSpawnMenu ]
-  name: ядерний реактор
-  description: Корпус ядерного реактора з отворами для паливних стрижнів та інших компонентів. Гей, зачекай, чи не один із них одного разу вибухнув?
+  name: nuclear reactor
+  description: A nuclear reactor vessel, with slots for fuel rods and other components. Hey wait, didn't one of these explode once?
   components:
   - type: Sprite
     sprite: _FarHorizons/Structures/Power/Generation/FissionGenerator/nuclear_reactor.rsi
@@ -167,7 +167,7 @@
 - type: entity
   id: NuclearReactorEmpty
   parent: NuclearReactorCrew
-  suffix: Порожній
+  suffix: Empty
   components:
   - type: NuclearReactor
     prefab: ReactorPrefabEmpty
@@ -175,7 +175,7 @@
 - type: entity
   id: NuclearReactorRandom
   parent: NuclearReactorCrew
-  suffix: Випадковий
+  suffix: Random
   components:
   - type: NuclearReactor
     prefab: random
@@ -183,7 +183,7 @@
 - type: entity
   id: NuclearReactorMeltdown
   parent: NuclearReactorCrew
-  suffix: Розплавлення
+  suffix: Meltdown
   components:
   - type: NuclearReactor
     prefab: ReactorPrefab7x7Meltdown
@@ -191,9 +191,9 @@
 - type: entity
   id: NuclearReactorMelted # This is more of a decoration than anything else
   parent: BaseStructure
-  suffix: Розтоплений
-  name: ядерний реактор
-  description: Розбитий корпус ядерного реактора. Він світиться теплом і випромінюванням.
+  suffix: Melted
+  name: nuclear reactor
+  description: A broken nuclear reactor vessel. It glows with heat and radiation.
   components:
   - type: Sprite
     sprite: _FarHorizons/Structures/Power/Generation/FissionGenerator/nuclear_reactor.rsi
@@ -225,7 +225,7 @@
 - type: entity
   id: NuclearReactorSmall
   parent: NuclearReactorCrew
-  name: малий ядерний реактор
+  name: small nuclear reactor
   components:
   - type: Sprite
     sprite: _FarHorizons/Structures/Power/Generation/FissionGenerator/small_nuclear_reactor.rsi
@@ -272,7 +272,7 @@
 - type: entity
   id: NuclearReactorSmallRandom
   parent: NuclearReactorSmall
-  suffix: Випадковий
+  suffix: Random
   components:
   - type: NuclearReactor
     prefab: random
@@ -280,9 +280,9 @@
 - type: entity
   id: NuclearReactorSmallMelted
   parent: NuclearReactorMelted
-  suffix: Розтоплений
-  name: малий ядерний реактор
-  description: Розбитий корпус ядерного реактора. Він світиться теплом і випромінюванням.
+  suffix: Melted
+  name: small nuclear reactor
+  description: A broken nuclear reactor vessel. It glows with heat and radiation.
   components:
   - type: Sprite
     sprite: _FarHorizons/Structures/Power/Generation/FissionGenerator/small_nuclear_reactor.rsi
@@ -313,12 +313,12 @@
 - type: entity
   id: NuclearReactorNormalSalvage
   parent: NuclearReactorSalvage
-  suffix: Порятунок
+  suffix: Salvage
 
 - type: entity
   id: NuclearReactorEmptySalvage
   parent: NuclearReactorSalvage
-  suffix: "Порожній, утилізований"
+  suffix: "Empty, Salvage"
   components:
   - type: NuclearReactor
     prefab: ReactorPrefabEmpty
@@ -326,7 +326,7 @@
 - type: entity
   id: NuclearReactorRandomSalvage
   parent: NuclearReactorSalvage
-  suffix: "Випадковий, утилізований"
+  suffix: "Random, Salvage"
   components:
   - type: NuclearReactor
     prefab: random
@@ -334,8 +334,8 @@
 - type: entity
   id: NuclearReactorMeltedSalvage
   parent: NuclearReactorMelted
-  suffix: "Розтоплений, врятований"
-  description: Корпус ядерного реактора, давно розплавлений. Він все ще світиться від залишків тепла та випромінювання.
+  suffix: "Melted, Salvage"
+  description: A nuclear reactor vessel, long since melted down. It still glows with residual heat and radiation.
   components:
   - type: RadiationSource
     intensity: 3.5
@@ -346,8 +346,8 @@
 - type: entity
   id: NuclearReactorSmallSalvage
   parent: NuclearReactorSalvage
-  suffix: Порятунок
-  name: малий ядерний реактор
+  suffix: Salvage
+  name: small nuclear reactor
   components:
   - type: Sprite
     sprite: _FarHorizons/Structures/Power/Generation/FissionGenerator/small_nuclear_reactor.rsi
@@ -378,7 +378,7 @@
 - type: entity
   id: NuclearReactorSmallRandomSalvage
   parent: NuclearReactorSmallSalvage
-  suffix: "Випадковий, утилізований"
+  suffix: "Random, Salvage"
   components:
   - type: NuclearReactor
     prefab: random
@@ -386,8 +386,8 @@
 - type: entity
   id: NuclearReactorSmallMeltedSalvage
   parent: NuclearReactorSmallMelted
-  suffix: "Розтоплений, врятований"
-  description: Корпус ядерного реактора, давно розплавлений. Він все ще світиться від залишків тепла та випромінювання.
+  suffix: "Melted, Salvage"
+  description: A nuclear reactor vessel, long since melted down. It still glows with residual heat and radiation.
   components:
   - type: RadiationSource
     intensity: 2.5
@@ -398,8 +398,8 @@
 - type: entity
   id: NuclearDebrisChunk
   parent: BaseItem
-  name: ядерне сміття
-  description: Ви не бачите графіту на підлозі. Ви в шоці. Звіт до медичного.
+  name: nuclear debris
+  description: You do not see the graphite on the floor. You're in shock. Report to medical.
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite

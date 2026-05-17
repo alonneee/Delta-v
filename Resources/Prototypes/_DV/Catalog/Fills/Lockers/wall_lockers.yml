@@ -1,8 +1,8 @@
 - type: entity
   parent: WallClosetTools
   id: WallClosetToolsFilled
-  name: настінна шафа для інструментів
-  suffix: Заповнений
+  name: tool wall closet
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -12,8 +12,8 @@
 - type: entity
   parent: WallClosetRadiationSuit
   id: WallClosetRadiationSuitFilled
-  name: настінна шафа для радіаційного костюма
-  suffix: Заповнений
+  name: radiation suit wall closet
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -23,8 +23,8 @@
 - type: entity
   parent: WallClosetL3
   id: WallClosetL3Filled
-  name: стінна шафа 3 рівня біологічної небезпеки
-  suffix: Заповнений
+  name: level 3 biohazard wall closet
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -34,8 +34,8 @@
 - type: entity
   parent: WallClosetL3Janitor
   id: WallClosetL3JanitorFilled
-  name: стінна шафа 3 рівня біологічної небезпеки
-  suffix: Заповнений
+  name: level 3 biohazard wall closet
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -45,8 +45,8 @@
 - type: entity
   parent: WallClosetL3Security
   id: WallClosetL3SecurityFilled
-  name: стінна шафа 3 рівня біологічної небезпеки
-  suffix: Заповнений
+  name: level 3 biohazard wall closet
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -56,8 +56,8 @@
 - type: entity
   parent: WallClosetL3Virology
   id: WallClosetL3VirologyFilled
-  name: стінна шафа 3 рівня біологічної небезпеки
-  suffix: Заповнений
+  name: level 3 biohazard wall closet
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -67,8 +67,8 @@
 - type: entity
   parent: WallLockerAtmos
   id: WallLockerAtmosFilled
-  name: атмосферна настінна шафка
-  suffix: Заповнений
+  name: atmospherics wall locker
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -78,8 +78,8 @@
 - type: entity
   parent: WallLockerEngi
   id: WallLockerEngiFilled
-  name: інженерний настінний шафка
-  suffix: Заповнений
+  name: engineering wall locker
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -89,8 +89,8 @@
 - type: entity
   parent: WallLockerElectrical
   id: WallLockerElectricalFilled
-  name: електрична настінна шафка
-  suffix: Заповнений
+  name: electrical wall locker
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -100,8 +100,8 @@
 - type: entity
   parent: WallLockerWelding
   id: WallLockerWeldingFilled
-  name: настінна шафка для зварювальних інструментів
-  suffix: Заповнений
+  name: welding tools wall locker
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -119,8 +119,8 @@
 - type: entity
   parent: WallLockerBotany
   id: WallLockerBotanyFilled
-  name: ботанік настінний шафка
-  suffix: Заповнений
+  name: botanist wall locker
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -130,8 +130,8 @@
 - type: entity
   parent: WallLockerSalvage
   id: WallLockerSalvageFilled
-  name: аварійна настінна шафка
-  suffix: Заповнений
+  name: salvage wall locker
+  suffix: Filled
   components:
     - type: EntityTableContainerFill
       containers:
@@ -141,8 +141,8 @@
 - type: entity
   parent: WallLockerJanitor
   id: WallLockerJanitorFilled
-  name: настінний шафка двірника
-  suffix: Заповнений
+  name: janitor wall locker
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -152,8 +152,8 @@
 - type: entity
   parent: WallLockerEpistemics
   id: WallLockerEpistemicsFilled
-  name: настінна шафка epistemics
-  suffix: Заповнений
+  name: epistemics wall locker
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -163,8 +163,8 @@
 - type: entity
   parent: WallLockerSecurity
   id: WallLockerSecurityFilled
-  name: настінний шафка безпеки
-  suffix: Заповнений
+  name: security wall locker
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -174,8 +174,8 @@
 - type: entity
   parent: WallLockerKitchen
   id: WallLockerKitchenFilled
-  name: кухонний настінний шафка
-  suffix: Заповнений
+  name: kitchen wall locker
+  suffix: Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -185,9 +185,9 @@
 - type: entity
   parent: ClosetWallBlack
   id: LockerListeningPostStamps
-  name: штампувати шафу
-  description: Шафа, наповнена кованими марками, CentComm не входить.
-  suffix: НЕ КАРТА, Заповнена
+  name: stamp closet
+  description: A closet packed with forged stamps, CentComm not included.
+  suffix: DO NOT MAP, Filled
   components:
   - type: EntityTableContainerFill
     containers:
@@ -226,7 +226,7 @@
 - type: entity
   id: LockerWallChemicalFilled
   parent: LockerWallChemical
-  suffix: Заповнений
+  suffix: Filled
   components:
     - type: EntityTableContainerFill
       containers:
@@ -236,7 +236,7 @@
 - type: entity
   id: LockerWallSurgeonFilled
   parent: LockerWallSurgeon
-  suffix: Заповнений
+  suffix: Filled
   components:
     - type: EntityTableContainerFill
       containers:
@@ -246,7 +246,7 @@
 - type: entity
   id: LockerWallParamedicFilled
   parent: LockerWallParamedic
-  suffix: Заповнений
+  suffix: Filled
   components:
     - type: EntityTableContainerFill
       containers:
@@ -256,7 +256,7 @@
 - type: entity
   id: LockerWallParamedicFilledHardsuit
   parent: LockerWallParamedic
-  suffix: Заповнений, Hardsuit
+  suffix: Filled, Hardsuit
   components:
   - type: EntityTableContainerFill
     containers:

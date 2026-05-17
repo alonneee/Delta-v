@@ -5,8 +5,8 @@
   abstract: true
   parent: BaseBoardEntity
   id: BaseBattlemap
-  name: карта бою
-  description: біла королева
+  name: battlemap
+  description: A battlemap for your epic dungeon exploring to begin, pieces not included!
   components:
   - type: Sprite
     state: icon
@@ -16,8 +16,8 @@
 - type: entity
   parent: BaseBattlemap
   id: GrassBattlemap
-  name: трав'яна бойова карта
-  description: біла королева
+  name: grass battlemap
+  description: A battlemap for your epic dungeon exploring to begin, pieces not included!
   components:
   - type: Sprite
     sprite: Objects/Fun/Tabletop/Battlemaps/grassbm.rsi
@@ -29,8 +29,8 @@
 - type: entity
   parent: BaseBattlemap
   id: MoonBattlemap
-  name: місячна карта бою
-  description: Бойова карта для вашого епічного дослідження Місяця, щоб почати, деталі не входять!
+  name: moon battlemap
+  description: A battlemap for your epic moon exploring to begin, pieces not included!
   components:
   - type: Sprite
     sprite: Objects/Fun/Tabletop/Battlemaps/moonbm.rsi
@@ -42,8 +42,8 @@
 - type: entity
   parent: BaseBattlemap
   id: SandBattlemap
-  name: піщана карта бою
-  description: Карта бою для ваших епічних пляжних епізодів, щоб почати, частини не включені!
+  name: sand battlemap
+  description: A battlemap for your epic beach episodes to begin, pieces not included!
   components:
   - type: Sprite
     sprite: Objects/Fun/Tabletop/Battlemaps/sandbm.rsi
@@ -55,8 +55,8 @@
 - type: entity
   parent: BaseBattlemap
   id: SnowBattlemap
-  name: снігова бойова карта
-  description: Карта бою для початку вашого холодного дослідження, деталі не входять! # якщо це недостатньо смішно, я можу це видалити
+  name: snow battlemap
+  description: A battlemap for your frigid exploring to begin, pieces not included! # if this isn't funny enough i can remove it
   components:
   - type: Sprite
     sprite: Objects/Fun/Tabletop/Battlemaps/snowbm.rsi
@@ -68,8 +68,8 @@
 - type: entity
   parent: BaseBattlemap
   id: ShipBattlemap
-  name: бойова карта корабля
-  description: Карта бою для вашого епічного дослідження космосу, де не входить!
+  name: ship battlemap
+  description: A battlemap for your epic space exploring to begin, pieces not included!
   components:
   - type: Sprite
     sprite: Objects/Fun/Tabletop/Battlemaps/shipbm.rsi
@@ -83,7 +83,7 @@
 - type: entity
   parent: BaseBoardTabletop
   id: *GrassBoard
-  name: трав'яна бойова карта
+  name: grass battlemap
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
@@ -93,7 +93,7 @@
 - type: entity
   parent: BaseBoardTabletop
   id: *MoonBoard
-  name: трав'яна бойова карта
+  name: grass battlemap
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
@@ -103,7 +103,7 @@
 - type: entity
   parent: BaseBoardTabletop
   id: *SandBoard
-  name: піщана карта бою
+  name: sand battlemap
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
@@ -113,7 +113,7 @@
 - type: entity
   parent: BaseBoardTabletop
   id: *SnowBoard
-  name: снігова бойова карта
+  name: snow battlemap
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
@@ -123,7 +123,7 @@
 - type: entity
   parent: BaseBoardTabletop
   id: *ShipBoard
-  name: бойова карта корабля
+  name: ship battlemap
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite

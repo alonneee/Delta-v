@@ -1,5 +1,5 @@
 - type: sourcePort
   id: OperatingTable
-  name: ім'я-сигнального-порту-операційний-таблиця
+  name: signal-port-name-operating-table
   description: signal-port-description-operating-table-sender
   defaultLinks: [ OperatingTableReceiver ]

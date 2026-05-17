@@ -1,6 +1,6 @@
 - type: species
   id: Felinid
-  name: вид-назва-фелінід
+  name: species-name-felinid
   roundStart: true
   prototype: MobFelinid
   sprites: MobHumanSprites

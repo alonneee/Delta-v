@@ -230,7 +230,7 @@
 
 - type: reagent
   id: Calmafluxine
-  name: назва реагенту-кальмафлуксин
+  name: reagent-name-calmafluxine
   group: Medicine
   desc: reagent-desc-calmafluxine
   physicalDesc: reagent-physical-desc-syrupy
@@ -270,7 +270,7 @@
 
 - type: reagent
   id: Tranquinase
-  name: назва реагенту транквіназа
+  name: reagent-name-tranquinase
   group: Medicine
   desc: reagent-desc-tranquinase
   physicalDesc: reagent-physical-desc-odorless
@@ -352,7 +352,7 @@
 
 - type: reagent
   id: Equilibrazine
-  name: реагент-назва-еквілібразин
+  name: reagent-name-equilibrazine
   group: Medicine
   desc: reagent-desc-equilibrazine
   physicalDesc: reagent-physical-desc-translucent
@@ -436,7 +436,7 @@
 
 - type: reagent
   id: Stubantazine
-  name: реагент-назва-стубантазин
+  name: reagent-name-stubantazine
   group: Medicine
   desc: reagent-desc-stubantazine
   physicalDesc: reagent-physical-desc-sour
@@ -496,7 +496,7 @@
 
 - type: reagent
   id: Soretizone
-  name: реагент-назва-соретизон
+  name: reagent-name-soretizone
   group: Medicine
   desc: reagent-desc-soretizone
   physicalDesc: reagent-physical-desc-thick
@@ -546,7 +546,7 @@
 
 - type: reagent
   id: Agonolexyne
-  name: реагент-назва-агонолексин
+  name: reagent-name-agonolexyne
   group: Medicine
   desc: reagent-desc-agonolexyne
   physicalDesc: reagent-physical-desc-overpowering

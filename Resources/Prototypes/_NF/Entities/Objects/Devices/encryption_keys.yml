@@ -1,8 +1,8 @@
 - type: entity
   parent: EncryptionKey # DeltaV - Removed RecyclableItemDeviceTiny
   id: EncryptionKeyTraffic
-  name: ключ шифрування контролю трафіку
-  description: Смажені кавові зерна з корицею. Яскравий і фруктовий.
+  name: traffic control encryption key
+  description: An encryption key for the space traffic control channel.
   components:
   - type: EncryptionKey
     channels:

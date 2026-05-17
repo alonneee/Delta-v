@@ -1,7 +1,7 @@
 # Implanters
 
 - type: entity
-  name: імплантатор
+  name: implanter
   id: BaseImplanter
   parent: BaseItem
   abstract: true
@@ -21,7 +21,7 @@
       - Unimplantable
     currentMode: Draw
     implanterSlot:
-      name: удар мій
+      name: Implant
       locked: True
       priority: 0
       whitelist:
@@ -85,8 +85,8 @@
 - type: entity
   id: Implanter
   parent: BaseImplanter
-  name: екстрактор імплантату
-  description: "Шприц подвійного призначення, призначений для видалення специфічних підшкірних імплантатів. Після видалення імплантату він зберігається всередині і може бути повторно введений." # DeltaV - Ми не приймаємо генетичні
+  name: implant extractor
+  description: "A dual-purpose syringe designed for the removal of specific subdermal implants. Once an implant is extracted, it is stored within and can be re-administered." # DeltaV - We dont take genetic
   components:
   - type: Tag
     tags:
@@ -107,7 +107,7 @@
 - type: entity
   id: BaseImplantOnlyImplanter
   parent: Implanter
-  description: Одноразовий шприц, призначений виключно для ін’єкцій підшкірних імплантатів.
+  description: A disposable syringe exclusively designed for the injection of subdermal implants.
   abstract: true
   components:
   - type: Sprite
@@ -126,8 +126,8 @@
 - type: entity
   id: BaseImplantOnlyImplanterSyndi
   parent: [BaseImplantOnlyImplanter, BaseSyndicateContraband]
-  name: імплантатор синдикату
-  description: Компактний одноразовий шприц, призначений виключно для ін’єкцій підшкірних імплантатів. Після використання обов’язково протріть його милом, щоб видалити залишки ДНК!
+  name: syndicate implanter
+  description: A compact disposable syringe exclusively designed for the injection of subdermal implants. Make sure to scrub it with soap to remove residual DNA after use!
   abstract: true
   components:
   - type: Item
@@ -159,7 +159,7 @@
 
 - type: entity
   id: SadTromboneImplanter
-  name: сумний імплантатор тромбона
+  name: sad trombone implanter
   parent: BaseImplantOnlyImplanter
   components:
   - type: Implanter
@@ -167,7 +167,7 @@
 
 - type: entity
   id: LightImplanter
-  name: світловий імплантатор
+  name: light implanter
   parent: BaseImplantOnlyImplanter
   components:
   - type: Implanter
@@ -175,7 +175,7 @@
 
 - type: entity
   id: BikeHornImplanter
-  name: імплантатор велосипедного гудка
+  name: bike horn implanter
   parent: BaseImplantOnlyImplanter
   components:
   - type: Implanter
@@ -185,7 +185,7 @@
 
 - type: entity
   id: TrackingImplanter
-  name: відстеження імплантатора
+  name: tracking implanter
   parent: BaseImplantOnlyImplanter
   components:
   - type: Implanter
@@ -195,7 +195,7 @@
 
 - type: entity
   id: StorageImplanter
-  name: імплантатор зберігання
+  name: storage implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -203,7 +203,7 @@
 
 - type: entity
   id: FreedomImplanter
-  name: імплантатор свободи
+  name: freedom implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -211,8 +211,8 @@
 
 - type: entity
   id: RadioImplanterSyndicate # DeltaV - Renamed
-  name: syndicate radio implanter # DeltaV - додана назва
-  suffix: радіо Синдикат
+  name: syndicate radio implanter # DeltaV - added name
+  suffix: radio Syndicate
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -220,7 +220,7 @@
 
 - type: entity
   id: UplinkImplanter
-  name: імплантатор висхідної лінії зв'язку
+  name: uplink implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -228,7 +228,7 @@
 
 - type: entity
   id: EmpImplanter
-  name: Імплантатор EMP
+  name: EMP implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -244,7 +244,7 @@
 
 - type: entity
   id: DnaScramblerImplanter
-  name: Імплантатор скремблера ДНК
+  name: DNA scrambler implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -252,8 +252,8 @@
 
 - type: entity
   id: ChameleonControllerImplanter
-  name: імплантат контролера хамелеон
-  suffix: контролер хамелеон
+  name: chameleon controller implant
+  suffix: chameleon controller
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -261,7 +261,7 @@
 
 - type: entity
   id: VoiceMaskImplanter
-  name: імплантатор голосової маски
+  name: voice mask implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -271,7 +271,7 @@
 
 - type: entity
   id: MicroBombImplanter
-  name: імплантатор мікробомби
+  name: micro-bomb implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -279,7 +279,7 @@
 
 - type: entity
   id: MacroBombImplanter
-  name: імплантатор макробомби
+  name: macro-bomb implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -287,7 +287,7 @@
 
 - type: entity
   id: DeathRattleImplanter
-  name: імплантатор смерті
+  name: death rattle implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -295,7 +295,7 @@
 
 - type: entity
   id: DeathAcidifierImplanter
-  name: імплантатор підкислювача смерті
+  name: death acidifier implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -303,7 +303,7 @@
 
 - type: entity
   id: FakeMindShieldImplanter
-  name: фальшивий імплантатор розумового щита
+  name: fake mindshield implanter
   parent: BaseImplantOnlyImplanterSyndi
   components:
   - type: Implanter
@@ -313,7 +313,7 @@
 
 - type: entity
   id: MindShieldImplanter
-  name: імплантатор розумового щита
+  name: mindshield implanter
   parent: BaseImplantOnlyImplanter
   components:
     - type: Implanter
@@ -323,7 +323,7 @@
 
 - type: entity
   id: RadioImplanterCentcomm
-  name: радіоімплантатор centcomm # DeltaV
+  name: centcomm radio implanter # DeltaV
   parent: BaseImplantOnlyImplanter
   components:
   - type: Implanter
@@ -331,7 +331,7 @@
 
 - type: entity
   id: DeathRattleImplanterCentcomm
-  name: centcomm імплантатор смертельної тріщини # DeltaV
+  name: centcomm death rattle implanter # DeltaV
   parent: BaseImplantOnlyImplanter
   components:
   - type: Implanter

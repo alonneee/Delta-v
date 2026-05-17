@@ -2,8 +2,8 @@
   abstract: true
   parent: BaseElectronics
   id: WeaponEnergyTurretStationControlPanelElectronicsBase 
-  name: електроніка пульта управління сторожової вежі
-  description: Плата електроніки, яка використовується в панелі керування сторожовою вежею.
+  name: sentry turret control panel electronics
+  description: An electronics board used in a sentry turret control panel.
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -17,12 +17,12 @@
 - type: entity
   parent: WeaponEnergyTurretStationControlPanelElectronicsBase
   id: WeaponEnergyTurretSecurityControlPanelElectronics
-  suffix: Безпека
+  suffix: Security
 
 - type: entity
   parent: WeaponEnergyTurretStationControlPanelElectronicsBase
   id: WeaponEnergyTurretAIControlPanelElectronics
-  suffix: ШІ, кремній
+  suffix: AI, Silicon
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi
@@ -33,7 +33,7 @@
 - type: entity
   parent: WeaponEnergyTurretStationControlPanelElectronicsBase
   id: WeaponEnergyTurretCommandControlPanelElectronics
-  suffix: Команда
+  suffix: Command
   components:
   - type: Sprite
     sprite: Objects/Misc/module.rsi

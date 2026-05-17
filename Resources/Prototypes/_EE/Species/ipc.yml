@@ -1,6 +1,6 @@
 - type: species
   id: IPC
-  name: Вид-назва-ipc
+  name: species-name-ipc
   roundStart: true
   prototype: MobIPC
   sprites: MobIPCSprites

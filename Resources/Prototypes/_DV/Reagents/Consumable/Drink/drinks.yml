@@ -1,6 +1,6 @@
 - type: reagent
   id: Lean
-  name: reagent-name-dr-gibb-blood-red
+  name: reagent-name-lean
   parent: BaseAlcohol
   desc: reagent-desc-lean
   physicalDesc: reagent-physical-desc-strong-smelling
@@ -43,7 +43,7 @@
 
 - type: reagent
   id: HealthViolation
-  name: назва-реагенту-порушення здоров'я
+  name: reagent-name-healthviolation
   parent: BaseDrink
   desc: reagent-desc-healthviolation
   physicalDesc: reagent-physical-desc-strong-smelling
@@ -112,7 +112,7 @@
   id: LemonDrop
   name: reagent-name-lemondrop
   parent: BaseDrink
-  desc: Вівтар.. Щось.
+  desc: reagent-desc-lemondrop
   physicalDesc: reagent-physical-desc-lemony-fresh
   flavor: lemondrop
   color: "#fff789"

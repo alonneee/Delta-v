@@ -37,7 +37,7 @@
   parent: N14DecorFloorBase
   id: N14DecorMinecart
   name: minecrart
-  description: Здається, впало...
+  description: It seems to have fallen over...
   components:
   - type: Sprite
     state: minecart_fallen
@@ -54,9 +54,9 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorFloorPaper
-  name: розкиданий папір
-  description: Безлад паперів
-  suffix: 8 держав
+  name: scattered paper
+  description: A mess of papers
+  suffix: 8 states
   components:
   - type: Sprite
     sprite: _Nuclear14/Structures/Decoration/world.rsi
@@ -66,9 +66,9 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorFloorPaper1
-  suffix: 4 держави
-  name: розкиданий папір
-  description: Безлад паперів
+  suffix: 4 states
+  name: scattered paper
+  description: A mess of papers
   components:
   - type: Sprite
     state: papers_1
@@ -90,9 +90,9 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorFloorScrapwood
-  name: обрізки деревини
-  description: обрізки деревини
-  suffix: 6 держав
+  name: wood scraps
+  description: wood scraps
+  suffix: 6 states
   components:
   - type: Sprite
     state: woodscrap
@@ -100,9 +100,9 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorFloorBrickrubble
-  name: цегляний щебінь
-  description: цегляний щебінь
-  suffix: "смаковий комплекс-пам'ять-порей
+  name: brick rubble
+  description: brick rubble
+  suffix: "6 states"
   components:
   - type: Sprite
     state: brickrubble
@@ -110,9 +110,9 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorFloorCardboard
-  name: картонні коробки
-  description: картонні коробки для брухту
-  suffix: "смаковий комплекс-пам'ять-порей
+  name: cardboard boxes
+  description: cardboard scrap boxes
+  suffix: "6 states"
   components:
   - type: Sprite
     state: cardboard
@@ -121,9 +121,9 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorFloorPallet
-  name: піддон
-  description: дерев'яний піддон.
-  suffix: "2 держави"
+  name: pallet
+  description: a wooden pallet.
+  suffix: "2 states"
   components:
   - type: Sprite
     state: pallet
@@ -132,9 +132,9 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorFloorPalletStack
-  name: штабель піддонів
-  description: стопка дерев'яних піддонів
-  suffix: "2 держави"
+  name: pallet stack
+  description: a stack of wooden pallets
+  suffix: "2 states"
   components:
   - type: Sprite
     state: pallet_stack
@@ -154,8 +154,8 @@
 - type: entity
   parent: N14DecorFloorPalletStack
   id: N14DecorFloorBrickStack
-  name: стек цегли
-  description: акуратна стопка цегли
+  name: brick stack
+  description: a neat stack of bricks
   components:
   - type: Sprite
     state: brickpile
@@ -163,8 +163,8 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorFloorBookstack1
-  name: смако-комплекс-сода
-  description: стос книжок
+  name: book stack
+  description: a stack of books
   components:
   - type: Sprite
     state: bookstack_1
@@ -187,8 +187,8 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorFloorBookPile1
-  name: книжковий стос
-  description: купа книг
+  name: book pile
+  description: a pile of books
   components:
   - type: Sprite
     state: bookpile_1
@@ -232,8 +232,8 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorFloorFood1
-  name: харчові продукти
-  description: деякі старі харчові продукти
+  name: food stuff
+  description: some old food stuff
   components:
   - type: Sprite
     state: foodstuff_1
@@ -276,8 +276,8 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorFloorTrashbags1
-  name: мішки для сміття
-  description: кілька старих мішків для сміття
+  name: trash bags
+  description: some old trash bags
   components:
   - type: Sprite
     state: trashbags_1
@@ -331,8 +331,8 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorFloorGlass1
-  name: скляні пляшки
-  description: трохи старого скла
+  name: glass bottles
+  description: some old glass scraps
   components:
   - type: Sprite
     state: glass_1
@@ -376,8 +376,8 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorSignMines
-  name: робітники лише підписують
-  description: небезпека мін і смерті...
+  name: mines
+  description: danger of mines and death...
   components:
   - type: Sprite
     state: mine_sign
@@ -385,8 +385,8 @@
 - type: entity
   parent: N14DecorFloorWorldBase
   id: N14DecorFloorSkeleton
-  name: скелет
-  description: виглядає трохи гірше за носінням
+  name: skeleton
+  description: looks a little worse for wear
   components:
   - type: Sprite
     state: skeleton
@@ -394,7 +394,7 @@
 - type: entity
   parent: N14DecorFloorSkeleton
   id: N14DecorFloorSkeletonOver
-  suffix: малює поверх предметів
+  suffix: draws over objects
   components:
   - type: Sprite
     drawdepth: Mobs

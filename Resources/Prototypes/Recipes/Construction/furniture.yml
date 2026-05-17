@@ -181,7 +181,7 @@
 
 - type: construction
   id: RedComfBench
-  name: будівництво-рецепт-червона-комф-лава
+  name: construction-recipe-red-comf-bench
   graph: Seat
   startNode: start
   targetNode: redComfBench
@@ -194,7 +194,7 @@
 
 - type: construction
   id: BlueComfBench
-  name: конструкція-рецепт-блакитна-комф-лава
+  name: construction-recipe-blue-comf-bench
   graph: Seat
   startNode: start
   targetNode: blueComfBench
@@ -316,7 +316,7 @@
 
 - type: construction
   id: TableFancyBlack
-  name: конструкція-рецепт-стіл-незвичайний-чорний
+  name: construction-recipe-table-fancy-black
   graph: Table
   startNode: start
   targetNode: TableFancyBlack
@@ -329,7 +329,7 @@
 
 - type: construction
   id: TableFancyBlue
-  name: конструкція-рецепт-стіл-незвичайний-блакитний
+  name: construction-recipe-table-fancy-blue
   graph: Table
   startNode: start
   targetNode: TableFancyBlue
@@ -342,7 +342,7 @@
 
 - type: construction
   id: TableFancySkyBlue
-  name: конструкція-рецепт-стіл-химерний-небесно-блакитний
+  name: construction-recipe-table-fancy-sky-blue
   graph: Table
   startNode: start
   targetNode: TableFancySkyBlue
@@ -355,7 +355,7 @@
 
 - type: construction
   id: TableFancyCyan
-  name: конструкція-рецепт-стіл-фантазія-блакитний
+  name: construction-recipe-table-fancy-cyan
   graph: Table
   startNode: start
   targetNode: TableFancyCyan
@@ -368,7 +368,7 @@
 
 - type: construction
   id: TableFancyGreen
-  name: конструкція-рецепт-стіл-красивий-зелений
+  name: construction-recipe-table-fancy-green
   graph: Table
   startNode: start
   targetNode: TableFancyGreen
@@ -381,7 +381,7 @@
 
 - type: construction
   id: TableFancyOrange
-  name: конструкція-рецепт-стіл-химерний-апельсин
+  name: construction-recipe-table-fancy-orange
   graph: Table
   startNode: start
   targetNode: TableFancyOrange
@@ -394,7 +394,7 @@
 
 - type: construction
   id: TableFancyPurple
-  name: конструкція-рецепт-стіл-химерний-фіолетовий
+  name: construction-recipe-table-fancy-purple
   graph: Table
   startNode: start
   targetNode: TableFancyPurple
@@ -407,7 +407,7 @@
 
 - type: construction
   id: TableFancyPink
-  name: конструкція-рецепт-стіл-незвичайний-рожевий
+  name: construction-recipe-table-fancy-pink
   graph: Table
   startNode: start
   targetNode: TableFancyPink
@@ -420,7 +420,7 @@
 
 - type: construction
   id: TableFancyRed
-  name: будівництво-рецепт-стіл-красивий-червоний
+  name: construction-recipe-table-fancy-red
   graph: Table
   startNode: start
   targetNode: TableFancyRed
@@ -433,7 +433,7 @@
 
 - type: construction
   id: TableFancyWhite
-  name: конструкція-рецепт-стіл-незвичайний-білий
+  name: construction-recipe-table-fancy-white
   graph: Table
   startNode: start
   targetNode: TableFancyWhite
@@ -558,7 +558,7 @@
 
 - type: construction
   id: Curtains
-  name: конструкція-рецепт-штори-тканина
+  name: construction-recipe-curtains-cloth
   graph: Curtains
   startNode: start
   targetNode: Curtains
@@ -569,7 +569,7 @@
 
 - type: construction
   id: CurtainsBlack
-  name: конструкція-рецепт-штори-чорні
+  name: construction-recipe-curtains-black
   graph: Curtains
   startNode: start
   targetNode: CurtainsBlack
@@ -580,7 +580,7 @@
 
 - type: construction
   id: CurtainsBlue
-  name: будівництво-рецепт-штори-блакитні
+  name: construction-recipe-curtains-blue
   graph: Curtains
   startNode: start
   targetNode: CurtainsBlue
@@ -591,7 +591,7 @@
 
 - type: construction
   id: CurtainsSkyBlue
-  name: будівництво-рецепт-штори-небесно-блакитні
+  name: construction-recipe-curtains-sky-blue
   graph: Curtains
   startNode: start
   targetNode: CurtainsSkyBlue
@@ -602,7 +602,7 @@
 
 - type: construction
   id: CurtainsCyan
-  name: конструкція-рецепт-штори-синюха
+  name: construction-recipe-curtains-cyan
   graph: Curtains
   startNode: start
   targetNode: CurtainsCyan
@@ -613,7 +613,7 @@
 
 - type: construction
   id: CurtainsGreen
-  name: конструкція-рецепт-штори-зелені
+  name: construction-recipe-curtains-green
   graph: Curtains
   startNode: start
   targetNode: CurtainsGreen
@@ -624,7 +624,7 @@
 
 - type: construction
   id: CurtainsOrange
-  name: будівництво-рецепт-штор-помаранчевий
+  name: construction-recipe-curtains-orange
   graph: Curtains
   startNode: start
   targetNode: CurtainsOrange
@@ -635,7 +635,7 @@
 
 - type: construction
   id: CurtainsPink
-  name: будівництво-рецепт-перила-круг
+  name: construction-recipe-curtains-pink
   graph: Curtains
   startNode: start
   targetNode: CurtainsPink
@@ -646,7 +646,7 @@
 
 - type: construction
   id: CurtainsPurple
-  name: конструкція-рецепт-штори-фіолетові
+  name: construction-recipe-curtains-purple
   graph: Curtains
   startNode: start
   targetNode: CurtainsPurple
@@ -657,7 +657,7 @@
 
 - type: construction
   id: CurtainsRed
-  name: будівництво-рецепт-штори-червоний
+  name: construction-recipe-curtains-red
   graph: Curtains
   startNode: start
   targetNode: CurtainsRed
@@ -668,7 +668,7 @@
 
 - type: construction
   id: CurtainsWhite
-  name: конструкція-рецепт-штори-білі
+  name: construction-recipe-curtains-white
   graph: Curtains
   startNode: start
   targetNode: CurtainsWhite

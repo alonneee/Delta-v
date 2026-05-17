@@ -3,7 +3,7 @@
 - type: stack
   parent: BaseTileStack
   id: FloorTileGrass
-  name: стек-трава-плитка для підлоги
+  name: stack-grass-floor-tile
   spawn: FloorTileItemGrass
 
 - type: stack
@@ -15,5 +15,5 @@
 - type: stack
   parent: BaseTileStack
   id: FloorTileSnow
-  name: стопка-сніг-підлогова плитка
+  name: stack-snow-floor-tile
   spawn: FloorTileItemSnow

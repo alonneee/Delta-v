@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseAction
   id: ActionOpenRadioImplant
-  name: Відкритий радіоімплант
-  description: Відкриває відсік для ключа bluespace радіоімплантату, вбудованого у ваш череп.
+  name: Open Radio Implant
+  description: Opens the bluespace key compartment of the radio implant embedded in your skull.
   components:
   - type: Action
     itemIconStyle: BigAction
@@ -16,8 +16,8 @@
 - type: entity
   parent: BaseAction
   id: ActionOpenMouthStorage
-  name: Зберігання відкритих щік
-  description: Дозволяє зберігати предмети в щоках.
+  name: Open cheek storage
+  description: Allows you to store items in your cheeks.
   components:
   - type: Action
     itemIconStyle: BigAction
@@ -29,8 +29,8 @@
 - type: entity
   parent: BaseAction
   id: ActionToggleSneakMode
-  name: Увімкнути режим скритності
-  description: Прокрастися під столи.
+  name: Toggle sneak mode
+  description: Sneak underneath tables.
   components:
   - type: Action
     itemIconStyle: BigAction
@@ -49,8 +49,8 @@
 - type: entity
   parent: BaseAction
   id: ActionChitzite
-  name: Відкашлюйте чицит
-  description: Очистіть своє тіло від надлишку радіації та отримайте прохолодний небезпечний камінь.
+  name: Cough Up Chitzite
+  description: Purge the excess radiation build-up from your body, and gain a cool danger rock.
   components:
   - type: Action
     enabled: false
@@ -61,8 +61,8 @@
 
 - type: entity
   id: ActionHairball
-  name: Відкашлюйте кулю волосся
-  description: Очистіть частину свого хімічного потоку та отримайте круту кулю волосся, щоб кидати її в людей.
+  name: Cough Up Hairball
+  description: Purge some of your chemstream, and gain a cool hairball to throw at people.
   components:
   - type: Action
     icon:
@@ -75,8 +75,8 @@
 - type: entity
   parent: BaseToggleAction
   id: ActionToggleBipod
-  name: Встановіть свою сошку
-  description: Підвищте точність і скорострільність своєї вогнепальної зброї.
+  name: Set up your bipod
+  description: Increase the accuracy and fire rate of your firearm.
   components:
   - type: Action
     icon: { sprite: _DV/Objects/Weapons/Guns/LMGs/NT-3.rsi, state: bipod-off }

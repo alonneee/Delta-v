@@ -1,6 +1,6 @@
 - type: guideEntry
   id: Surgery
-  name: керівництво-вхід-хірургія
+  name: guide-entry-surgery
   text: "/ServerInfo/_Shitmed/Guidebook/Medical/Surgery.xml"
   children:
   - PartManipulation
@@ -10,13 +10,13 @@
 
 - type: guideEntry
   id: PartManipulation
-  name: керівництво-вхід-частина маніпуляції
+  name: guide-entry-partmanipulation
   text: "/ServerInfo/_Shitmed/Guidebook/Medical/PartManipulation.xml"
   filterEnabled: true
 
 - type: guideEntry
   id: OrganManipulation
-  name: керівництво-вхід-орган маніпуляції
+  name: guide-entry-organmanipulation
   text: "/ServerInfo/_Shitmed/Guidebook/Medical/OrganManipulation.xml"
   filterEnabled: true
 
@@ -28,5 +28,5 @@
 
 - type: guideEntry
   id: Autodoc
-  name: путівник-запис-автодок
+  name: guide-entry-autodoc
   text: "/ServerInfo/_Shitmed/Guidebook/Medical/Autodoc.xml"

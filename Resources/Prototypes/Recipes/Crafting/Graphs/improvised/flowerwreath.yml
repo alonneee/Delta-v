@@ -7,17 +7,17 @@
         - to: flowerwreath
           steps:
             - tag: Flower
-              name: конструкція-граф-тег-квітка
+              name: construction-graph-tag-flower
               icon:
                 sprite: Objects/Specific/Hydroponics/poppy.rsi
                 state: produce
             - tag: Flower
-              name: конструкція-граф-тег-квітка
+              name: construction-graph-tag-flower
               icon:
                 sprite: Objects/Specific/Hydroponics/poppy.rsi
                 state: produce
             - tag: Ambrosia
-              name: будівництво-граф-тег-амброзія
+              name: construction-graph-tag-ambrosia
               icon:
                 sprite: Objects/Specific/Hydroponics/ambrosia_vulgaris.rsi
                 state: produce

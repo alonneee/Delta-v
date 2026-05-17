@@ -1,6 +1,6 @@
 - type: species
   id: Harpy
-  name: вид-назва-гарпія
+  name: species-name-harpy
   roundStart: true
   prototype: MobHarpy
   sprites: MobHarpySprites

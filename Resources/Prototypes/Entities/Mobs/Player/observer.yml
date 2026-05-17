@@ -2,7 +2,7 @@
   id: Incorporeal
   save: false
   abstract: true
-  description: Моби без фізичних тіл
+  description: Mobs without physical bodies
   components:
   - type: Sprite
     noRot: true
@@ -35,8 +35,8 @@
   - BaseMob
   id: MobObserverBase
   abstract: true
-  name: спостерігач
-  description: бу!
+  name: observer
+  description: Boo!
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
@@ -142,8 +142,8 @@
 - type: entity
   parent: BaseMentalAction
   id: ActionGhostBoo
-  name: бу!
-  description: Налякайте членів вашої команди через нудьгу!
+  name: Boo!
+  description: Scare your crew members because of boredom!
   components:
   - type: Action
     icon: Interface/Actions/scream.png
@@ -156,8 +156,8 @@
 - type: entity
   parent: BaseMentalAction
   id: ActionToggleLighting
-  name: Увімкнути освітлення
-  description: Увімкніть відтворення світла, щоб краще спостерігати за темними ділянками.
+  name: Toggle Lighting
+  description: Toggle light rendering to better observe dark areas.
   components:
   - type: Action
     icon: Interface/VerbIcons/light.svg.192dpi.png
@@ -168,8 +168,8 @@
 - type: entity
   parent: BaseMentalAction
   id: ActionToggleFov
-  name: ghost-role-information-closet-skeleton-name
-  description: Перемикає поле зору, щоб бачити те, що бачать гравці.
+  name: Toggle FoV
+  description: Toggles field-of-view in order to see what players see.
   components:
   - type: Action
     icon: Interface/VerbIcons/vv.svg.192dpi.png
@@ -180,8 +180,8 @@
 - type: entity
   parent: BaseMentalAction
   id: ActionToggleGhosts
-  name: Переключити привидів
-  description: Перемкніть видимість інших привидів.
+  name: Toggle Ghosts
+  description: Toggle the visibility of other ghosts.
   components:
   - type: Action
     icon: { sprite: Mobs/Ghosts/ghost_human.rsi, state: icon }
@@ -192,8 +192,8 @@
 - type: entity
   parent: BaseMentalAction
   id: ActionToggleGhostHearing
-  name: Перемкнути слух привидів
-  description: Перемикання між прослуховуванням усіх повідомлень і прослуховуванням лише радіо й повідомлень поблизу.
+  name: Toggle Ghost Hearing
+  description: Toggle between hearing all messages and hearing only radio & nearby messages.
   components:
   - type: Action
     icon:

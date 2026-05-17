@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseSign
   id: SignBrigmed
-  name: санітарний знак
-  description: Знак, що вказує на санітарний пункт.
+  name: corpsman sign
+  description: A sign indicating the corpsman's medical bay.
   components:
   - type: Sprite
     sprite: _Starlight/Structures/Wallmounts/signs.rsi
@@ -11,8 +11,8 @@
 - type: entity
   parent: BaseSign
   id: SignDisposalProper
-  name: знак утилізації
-  description: Знак, що вказує на місце утилізації.
+  name: disposal sign
+  description: A sign indicating a disposal area.
   components:
   - type: Sprite
     sprite: _Starlight/Structures/Wallmounts/signs.rsi
@@ -21,8 +21,8 @@
 - type: entity
   parent: BaseSign
   id: SignSecureAreaSmall
-  name: знак безпечної зони
-  description: Знак, що вказує на безпечну зону.
+  name: secure area sign
+  description: A sign indicating a secure area.
   components:
   - type: Sprite
     sprite: _Starlight/Structures/Wallmounts/signs.rsi
@@ -31,8 +31,8 @@
 - type: entity
   parent: BaseSign
   id: SignWallBiohazard
-  name: настінний знак біологічної небезпеки
-  description: Знак, що вказує на біологічну небезпеку.
+  name: wall biohazard sign
+  description: A sign indicating a biohazard.
   components:
   - type: Sprite
     sprite: _Starlight/Structures/Wallmounts/signs.rsi
@@ -41,8 +41,8 @@
 - type: entity
   parent: BaseSign
   id: SignWallExtremeHeat
-  name: знак сильної спеки на стіні
-  description: Знак, що вказує на сильну спеку.
+  name: wall extreme heat sign
+  description: A sign indicating extreme heat.
   components:
   - type: Sprite
     sprite: _Starlight/Structures/Wallmounts/signs.rsi
@@ -51,8 +51,8 @@
 - type: entity
   parent: BaseSign
   id: SignYesSmoking
-  name: так куріння знак
-  description: Табличка, що тут можна палити.
+  name: yes smoking sign
+  description: A sign indicating you can smoke here.
   components:
   - type: Sprite
     sprite: _Starlight/Structures/Wallmounts/signs.rsi

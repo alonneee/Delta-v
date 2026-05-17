@@ -324,10 +324,10 @@
 # Tastes like jelly-donut, green apples.
 
 - type: entity
-  name: карамельний желе-пончик
+  name: caramel jelly-donut
   parent: FoodDonutBase
   id: FoodDonutJellyCaramel
-  description: Чудово поєднується з кухлем гарячого кокосу.
+  description: Goes great with a mug of hot coco.
   components:
   - type: Sprite
     state: jelly-beige
@@ -343,10 +343,10 @@
 # Tastes like jelly-donut, buttery sweetness.
 
 - type: entity
-  name: шоколадне желе-пончик
+  name: chocolate jelly-donut
   parent: FoodDonutBase
   id: FoodDonutJellyChocolate
-  description: Чудово поєднується зі склянкою теплого молока.
+  description: Goes great with a glass of warm milk.
   components:
   - type: Sprite
     state: jelly-choc
@@ -364,10 +364,10 @@
 # Tastes like jelly-donut, bitterness.
 
 - type: entity
-  name: синій гарбуз желе-пончик
+  name: blue pumpkin jelly-donut
   parent: FoodDonutFruitBase
   id: FoodDonutJellyBluePumpkin
-  description: Чудово поєднується з кухлем заспокійливого п’яного синього гарбуза.
+  description: Goes great with a mug of soothing drunken blue pumpkin.
   components:
   - type: FlavorProfile
     flavors:
@@ -387,10 +387,10 @@
 # Tastes like jelly-donut, blue pumpkin.
 
 - type: entity
-  name: бунго желе-пончик
+  name: bungo jelly-donut
   parent: FoodDonutFruitBase
   id: FoodDonutJellyBungo
-  description: Чудово поєднується з баночкою насолоди хіпі.
+  description: Goes great with a mason jar of hippie's delight.
   components:
   - type: Sprite
     state: jelly-yellow
@@ -406,10 +406,10 @@
 # Tastes like jelly-donut, tropical sweetness.
 
 - type: entity
-  name: желе-пончик матча
+  name: matcha jelly-donut
   parent: FoodDonutBase
   id: FoodDonutJelly
-  description: L-теанін у цьому желе-пончику розслабляє, але не викликає ейфорії. Чудово поєднується з чашкою чаю.
+  description: The L-theanine in this jelly-donut is relaxing, yet not euphoric. Goes great with a cup of tea.
   components:
   - type: Sprite
     state: jelly-olive
@@ -425,10 +425,10 @@
 # Tastes like jelly-donut, matcha.
 
 - type: entity
-  name: желе-пончик із запашного гороху
+  name: sweet pea jelly-donut
   parent: FoodDonutBase
   id: FoodDonutJellySweetpea
-  description: Чудово поєднується з пляшкою Bastion Burbon!
+  description: Goes great with a bottle of Bastion Burbon!
   components:
   - type: Sprite
     state: jelly-laugh
@@ -444,10 +444,10 @@
 # Tastes like jelly-donut, fizzy tutti frutti.
 
 - type: entity
-  name: кисіль желе-пончик
+  name: scurret jelly-donut
   parent: FoodDonutBase
   id: FoodDonutJellyScurret
-  description: У цьому пончику немає дірок на випадок підозрілого вигляду.
+  description: No holes in this donut in case a suspicious looking pole shows up.
   components:
   - type: Sprite
     state: jelly-slug
@@ -466,7 +466,7 @@
 - type: entity
   parent: FoodDonutPink
   id: FoodDonutPoison
-  suffix: Отрута
+  suffix: Poison
   components:
   - type: SolutionContainerManager
     solutions:

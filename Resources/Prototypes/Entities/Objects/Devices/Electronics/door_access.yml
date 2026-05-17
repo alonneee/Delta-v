@@ -2,7 +2,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsCaptain
-  suffix: Капітане, заблоковано
+  suffix: Captain, Locked
   components:
   - type: AccessReader
     access: [["Captain"]]
@@ -18,7 +18,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsCommand
-  suffix: Команда, заблоковано
+  suffix: Command, Locked
   components:
   - type: AccessReader
     access: [["Command"]]
@@ -27,7 +27,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsBar
-  suffix: Бар, Зачинено
+  suffix: Bar, Locked
   components:
   - type: AccessReader
     access: [["Bar"]]
@@ -35,7 +35,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsBarKitchen
-  suffix: Бар, Зачинено
+  suffix: Bar, Locked
   components:
   - type: AccessReader
     access: [["Bar"], ["Kitchen"]]
@@ -43,7 +43,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsHydroponics
-  suffix: Гідропоніка, Зачинено
+  suffix: Hydroponics, Locked
   components:
   - type: AccessReader
     access: [["Hydroponics"]]
@@ -51,7 +51,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsChapel
-  suffix: Каплиця, Замкнена
+  suffix: Chapel, Locked
   components:
   - type: AccessReader
     access: [["Chapel"]]
@@ -59,7 +59,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsTheatre
-  suffix: Театр, Зачинено
+  suffix: Theatre, Locked
   components:
   - type: AccessReader
     access: [["Theatre"]]
@@ -67,7 +67,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsKitchen
-  suffix: Кухня, Зачинено
+  suffix: Kitchen, Locked
   components:
   - type: AccessReader
     access: [["Kitchen"]]
@@ -83,7 +83,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsJanitor
-  suffix: Двірник, Зачинено
+  suffix: Janitor, Locked
   components:
   - type: AccessReader
     access: [["Janitor"]]
@@ -91,7 +91,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsLawyer
-  suffix: Юрист, Заблоковано
+  suffix: Lawyer, Locked
   components:
   - type: AccessReader
     access: [["Lawyer"]]
@@ -99,7 +99,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsService
-  suffix: Обслуговування, заблоковано
+  suffix: Service, Locked
   components:
   - type: AccessReader
     access: [["Service"]]
@@ -107,7 +107,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsServiceTheatre
-  suffix: Сервіс, Театр, Зачинено
+  suffix: Service, Theatre, Locked
   components:
   - type: AccessReader
     access: [["Service"], ["Theatre"]]
@@ -116,7 +116,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsQuartermaster
-  suffix: Інтендант, зачинено
+  suffix: Quartermaster, Locked
   components:
   - type: AccessReader
     access: [["Quartermaster"]]
@@ -124,7 +124,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsSalvage
-  suffix: Порятунок, заблоковано
+  suffix: Salvage, Locked
   components:
   - type: AccessReader
     access: [["Salvage"]]
@@ -132,7 +132,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsCargo
-  suffix: Вантаж, зачинено
+  suffix: Cargo, Locked
   components:
   - type: AccessReader
     access: [["Cargo"]]
@@ -141,7 +141,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsChiefEngineer
-  suffix: Головний інженер, заблоковано
+  suffix: ChiefEngineer, Locked
   components:
   - type: AccessReader
     access: [["ChiefEngineer"]]
@@ -149,7 +149,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsAtmospherics
-  suffix: Атмосферність, заблоковано
+  suffix: Atmospherics, Locked
   components:
   - type: AccessReader
     access: [["Atmospherics"]]
@@ -157,7 +157,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsEngineering
-  suffix: Інженерна, Зачинено
+  suffix: Engineering, Locked
   components:
   - type: AccessReader
     access: [["Engineering"]]
@@ -166,7 +166,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsMorgue
-  suffix: Морг, Зачинено
+  suffix: Morgue, Locked
   components:
   - type: AccessReader
     access: [["Medical"], ["Detective"], ["Chapel"]]
@@ -190,7 +190,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsResearch
-  suffix: Дослідження, заблоковано
+  suffix: Research, Locked
   components:
   - type: AccessReader
     access: [["Research"]]
@@ -199,7 +199,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsHeadOfSecurity
-  suffix: HeadOfSecurity, заблоковано
+  suffix: HeadOfSecurity, Locked
   components:
   - type: AccessReader
     access: [["HeadOfSecurity"]]
@@ -207,7 +207,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsArmory
-  suffix: Збройова, Зачинено
+  suffix: Armory, Locked
   components:
   - type: AccessReader
     access: [["Armory"]]
@@ -215,7 +215,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsDetective
-  suffix: Детектив, заблоковано
+  suffix: Detective, Locked
   components:
   - type: AccessReader
     access: [["Detective"]]
@@ -223,7 +223,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsSecurity
-  suffix: Охорона, зачинено
+  suffix: Security, Locked
   components:
   - type: AccessReader
     access: [["Security"]]
@@ -256,7 +256,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsChemistry
-  suffix: Хімія, Заблоковано
+  suffix: Chemistry, Locked
   components:
   - type: AccessReader
     access: [["Chemistry"]]
@@ -264,7 +264,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsMedical
-  suffix: Медична, Зачинено
+  suffix: Medical, Locked
   components:
   - type: AccessReader
     access: [["Medical"]]
@@ -273,7 +273,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsNukeop
-  suffix: Nukeop, заблоковано
+  suffix: Nukeop, Locked
   components:
   - type: AccessReader
     access: [["NuclearOperative"]]
@@ -281,7 +281,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsSyndicateAgent
-  suffix: Кріосон
+  suffix: SyndicateAgent, Locked
   components:
   - type: AccessReader
     access: [["SyndicateAgent"]]
@@ -290,7 +290,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsCentralCommand
-  suffix: CentralCommand, заблоковано
+  suffix: CentralCommand, Locked
   components:
   - type: AccessReader
     access: [["CentralCommand"]]
@@ -298,7 +298,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsExternal
-  suffix: Зовнішній, закритий
+  suffix: External, Locked
   components:
   - type: AccessReader
     access: [["External"]]
@@ -306,7 +306,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsMaintenance
-  suffix: Технічне обслуговування, заблоковано
+  suffix: Maintenance, Locked
   components:
   - type: AccessReader
     access: [["Maintenance"]]
@@ -314,7 +314,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsVault
-  suffix: Сховище, зачинено
+  suffix: Vault, Locked
   components:
   - type: AccessReader
     access: [["Security"], ["Command"]]
@@ -322,7 +322,7 @@
 - type: entity
   parent: DoorElectronics
   id: DoorElectronicsXenoborg
-  suffix: Ксеноборг, заблоковано
+  suffix: Xenoborg, Locked
   components:
   - type: AccessReader
     access: [["Xenoborg"]]

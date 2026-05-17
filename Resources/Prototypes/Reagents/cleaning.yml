@@ -48,7 +48,7 @@
 
 - type: reagent
   id: SoapReagent
-  name: ім'я-реагенту-мило
+  name: reagent-name-soap
   desc: reagent-desc-soap
   physicalDesc: reagent-physical-desc-soapy
   flavor: clean
@@ -79,8 +79,8 @@
 
 - type: reagent
   id: SpaceLube
-  name: реагент-назва-простір-мастило
-  desc: криваво-червоно-солодковий
+  name: reagent-name-space-lube
+  desc: reagent-desc-space-lube
   evaporationSpeed: 0.1
   slipData:
     requiredSlipSpeed: 1
@@ -97,7 +97,7 @@
 
 - type: reagent
   id: SpaceGlue
-  name: реагент-ім'я-простір-клей
+  name: reagent-name-space-glue
   desc: reagent-desc-space-glue
   physicalDesc: reagent-physical-desc-sticky
   flavor: glue

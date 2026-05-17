@@ -8,7 +8,7 @@
 
 - type: accessLevel
   id: Prosecutor
-  name: id-card-access-level-procerutor
+  name: id-card-access-level-prosecutor
 
 - type: accessLevel
   id: Clerk

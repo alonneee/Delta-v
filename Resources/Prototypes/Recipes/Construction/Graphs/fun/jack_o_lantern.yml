@@ -7,7 +7,7 @@
         - to: lit
           steps:
             - tag: Torch
-              name: будівництво-граф-тег-факел
+              name: construction-graph-tag-torch
               doAfter: 2
 
     - node: lit

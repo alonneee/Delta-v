@@ -1,8 +1,8 @@
 - type: entity
   id: WardrobePrisonFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobePrison
-  description: "Містить вибір гарного помаранчевого одягу для людей, які насолоджуються перебуванням у в’язниці».
+  description: "Contains a selection of nice orange clothes for people enjoying their stay in the brig."
   components:
   - type: EntityTableContainerFill
     containers:
@@ -11,7 +11,7 @@
 
 - type: entity
   id: ClosetWallWardrobePrisonFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: ClosetWallOrange
   components:
   - type: EntityTableContainerFill
@@ -88,9 +88,9 @@
 
 - type: entity
   id: WardrobeRoboticsFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobeRobotics
-  description: "Ви можете створити робота з цієї шафки».
+  description: "You can build a robot out of this locker."
   components:
   - type: EntityTableContainerFill
     containers:
@@ -112,9 +112,9 @@
 
 - type: entity
   id: WardrobeChemistryFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobeChemistry
-  description: "Гладкі помаранчеві нитки, що містяться всередині, зменшують шанси, що вас викинуть з хімічної лабораторії».
+  description: "The sleek orange threads contained within make you much less likely to be thrown out of the chemistry lab."
   components:
   - type: EntityTableContainerFill
     containers:
@@ -133,9 +133,9 @@
 
 - type: entity
   id: WardrobeGeneticsFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobeGenetics
-  description: "uplink-pistol-magazine-caseless-desc
+  description: "The sleek blue threads contained within make you much less likely to be thrown out of the genetics lab."
   components:
   - type: EntityTableContainerFill
     containers:
@@ -154,9 +154,9 @@
 
 - type: entity
   id: WardrobeVirologyFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobeVirology
-  description: "Гладкі зелені нитки, що містяться всередині, зменшують шанси бути викинутим із вірусологічної лабораторії».
+  description: "The sleek green threads contained within make you much less likely to be thrown out of the virology lab."
   components:
   - type: EntityTableContainerFill
     containers:
@@ -175,9 +175,9 @@
 
 - type: entity
   id: WardrobeScienceFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobeScience
-  description: "Ви прочитали пару науково-популярних статей, а тепер настав час по-справжньому».
+  description: "You've read a couple pop science articles, now it's time for the real deal."
   components:
   - type: EntityTableContainerFill
     containers:
@@ -200,9 +200,9 @@
 
 - type: entity
   id: WardrobeBotanistFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobeBotanist
-  description: "Позначте себе серед людей-рослин із цим 100% натуральним одягом рослинного походження».
+  description: "Plant yourself among the plant men with these 100% natural plant-derived clothes."
   components:
   - type: EntityTableContainerFill
     containers:
@@ -226,9 +226,9 @@
 
 - type: entity
   id: WardrobeMedicalDoctorFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobeMedicalDoctor
-  description: "Ми всі раніше грали в лікарів, а тепер практикуємо медицину».
+  description: "We've all played doctor before, now practice medicine."
   components:
   - type: EntityTableContainerFill
     containers:
@@ -251,9 +251,9 @@
 
 - type: entity
   id: WardrobeChapelFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobeChapel
-  description: "Ви повинні виглядати презентабельно для своєї пастви».
+  description: "You have to look presentable for your flock."
   components:
   - type: EntityTableContainerFill
     containers:
@@ -271,9 +271,9 @@
 
 - type: entity
   id: WardrobeSecurityFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobeSecurity
-  description: "Перетинайте тонку червону лінію».
+  description: "Cross the thin red line."
   components:
   - type: EntityTableContainerFill
     containers:
@@ -295,9 +295,9 @@
 
 - type: entity
   id: WardrobeCargoFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobeCargo
-  description: "Ця шафка? Можливо, 500 песо. Братство? Безцінний».
+  description: "This locker? Maybe 500 spesos. Brotherhood? Priceless."
   components:
   - type: EntityTableContainerFill
     containers:
@@ -318,7 +318,7 @@
 
 - type: entity
   id: WardrobeSalvageFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobeSalvage
   components:
   - type: EntityTableContainerFill
@@ -338,9 +338,9 @@
 
 - type: entity
   id: WardrobeAtmosphericsFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobeAtmospherics
-  description: "У цій шафці є уніформа для атмосферних техніків».
+  description: "This locker contains a uniform for atmospheric technicians."
   components:
   - type: EntityTableContainerFill
     containers:
@@ -349,9 +349,9 @@
 
 - type: entity
   id: ClosetWallWardrobeAtmosphericsFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: ClosetWallAtmospherics
-  description: "У цій шафці є уніформа для атмосферних техніків».
+  description: "This locker contains a uniform for atmospheric technicians."
   components:
   - type: EntityTableContainerFill
     containers:
@@ -369,9 +369,9 @@
 
 - type: entity
   id: WardrobeEngineeringFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: WardrobeEngineering
-  description: "Ця шафка містить уніформу для інженерів або соціальної інженерії».
+  description: "This locker contains a uniform for engineering or social engineering."
   components:
   - type: EntityTableContainerFill
     containers:

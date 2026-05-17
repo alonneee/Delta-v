@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseResearchAndDevelopmentPointSource
   id: GlimmerProber
-  name: датчик мерехтіння
-  description: Зондує ноосферу, щоб генерувати дослідницькі точки. Можливо, варто вимкнути, якщо мерехтіння є проблемою.
+  name: glimmer prober
+  description: Probes the noösphere to generate research points. Might be worth turning off if glimmer is a problem.
   components:
   - type: Psionic
   - type: GlimmerSource
@@ -87,8 +87,8 @@
 - type: entity
   parent: BaseMachinePowered
   id: GlimmerDrain
-  name: блискучий дренаж
-  description: Використовує електрику, щоб спробувати відсортувати ноосферу, зменшуючи рівень її ентропії.
+  name: glimmer drain
+  description: Uses electricity to try and sort out the noösphere, reducing its level of entropy.
   components:
   - type: Psionic
   - type: GlimmerSource
@@ -123,8 +123,8 @@
 
 - type: entity
   id: GlimmerDeviceFrame
-  name: кадр мерехтливого пристрою
-  description: Рамка для дренажу або датчика блиску.
+  name: glimmer device frame
+  description: A frame for a glimmer drain or glimmer prober.
   placement:
     mode: SnapgridCenter
   components:

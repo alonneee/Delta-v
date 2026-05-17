@@ -1,6 +1,6 @@
 ﻿- type: guideEntry
   id: Engineering
-  name: керівництво-вступ-інженер
+  name: guide-entry-engineering
   text: "/ServerInfo/Guidebook/Engineering/Engineering.xml"
   children:
   - Construction
@@ -12,7 +12,7 @@
 
 - type: guideEntry
   id: Construction
-  name: путівник-вхід-конструкція
+  name: guide-entry-construction
   text: "/ServerInfo/Guidebook/Engineering/Construction.xml"
   children:
   - Airlocks
@@ -26,14 +26,14 @@
 
 - type: guideEntry
   id: Airlocks
-  name: направляючі-вхід-шлюзи
+  name: guide-entry-airlocks
   text: "/ServerInfo/Guidebook/Engineering/Airlocks.xml"
   children:
   - AirlockSecurity
 
 - type: guideEntry
   id: WirePanels
-  name: направляючі-провід-панелі
+  name: guide-entry-wirepanels
   text: "/ServerInfo/Guidebook/Engineering/WirePanels.xml"
 
 - type: guideEntry
@@ -43,7 +43,7 @@
 
 - type: guideEntry
   id: Atmospherics
-  name: гід-вхід-атмосфери
+  name: guide-entry-atmospherics
   text: "/ServerInfo/Guidebook/Engineering/Atmospherics.xml"
   children:
   - GasManipulation
@@ -54,7 +54,7 @@
 
 - type: guideEntry
   id: GasManipulation
-  name: гід-вхід-газоманіпуляція
+  name: guide-entry-gasmanipulation
   text: "/ServerInfo/Guidebook/Engineering/GasManipulation.xml"
   children:
   - AtmosphereInOut
@@ -69,12 +69,12 @@
 
 - type: guideEntry
   id: Pipes
-  name: направляючі труби
+  name: guide-entry-pipes
   text: "/ServerInfo/Guidebook/Engineering/Pipes.xml"
 
 - type: guideEntry
   id: Pumps
-  name: напрямні вхідні насоси
+  name: guide-entry-pumps
   text: "/ServerInfo/Guidebook/Engineering/Pumps.xml"
 
 - type: guideEntry
@@ -90,7 +90,7 @@
 
 - type: guideEntry
   id: AirVent
-  name: керівництво-вхід-повітряник
+  name: guide-entry-airvent
   text: "/ServerInfo/Guidebook/Engineering/AirVent.xml"
 
 - type: guideEntry
@@ -100,12 +100,12 @@
 
 - type: guideEntry
   id: AirInjector
-  name: напрямний-вхід-повітряний інжектор
+  name: guide-entry-airinjector
   text: "/ServerInfo/Guidebook/Engineering/AirInjector.xml"
 
 - type: guideEntry
   id: AirScrubber
-  name: направляючий-вхід-аероскруббер
+  name: guide-entry-airscrubber
   text: "/ServerInfo/Guidebook/Engineering/AirScrubber.xml"
 
 - type: guideEntry
@@ -115,7 +115,7 @@
 
 - type: guideEntry
   id: Valves
-  name: напрямні вхідні клапани
+  name: guide-entry-valves
   text: "/ServerInfo/Guidebook/Engineering/Valves.xml"
   children:
   - ManualValve
@@ -126,59 +126,59 @@
 
 - type: guideEntry
   id: ManualValve
-  name: направляючий-вхід-ручний клапан
+  name: guide-entry-manualvalve
   text: "/ServerInfo/Guidebook/Engineering/ManualValve.xml"
 
 - type: guideEntry
   id: SignalValve
-  name: направляючий сигнальний клапан
+  name: guide-entry-signalvalve
   text: "/ServerInfo/Guidebook/Engineering/SignalValve.xml"
 
 - type: guideEntry
   id: PneumaticValve
-  name: направляюче-вхідно-пневматичний клапан
+  name: guide-entry-pneumaticvalve
   text: "/ServerInfo/Guidebook/Engineering/PneumaticValve.xml"
 
 - type: guideEntry
   id: PassiveGate
-  name: керівництво-вхід-пасивний ворота
+  name: guide-entry-passivegate
   text: "/ServerInfo/Guidebook/Engineering/PassiveGate.xml"
 
 - type: guideEntry
   id: PressureRegulator
-  name: направляючий-вхід-ресурегулятор
+  name: guide-entry-ressureregulator
   text: "/ServerInfo/Guidebook/Engineering/PressureRegulator.xml"
 
 - type: guideEntry
   id: MixingAndFiltering
-  name: керівництво-введення-змішування та фільтрування
+  name: guide-entry-mixingandfiltering
   text: "/ServerInfo/Guidebook/Engineering/MixingAndFiltering.xml"
 
 - type: guideEntry
   id: GasCanisters
-  name: гід-вхід-газоканістри
+  name: guide-entry-gascanisters
   text: "/ServerInfo/Guidebook/Engineering/GasCanisters.xml"
 
 - type: guideEntry
   id: Thermomachines
-  name: напрямно-вхідні термомашини
+  name: guide-entry-thermomachines
   text: "/ServerInfo/Guidebook/Engineering/Thermomachines.xml"
   children:
   - Radiators
 
 - type: guideEntry
   id: GasCondensing
-  name: напрямно-вхідно-газоконденсаційні
+  name: guide-entry-gascondensing
   text: "/ServerInfo/Guidebook/Engineering/GasCondensing.xml"
 
 - type: guideEntry
   id: GasRecycling
-  name: керівництво-вхід-газопереробка
+  name: guide-entry-gasrecycling
   text: "/ServerInfo/Guidebook/Engineering/GasRecycling.xml"
 
 - type: guideEntry
   id: Radiators
-  name: напрямно-вхідні радіатори
+  name: guide-entry-radiators
   text: "/ServerInfo/Guidebook/Engineering/Radiators.xml"
 
 - type: guideEntry
@@ -193,12 +193,12 @@
 
 - type: guideEntry
   id: PipeNetworks
-  name: напрямно-ввідні труби
+  name: guide-entry-pipenetworks
   text: "/ServerInfo/Guidebook/Engineering/PipeNetworks.xml"
 
 - type: guideEntry
   id: DeviceMonitoringAndControl
-  name: керівництво-вхід-пристрій моніторингу та керування
+  name: guide-entry-devicemonitoringandcontrol
   text: "/ServerInfo/Guidebook/Engineering/DeviceMonitoringAndControl.xml"
   children:
   - AirAlarms
@@ -207,12 +207,12 @@
 
 - type: guideEntry
   id: AirAlarms
-  name: гід-вхід-повітряна сигналізація
+  name: guide-entry-airalarms
   text: "/ServerInfo/Guidebook/Engineering/AirAlarms.xml"
 
 - type: guideEntry
   id: AtmosphericAlertsComputer
-  name: guide-entry-atmosphericallertscomputer
+  name: guide-entry-atmosphericalertscomputer
   text: "/ServerInfo/Guidebook/Engineering/AtmosphericAlertsComputer.xml"
 
 - type: guideEntry
@@ -222,12 +222,12 @@
 
 - type: guideEntry
   id: FireAndGasControl
-  name: керівництво-вхід-пожежний і газовий контроль
+  name: guide-entry-fireandgascontrol
   text: "/ServerInfo/Guidebook/Engineering/FireAndGasControl.xml"
 
 - type: guideEntry
   id: GasMiningAndStorage
-  name: довідник-вхід-газовидобуток і зберігання
+  name: guide-entry-gasminingandstorage
   text: "/ServerInfo/Guidebook/Engineering/GasMiningAndStorage.xml"
 
 - type: guideEntry
@@ -241,17 +241,17 @@
 
 - type: guideEntry
   id: Fires
-  name: керівництво-вхід-вогні
+  name: guide-entry-fires
   text: "/ServerInfo/Guidebook/Engineering/Fires.xml"
 
 - type: guideEntry
   id: Spacing
-  name: направляючий-вхід-інтервал
+  name: guide-entry-spacing
   text: "/ServerInfo/Guidebook/Engineering/Spacing.xml"
 
 - type: guideEntry
   id: DeltaPressure
-  name: керівництво-вхід-дельтатиск
+  name: guide-entry-deltapressure
   text: "/ServerInfo/Guidebook/Engineering/DeltaPressure.xml"
 
 - type: guideEntry
@@ -261,12 +261,12 @@
 
 - type: guideEntry
   id: Gasses
-  name: направляючі-вхід-гази
+  name: guide-entry-gasses
   text: "/ServerInfo/Guidebook/Engineering/Gasses.xml"
 
 - type: guideEntry
   id: ShuttleCraft
-  name: гід-вхід-човник
+  name: guide-entry-shuttle-craft
   text: "/ServerInfo/Guidebook/Engineering/Shuttlecraft.xml"
 
 - type: guideEntry
@@ -278,12 +278,12 @@
 
 - type: guideEntry
   id: AccessConfigurator
-  name: конфігуратор доступу до путівника
+  name: guide-entry-access-configurator
   text: "/ServerInfo/Guidebook/Engineering/AccessConfigurator.xml"
 
 - type: guideEntry
   id: Power
-  name: керівництво-вхід-сила
+  name: guide-entry-power
   text: "/ServerInfo/Guidebook/Engineering/Power.xml"
   children:
     - Generators
@@ -294,7 +294,7 @@
 
 - type: guideEntry
   id: InspectingPower
-  name: гід-вхід-оглядова влада
+  name: guide-entry-inspectingpower
   text: "/ServerInfo/Guidebook/Engineering/InspectingPower.xml"
 
 - type: guideEntry
@@ -304,17 +304,17 @@
 
 - type: guideEntry
   id: Ramping
-  name: керівництво-в'їзд-пандус
+  name: guide-entry-ramping
   text: "/ServerInfo/Guidebook/Engineering/Ramping.xml"
 
 - type: guideEntry
   id: VoltageNetworks
-  name: провідні мережі напруги
+  name: guide-entry-voltagenetworks
   text: "/ServerInfo/Guidebook/Engineering/VoltageNetworks.xml"
 
 - type: guideEntry
   id: Generators
-  name: напрямні-записи-генератори
+  name: guide-entry-generators
   text: "/ServerInfo/Guidebook/Engineering/Generators.xml"
   children:
   - PortableGenerator
@@ -327,7 +327,7 @@
 
 - type: guideEntry
   id: AME
-  name: аромат-комплекс-клей
+  name: guide-entry-ame
   text: "/ServerInfo/Guidebook/Engineering/AME.xml"
 
 - type: guideEntry
@@ -360,10 +360,10 @@
 
 - type: guideEntry
   id: PortableGenerator
-  name: путівник-вхід-портативний-генератор
+  name: guide-entry-portable-generator
   text: "/ServerInfo/Guidebook/Engineering/PortableGenerator.xml"
 
 - type: guideEntry
   id: SolarPanels
-  name: путівник-вхід-сонячні панелі
+  name: guide-entry-solarpanels
   text: "/ServerInfo/Guidebook/Engineering/SolarPanels.xml"

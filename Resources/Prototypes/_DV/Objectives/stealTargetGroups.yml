@@ -1,6 +1,6 @@
 - type: stealTargetGroup
   id: SpaceCashLuckyBill
-  name: викрасти-цільові-групи-щасливий-рахунок
+  name: steal-target-groups-lucky-bill
   sprite:
     sprite: _DV/Objects/Misc/first_bill.rsi
     state: icon
@@ -14,7 +14,7 @@
 
 - type: stealTargetGroup
   id: BookSecretDocuments
-  name: викрасти-цільові-групи-секретні-документи
+  name: steal-target-groups-secret-documents
   sprite:
     sprite: Objects/Misc/folders.rsi
     state: folder-sec-doc
@@ -49,7 +49,7 @@
 
 - type: stealTargetGroup
   id: RubberStampNotary
-  name: крадуть-цільові-групи-нотаріальна-штамп
+  name: steal-target-groups-notary-stamp
   sprite:
     sprite: _DV/Objects/Misc/stamps.rsi
     state: stamp-notary
@@ -121,7 +121,7 @@
 
 - type: stealTargetGroup
   id: CaptainsCloak
-  name: викрасти-цільові-групи-капітани-плащ
+  name: steal-target-groups-captains-cloak
   sprite:
     sprite: Clothing/Neck/Cloaks/cap.rsi
     state: icon

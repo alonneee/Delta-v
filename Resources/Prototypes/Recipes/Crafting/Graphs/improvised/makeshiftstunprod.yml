@@ -7,7 +7,7 @@
         - to: msstunprod
           completed:
           - !type:AdminLog
-            message: "Будівництво"
+            message: "Construction"
             impact: High
           steps:
             - material: MetalRod
@@ -22,9 +22,9 @@
                 sprite: Objects/Misc/cablecuffs.rsi
                 state: cuff
                 color: red
-              name: конструкція-граф-бірка-манжети
+              name: construction-graph-tag-cuffs
             - tag: Igniter
-              name: конструкція-граф-тег-запальник
+              name: construction-graph-tag-igniter
               icon:
                 sprite: Objects/Devices/igniter.rsi
                 state: icon

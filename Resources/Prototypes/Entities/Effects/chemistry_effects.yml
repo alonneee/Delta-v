@@ -34,7 +34,7 @@
 - type: entity
   parent: BaseFoam
   id: Smoke
-  name: дим
+  name: smoke
   categories: [ HideSpawnMenu ]
   components:
   - type: Occluder
@@ -50,7 +50,7 @@
 - type: entity
   parent: BaseFoam
   id: TearGasSmoke
-  name: сльозогінний газ
+  name: tear gas
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
@@ -73,7 +73,7 @@
 - type: entity
   parent: Smoke
   id: WizardSmoke
-  name: дим
+  name: smoke
   categories: [ HideSpawnMenu ]
   components:
   - type: Smoke
@@ -82,7 +82,7 @@
 - type: entity
   parent: BaseFoam
   id: Foam
-  name: піна
+  name: foam
   categories: [ HideSpawnMenu ]
   components:
   - type: Sprite
@@ -113,7 +113,7 @@
 
 - type: entity
   id: MetalFoam
-  name: металева піна
+  name: metal foam
   categories: [ HideSpawnMenu ]
   parent: Foam
   components:
@@ -139,7 +139,7 @@
 
 - type: entity
   id: IronMetalFoam
-  name: залізо металева піна
+  name: iron metal foam
   categories: [ HideSpawnMenu ]
   parent: MetalFoam
   components:
@@ -148,7 +148,7 @@
 
 - type: entity
   id: AluminiumMetalFoam
-  name: металева піна алюмінію
+  name: aluminium metal foam
   categories: [ HideSpawnMenu ]
   parent: MetalFoam
   components:
@@ -157,7 +157,7 @@
 
 - type: entity
   id: BaseFoamedMetal
-  name: основний спінений метал
+  name: base foamed metal
   abstract: true
   placement:
     mode: SnapgridCenter
@@ -212,8 +212,8 @@
 
 - type: entity
   id: FoamedIronMetal
-  name: спінений чавун метал
-  description: "Для герметизації проломів корпусу».
+  name: foamed iron metal
+  description: "For sealing hull breaches."
   parent: BaseFoamedMetal
   components:
   - type: Sprite
@@ -234,8 +234,8 @@
 
 - type: entity
   id: FoamedAluminiumMetal
-  name: металевий спінений алюміній
-  description: "Залишки рідкісної піни від піноалюмінієвої гранати. Легко знищується».
+  name: foamed aluminium metal
+  description: "Leftover sparse foam from an aluminum foam grenade. Easily destroyed."
   parent: BaseFoamedMetal
   components:
   - type: Sprite

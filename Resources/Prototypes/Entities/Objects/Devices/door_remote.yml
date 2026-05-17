@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseItem
   id: DoorRemoteDefault
-  name: дверний пульт
-  description: Гаджет, який дистанційно відкриває та зачиняє двері.
+  name: door remote
+  description: A gadget which can open and bolt doors remotely.
   abstract: true
   components:
   - type: Sprite
@@ -62,7 +62,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseCommandContraband]
   id: DoorRemoteCommand
-  name: командний дверний пульт
+  name: command door remote
   components:
   - type: Sprite
     layers:
@@ -79,8 +79,8 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseCommandContraband]
   id: DoorRemoteCustom
-  name: індивідуальний дверний пульт
-  description: Гаджет, який дистанційно відкриває та зачиняє двері. Цей розширений варіант не має вбудованого доступу, натомість успадковує ідентифікаційний доступ користувача.
+  name: custom door remote
+  description: A gadget which can open and bolt doors remotely. This advanced variant does not have built-in access, instead inheriting the ID access of the user.
   components:
   - type: Sprite
     layers:
@@ -96,7 +96,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseCommandContraband]
   id: DoorRemoteSecurity
-  name: пульт безпеки дверей
+  name: security door remote
   components:
   - type: Sprite
     layers:
@@ -112,7 +112,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseSecurityCommandContraband]
   id: DoorRemoteArmory
-  name: дистанційне керування дверима збройової кімнати
+  name: armory door remote
   components:
   - type: Sprite
     layers:
@@ -128,7 +128,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseCommandContraband]
   id: DoorRemoteService
-  name: дистанційне керування службовими дверима
+  name: service door remote
   components:
   - type: Sprite
     layers:
@@ -144,7 +144,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseCommandContraband]
   id: DoorRemoteResearch
-  name: дослідження дверного пульта
+  name: research door remote
   components:
   - type: Sprite
     layers:
@@ -161,7 +161,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseCommandContraband]
   id: DoorRemoteCargo
-  name: логістичний дверний пульт # DeltaV - Відділ логістики замінює Cargo
+  name: logistics door remote # DeltaV - Logistics Department replacing Cargo
   components:
   - type: Sprite
     layers:
@@ -177,7 +177,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseCommandContraband]
   id: DoorRemoteMedical
-  name: медичний дверний пульт
+  name: medical door remote
   components:
   - type: Sprite
     layers:
@@ -193,7 +193,7 @@
 - type: entity
   parent: [DoorRemoteDefault, BaseCommandContraband]
   id: DoorRemoteEngineering
-  name: пульт дистанційного керування дверима
+  name: engineering door remote
   components:
   - type: Sprite
     layers:
@@ -209,7 +209,7 @@
 - type: entity
   parent: [DoorRemoteCanEletrifyDoors, BaseCommandContraband]
   id: DoorRemoteAll
-  name: супер дверний пульт
+  name: super door remote
   suffix: Admeme
   components:
   - type: Sprite
@@ -234,7 +234,7 @@
 - type: entity
   parent: [DoorRemoteCanEletrifyDoors, BaseXenoborgContraband]
   id: DoorRemoteXenoborg
-  name: xenoborg дверний пульт
+  name: xenoborg door remote
   components:
   - type: Sprite
     layers:

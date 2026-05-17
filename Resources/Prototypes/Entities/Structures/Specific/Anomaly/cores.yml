@@ -37,7 +37,7 @@
 - type: entity
   parent: BaseAnomalyCore
   id: AnomalyCorePyroclastic
-  suffix: Пірокластичні
+  suffix: Pyroclastic
   components:
   - type: Sprite
     sprite: Structures/Specific/Anomalies/Cores/pyro_core.rsi
@@ -57,7 +57,7 @@
 - type: entity
   parent: BaseAnomalyCore
   id: AnomalyCoreGravity
-  suffix: Сила тяжіння
+  suffix: Gravity
   components:
   - type: Sprite
     sprite: Structures/Specific/Anomalies/Cores/gravity_core.rsi
@@ -74,7 +74,7 @@
 - type: entity
   parent: BaseAnomalyCore
   id: AnomalyCoreIce
-  suffix: лід
+  suffix: Ice
   components:
   - type: Sprite
     sprite: Structures/Specific/Anomalies/Cores/ice_core.rsi
@@ -92,7 +92,7 @@
   parent: BaseAnomalyCore
   id: AnomalyCoreFlesh
   description: The core of a destroyed flesh anomaly. Pulsates sickeningly, but might be a hearty meal if cooked.
-  suffix: Плоть
+  suffix: Flesh
   components:
   - type: Sprite
     sprite: Structures/Specific/Anomalies/Cores/flesh_core.rsi
@@ -109,7 +109,7 @@
 - type: entity
   parent: BaseAnomalyCore
   id: AnomalyCoreRock
-  suffix: Рок
+  suffix: Rock
   components:
   - type: Sprite
     sprite: Structures/Specific/Anomalies/Cores/rock_core.rsi
@@ -126,7 +126,7 @@
 - type: entity
   parent: BaseAnomalyCore
   id: AnomalyCoreLiquid
-  suffix: Рідина
+  suffix: Liquid
   components:
   - type: Sprite
     sprite: Structures/Specific/Anomalies/Cores/liquid_core.rsi
@@ -160,7 +160,7 @@
 - type: entity
   parent: BaseAnomalyCore
   id: AnomalyCoreElectricity
-  suffix: Електрика
+  suffix: Electricity
   components:
   - type: Sprite
     sprite: Structures/Specific/Anomalies/Cores/electric_core.rsi
@@ -178,7 +178,7 @@
 - type: entity
   parent: BaseAnomalyCore
   id: AnomalyCoreFlora
-  suffix: Флора
+  suffix: Flora
   components:
   - type: Seed
     seedId: anomalyBerry
@@ -197,7 +197,7 @@
 - type: entity
   parent: [ BaseAnomalyCore, BaseShadow ]
   id: AnomalyCoreShadow
-  suffix: Тінь
+  suffix: Shadow
   components:
   - type: Sprite
     sprite: Structures/Specific/Anomalies/Cores/shadow_core.rsi
@@ -214,7 +214,7 @@
 - type: entity
   parent: BaseAnomalyCore
   id: AnomalyCoreTech
-  suffix: техн
+  suffix: Tech
   components:
   - type: Sprite
     sprite: Structures/Specific/Anomalies/Cores/tech_core.rsi

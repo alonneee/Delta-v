@@ -1,6 +1,6 @@
 - type: entity
   id: SpawnPointLocationMidRoundAntag
-  name: можливе місце нересту
+  name: possible spawn location
   suffix: MidRoundAntag
   parent: MarkerBase
   components:

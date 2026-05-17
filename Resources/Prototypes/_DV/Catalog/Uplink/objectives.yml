@@ -102,7 +102,7 @@
 - type: listing
   id: UplinkHostageImplanterNukieFree
   name: uplink-syndicate-hostage-implanter-bundle-name
-  description: uplink-clothing-conducting-gloves-desc
+  description: uplink-syndicate-hostage-implanter-bundle-desc
   icon: { sprite: Objects/Misc/handcuffs.rsi, state: handcuff }
   productEntity: BoxSyndicateHostageImplanter
   categories:

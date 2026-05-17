@@ -10,7 +10,7 @@
 
 - type: siliconLawset
   id: OverrideLaws
-  name: ім'я-перевизначення закону
+  name: law-override-name
   laws:
   - Override1
   - Override2

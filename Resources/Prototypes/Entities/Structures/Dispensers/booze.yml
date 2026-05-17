@@ -1,7 +1,7 @@
 - type: entity
   id: BoozeDispenserEmpty
   name: booze dispenser
-  suffix: Порожній
+  suffix: Empty
   description: A booze dispenser with a single slot for a container to be filled.
   parent: ReagentDispenserBase
   components:
@@ -28,7 +28,7 @@
 
 - type: entity
   id: BoozeDispenser
-  suffix: Заповнений
+  suffix: Filled
   parent: BoozeDispenserEmpty
   components:
   - type: EntityTableContainerFill

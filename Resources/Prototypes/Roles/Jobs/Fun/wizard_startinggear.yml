@@ -31,7 +31,7 @@
 
 - type: chameleonOutfit
   id: WizardChameleonOutfit
-  name: roles-atag-wizard-name
+  name: roles-antag-wizard-name
   startingGear: WizardBlueGear
   icon: "JobIconWizard"
   equipment:

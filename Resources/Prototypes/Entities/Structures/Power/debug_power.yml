@@ -1,7 +1,7 @@
 ﻿- type: entity
   id: DebugGenerator
   parent: BaseGenerator
-  suffix: НАЛАШТУВАННЯ
+  suffix: DEBUG
   components:
   - type: PowerSupplier
     supplyRate: 300000
@@ -10,8 +10,8 @@
 
 - type: entity
   id: DebugConsumer
-  name: споживач
-  suffix: НАЛАШТУВАННЯ
+  name: consumer
+  suffix: DEBUG
   placement:
     mode: SnapgridCenter
   components:
@@ -52,8 +52,8 @@
 
 - type: entity
   id: DebugBatteryStorage
-  name: зберігання акумулятора
-  suffix: НАЛАШТУВАННЯ
+  name: battery storage
+  suffix: DEBUG
   placement:
     mode: SnapgridCenter
   components:
@@ -87,8 +87,8 @@
 
 - type: entity
   id: DebugBatteryDischarger
-  name: розрядник акумулятора
-  suffix: НАЛАШТУВАННЯ
+  name: battery discharger
+  suffix: DEBUG
   placement:
     mode: SnapgridCenter
   components:
@@ -156,8 +156,8 @@
 
 - type: entity
   id: DebugPowerReceiver
-  name: приймач живлення
-  suffix: НАЛАШТУВАННЯ
+  name: power receiver
+  suffix: DEBUG
   placement:
     mode: SnapgridCenter
   components:

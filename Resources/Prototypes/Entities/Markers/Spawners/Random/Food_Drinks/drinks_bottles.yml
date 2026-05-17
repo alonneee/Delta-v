@@ -1,7 +1,7 @@
 - type: entity
   id: RandomDrinkBottle
-  name: спаунер випадкових напоїв
-  suffix: спаунер наукових матеріалів
+  name: random drink spawner
+  suffix: Bottle
   parent: MarkerBase
   placement:
     mode: AlignTileAny

@@ -1,7 +1,7 @@
 # DO NOT use this as an actual species, its for borg part appearance to Just Work
 - type: species
   id: Cyborg
-  name: вид-назва-людина
+  name: species-name-human
   roundStart: false
   prototype: BorgChassisSelectable
   sprites: CyborgSprites

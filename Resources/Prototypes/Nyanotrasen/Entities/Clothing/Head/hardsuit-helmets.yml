@@ -2,8 +2,8 @@
   parent: ClothingHeadHelmetHardsuitRd
   id: ClothingHeadHelmetHardsuitMystagogue
   categories: [ HideSpawnMenu ]
-  name: жорсткий шолом мистагога
-  description: Легкий шолом у твердому костюмі з першою в галактиці псіонічною системою пропускання.
+  name: mystagogue's hardsuit helmet
+  description: Lightweight hardsuit helmet that has a galaxy-first psionic passthrough system.
   components:
   - type: Sprite
     sprite: _DV/Clothing/Head/Hardsuits/rd.rsi
@@ -20,7 +20,7 @@
 - type: entity
   parent: ClothingHeadHelmetHardsuitERTLeader
   id: ClothingHeadHelmetHardsuitERTCentcomm
-  name: Шолом CentComm
+  name: CentComm hardsuit helmet
   components:
   - type: Sprite
     sprite: Nyanotrasen/Clothing/Head/Hardsuits/ERThelmets/ertcentcomm.rsi

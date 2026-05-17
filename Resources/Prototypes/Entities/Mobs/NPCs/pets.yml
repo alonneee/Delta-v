@@ -2,10 +2,10 @@
 #1D2L3U4R
 
 - type: entity
-  name: Ян
+  name: Ian
   parent: MobCorgi
   id: MobCorgiIan
-  description: Улюблений вихованець коргі.
+  description: Favorite pet corgi.
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -52,10 +52,10 @@
     stealGroup: AnimalIan
 
 - type: entity
-  name: Старий Ян
+  name: Old Ian
   parent: MobCorgiIan
   id: MobCorgiIanOld
-  description: Досі улюблений домашній улюбленець коргі. Люблю його колеса.
+  description: Still the favorite pet corgi. Love his wheels.
   components:
   - type: Sprite
     layers:
@@ -77,10 +77,10 @@
     - id: MaterialHideCorgi
 
 - type: entity
-  name: Ліза
+  name: Lisa
   parent: MobCorgiIan
   id: MobCorgiLisa
-  description: Улюблений коргі Яна.
+  description: Ian's favorite corgi.
   components:
   - type: Sprite
     layers:
@@ -114,10 +114,10 @@
             state: corgi_eyes_displacement
 
 - type: entity
-  name: справжня мишка
+  name: real mouse
   parent: MobCorgiIan
   id: MobCorgiMouse
-  description: Це 100% справжня голодна миша.
+  description: It's 100% a real hungry mouse.
   components:
   - type: Sprite
     layers:
@@ -137,10 +137,10 @@
       gender: female
 
 - type: entity
-  name: Щеня Ян
+  name: Puppy Ian
   parent: MobCorgiPuppy
   id: MobCorgiIanPup
-  description: Улюблене цуценя коргі. Аууу.
+  description: Favourite puppy corgi. Awww.
   components:
   - type: Grammar
     attributes:
@@ -155,10 +155,10 @@
     stealGroup: AnimalIan
 
 - type: entity
-  name: Час виконання
+  name: Runtime
   parent: MobCatGhost # DeltaV - Frontier Feature
   id: MobCatRuntime
-  description: сильний Hivebot
+  description: Professional mouse hunter. Escape artist.
   components:
   - type: NpcFactionMember
     factions:
@@ -183,10 +183,10 @@
     stealGroup: AnimalNamedCat
 
 - type: entity
-  name: Виняток
+  name: Exception
   id: MobCatException
   parent: MobCatCalicoGhost # DeltaV - Frontier Feature
-  description: Попросіть добре, і, можливо, вони подарують вам одне зі своїх вільних життів.
+  description: Ask nicely, and maybe they'll give you one of their spare lives.
   components:
   - type: NpcFactionMember
     factions:
@@ -208,10 +208,10 @@
     stealGroup: AnimalNamedCat
 
 - type: entity
-  name: Флоппа
+  name: Floppa
   id: MobCatFloppa
   parent: MobCatCaracalGhost # DeltaV - Frontier Feature
-  description: Він тут.
+  description: He out here.
   components:
   - type: Fixtures
     fixtures:
@@ -235,10 +235,10 @@
     stealGroup: AnimalNamedCat
 
 - type: entity
-  name: бандит
+  name: Bandito
   parent: MobFerret
   id: MobBandito
-  description: Просто дурний маленький хлопець!
+  description: Just a silly little guy!
   components:
   - type: Grammar
     attributes:
@@ -250,10 +250,10 @@
     - VimPilot
 
 - type: entity
-  name: Бінгус
+  name: Bingus
   parent: [SimpleMobBase, StripableInventoryBase]
   id: MobBingus
-  description: Бінгус, мій коханий...
+  description: Bingus my beloved...
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -311,10 +311,10 @@
     stealGroup: AnimalNamedCat
 
 - type: entity
-  name: Макгріфф
+  name: McGriff
   parent: [SimpleMobBase, StripableInventoryBase]
   id: MobMcGriff
-  description: Цей пес може сказати, що тут чимось пахне, і це ЗЛОЧИН!
+  description: This dog can tell something smells around here, and that something is CRIME!
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -387,10 +387,10 @@
   - type: MessyDrinker
 
 - type: entity
-  name: Документообіг
+  name: Paperwork
   parent: MobSloth
   id: MobPaperwork
-  description: Після того, як його перевели з космічної станції 13, він взявся за нову роботу, сортуючи книги в бібліотеці. Здається, він так само повільний у цьому.
+  description: Took up a new job sorting books in the library after he got transferred from Space Station 13. He seems to be just as slow at this.
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -421,10 +421,10 @@
       gender: male
 
 - type: entity
-  name: Вальтер
+  name: Walter
   parent: [SimpleMobBase, StripableInventoryBase]
   id: MobWalter
-  description: Він любить хімію та ласощі. Вальтер.
+  description: He likes chems and treats. Walter.
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -484,10 +484,10 @@
   - type: MessyDrinker
 
 - type: entity
-  name: Морті
+  name: Morty
   parent: MobPossum
   id: MobPossumMorty
-  description: Мешканець станції Didelphis virginiana. Чуйний, але витривалий хлопець.
+  description: The station's resident Didelphis virginiana. A sensitive but resilient kind of guy.
   components:
   - type: InteractionPopup
     successChance: 1.0 # Hey, c'mon, this is Morty we're talking about here.
@@ -508,10 +508,10 @@
     stealGroup: AnimalMorty
 
 - type: entity
-  name: Морті
+  name: Morty
   parent: MobPossumMorty
   id: MobPossumMortyOld
-  suffix: Старий спрайт
+  suffix: Old sprite
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -527,10 +527,10 @@
         Base: possum_dead_old
 
 - type: entity
-  name: Поппі # безпечний опосум
+  name: Poppy # the Safety Possum
   parent: MobPossumMorty
   id: MobPossumPoppy
-  description: Це опосум, невеликий сумчастий падальщик. Одягнений у відповідні засоби індивідуального захисту.
+  description: It's an opossum, a small scavenging marsupial. It's wearing appropriate personal protective equipment.
   components:
   - type: Grammar
     attributes:
@@ -550,10 +550,10 @@
         Base: poppy_dead
 
 - type: entity
-  name: Мортіція
+  name: Morticia
   parent: MobRaccoon
   id: MobRaccoonMorticia
-  description: Могутнє створіння ночі. Її тіні завжди на місці.
+  description: A powerful creature of the night. Her eyeshadow is always on point.
   components:
   - type: InteractionPopup
     successChance: 0.7
@@ -572,10 +572,10 @@
     - VimPilot
 
 - type: entity
-  name: Олександр
+  name: Alexander
   parent: MobPig
   id: MobAlexander
-  description: Найкращий колега шеф-кухаря.
+  description: Chef's finest colleague.
   components:
   - type: InteractionPopup
     successChance: 1
@@ -597,7 +597,7 @@
   name: Renault
   parent: MobFox
   id: MobFoxRenault
-  description: Надійний лис капітана.
+  description: The captain's trustworthy fox.
   components:
   - type: InteractionPopup
     successChance: 1
@@ -624,10 +624,10 @@
     stealGroup: AnimalRenault
 
 - type: entity
-  name: Гамлет
+  name: Hamlet
   parent: MobHamster
   id: MobHamsterHamlet
-  description: Сварливий, милий і пухнастий хом'як.
+  description: A grumpy, cute and fluffy hamster.
   components:
   - type: Sprite
     drawdepth: SmallMobs
@@ -679,7 +679,7 @@
 - type: entity
   parent: MobHamsterHamlet
   id: MobHamsterHamletSlippery
-  suffix: Слизький
+  suffix: Slippery
   components:
   - type: Slippery
   - type: StepTrigger
@@ -693,16 +693,16 @@
     predicted: true
 
 - type: entity
-  name: Шива
+  name: Shiva
   parent: MobGiantSpider
   id: MobSpiderShiva
-  description: Перший захисник ст.
+  description: The first defender of the station.
   components:
   - type: GhostRole # DeltaV
     makeSentient: true
     allowSpeech: true
     allowMovement: true
-    name: інформація про роль-привида-ім'я-Шиви
+    name: ghost-role-information-Shiva-name
     description: ghost-role-information-Shiva-description
     rules: ghost-role-information-Shiva-rules
     job: RoleShiva # DeltaV - controls the playtime requirement, no raiders
@@ -769,10 +769,10 @@
     stealGroup: AnimalSecurity # DeltaV - Adjusts because we have multiple possible sec animals
 
 - type: entity
-  name: Верба
+  name: Willow
   parent: MobKangaroo
   id: MobKangarooWillow
-  description: Кенгуру-боксер Віллоу.
+  description: Willow the boxing kangaroo.
   components:
   - type: InteractionPopup
     successChance: 0.8
@@ -800,10 +800,10 @@
     prototypes: [ BoxingKangarooGear ]
 
 - type: entity
-  name: Посміхніться
+  name: Smile
   id: MobSlimesPet
   parent: [MobAdultSlimes, StripableInventoryBase]
-  description: Цей шедевр пройшов через тисячі експериментів. Але це наймиліша істота на світі. Посміхніться, Слайм!
+  description: This masterpiece has gone through thousands of experiments. But it is the sweetest creature in the world. Smile Slime!
   components:
   - type: Sprite
     layers:
@@ -884,10 +884,10 @@
       gender: female
 
 - type: entity
-  name: Перемкнути слух привидів
+  name: Pun Pun
   parent: MobMonkey
   id: MobMonkeyPunpun
-  description: Яскравий представник мавп з необмеженим доступом до алкоголю.
+  description: A prominent representative of monkeys with unlimited access to alcohol.
   components:
   - type: GhostRole
     prob: 1
@@ -924,10 +924,10 @@
     #DeltaV Changes end
 
 - type: entity
-  name: Тропіко
+  name: Tropico
   parent: MobCrab
   id: MobCrabAtmos
-  description: Благородний і стійкий захисник Атмосії. Віва!
+  description: The noble and stalwart defender of Atmosia. Viva!
   components:
 #  - type: GhostRole
 #    prob: 1
@@ -951,10 +951,10 @@
     stealGroup: AnimalTropico
 
 - type: entity
-  name: Папуга Поллі
+  name: Polly the parrot
   parent: MobParrotBase
   id: MobPollyParrot
-  description: Експерт з теорії квантового зломщика
+  description: An expert in quantum cracker theory
   components:
   - type: Vocalizer
     maxVocalizeInterval: 240 # polly is chattier

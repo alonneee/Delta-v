@@ -8,129 +8,129 @@
 - type: quickPhrase
   id: HazardSpacePhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-простір
+  text: phrase-hazard-space
 
 - type: quickPhrase
   id: HazardLowPresurePhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-низький тиск
+  text: phrase-hazard-low-presure
 
 - type: quickPhrase
   id: HazardHighPresurePhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-високий тиск
+  text: phrase-hazard-high-presure
 
 - type: quickPhrase
   id: HazardHeatPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-спека
+  text: phrase-hazard-heat
 
 - type: quickPhrase
   id: HazardColdPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-hazard-cold
+  text: phrase-hazard-cold
 
 - type: quickPhrase
   id: HazardGasLeakPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-витік газу
+  text: phrase-hazard-gas-leak
 
 - type: quickPhrase
   id: HazardExplosionPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-вибух
+  text: phrase-hazard-explosion
 
 - type: quickPhrase
   id: HazardRadiationPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-випромінювання
+  text: phrase-hazard-radiation
 
 - type: quickPhrase
   id: HazardStructureDamagePhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-структура-шкода
+  text: phrase-hazard-structure-damage
 
 - type: quickPhrase
   id: HazardChemicalSpillPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-хімічний-розлив
+  text: phrase-hazard-chemical-spill
 
 - type: quickPhrase
   id: HazardShockPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-шок
+  text: phrase-hazard-shock
 
 - type: quickPhrase
   id: HazardPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека
+  text: phrase-hazard
 
 - type: quickPhrase
   id: HazardMeteorsPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-метеори
+  text: phrase-hazard-meteors
 
 - type: quickPhrase
   id: HazardPoisonPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-отрута
+  text: phrase-hazard-poison
 
 - type: quickPhrase
   id: HazardFirePhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-пожежа
+  text: phrase-hazard-fire
 
 - type: quickPhrase
   id: HazardPowerOutagePhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-відключення електроенергії
+  text: phrase-hazard-power-outage
 
 - type: quickPhrase
   id: HazardLowPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-низька
+  text: phrase-hazard-low
 
 - type: quickPhrase
   id: HazardInfectionPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-інфекція
+  text: phrase-hazard-infection
 
 - type: quickPhrase
   id: HazardViralThreatPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-вірусна-загроза
+  text: phrase-hazard-viral-threat
 
 - type: quickPhrase
   id: HazardBrokenEquipmentPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-вид-хом'як
+  text: phrase-hazard-broken-equipment
 
 - type: quickPhrase
   id: HazardHotPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-hazard-hot
+  text: phrase-hazard-hot
 
 - type: quickPhrase
   id: HazardBurningPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-горіння
+  text: phrase-hazard-burning
 
 - type: quickPhrase
   id: HazardBadTemperaturePhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-погана-температура
+  text: phrase-hazard-bad-temperature
 
 - type: quickPhrase
   id: HazardFreezingPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-замерзання
+  text: phrase-hazard-freezing
 
 - type: quickPhrase
   id: HazardDarknessPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-небезпека-тьма
+  text: phrase-hazard-darkness
 
 - type: quickPhrase
   id: HazardBloodPhrase
   parent: BaseHazardThreatPhrase
-  text: фраза-кров
+  text: phrase-blood

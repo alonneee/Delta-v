@@ -1,7 +1,7 @@
 - type: entity #den port
   parent: PaintingBase
   id: PaintingUnePipe
-  name: Зрада образів
+  name: The Treachery of Images
   description: Ceci n'est pas une pipe...
   components:
   - type: Sprite
@@ -11,8 +11,8 @@
 - type: entity #den port
   parent: PaintingBase
   id: PaintingTheWrathOfGods
-  name: Гнів богів
-  description: Символічне зображення скакового коня, розташованого над автомобілем.
+  name: The Wrath of Gods
+  description: A symbolic painting of a racing horse juxtaposed above a car.
   components:
   - type: Sprite
     sprite: _DEN/Structures/Wallmounts/paintings.rsi
@@ -21,8 +21,8 @@
 - type: entity #den port
   parent: PaintingBase
   id: PaintingHumanCondition
-  name: Стан людини
-  description: Картина картини пляжу перед дверима перед пляжем... Справді змушує задуматися.
+  name: The Human Condition
+  description: A painting of a painting of a beach in front of a door in front of a beach... Really makes you think.
   components:
   - type: Sprite
     sprite: _DEN/Structures/Wallmounts/paintings.rsi
@@ -31,8 +31,8 @@
 - type: entity #den port
   parent: PaintingBase
   id: PaintingKnowledge
-  name: Знання
-  description: Картина денного пейзажу з дверима. За дверима відкривається нічний пейзаж.
+  name: Knowledge
+  description: A painting of a daytime landscape with a door. Inside the door is a nighttime landscape.
   components:
   - type: Sprite
     sprite: _DEN/Structures/Wallmounts/paintings.rsi

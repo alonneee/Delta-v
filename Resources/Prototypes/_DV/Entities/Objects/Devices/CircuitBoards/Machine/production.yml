@@ -1,7 +1,7 @@
 - type: entity
   parent: MicrowaveMachineCircuitboard
   id: AdvancedMicrowaveMachineCircuitBoard
-  name: передова плата мікрохвильової машини
+  name: advanced microwave machine board
   components:
   - type: MachineBoard
     prototype: AdvancedMicrowave
@@ -13,7 +13,7 @@
 - type: entity
   parent: ExosuitFabricatorMachineCircuitboard
   id: SyndieExosuitFabricatorMachineCircuitboard
-  name: syndicate exosuit fabricator машинна плата
+  name: syndicate exosuit fabricator machine board
   components:
   - type: MachineBoard
     prototype: SyndicateExosuitFabricator
@@ -38,8 +38,8 @@
 - type: entity
   parent: BaseTechFabCircuitboardDV
   id: EngineeringTechFabCircuitboard
-  name: техніко-технічний щит машини
-  description: Машинна друкована плата для інженерно-технічного заводу.
+  name: engineering techfab machine board
+  description: A machine printed circuit board for an engineering techfab.
   components:
   - type: Sprite
     state: engineering
@@ -51,8 +51,8 @@
 - type: entity
   parent: BaseTechFabCircuitboardDV
   id: LogisticsTechFabCircuitboard
-  name: КПК пошти
-  description: Машинна друкована плата для логістичного техфабу.
+  name: logistics techfab machine board
+  description: A machine printed circuit board for a logistics techfab.
   components:
   - type: Sprite
     state: supply
@@ -64,8 +64,8 @@
 - type: entity
   parent: BaseTechFabCircuitboardDV
   id: ServiceTechFabCircuitboard
-  name: сервіс техфаб плата машини
-  description: Планшет для записів
+  name: service techfab machine board
+  description: A machine printed circuit board for a service techfab.
   components:
   - type: Sprite
     state: service
@@ -77,8 +77,8 @@
 - type: entity
   parent: BaseTechFabCircuitboardDV
   id: EpistemicsTechFabCircuitboard
-  name: юридична колегія (Водолій)
-  description: Плата електроніки, що містить закон епохи Водолія.
+  name: epistemics techfab machine board
+  description: A machine printed circuit board for a epistemics techfab.
   components:
   - type: Sprite
     state: science
@@ -91,8 +91,8 @@
 - type: entity
   id: KitchenFreezerMachineCircuitBoard
   parent: BaseMachineCircuitboard
-  name: кухонна морозильна камера термомашина плата машини
-  description: Використовується для виготовлення кухонної морозильної термомашини.
+  name: kitchen freezer thermomachine machine board
+  description: Used to make a kitchen freezer thermomachine.
   components:
   - type: Sprite
     state: engineering

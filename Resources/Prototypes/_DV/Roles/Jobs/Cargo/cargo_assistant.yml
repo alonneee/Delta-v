@@ -1,7 +1,7 @@
 - type: job
   id: CargoAssistant
   name: job-name-cargo-assistant
-  description: посадова інструкція-вантажопомічник
+  description: job-description-cargo-assistant
   startingGear: CargoAssistantGear
   playTimeTracker: JobCargoAssistant
   icon: "JobIconCargoAssistant"

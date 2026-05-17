@@ -1,9 +1,9 @@
 - type: entity
-  name: основний
+  name: basic
   id: MobSpaceBasic
   parent: SimpleSpaceMobBase
   abstract: true
-  description: Виглядає дружньо. Чому б вам не обійняти його?
+  description: It looks friendly. Why don't you give it a hug?
   components:
   - type: HTN
     rootTask:
@@ -72,10 +72,10 @@
     speechVerb: LargeMob
 
 - type: entity
-  name: космічний ведмідь
+  name: space bear
   id: MobBearSpace
   parent: MobSpaceBasic
-  description: Виглядає дружньо. Чому б вам не обійняти його?
+  description: It looks friendly. Why don't you give it a hug?
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -117,15 +117,15 @@
 - type: entity
   id: MobBearSpaceSalvage
   parent: MobBearSpace
-  suffix: "Набір правил порятунку"
+  suffix: "Salvage Ruleset"
   components:
   - type: SalvageMobRestrictions
 
 - type: entity
-  name: космічний кенгуру
+  name: space kangaroo
   id: MobKangarooSpace
   parent: [MobSpaceBasic, StripableInventoryBase]
-  description: Виглядає дружньо. Чому б вам не обійняти його?
+  description: It looks friendly. Why don't you give it a hug?
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -175,15 +175,15 @@
 - type: entity
   id: MobKangarooSpaceSalvage
   parent: MobKangarooSpace
-  suffix: "Набір правил порятунку"
+  suffix: "Salvage Ruleset"
   components:
   - type: SalvageMobRestrictions
 
 - type: entity
-  name: космічний павук
+  name: space spider
   id: MobSpiderSpace
   parent: MobSpaceBasic
-  description: Він такий світиться, що виглядає небезпечно.
+  description: It's so glowing, it looks dangerous.
   components:
   - type: Sprite
     drawdepth: Mobs
@@ -275,15 +275,15 @@
 - type: entity
   id: MobSpiderSpaceSalvage
   parent: MobSpiderSpace
-  suffix: "Набір правил порятунку"
+  suffix: "Salvage Ruleset"
   components:
   - type: SalvageMobRestrictions
 
 - type: entity
-  name: космічна кобра
+  name: space cobra
   id: MobCobraSpace
   parent: MobSpaceBasic
-  description: Довгі ікла та сяючий капюшон, і привабливий вигляд так і прохає підійти ближче.
+  description: Long fangs and a glowing hood, and the alluring look begs to come closer.
   components:
     - type: Body # Shitmed Change
       prototype: SpaceCobra
@@ -370,15 +370,15 @@
 - type: entity
   id: MobCobraSpaceSalvage
   parent: MobCobraSpace
-  suffix: "Набір правил порятунку"
+  suffix: "Salvage Ruleset"
   components:
     - type: SalvageMobRestrictions
 
 - type: entity
   parent: SimpleSpaceMobBase
   id: MobSnail
-  name: равлик
-  description: Огидно, якщо ти не француз.
+  name: snail
+  description: Revolting unless you're french.
   components:
   - type: Body
     prototype: Mouse
@@ -387,7 +387,7 @@
     allowSpeech: false
     allowMovement: true
     name: ghost-role-information-snail-name
-    description: ghost-role-information-slail-description
+    description: ghost-role-information-snail-description
     rules: ghost-role-information-freeagent-rules
     mindRoles:
     - MindRoleGhostRoleFreeAgentHarmless
@@ -526,7 +526,7 @@
 - type: entity
   parent: MobSnail
   id: MobSnailInstantDeath
-  suffix: вдарити
+  suffix: Smite
   components:
   - type: GhostRole
     mindRoles:
@@ -545,7 +545,7 @@
 - type: entity
   parent: MobSnail
   id: MobSnailSpeed
-  suffix: швидкість
+  suffix: Speed
   components:
   - type: GhostRole
     name: ghost-role-information-snailspeed-name
@@ -572,12 +572,12 @@
 - type: entity
   parent: MobSnail
   id: MobSnailMoth
-  name: Снот
+  name: Snoth
   components:
   - type: Body
     prototype: Mothroach
   - type: GhostRole
-    name: Надійний лис капітана.
+    name: ghost-role-information-snoth-name
     description: ghost-role-information-snoth-description
     rules: ghost-role-information-freeagent-rules
   - type: Sprite

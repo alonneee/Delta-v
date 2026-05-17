@@ -169,7 +169,7 @@
 
 - type: construction
   id: DiagonalShuttleWall
-  name: будівництво-рецепт-діагональ-човник-стіна
+  name: construction-recipe-diagonal-shuttle-wall
   graph: Girder
   startNode: start
   targetNode: diagonalshuttleWall
@@ -286,7 +286,7 @@
 
 - type: construction
   id: WindowDiagonal
-  name: конструкція-вікно-діагональ
+  name: construction-window-diagonal
   graph: WindowDiagonal
   startNode: start
   targetNode: windowDiagonal
@@ -314,7 +314,7 @@
 
 - type: construction
   id: ReinforcedWindowDiagonal
-  name: конструкція-рецепт-посилена-вікно-діагональ
+  name: construction-recipe-reinforced-window-diagonal
   graph: WindowDiagonal
   startNode: start
   targetNode: reinforcedWindowDiagonal
@@ -356,7 +356,7 @@
 
 - type: construction
   id: ClockworkWindowDiagonal
-  name: будівництво-рецепт-годинниковий механізм-вікно-діагональ
+  name: construction-recipe-clockwork-window-diagonal
   graph: WindowDiagonal
   startNode: start
   targetNode: clockworkWindowDiagonal
@@ -412,7 +412,7 @@
 
 - type: construction
   id: PlasmaWindowDiagonal
-  name: конструкція-рецепт-газопровід-чотириходовий
+  name: construction-recipe-plasma-window-diagonal
   graph: WindowDiagonal
   startNode: start
   targetNode: plasmaWindowDiagonal
@@ -426,7 +426,7 @@
 
 - type: construction
   id: ReinforcedPlasmaWindowDiagonal
-  name: конструкція-рецепт-армована-плазма-вікно-діагональ
+  name: construction-recipe-reinforced-plasma-window-diagonal
   graph: WindowDiagonal
   startNode: start
   targetNode: reinforcedPlasmaWindowDiagonal
@@ -533,7 +533,7 @@
 
 - type: construction
   id: UraniumWindowDiagonal
-  name: будівництво-рецепт-уран-вікно-діагональ
+  name: construction-recipe-uranium-window-diagonal
   graph: WindowDiagonal
   startNode: start
   targetNode: uraniumWindowDiagonal
@@ -547,7 +547,7 @@
 
 - type: construction
   id: ReinforcedUraniumWindowDiagonal
-  name: конструкція-рецепт-посилена-ураном-вікно-діагональ
+  name: construction-recipe-reinforced-uranium-window-diagonal
   graph: WindowDiagonal
   startNode: start
   targetNode: reinforcedUraniumWindowDiagonal
@@ -587,7 +587,7 @@
 
 - type: construction
   id: FirelockEdge
-  name: конструкція-рецепт-крамка-замка
+  name: construction-recipe-firelock-edge
   graph: Firelock
   startNode: start
   targetNode: FirelockEdge
@@ -698,7 +698,7 @@
 
 - type: construction
   id: BarricadeDirectional
-  name: будівництво-рецепт-барикада-спрямований
+  name: construction-recipe-barricade-directional
   graph: BarricadeDirectional
   startNode: start
   targetNode: barricadefull
@@ -723,7 +723,7 @@
 
 - type: construction
   id: RailingCorner
-  name: конструкція-граф-компонент-двері-електроніка-друкована плата
+  name: construction-recipe-railing-corner
   graph: Railing
   startNode: start
   targetNode: railingCorner
@@ -736,7 +736,7 @@
 
 - type: construction
   id: RailingCornerSmall
-  name: конструкція-рецепт-перила-куточок-мал
+  name: construction-recipe-railing-corner-small
   graph: Railing
   startNode: start
   targetNode: railingCornerSmall
@@ -749,7 +749,7 @@
 
 - type: construction
   id: RailingRound
-  name: будівництво-рецепт-перила-круг
+  name: construction-recipe-railing-round
   graph: Railing
   startNode: start
   targetNode: railingRound
@@ -775,7 +775,7 @@
 
 - type: construction
   id: FenceMetalCorner
-  name: будівництво-рецепт-паркан-металевий-куточок
+  name: construction-recipe-fence-metal-corner
   graph: FenceMetal
   startNode: start
   targetNode: corner
@@ -788,7 +788,7 @@
 
 - type: construction
   id: FenceMetalEnd
-  name: конструкція-рецепт-паркан-метал-кінець
+  name: construction-recipe-fence-metal-end
   graph: FenceMetal
   startNode: start
   targetNode: end
@@ -826,7 +826,7 @@
 
 - type: construction
   id: FenceWoodEnd
-  name: конструкція-рецепт-паркан-дерева-кінець
+  name: construction-recipe-fence-wood-end
   graph: FenceWood
   startNode: start
   targetNode: end
@@ -839,7 +839,7 @@
 
 - type: construction
   id: FenceWoodCorner
-  name: будівництво-рецепт-паркан-дерев'яний кут
+  name: construction-recipe-fence-wood-corner
   graph: FenceWood
   startNode: start
   targetNode: corner
@@ -852,7 +852,7 @@
 
 - type: construction
   id: FenceWoodTJunction
-  name: конструкція-рецепт-паркан-дерево-т-перехрестя
+  name: construction-recipe-fence-wood-t-junction
   graph: FenceWood
   startNode: start
   targetNode: tjunction
@@ -890,7 +890,7 @@
 
 - type: construction
   id: FenceWoodEndSmall
-  name: конструкція-рецепт-паркан-деревина-кінець-мал
+  name: construction-recipe-fence-wood-end-small
   graph: FenceWood
   startNode: start
   targetNode: end_small
@@ -903,7 +903,7 @@
 
 - type: construction
   id: FenceWoodCornerSmall
-  name: конструкція-рецепт-паркан-дерев'яний-кут-мал
+  name: construction-recipe-fence-wood-corner-small
   graph: FenceWood
   startNode: start
   targetNode: corner_small
@@ -916,7 +916,7 @@
 
 - type: construction
   id: FenceWoodTJunctionSmall
-  name: конструкція-рецепт-паркан-дерево-т-перехрестя-малий
+  name: construction-recipe-fence-wood-t-junction-small
   graph: FenceWood
   startNode: start
   targetNode: tjunction_small
@@ -929,7 +929,7 @@
 
 - type: construction
   id: FenceWoodGateSmall
-  name: конструкція-рецепт-паркан-дерев'яна-ворота-мал
+  name: construction-recipe-fence-wood-gate-small
   graph: FenceWood
   startNode: start
   targetNode: gate_small
@@ -967,7 +967,7 @@
 
 - type: construction
   id: PinionAirlock
-  name: конструкція-рецепт-шестерня-шлюз
+  name: construction-recipe-pinion-airlock
   graph: PinionAirlock
   startNode: start
   targetNode: airlock
@@ -980,7 +980,7 @@
 
 - type: construction
   id: PinionAirlockGlass
-  name: конструкція-рецепт-шестерня-шлюз-скло
+  name: construction-recipe-pinion-airlock-glass
   graph: PinionAirlock
   startNode: start
   targetNode: glassAirlock
@@ -1006,7 +1006,7 @@
 
 - type: construction
   id: AirlockGlassShuttle
-  name: будівництво-рецепт-шлюз-скло-човник
+  name: construction-recipe-airlock-glass-shuttle
   graph: AirlockShuttle
   startNode: start
   targetNode: airlockGlass
@@ -1218,7 +1218,7 @@
 
 - type: construction
   id: PlasticFlapsClear
-  name: конструкція-рецепт-пластик-клапан-прозорий
+  name: construction-recipe-plastic-flaps-clear
   graph: PlasticFlapsGraph
   startNode: start
   targetNode: plasticFlaps
@@ -1231,7 +1231,7 @@
 
 - type: construction
   id: PlasticFlapsOpaque
-  name: конструкція-рецепт-пластикові-клапани-непрозорі
+  name: construction-recipe-plastic-flaps-opaque
   graph: PlasticFlapsGraph
   startNode: start
   targetNode: opaqueFlaps

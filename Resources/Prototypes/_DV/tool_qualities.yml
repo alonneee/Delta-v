@@ -8,14 +8,14 @@
 # do not give this to normal tools, it's for nuke deconstruction
 - type: tool
   id: FineScrewing
-  name: назва якості інструменту
+  name: tool-quality-fine-screwing-name
   toolName: tool-quality-fine-screwing-tool-name
   spawn: ThinTippedScrewdriver
   icon: { sprite: Objects/Tools/screwdriver.rsi, state: screwdriver-map }
 
 - type: tool
   id: Blessing
-  name: інструмент-якість-біблія-назва
+  name: tool-quality-bible-name
   toolName: tool-quality-bible-tool-name
   spawn: Bible
   icon: { sprite: Objects/Specific/Chapel/bible.rsi, state: icon }

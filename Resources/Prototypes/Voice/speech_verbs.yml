@@ -24,7 +24,7 @@
 
 - type: speechVerb
   id: DefaultExclamation
-  name: чат-мовлення-дієслово-назва-вигук
+  name: chat-speech-verb-name-exclamation
   speechVerbStrings:
   - chat-speech-verb-exclamation
 
@@ -112,7 +112,7 @@
 
 - type: speechVerb
   id: Goat
-  name: чат-мовлення-дієслово-назва-козла
+  name: chat-speech-verb-name-goat
   speechVerbStrings:
   - chat-speech-verb-goat-1
   - chat-speech-verb-goat-2
@@ -167,7 +167,7 @@
 
 - type: speechVerb
   id: Electricity
-  name: чат-мовлення-дієслово-назва-електрика
+  name: chat-speech-verb-name-electricity
   speechVerbStrings:
   - chat-speech-verb-electricity-1
   - chat-speech-verb-electricity-2

@@ -2,7 +2,7 @@
 
 - type: technology
   id: SalvageWeapons
-  name: дослідження-технології-рятування зброї
+  name: research-technology-salvage-weapons
   icon:
     sprite: Objects/Weapons/Guns/Basic/kinetic_accelerator.rsi
     state: icon
@@ -18,7 +18,7 @@
 
 - type: technology
   id: ExoticAmmunition
-  name: дослідження-технології-екзотичні-боєприпаси
+  name: research-technology-exotic-ammunition
   icon:
     sprite: Objects/Weapons/Guns/Ammunition/Casings/shotgun_shell.rsi
     state: beanbag
@@ -59,7 +59,7 @@
 
 - type: technology
   id: EnergyGuns
-  name: дослідження-технології-енергетична гармата
+  name: research-technology-energy-gun
   icon:
     sprite: _DV/Objects/Weapons/Guns/Battery/energygun.rsi
     state: icon
@@ -86,7 +86,7 @@
 
 - type: technology
   id: SecurityHardsuits
-  name: дослідження-технології-безпека-ева
+  name: research-technology-security-eva
   icon:
     sprite: _DV/Clothing/OuterClothing/Hardsuits/Combat/officer.rsi
     state: icon
@@ -100,7 +100,7 @@
 
 - type: technology
   id: ExperimentalSalvageWeaponry
-  name: дослідження-технології-експериментальна-рятувальна-зброя
+  name: research-technology-experimental-salvage-weaponry
   icon:
     sprite: Objects/Weapons/Melee/crusher_glaive.rsi
     state: icon
@@ -116,7 +116,7 @@
 
 - type: technology
   id: EnergyGunsAdvanced
-  name: дослідження-технології-енергетична-гармата-перед
+  name: research-technology-energy-gun-advance
   icon:
     sprite: _DV/Objects/Weapons/Guns/Battery/energygun_carbine.rsi
     state: icon
@@ -129,7 +129,7 @@
 
 - type: technology
   id: IncendiaryLaserWeapons
-  name: дослідницька-технологія-запалювальна-лазерна-зброя
+  name: research-technology-incendiary-laser-weapons
   icon:
     sprite: _DV/Objects/Weapons/Guns/Battery/immolator.rsi
     state: icon
@@ -141,7 +141,7 @@
 
 - type: technology
   id: AdvancedRiotControl
-  name: дослідження-технології-передового-контролю заворушень
+  name: research-technology-advanced-riot-control
   icon:
     sprite: _DV/Objects/Weapons/Melee/advanced_truncheon.rsi
     state: icon
@@ -156,7 +156,7 @@
 
 - type: technology
   id: OffensivePsionicProsthetics
-  name: дослідження-технологія-наступ-псіоніка-протезування
+  name: research-technology-offensive-psionic-prosthetics
   icon:
     sprite: _DV/Interface/Actions/actions_psionics.rsi
     state: pyrokinesis

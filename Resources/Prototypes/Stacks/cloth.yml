@@ -1,27 +1,27 @@
 - type: stack
   parent: BaseMediumStack
   id: Cloth
-  name: стек-полотно
+  name: stack-cloth
   icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: cloth }
   spawn: MaterialCloth1
 
 - type: stack
   parent: BaseMediumStack
   id: Durathread
-  name: стек-шоколад-чіп-млинець
+  name: stack-durathread
   icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: durathread }
   spawn: MaterialDurathread1
 
 - type: stack
   parent: BaseMediumStack
   id: Cotton
-  name: стек-бавовна
+  name: stack-cotton
   icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: cotton }
   spawn: MaterialCotton1
 
 - type: stack
   parent: BaseMediumStack
   id: Pyrotton
-  name: стек-піротон
+  name: stack-pyrotton
   icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: pyrotton }
   spawn: MaterialPyrotton1

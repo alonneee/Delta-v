@@ -1,8 +1,8 @@
 - type: entity
-  name: інжектор голопаразитів
+  name: holoparasite injector
   id: HoloparasiteInjector
   parent: [BaseItem, BaseSyndicateContraband]
-  description: Складне мистецтво портативного обладнання, яке дозволяє користувачеві розміщувати опікуна голопаразита.
+  description: A complex artwork of handheld machinery allowing the user to host a holoparasite guardian.
   components:
   - type: Sprite
     sprite: Objects/Specific/Medical/hypospray.rsi
@@ -11,19 +11,19 @@
     guardianProto: MobHoloparasiteGuardian
 
 - type: entity
-  name: голоклоун інжектор
+  name: holoclown injector
   parent: HoloparasiteInjector
   id: HoloClownInjector
-  description: Складне мистецтво портативного обладнання, яке дозволяє користувачеві приймати голоклоуна-охоронця.
+  description: A complex artwork of handheld machinery allowing the user to host a holoclown guardian.
   components:
   - type: GuardianCreator
     guardianProto: MobHoloClownGuardian
 
 - type: entity
-  name: чарівна лампа
+  name: magical lamp
   id: MagicalLamp
   parent: BaseItem
-  description: Федерації чарівників довелося якимось чином скоротити витрати після скандалу з товарами джинів.
+  description: The wizard federation had to cut costs after the jinn merchandise scandal somehow.
   components:
   - type: Sprite
     sprite: Objects/Misc/Lights/lamp.rsi
@@ -33,10 +33,10 @@
     guardianProto: MobIfritGuardian
 
 - type: entity
-  name: голопаразитна коробка
+  name: holoparasite box
   parent: [BoxCardboard, BaseSyndicateContraband]
   id: BoxHoloparasite
-  description: Коробка з інжектором голопаразитів.
+  description: A box containing a holoparasite injector.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -51,10 +51,10 @@
       - state: holo
 
 - type: entity
-  name: коробка голоклоуна
+  name: holoclown box
   parent: [BoxCardboard, BaseSyndicateContraband]
   id: BoxHoloclown
-  description: Коробка з інжектором голоклоуна.
+  description: A box containing a holoclown injector.
   components:
   - type: EntityTableContainerFill
     containers:

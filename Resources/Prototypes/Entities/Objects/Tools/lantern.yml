@@ -1,8 +1,8 @@
 ﻿- type: entity
-  name: ліхтар
+  name: lantern
   parent: BaseItem
   id: Lantern
-  description: Святе світло веде шлях.
+  description: The holy light guides the way.
   components:
     - type: HandheldLight
       addPrefix: true
@@ -75,7 +75,7 @@
 - type: entity
   parent: Lantern
   id: LanternFlash
-  suffix: Спалах
+  suffix: Flash
   components:
     - type: Sprite
       sprite: Objects/Tools/lantern.rsi

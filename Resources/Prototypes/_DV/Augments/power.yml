@@ -14,8 +14,8 @@
 - type: entity
   parent: BaseItem
   id: AugmentPowerCellSlotCasing
-  name: збільшити комірку живлення
-  description: Може бути імплантований в тіло для живлення інших імплантатів. Цей неповний.
+  name: augment power cell slot casing
+  description: Can be implanted into a body to provide power to other implants. This one is incomplete.
   components:
   - type: Sprite
     sprite: _DV/Objects/Augments/power.rsi
@@ -30,8 +30,8 @@
 - type: entity
   parent: BaseItem
   id: AugmentPowerCellSlotCasingCables
-  name: доповніть корпус слота живлення за допомогою кабелів
-  description: Може бути імплантований в тіло для живлення інших імплантатів. Цей неповний.
+  name: augment power cell slot casing with cables
+  description: Can be implanted into a body to provide power to other implants. This one is incomplete.
   components:
   - type: Sprite
     sprite: _DV/Objects/Augments/power.rsi
@@ -43,8 +43,8 @@
 - type: entity
   parent: BaseAugment
   id: AugmentPowerCellSlot
-  name: додатковий слот живлення
-  description: Може бути імплантований в тіло для живлення інших імплантатів.
+  name: augment power cell slot
+  description: Can be implanted into a body to provide power to other implants.
   components:
   - type: Sprite
     sprite: _DV/Objects/Augments/power.rsi
@@ -70,7 +70,7 @@
 - type: entity
   parent: BaseAugment
   id: AugmentBaseCharger
-  name: доповнення базового зарядного пристрою
+  name: base charger augment
   abstract: true
   components:
   - type: Sprite
@@ -83,8 +83,8 @@
 - type: entity
   parent: BaseItem
   id: AugmentRechargerCasing
-  name: збільшити корпус зарядного пристрою
-  description: Можна імплантувати в тіло, щоб зарядити внутрішній елемент живлення. Цей неповний.
+  name: augment recharger casing
+  description: Can be implanted into a body to recharge an internal power cell. This one is incomplete.
   components:
   - type: Sprite
     sprite: _DV/Objects/Augments/power.rsi
@@ -98,8 +98,8 @@
 - type: entity
   parent: BaseItem
   id: AugmentRechargerCasingCables
-  name: доповніть корпус зарядного пристрою кабелями
-  description: Можна імплантувати в тіло, щоб зарядити внутрішній елемент живлення. Цей неповний.
+  name: augment recharger casing with cables
+  description: Can be implanted into a body to recharge an internal power cell. This one is incomplete.
   components:
   - type: Sprite
     sprite: _DV/Objects/Augments/power.rsi
@@ -112,7 +112,7 @@
   parent: AugmentBaseCharger
   id: AugmentRechargerAPC
   name: augment apc recharger
-  description: Дозволяє імплантату заряджати свій елемент живлення через БТР.
+  description: Allows the implantee to recharge their power cell via APCs.
   components:
   - type: Sprite
     state: apc
@@ -126,8 +126,8 @@
 - type: entity
   parent: AugmentBaseCharger
   id: AugmentRechargerStation
-  name: зарядний пристрій доповнювальної станції
-  description: панель інструментів збільшення корпусу
+  name: augment station recharger
+  description: Allows the implantee to recharge their power cell via cyborg recharging stations.
   components:
   - type: Sprite
     state: station

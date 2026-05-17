@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingHandsGlovesLeather
   id: ClothingHandsGlovesPilot
-  name: пілотські рукавички
-  description: Водійські рукавички, але для космічних кораблів!
+  name: pilot gloves
+  description: Driving gloves, but for spaceships!
   components:
   - type: Sprite
     sprite: _NF/Clothing/Hands/Gloves/pilot.rsi

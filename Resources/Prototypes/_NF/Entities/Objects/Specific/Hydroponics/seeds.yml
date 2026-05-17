@@ -1,7 +1,7 @@
 ﻿- type: entity
   parent: SeedBase
-  name: пакет насіння груші
-  description: Вони вам підійдуть.
+  name: packet of pear seeds
+  description: They are peary good for you.
   id: PearSeeds
   components:
   - type: Seed
@@ -11,8 +11,8 @@
 
 - type: entity
   parent: SeedBase
-  name: пакет кавових зерен
-  description: Ідеально підходить для будь-якого поважаючого себе обсмажувача кави.
+  name: packet of coffee seeds
+  description: Perfect for any self-respecting coffee roaster.
   id: CoffeeSeeds
   components:
   - type: Seed
@@ -22,7 +22,7 @@
 
 - type: seed
   id: pear
-  name: насіння-груша-ім
+  name: seeds-pear-name
   noun: seeds-noun-seeds
   displayName: seeds-pear-display-name
   plantRsi: _NF/Objects/Specific/Hydroponics/pear.rsi

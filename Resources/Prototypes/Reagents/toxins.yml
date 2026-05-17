@@ -22,7 +22,7 @@
 
 - type: reagent
   id: CarpoToxin
-  name: реагент-назва-карпотоксин
+  name: reagent-name-carpotoxin
   group: Toxins
   desc: reagent-desc-carpotoxin
   flavor: bitter
@@ -96,7 +96,7 @@
 
 - type: reagent
   id: GastroToxin
-  name: реагент-назва-гастротоксин
+  name: reagent-name-gastrotoxin
   group: Toxins
   desc: reagent-desc-gastrotoxin
   flavor: bitter
@@ -118,9 +118,9 @@
 
 - type: reagent
   id: Mold
-  name: реагент-назва-форма
+  name: reagent-name-mold
   group: Toxins
-  desc: reagent-desc-bananadine
+  desc: reagent-desc-mold
   flavor: bitter
   color: "#8a9a5b"
   recognizable: true
@@ -317,7 +317,7 @@
   id: HeartbreakerToxin
   name: reagent-name-heartbreaker-toxin
   group: Toxins
-  desc: reagent-desc-heartbreaker-toxin-deltav # Deltav - видалити згадку про dex plus
+  desc: reagent-desc-heartbreaker-toxin-deltav # Deltav - Remove mention of dex plus
   physicalDesc: reagent-physical-desc-strong-smelling
   contrabandSeverity: Major
   color: "#5f959c"
@@ -334,7 +334,7 @@
 
 - type: reagent
   id: Lexorin
-  name: реагент-назва-лексорин
+  name: reagent-name-lexorin
   group: Toxins
   desc: reagent-desc-lexorin
   physicalDesc: reagent-physical-desc-pungent
@@ -381,7 +381,7 @@
 
 - type: reagent
   id: Histamine
-  name: ім'я реагенту-гістамін
+  name: reagent-name-histamine
   group: Toxins
   desc: reagent-desc-histamine
   physicalDesc: reagent-physical-desc-abrasive
@@ -422,7 +422,7 @@
 
 - type: reagent
   id: Theobromine
-  name: назва реагенту теобромін
+  name: reagent-name-theobromine
   group: Toxins
   desc: reagent-desc-theobromine
   physicalDesc: reagent-physical-desc-grainy
@@ -451,7 +451,7 @@
 
 - type: reagent
   id: Amatoxin
-  name: реагент-назва-аматоксин
+  name: reagent-name-amatoxin
   group: Toxins
   desc: reagent-desc-amatoxin
   physicalDesc: reagent-physical-desc-nondescript
@@ -484,7 +484,7 @@
 
 - type: reagent
   id: Romerol
-  name: ім'я-реагенту-ромерол
+  name: reagent-name-romerol
   group: Toxins
   desc: reagent-desc-romerol
   physicalDesc: reagent-physical-desc-necrotic
@@ -503,7 +503,7 @@
 
 - type: reagent
   id: UncookedAnimalProteins
-  name: reagent-name-necooked-animal-proteins
+  name: reagent-name-uncooked-animal-proteins
   group: Foods
   desc: reagent-desc-uncooked-animal-proteins
   physicalDesc: reagent-physical-desc-clumpy
@@ -557,7 +557,7 @@
 
 - type: reagent
   id: Allicin
-  name: реагент-назва-аліцин
+  name: reagent-name-allicin
   group: Foods
   desc: reagent-desc-allicin
   physicalDesc: reagent-physical-desc-pungent
@@ -630,7 +630,7 @@
 
 - type: reagent
   id: Lead
-  name: reagent-desc-root-beer
+  name: reagent-name-lead
   group: Toxins
   desc: reagent-desc-lead
   physicalDesc: reagent-physical-desc-metallic
@@ -664,9 +664,9 @@
 
 - type: reagent
   id: Vestine
-  name: назва-реагенту-вестин
+  name: reagent-name-vestine
   group: Toxins
-  desc: reagent-name-milk
+  desc: reagent-desc-vestine
   physicalDesc: reagent-physical-desc-shiny
   contrabandSeverity: Syndicate
   flavor: medicine
@@ -694,7 +694,7 @@
 
 - type: reagent
   id: Tazinide
-  name: реагент-назва-тазинід
+  name: reagent-name-tazinide
   group: Toxins
   desc: reagent-desc-tazinide
   physicalDesc: reagent-physical-desc-metallic
@@ -734,9 +734,9 @@
 # poisons non-spiders and slows you down at high doses
 - type: reagent
   id: Mechanotoxin
-  name: реагент-назва-механотоксин
+  name: reagent-name-mechanotoxin
   group: Toxins
-  desc: reagent-desc-механотоксин
+  desc: reagent-desc-mechanotoxin
   flavor: sweet
   color: "#00b408"
   physicalDesc: reagent-physical-desc-nondescript

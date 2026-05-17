@@ -1,6 +1,6 @@
 - type: species
   id: Chitinid
-  name: вид-назва-хітинід
+  name: species-name-chitinid
   roundStart: true
   prototype: MobChitinid
   sprites: MobChitinidSprites

@@ -7,79 +7,79 @@
 - type: quickPhrase
   id: IPhrase
   parent: BaseNounsPhrase
-  text: фраза-і
+  text: phrase-i
 
 - type: quickPhrase
   id: YouPhrase
   parent: BaseNounsPhrase
-  text: фраза-ти
+  text: phrase-you
 
 - type: quickPhrase
   id: SomeonePhrase
   parent: BaseNounsPhrase
-  text: фраза-хтось
+  text: phrase-someone
 
 - type: quickPhrase
   id: SomethingPhrase
   parent: BaseNounsPhrase
-  text: фраза-щось
+  text: phrase-something
 
 - type: quickPhrase
   id: HePhrase
   parent: BaseNounsPhrase
-  text: фраза-він
+  text: phrase-he
 
 - type: quickPhrase
   id: ShePhrase
   parent: BaseNounsPhrase
-  text: фраза-вона
+  text: phrase-she
 
 - type: quickPhrase
   id: TheyPhrase
   parent: BaseNounsPhrase
-  text: фраза-вони
+  text: phrase-they
 
 - type: quickPhrase
   id: ItPhrase
   parent: BaseNounsPhrase
-  text: фраза-іт
+  text: phrase-it
 
 - type: quickPhrase
   id: EveryonePhrase
   parent: BaseNounsPhrase
-  text: фраза-кожний
+  text: phrase-everyone
 
 - type: quickPhrase
   id: NoOnePhrase
   parent: BaseNounsPhrase
-  text: фраза-ніхто
+  text: phrase-no-one
 
 - type: quickPhrase
   id: AnyonePhrase
   parent: BaseNounsPhrase
-  text: фраза-будь-хто
+  text: phrase-anyone
 
 - type: quickPhrase
   id: MePhrase
   parent: BaseNounsPhrase
-  text: фраза-я
+  text: phrase-me
 
 - type: quickPhrase
   id: IAmPhrase
   parent: BaseNounsPhrase
-  text: фраза-багато
+  text: phrase-i-am
 
 - type: quickPhrase
   id: YouArePhrase
   parent: BaseNounsPhrase
-  text: фраза-ви-є
+  text: phrase-you-are
 
 - type: quickPhrase
   id: MinePhrase
   parent: BaseNounsPhrase
-  text: фраза-моя
+  text: phrase-mine
 
 - type: quickPhrase
   id: YoursPhrase
   parent: BaseNounsPhrase
-  text: фраза-ваша
+  text: phrase-yours

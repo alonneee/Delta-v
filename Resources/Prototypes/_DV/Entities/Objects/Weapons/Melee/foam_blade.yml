@@ -1,8 +1,8 @@
 - type: entity
   parent: FoamSabre
   id: RealFoamSabre
-  name: поролонова шабля
-  suffix: Справжня
+  name: foam sabre
+  suffix: Real
   components:
   - type: MeleeWeapon
     attackRate: 1.5

@@ -129,7 +129,7 @@
 - type: reagent
   parent: Blood
   id: AmmoniaBlood
-  name: назва-реагенту-аміак-кров
+  name: reagent-name-ammonia-blood
   group: Biological
   desc: reagent-desc-ammonia-blood
   flavor: bitter
@@ -164,7 +164,7 @@
   id: Ichor
   name: reagent-name-ichor
   group: Biological
-  desc: reagent-desc-dexalin-plus
+  desc: reagent-desc-ichor
   physicalDesc: reagent-physical-desc-roaring
   flavor: metallic
   color: "#f4692e"
@@ -199,7 +199,7 @@
 
 - type: reagent
   id: Fat
-  name: реагент-назва-жир
+  name: reagent-name-fat
   group: Biological
   desc: reagent-desc-fat
   flavor: terrible
@@ -236,7 +236,7 @@
 
 - type: reagent
   id: GreyMatter
-  name: назва-реагенту-сіра речовина
+  name: reagent-name-grey-matter
   group: Biological
   desc: reagent-desc-grey-matter
   physicalDesc: reagent-physical-desc-neural

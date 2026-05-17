@@ -1,7 +1,7 @@
 - type: entity
   parent: BaseStructure
   id: N14BaseTallObstacle
-  suffix: високий
+  suffix: tall
   abstract: true
   components:
   - type: Sprite
@@ -37,8 +37,8 @@
 - type: entity
   parent: N14BaseTallObstacle
   id: N14BarricadeWoodTall
-  name: дерев'яна барикада
-  suffix: високий
+  name: wooden barricade
+  suffix: tall
   components:
   - type: Sprite
     state: barricade
@@ -46,7 +46,7 @@
 - type: entity
   parent: N14BaseTallObstacle
   id: N14CellBars
-  name: клітинні решітки
+  name: cell bars
   components:
   - type: Sprite
     state: bars
@@ -54,7 +54,7 @@
 - type: entity
   parent: N14CellBars
   id: N14CellBarsSlot
-  suffix: слот
+  suffix: slot
   components:
   - type: Sprite
     state: barsslot
@@ -82,7 +82,7 @@
 - type: entity
   parent: N14CellBars
   id: N14CellBarsCorner
-  suffix: куточок
+  suffix: corner
   components:
   - type: Sprite
     state: barscorner
@@ -111,7 +111,7 @@
 - type: entity
   parent: N14CellBars
   id: N14CellBarsRust
-  name: клітинні решітки
+  name: cell bars
   components:
   - type: Sprite
     state: bars_rust
@@ -119,7 +119,7 @@
 - type: entity
   parent: N14CellBarsSlot
   id: N14CellBarsSlotRust
-  suffix: слот
+  suffix: slot
   components:
   - type: Sprite
     state: barsslot_rust
@@ -127,7 +127,7 @@
 - type: entity
   parent: N14CellBarsCorner
   id: N14CellBarsCornerRust
-  suffix: куточок
+  suffix: corner
   components:
   - type: Sprite
     state: barscorner_rust

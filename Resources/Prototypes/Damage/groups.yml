@@ -1,6 +1,6 @@
 - type: damageGroup
   id: Brute
-  name: група пошкоджень-брут
+  name: damage-group-brute
   damageTypes:
     - Blunt
     - Slash
@@ -8,7 +8,7 @@
 
 - type: damageGroup
   id: Burn
-  name: пошкодження-група-опік
+  name: damage-group-burn
   damageTypes:
     - Heat
     - Shock
@@ -21,7 +21,7 @@
 # bloodloss, not this whole group, unless you have a wonder drug that affects both.
 - type: damageGroup
   id: Airloss
-  name: пошкодження-група-втрата повітря
+  name: damage-group-airloss
   damageTypes:
     - Asphyxiation
     - Bloodloss
@@ -30,14 +30,14 @@
 # Though there are probably some radioactive poisons.
 - type: damageGroup
   id: Toxin
-  name: пошкодження-група-токсин
+  name: damage-group-toxin
   damageTypes:
     - Poison
     - Radiation
 
 - type: damageGroup
   id: Genetic
-  name: група ушкоджень-генетична
+  name: damage-group-genetic
   damageTypes:
     - Cellular
 
@@ -45,7 +45,7 @@
 # Revenants and other ghost-like/demonic creatures are more fitting. Healing should never be available via medicine.
 - type: damageGroup
   id: Metaphysical
-  name: пошкодження групово-метафіз
+  name: damage-group-metaphysical
   damageTypes:
   - Holy
   - Shadow # DeltaV

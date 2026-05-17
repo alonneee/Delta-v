@@ -1,6 +1,6 @@
 - type: entity
   id: BulletBazookaExp
-  name: ракета
+  name: rocket
   parent: BaseBulletTrigger
   categories: [ HideSpawnMenu ]
   components:
@@ -26,7 +26,7 @@
 
 - type: entity
   id: BulletBazookaCon
-  name: ракета
+  name: rocket
   parent: BaseBullet
   categories: [ HideSpawnMenu ]
   components:
@@ -55,7 +55,7 @@
 
 - type: entity
   id: BulletBazookaInc
-  name: ракета
+  name: rocket
   parent: BaseBulletTrigger
   categories: [ HideSpawnMenu ]
   components:

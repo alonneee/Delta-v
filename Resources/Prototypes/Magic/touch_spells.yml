@@ -26,8 +26,8 @@
 - type: entity
   parent: BaseSmiteAction
   id: ActionSmite
-  name: вдарити
-  description: Миттєво вражає ціль.
+  name: Smite
+  description: Instantly gibs a target.
   components:
   - type: Action
     useDelay: 300
@@ -54,8 +54,8 @@
 - type: entity
   parent: BaseSmiteAction
   id: ActionCluwne
-  name: Прокляття Клуна
-  description: Перетворює когось на Клуна!
+  name: Cluwne's Curse
+  description: Turns someone into a Cluwne!
   components:
   - type: Action
     useDelay: 120
@@ -76,8 +76,8 @@
 - type: entity
   parent: BaseSmiteAction
   id: ActionSlippery
-  name: Слизький схил
-  description: Зробити когось слизьким.
+  name: Slippery Slope
+  description: Make someone slippery.
   components:
   - type: Action
     useDelay: 60

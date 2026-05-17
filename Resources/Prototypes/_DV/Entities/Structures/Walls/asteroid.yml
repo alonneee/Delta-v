@@ -2,7 +2,7 @@
   abstract: true
   id: BaseRockBluespace
   suffix: Bluespace
-  description: Рудна жила, багата блакитними кристалами.
+  description: An ore vein rich with bluespace crystals.
   components:
   - type: OreVein
     oreChance: 1.0

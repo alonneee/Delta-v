@@ -1,6 +1,6 @@
 - type: entity
-  name: пінпоінтер
-  description: Портативний пристрій стеження. Цей, як правило, набагато більший, але налаштований на фіксацію певних сигналів. Щоб зберегти точність, тримайтеся вертикально.
+  name: pinpointer
+  description: A handheld tracking device. While typically far more capable, this one has been configured to lock onto certain signals. Keep upright to retain accuracy.
   parent: BaseItem
   id: PinpointerBase
   abstract: true
@@ -53,7 +53,7 @@
   - type: AnimationPlayer
 
 - type: entity
-  name: пінпоінтер
+  name: pinpointer
   id: PinpointerNuclear
   parent: [ PinpointerBase, BaseCommandContraband ]
   components:
@@ -62,8 +62,8 @@
     targetName: nuclear authentication disk
 
 - type: entity
-  name: синдикат pinpointer
-  description: Виготовлено спеціально для ядерних оперативних місій, придбайте цей диск!
+  name: syndicate pinpointer
+  description: Produced specifically for nuclear operative missions, get that disk!
   id: PinpointerSyndicateNuclear
   parent: [ PinpointerBase, BaseSyndicateContraband ]
   components:
@@ -96,8 +96,8 @@
     targetName: nuclear authentication disk
 
 - type: entity
-  name: універсальний пінпоінтер
-  description: Портативний пристрій відстеження, який фіксує будь-яку фізичну сутність у вимкненому стані. Щоб зберегти точність, тримайтеся вертикально.
+  name: universal pinpointer
+  description: A handheld tracking device that locks onto any physical entity while off. Keep upright to retain accuracy.
   id: PinpointerUniversal
   parent: PinpointerBase
   components:
@@ -131,10 +131,10 @@
 
 - type: entity
   parent: PinpointerBase
-  name: пінпоінтер станції
-  description: Портативний пристрій відстеження, який веде до будь-якої найближчої станції.
+  name: station pinpointer
+  description: A handheld tracking device that leads to the direction of any nearby station.
   id: PinpointerStation
-  suffix: Станція
+  suffix: Station
   components:
   - type: Sprite
     layers:
@@ -167,8 +167,8 @@
 - type: entity
   parent: [ PinpointerBase, BaseXenoborgContraband ]
   id: PinpointerMothership
-  name: pinpointer ядра
-  description: Портативний пристрій стеження, який веде до напрямку ядра Mothership.
+  name: core pinpointer
+  description: A handheld tracking device that leads to the direction of the Mothership core.
   components:
   - type: Sprite
     layers:
@@ -201,8 +201,8 @@
 - type: entity
   parent: BaseItem
   id: PinpointerMothershipPiece
-  name: шматок основного пінпоінтера
-  description: Фрагмент стрижневого пінпоінтера. Для його ремонту потрібно чотири штуки.
+  name: piece of core pinpointer
+  description: A piece of a core pinpointer. You need four pieces to repair it.
   components:
   - type: Sprite
     sprite: Objects/Devices/pinpointer.rsi
@@ -224,8 +224,8 @@
 - type: entity
   parent: PinpointerMothership
   id: PinpointerMothershipRepaired
-  name: відремонтований пінпоінтер сердечника
-  description: Портативний пристрій стеження, який веде до напрямку ядра Mothership. Цей бачив кращі дні.
+  name: repaired core pinpointer
+  description: A handheld tracking device that leads to the direction of the Mothership core. This one has seen better days.
   components:
   - type: Sprite
     layers:

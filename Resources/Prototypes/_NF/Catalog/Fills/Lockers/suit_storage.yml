@@ -2,7 +2,7 @@
 - type: entity
   id: SuitStoragePilot
   parent: SuitStorageBase
-  suffix: Пілот
+  suffix: Pilot
   components:
   - type: EntityTableContainerFill
     containers:

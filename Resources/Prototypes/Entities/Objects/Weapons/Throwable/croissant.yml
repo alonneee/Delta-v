@@ -1,7 +1,7 @@
 - type: entity
   parent: FoodBakedCroissant
   id: WeaponCroissant
-  suffix: Зброя
+  suffix: Weapon
   components:
   - type: Fixtures
     fixtures:

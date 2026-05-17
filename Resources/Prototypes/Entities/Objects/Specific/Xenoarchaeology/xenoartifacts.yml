@@ -1,8 +1,8 @@
 - type: entity
   id: BaseXenoArtifact
   parent: BaseMob # we use this since it can technically get inhabited
-  name: артефакт
-  description: Дивний артефакт невідомих часів. Здається, добре провести час.
+  name: artifact
+  description: A strange artifact from time unknown. Looks like a good time.
   abstract: true
   noSpawn: true
   components:
@@ -55,8 +55,8 @@
 
 - type: entity
   id: ActionSentientArtifactActivate
-  name: Активувати артефакт
-  description: Активізуйте себе, викликаючи хаос у тих, хто поруч.
+  name: Activate Artifact
+  description: Activate yourself, causing chaos to those near you.
   components:
   - type: Action
     icon:
@@ -69,34 +69,34 @@
 - type: entity
   id: SimpleXenoArtifact
   parent: ComplexXenoArtifact
-  name: "Простий артефакт"
-  description: "Простий заповнювач артефакту Xeno."
+  name: "Simple Artifact"
+  description: "A simple xeno artifact placeholder."
   components: []
 
 - type: entity
   id: MediumXenoArtifact
   parent: ComplexXenoArtifact
-  name: "Середній артефакт"
-  description: "Заповнювач артефакту середнього розміру."
+  name: "Medium Artifact"
+  description: "A medium xeno artifact placeholder."
   components: []
 
 - type: entity
   id: SimpleXenoArtifactItem
   parent: ComplexXenoArtifactItem
-  name: "Простий предмет артефакту"
-  description: "Простий заповнювач елемента артефакту."
+  name: "Simple Artifact Item"
+  description: "A simple artifact item placeholder."
   components: []
 
 - type: entity
   id: MediumXenoArtifactItem
   parent: ComplexXenoArtifactItem
-  name: "Середній предмет артефакту"
-  description: "Заповнювач елемента артефакту середнього розміру."
+  name: "Medium Artifact Item"
+  description: "A medium artifact item placeholder."
   components: []
 
 - type: entity
   id: VariedXenoArtifactItem
   parent: ComplexXenoArtifactItem
-  name: "Різноманітний предмет артефакту"
-  description: "Різноманітний заповнювач артефакту."
+  name: "Varied Artifact Item"
+  description: "A varied artifact item placeholder."
   components: []

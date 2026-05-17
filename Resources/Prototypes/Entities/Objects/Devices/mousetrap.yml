@@ -1,8 +1,8 @@
 - type: entity
-  name: мишоловка
+  name: mousetrap
   parent: BaseItem
   id: Mousetrap
-  description: Корисно для лову гризунів, які проникають на кухню.
+  description: Useful for catching rodents sneaking into your kitchen.
   components:
     - type: Sprite
       sprite: Objects/Devices/mousetrap.rsi
@@ -62,11 +62,11 @@
     - type: Rotatable
 
 - type: entity
-  name: мишоловка
-  suffix: Озброєний
+  name: mousetrap
+  suffix: Armed
   parent: Mousetrap
   id: MousetrapArmed
-  description: Корисно для лову гризунів, які проникають на кухню.
+  description: Useful for catching rodents sneaking into your kitchen.
   components:
   - type: Sprite
     layers:

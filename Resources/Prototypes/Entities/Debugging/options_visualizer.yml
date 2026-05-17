@@ -1,6 +1,6 @@
 ﻿- type: entity
   id: OptionsVisualizerTest
-  suffix: НАЛАШТУВАННЯ
+  suffix: DEBUG
   components:
   - type: Sprite
     sprite: Effects/optionsvisualizertest.rsi

@@ -1,7 +1,7 @@
 - type: entity
   parent: BaseLightbulb
-  name: синя світлова трубка
-  description: Лампа середньої потужності, яка нагадує про космос. Може містити ртуть.
+  name: blue light tube
+  description: A medium power high energy bulb that reminds you of space. May contain mercury.
   id: BlueLightTube
   components:
   - type: LightBulb
@@ -18,10 +18,10 @@
 
 - type: entity
   parent: BaseLightbulb
-  name: лампочка розжарювання
-  suffix: Технічне обслуговування
+  name: incandescent light bulb
+  suffix: Maintenance
   id: LightBulbMaintenance
-  description: Тьмяна лампочка.
+  description: A dim light bulb.
   components:
   - type: LightBulb
     bulb: Bulb
@@ -38,8 +38,8 @@
 
 - type: entity
   parent: BaseLightbulb
-  name: трубка червоного світла
-  description: Барвиста світлова трубка. Вони випромінюють червоний відтінок.
+  name: red light tube
+  description: A colorful light tube. These emit a red hue.
   id: ColoredLightTubeRed
   components:
   - type: LightBulb
@@ -55,8 +55,8 @@
 
 - type: entity
   parent: BaseLightbulb
-  name: синя світлова трубка
-  description: Барвиста світлова трубка. Вони випромінюють морозний блакитний відтінок.
+  name: blue light tube
+  description: A colorful light tube. These emit a frosty blue hue.
   id: ColoredLightTubeFrostyBlue
   components:
   - type: LightBulb
@@ -72,8 +72,8 @@
 
 - type: entity
   parent: BaseLightbulb
-  name: чорна світлова трубка
-  description: Плюш із зображенням чарівної людини-молі з маленьким синтезатором і крихітними окулярами.
+  name: black light tube
+  description: A colorful light tube. These emit "black light".
   id: ColoredLightTubeBlackLight
   components:
   - type: LightBulb

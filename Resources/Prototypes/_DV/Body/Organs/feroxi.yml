@@ -1,7 +1,7 @@
 - type: entity
   parent: OrganAnimalStomach
   id: OrganFeroxiStomach
-  name: фероксовий шлунок
+  name: feroxian stomach
   categories: [ HideSpawnMenu ]
   components:
   - type: Stomach
@@ -28,8 +28,8 @@
 - type: entity
   parent: BaseHumanOrgan
   id: OrganFeroxiLungs
-  name: селезовидні легені та зябра
-  description: "Пара легенів амфібії разом із зябрами постійно фільтрує кисень із повітря».
+  name: feroxian lungs and gills
+  description: "A pair of amphibious lungs along with gills, filtering oxygen out of the air continuously."
   components:
   - type: Sprite
     sprite: Mobs/Species/Human/organs.rsi

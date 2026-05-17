@@ -7,7 +7,7 @@
         - to: crushed
           steps:
             - tag: Matchstick
-              name: конструкція-граф-бірка-сірник-палка
+              name: construction-graph-tag-match-stick
               icon:
                 sprite: Objects/Tools/matches.rsi
                 state: match_unlit

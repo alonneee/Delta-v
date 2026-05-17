@@ -1,7 +1,7 @@
 - type: cargoBounty
   id: BountyArtifact
   reward: 2500
-  description: баунті-опис-артефакт
+  description: bounty-description-artifact
   entries:
   - name: bounty-item-artifact
     amount: 1
@@ -12,7 +12,7 @@
 - type: cargoBounty
   id: BountyBaseballBat
   reward: 4000
-  description: bounty-description-baseball-bit
+  description: bounty-description-baseball-bat
   idPrefix: CC
   entries:
   - name: bounty-item-baseball-bat
@@ -24,7 +24,7 @@
 - type: cargoBounty
   id: BountyBrain
   reward: 12500
-  description: баунті-опис-мозок
+  description: bounty-description-brain
   skipArbitrage: true # DeltaV - arena mob crate has mobs with brain
   entries:
   - name: bounty-item-brain
@@ -36,7 +36,7 @@
 - type: cargoBounty
   id: BountyBread
   reward: 2000
-  description: баунті-опис-хліб
+  description: bounty-description-bread
   entries:
   - name: bounty-item-bread
     amount: 1
@@ -50,7 +50,7 @@
 - type: cargoBounty
   id: BountyCarrot
   reward: 7500
-  description: 60 шматків тканини та 30 шматків дюраніту.
+  description: bounty-description-carrot
   idPrefix: SS15-
   entries:
   - name: bounty-item-carrot
@@ -86,7 +86,7 @@
 - type: cargoBounty
   id: BountyClownCostume
   reward: 1700
-  description: баунті-опис-костюм-клоуна
+  description: bounty-description-clown-costume
   entries:
   - name: bounty-item-clown-mask
     amount: 1
@@ -102,7 +102,7 @@
 - type: cargoBounty
   id: BountyCorn
   reward: 10000
-  description: баунті-опис-кукурудза
+  description: bounty-description-corn
   entries:
   - name: bounty-item-corn
     amount: 10
@@ -136,7 +136,7 @@
 - type: cargoBounty
   id: BountyDonut
   reward: 6000
-  description: баунті-опис-пончик
+  description: bounty-description-donut
   idPrefix: CC
   entries:
   - name: bounty-item-donut
@@ -148,7 +148,7 @@
 - type: cargoBounty
   id: BountyFigurine
   reward: 3500
-  description: баунті-опис-фігурка
+  description: bounty-description-figurine
   entries:
   - name: bounty-item-figurine
     amount: 5
@@ -159,7 +159,7 @@
 - type: cargoBounty
   id: BountyFlower
   reward: 2000
-  description: стрижень алмазного газового каналу
+  description: bounty-description-flower
   idPrefix: CC
   entries:
   - name: bounty-item-flower
@@ -182,7 +182,7 @@
 - type: cargoBounty
   id: BountyHandcuffs
   reward: 1000
-  description: баунті-опис-наручники
+  description: bounty-description-handcuffs
   idPrefix: CC
   entries:
   - name: bounty-item-handcuffs
@@ -194,7 +194,7 @@
 - type: cargoBounty
   id: BountyInstrument
   reward: 1900
-  description: баунті-опис-інструмент
+  description: bounty-description-instrument
   entries:
   - name: bounty-item-instrument
     amount: 5
@@ -205,7 +205,7 @@
 - type: cargoBounty
   id: BountyKnife
   reward: 2000
-  description: баунті-опис-ніж
+  description: bounty-description-knife
   entries:
   - name: bounty-item-knife
     amount: 5
@@ -218,7 +218,7 @@
 - type: cargoBounty
   id: BountyLemon
   reward: 10000
-  description: Ящик ІМО
+  description: bounty-description-lemon
   entries:
   - name: bounty-item-lemon
     amount: 7
@@ -229,7 +229,7 @@
 - type: cargoBounty
   id: BountyLime
   reward: 10000
-  description: баунті-опис-лайм
+  description: bounty-description-lime
   idPrefix: CC
   entries:
   - name: bounty-item-lime
@@ -241,7 +241,7 @@
 - type: cargoBounty
   id: BountyLung
   reward: 2000
-  description: баунті-опис-легень
+  description: bounty-description-lung
   entries:
   - name: bounty-item-lung
     amount: 3
@@ -276,7 +276,7 @@
 - type: cargoBounty
   id: BountyPancake
   reward: 10000
-  description: баунті-опис-млинець
+  description: bounty-description-pancake
   entries:
   - name: bounty-item-pancake
     amount: 13
@@ -287,7 +287,7 @@
 - type: cargoBounty
   id: BountyPen
   reward: 8000
-  description: баунті-опис-ручка
+  description: bounty-description-pen
   entries:
   - name: bounty-item-pen
     amount: 5
@@ -298,7 +298,7 @@
 - type: cargoBounty
   id: BountyPercussion
   reward: 2500
-  description: баунті-опис-перкусія
+  description: bounty-description-percussion
   entries:
   - name: bounty-item-percussion
     amount: 4
@@ -323,7 +323,7 @@
 - type: cargoBounty
   id: BountyPrisonUniform
   reward: 8000
-  description: баунті-опис-тюремна-уніформа
+  description: bounty-description-prison-uniform
   idPrefix: TG
   entries:
   - name: bounty-item-prison-uniform
@@ -335,7 +335,7 @@
 - type: cargoBounty
   id: BountyRadio
   reward: 6500
-  description: баунті-опис-радіо
+  description: bounty-description-radio
   entries:
   - name: bounty-item-radio
     amount: 7
@@ -349,7 +349,7 @@
 - type: cargoBounty
   id: BountyShiv
   reward: 4000
-  description: баунті-опис-шив
+  description: bounty-description-shiv
   idPrefix: SYN
   entries:
   - name: bounty-item-shiv
@@ -361,7 +361,7 @@
 - type: cargoBounty
   id: BountySoap
   reward: 4000
-  description: баунті-опис-мило
+  description: bounty-description-soap
   entries:
   - name: bounty-item-soap
     amount: 3
@@ -372,7 +372,7 @@
 - type: cargoBounty
   id: BountySoup
   reward: 6000
-  description: баунті-опис-суп
+  description: bounty-description-soup
   entries:
   - name: bounty-item-soup
     amount: 3
@@ -383,7 +383,7 @@
 - type: cargoBounty
   id: BountySpear
   reward: 8000
-  description: баунті-опис-спис
+  description: bounty-description-spear
   entries:
   - name: bounty-item-spear
     amount: 5
@@ -394,7 +394,7 @@
 - type: cargoBounty
   id: BountySyringe
   reward: 5000
-  description: баунті-опис-шприц
+  description: bounty-description-syringe
   entries:
   - name: bounty-item-syringe
     amount: 10
@@ -405,7 +405,7 @@
 - type: cargoBounty
   id: BountyTechDisk
   reward: 25000
-  description: баунті-опис-технічний диск
+  description: bounty-description-tech-disk
   idPrefix: SS13-
   entries:
   - name: bounty-item-tech-disk
@@ -429,7 +429,7 @@
 - type: cargoBounty
   id: BountyTrash
   reward: 500
-  description: баунті-опис-сміття
+  description: bounty-description-trash
   entries:
   - name: bounty-item-trash
     amount: 10
@@ -462,7 +462,7 @@
 - type: cargoBounty
   id: BountyArtifactFragment
   reward: 32500
-  description: bounty-description-artefact-fragment
+  description: bounty-description-artifact-fragment
   entries:
   - name: bounty-item-artifact-fragment
     amount: 7
@@ -485,7 +485,7 @@
 - type: cargoBounty
   id: BountyLabeler
   reward: 6660
-  description: баунті-опис-маркувальник
+  description: bounty-description-labeler
   entries:
   - name: bounty-item-labeler
     amount: 5
@@ -544,7 +544,7 @@
 - type: cargoBounty
   id: BountyFood
   reward: 4000
-  description: баунті-опис-їжа
+  description: bounty-description-food
   idPrefix: UNTH
   entries:
   - name: bounty-item-food
@@ -578,7 +578,7 @@
 - type: cargoBounty
   id: BountyVegetable
   reward: 6000
-  description: баунті-опис-овоч
+  description: bounty-description-vegetable
   entries:
   - name: bounty-item-vegetable
     amount: 14
@@ -616,7 +616,7 @@
 - type: cargoBounty
   id: BountyBedsheet
   reward: 4100
-  description: баунті-опис-простирадло
+  description: bounty-description-bedsheet
   entries:
   - name: bounty-item-bedsheet
     amount: 5
@@ -627,7 +627,7 @@
 - type: cargoBounty
   id: BountyBandana
   reward: 4000
-  description: контейнер для флаконів
+  description: bounty-description-bandana
   entries:
   - name: bounty-item-bandana
     amount: 7
@@ -638,7 +638,7 @@
 - type: cargoBounty
   id: BountySteak
   reward: 3200
-  description: баунті-опис-стейк
+  description: bounty-description-steak
   entries:
   - name: bounty-item-steak
     amount: 4
@@ -649,7 +649,7 @@
 - type: cargoBounty
   id: BountyBanana
   reward: 6009
-  description: баунті-опис-банан
+  description: bounty-description-banana
   entries:
   - name: bounty-item-banana
     amount: 9
@@ -660,7 +660,7 @@
 - type: cargoBounty
   id: BountyBeer
   reward: 3100
-  description: баунті-опис-пива
+  description: bounty-description-beer
   entries:
   - name: bounty-item-beer
     amount: 6
@@ -682,7 +682,7 @@
 - type: cargoBounty
   id: BountyTorch
   reward: 2220
-  description: баунті-опис-факел
+  description: bounty-description-torch
   entries:
   - name: bounty-item-torch
     amount: 6
@@ -704,7 +704,7 @@
 - type: cargoBounty
   id: BountyCardboardBox
   reward: 1500
-  description: bounty-description-cardoard-box
+  description: bounty-description-cardobard-box
   entries:
   - name: bounty-item-cardboard-box
     amount: 12
@@ -715,7 +715,7 @@
 - type: cargoBounty
   id: BountyWine
   reward: 1500
-  description: баунті-опис-вино
+  description: bounty-description-wine
   entries:
   - name: bounty-item-wine
     amount: 2
@@ -748,7 +748,7 @@
 - type: cargoBounty
   id: BountyFlashes
   reward: 5500
-  description: баунті-опис-спалахи
+  description: bounty-description-flashes
   entries:
   - name: bounty-item-flash
     amount: 6
@@ -759,7 +759,7 @@
 - type: cargoBounty
   id: BountyRing
   reward: 12500
-  description: баунті-опис-кільце
+  description: bounty-description-ring
   entries:
   - name: bounty-item-ring
     amount: 2

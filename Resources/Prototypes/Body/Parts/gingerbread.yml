@@ -1,7 +1,7 @@
 - type: entity
   id: PartGingerbread
   parent: [BaseItem, BasePart]
-  name: "пряникова частина тіла"
+  name: "gingerbread body part"
   abstract: true
   components:
   - type: Icon # Shitmed Change
@@ -18,7 +18,7 @@
 
 - type: entity
   id: TorsoGingerbread
-  name: "пряниковий торс"
+  name: "gingerbread torso"
   parent: [PartGingerbread, BaseTorso]
   components:
   - type: Sprite
@@ -34,7 +34,7 @@
 
 - type: entity
   id: HeadGingerbread
-  name: "пряникова голова"
+  name: "gingerbread head"
   parent: [PartGingerbread, BaseHead]
   components:
   - type: Sprite
@@ -50,7 +50,7 @@
 
 - type: entity
   id: LeftArmGingerbread
-  name: "ліва пряникова рука"
+  name: "left gingerbread arm"
   parent: [PartGingerbread, BaseLeftArm]
   components:
   - type: Sprite
@@ -59,7 +59,7 @@
 
 - type: entity
   id: RightArmGingerbread
-  name: "права пряникова рука"
+  name: "right gingerbread arm"
   parent: [PartGingerbread, BaseRightArm]
   components:
   - type: Sprite
@@ -68,7 +68,7 @@
 
 - type: entity
   id: LeftHandGingerbread
-  name: "ліва пряникова рука"
+  name: "left gingerbread hand"
   parent: [PartGingerbread, BaseLeftHand]
   components:
   - type: Sprite
@@ -77,7 +77,7 @@
 
 - type: entity
   id: RightHandGingerbread
-  name: "ліва скелетна нога"
+  name: "right gingerbread hand"
   parent: [PartGingerbread, BaseRightHand]
   components:
   - type: Sprite
@@ -86,7 +86,7 @@
 
 - type: entity
   id: LeftLegGingerbread
-  name: "ліва пряникова ніжка"
+  name: "left gingerbread leg"
   parent: [PartGingerbread, BaseLeftLeg]
   components:
   - type: Sprite
@@ -95,7 +95,7 @@
 
 - type: entity
   id: RightLegGingerbread
-  name: "права пряникова ніжка"
+  name: "right gingerbread leg"
   parent: [PartGingerbread, BaseRightLeg]
   components:
   - type: Sprite
@@ -104,7 +104,7 @@
 
 - type: entity
   id: LeftFootGingerbread
-  name: "ліва пряникова ніжка"
+  name: "left gingerbread foot"
   parent: [PartGingerbread, BaseLeftFoot]
   components:
   - type: Sprite
@@ -113,7 +113,7 @@
 
 - type: entity
   id: RightFootGingerbread
-  name: "права ніжка-пряник"
+  name: "right gingerbread foot"
   parent: [PartGingerbread, BaseRightFoot]
   components:
   - type: Sprite

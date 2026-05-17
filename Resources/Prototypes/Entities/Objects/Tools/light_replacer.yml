@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseItem
-  name: замінник світла
+  name: light replacer
   id: LightReplacer
-  description: радіоперешкоди xenoborg
+  description: An item which uses magnets to easily replace broken lights. Refill by adding more lights into the replacer.
   components:
   - type: Sprite
     sprite: Objects/Specific/Janitorial/light_replacer.rsi
@@ -24,7 +24,7 @@
 - type: entity
   parent: LightReplacer
   id: LightReplacerEmpty
-  suffix: Порожній
+  suffix: Empty
   components:
   - type: LightReplacer
     contents:

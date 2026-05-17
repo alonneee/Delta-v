@@ -2,7 +2,7 @@
   abstract: true
   parent: BaseItem
   id: OreBase
-  description: Шматок неочищеної руди.
+  description: A piece of unrefined ore.
   components:
   - type: Sprite
     sprite: Objects/Materials/ore.rsi
@@ -27,8 +27,8 @@
 - type: entity
   parent: OreBase
   id: GoldOre
-  name: золота руда
-  suffix: Повний
+  name: gold ore
+  suffix: Full
   components:
   - type: Stack
     stackType: GoldOre
@@ -56,7 +56,7 @@
 - type: entity
   parent: GoldOre
   id: GoldOre1
-  suffix: щит паладина
+  suffix: Single
   components:
   - type: Stack
     count: 1
@@ -64,8 +64,8 @@
 - type: entity
   parent: OreBase
   id: DiamondOre
-  name: алмазна руда
-  suffix: Повний
+  name: diamond ore
+  suffix: Full
   components:
   - type: Stack
     stackType: DiamondOre
@@ -89,7 +89,7 @@
 - type: entity
   parent: DiamondOre
   id: DiamondOre1
-  suffix: щит паладина
+  suffix: Single
   components:
   - type: Stack
     count: 1
@@ -97,8 +97,8 @@
 - type: entity
   parent: OreBase
   id: SteelOre
-  name: залізна руда
-  suffix: Повний
+  name: iron ore
+  suffix: Full
   components:
   - type: Stack
     stackType: SteelOre
@@ -122,7 +122,7 @@
 - type: entity
   id: SteelOre1
   parent: SteelOre
-  suffix: щит паладина
+  suffix: Single
   components:
     - type: Stack
       count: 1
@@ -130,8 +130,8 @@
 - type: entity
   parent: OreBase
   id: PlasmaOre
-  name: плазмова руда
-  suffix: Повний
+  name: plasma ore
+  suffix: Full
   components:
   - type: Stack
     stackType: PlasmaOre
@@ -164,7 +164,7 @@
 - type: entity
   parent: PlasmaOre
   id: PlasmaOre1
-  suffix: щит паладина
+  suffix: Single
   components:
     - type: Stack
       count: 1
@@ -172,8 +172,8 @@
 - type: entity
   parent: OreBase
   id: SilverOre
-  name: срібна руда
-  suffix: Повний
+  name: silver ore
+  suffix: Full
   components:
   - type: Stack
     stackType: SilverOre
@@ -201,7 +201,7 @@
 - type: entity
   parent: SilverOre
   id: SilverOre1
-  suffix: щит паладина
+  suffix: Single
   components:
   - type: Stack
     count: 1
@@ -209,8 +209,8 @@
 - type: entity
   parent: OreBase
   id: SpaceQuartz
-  name: космічний кварц
-  suffix: Повний
+  name: space quartz
+  suffix: Full
   components:
   - type: Stack
     stackType: SpaceQuartz
@@ -234,7 +234,7 @@
 - type: entity
   parent: SpaceQuartz
   id: SpaceQuartz1
-  suffix: щит паладина
+  suffix: Single
   components:
   - type: Stack
     count: 1
@@ -242,8 +242,8 @@
 - type: entity
   parent: OreBase
   id: UraniumOre
-  name: уранової руди
-  suffix: Повний
+  name: uranium ore
+  suffix: Full
   components:
   - type: Stack
     stackType: UraniumOre
@@ -279,7 +279,7 @@
 - type: entity
   parent: UraniumOre
   id: UraniumOre1
-  suffix: щит паладина
+  suffix: Single
   components:
   - type: Stack
     count: 1
@@ -287,8 +287,8 @@
 - type: entity
   parent: OreBase
   id: BananiumOre
-  name: бананова руда
-  suffix: Повний
+  name: bananium ore
+  suffix: Full
   components:
   - type: Stack
     stackType: BananiumOre
@@ -325,7 +325,7 @@
 - type: entity
   parent: BananiumOre
   id: BananiumOre1
-  suffix: щит паладина
+  suffix: Single
   components:
   - type: Stack
     count: 1
@@ -333,8 +333,8 @@
 - type: entity
   parent: OreBase
   id: Coal
-  name: вугілля
-  suffix: Повний
+  name: coal
+  suffix: Full
   components:
   - type: Stack
     stackType: Coal
@@ -366,7 +366,7 @@
 - type: entity
   parent: Coal
   id: Coal1
-  suffix: щит паладина
+  suffix: Single
   components:
   - type: Stack
     count: 1
@@ -374,7 +374,7 @@
 - type: entity
   parent: Coal
   id: Coal5
-  suffix: П'ять
+  suffix: Five
   components:
   - type: Stack
     count: 5
@@ -382,7 +382,7 @@
 - type: entity
   parent: Coal
   id: Coal10
-  suffix: десять
+  suffix: Ten
   components:
   - type: Stack
     count: 10
@@ -390,7 +390,7 @@
 - type: entity
   parent: Coal
   id: Coal15
-  suffix: П'ятнадцять
+  suffix: Fifteen
   components:
   - type: Stack
     count: 15
@@ -398,8 +398,8 @@
 - type: entity
   parent: OreBase
   id: SaltOre
-  name: сіль
-  suffix: Повний
+  name: salt
+  suffix: Full
   components:
   - type: Stack
     stackType: SaltOre
@@ -425,7 +425,7 @@
 - type: entity
   parent: SaltOre
   id: Salt1
-  suffix: щит паладина
+  suffix: Single
   components:
   - type: Stack
     count: 1

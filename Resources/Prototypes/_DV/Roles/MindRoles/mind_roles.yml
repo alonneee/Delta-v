@@ -1,7 +1,7 @@
 - type: entity
   parent: BaseMindRoleAntag
   id: MindRoleListeningPost
-  name: Роль слухача
+  name: Listening Post Role
   components:
   - type: MindRole
     roleType: TeamAntagonist
@@ -13,7 +13,7 @@
 - type: entity
   parent: BaseMindRoleAntag
   id: MindRoleFugitive
-  name: Роль втікача
+  name: Fugitive Role
   components:
   - type: MindRole
     subtype: role-subtype-fugitive
@@ -24,7 +24,7 @@
 - type: entity
   parent: BaseMindRoleAntag
   id: MindRoleRecruiter
-  name: Роль рекрутера
+  name: Recruiter Role
   components:
   - type: MindRole
     subtype: role-subtype-recruiter
@@ -37,7 +37,7 @@
 - type: entity
   parent: BaseMindRoleAntag
   id: MindRoleSynthesis
-  name: Роль спеціаліста з синтезу
+  name: Synthesis Specialist Role
   components:
   - type: MindRole
     roleType: FreeAgent
@@ -51,7 +51,7 @@
 - type: entity
   parent: BaseMindRoleAntag
   id: MindRoleRoboNeuroticist
-  name: Роль робо-невротика
+  name: Robo-Neuroticist Role
   components:
   - type: MindRole
     subtype: role-subtype-roboneuro
@@ -64,7 +64,7 @@
 - type: entity
   parent: BaseMindRoleAntag
   id: MindRoleMenaceSkeleton
-  name: Роль скелета загрози
+  name: Menace Skeleton Role
   components:
   - type: MindRole
     roleType: FreeAgent
@@ -77,7 +77,7 @@
 - type: entity
   parent: BaseMindRoleAntag
   id: MindRoleSkia
-  name: Роль Скіа
+  name: Skia Role
   components:
   - type: MindRole
     roleType: TeamAntagonist
@@ -90,7 +90,7 @@
 - type: entity
   parent: BaseMindRoleAntag
   id: MindRoleArmsdealer
-  name: Роль торговця зброєю
+  name: Arms Dealer Role
   components:
   - type: MindRole
     roleType: FreeAgent
@@ -104,7 +104,7 @@
 - type: entity
   parent: BaseMindRoleAntag
   id: MindRoleAsakim
-  name: Роль Асакіма
+  name: Asakim Role
   components:
   - type: MindRole
     roleType: FreeAgent
@@ -118,7 +118,7 @@
 - type: entity
   parent: BaseMindRoleAntag
   id: MindRoleNTAgent
-  name: Агент внутрішніх справ
+  name: Internals Affairs Agent
   components:
   - type: MindRole
     roleType: FreeAgent

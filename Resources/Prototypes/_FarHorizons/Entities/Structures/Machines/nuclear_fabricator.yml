@@ -1,8 +1,8 @@
 - type: entity
   id: NuclearFabricator
   parent: BaseLatheLube
-  name: ядерний фабрикант
-  description: Він виготовляє ядерні частини.
+  name: nuclear fabricator
+  description: It makes nuclear parts.
   components:
   - type: Sprite
     sprite: Structures/Machines/protolathe.rsi

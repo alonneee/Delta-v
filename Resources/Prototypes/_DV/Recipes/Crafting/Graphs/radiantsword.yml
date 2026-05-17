@@ -7,7 +7,7 @@
         - to: embeddedsword
           steps:
             - tag: SilverSword
-              name: конструкція-граф-тег-срібний меч
+              name: construction-graph-tag-silversword
               icon:
                 sprite: Mobs/Ghosts/ghost_human.rsi
                 state: icon

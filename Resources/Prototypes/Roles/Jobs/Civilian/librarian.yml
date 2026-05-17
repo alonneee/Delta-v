@@ -1,7 +1,7 @@
 - type: job
   id: Librarian
-  name: робота-назва-бібліотекар
-  description: посадова інструкція-бібліотекар
+  name: job-name-librarian
+  description: job-description-librarian
   playTimeTracker: JobLibrarian
   startingGear: LibrarianGear
   icon: "JobIconLibrarian"

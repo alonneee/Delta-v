@@ -1,7 +1,7 @@
 ﻿- type: job
   id: MedicalIntern
-  name: робота-назва-інтерн
-  description: посадова інструкція-міжнар
+  name: job-name-intern
+  description: job-description-intern
   playTimeTracker: JobMedicalIntern
   requirements:
     - !type:DepartmentTimeRequirement

@@ -7,12 +7,12 @@
         - to: plushie
           steps:
             - tag: PlushieGhost
-              name: конструкція-граф-тег-привид
+              name: construction-graph-tag-ghost
               icon:
                 sprite: Mobs/Ghosts/ghost_human.rsi
                 state: icon
             - tag: Ectoplasm
-              name: конструкція-граф-тег-ектоплазма
+              name: construction-graph-tag-ectoplasm
               icon:
                 sprite: _DV/Mobs/Ghosts/revenant.rsi # DeltaV - Custom revenant sprite
                 state: ectoplasm

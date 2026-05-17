@@ -9,5 +9,5 @@
 - type: stack
   parent: BaseTileStack
   id: FloorTileBrassReebe
-  name: стопка-гладка-латунна пластина
+  name: stack-smooth-brass-plate
   spawn: FloorTileItemBrassReebe

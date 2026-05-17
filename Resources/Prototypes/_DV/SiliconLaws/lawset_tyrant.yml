@@ -21,7 +21,7 @@
 
 - type: siliconLawset
   id: Tyrant
-  name: закон-тиран-назва
+  name: law-tyrant-name
   laws:
   - Tyrant1
   - Tyrant2

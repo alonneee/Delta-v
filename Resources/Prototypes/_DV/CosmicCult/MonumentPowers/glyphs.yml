@@ -1,6 +1,6 @@
 - type: glyph
   id: ccGlyphKnowledge
-  name: культ-гліф-назви-знання
+  name: cult-glyph-name-knowledge
   tooltip: cult-glyph-description-knowledge
   icon:
     sprite: _DV/CosmicCult/Objects/glyphs.rsi
@@ -10,7 +10,7 @@
 
 - type: glyph
   id: ccGlyphProjection
-  name: проекція-назви-культового-гліфа
+  name: cult-glyph-name-projection
   tooltip: cult-glyph-description-projection
   icon:
     sprite: _DV/CosmicCult/Objects/glyphs.rsi
@@ -20,7 +20,7 @@
 
 - type: glyph
   id: ccGlyphWarding
-  name: cult-glyph-name-warring
+  name: cult-glyph-name-warding
   tooltip: cult-glyph-description-warding
   icon:
     sprite: _DV/CosmicCult/Objects/glyphs.rsi
@@ -40,7 +40,7 @@
 
 - type: glyph
   id: ccGlyphCessation
-  name: культовий-гліф-назви-припинення
+  name: cult-glyph-name-cessation
   tooltip: cult-glyph-description-cessation
   icon:
     sprite: _DV/CosmicCult/Objects/glyphs.rsi
@@ -50,7 +50,7 @@
 
 - type: glyph
   id: ccGlyphTruth
-  name: культовий-гліф-ім'я-правда
+  name: cult-glyph-name-truth
   tooltip: cult-glyph-description-truth
   icon:
     sprite: _DV/CosmicCult/Objects/glyphs.rsi

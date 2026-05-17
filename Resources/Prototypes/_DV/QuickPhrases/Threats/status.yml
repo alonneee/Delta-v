@@ -6,88 +6,88 @@
 - type: quickPhrase
   id: SafetySafePhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-безпечно
+  text: phrase-safety-safe
 
 - type: quickPhrase
   id: SafetyInDangerPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-в-небезпеці
+  text: phrase-safety-in-danger
 
 - type: quickPhrase
   id: SafetyInjuredPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-поранений
+  text: phrase-safety-injured
 
 - type: quickPhrase
   id: SafetyDyingPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-вмирання
+  text: phrase-safety-dying
 
 - type: quickPhrase
   id: SafetyCriticalPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-критично
+  text: phrase-safety-critical
 
 - type: quickPhrase
   id: SafetyBleedingPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-кровотеча
+  text: phrase-safety-bleeding
 
 - type: quickPhrase
   id: SafetyDeadPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-мертвий
+  text: phrase-safety-dead
 
 - type: quickPhrase
   id: SafetyAlivePhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-жива
+  text: phrase-safety-alive
 
 - type: quickPhrase
   id: SafetyTrustworthyPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-надійний
+  text: phrase-safety-trustworthy
 
 - type: quickPhrase
   id: SafetyEscapePhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-втеча
+  text: phrase-safety-escape
 
 - type: quickPhrase
   id: SafetyLeavingPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-виїзд
+  text: phrase-safety-leaving
 
 - type: quickPhrase
   id: SafetyNeedPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-потреба
+  text: phrase-safety-need
 
 - type: quickPhrase
   id: SafetyRescuePhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-рятування
+  text: phrase-safety-rescue
 
 - type: quickPhrase
   id: SafetyDangerousPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-небезпечно
+  text: phrase-safety-dangerous
 
 - type: quickPhrase
   id: SafetyHazardousPhrase
   parent: BaseSafetyStatusPhrase
-  text: безфразовий
+  text: phrase-safety-hazardous
 
 - type: quickPhrase
   id: SafetyHereToHelpPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-тут-на-допомогу
+  text: phrase-safety-here-to-help
   styleClass: ServiceButton
 
 - type: quickPhrase
   id: SafetyHowToHelpPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-як-допомогти
+  text: phrase-safety-how-to-help
   styleClass: ServiceButton
 
 - type: quickPhrase
@@ -99,19 +99,19 @@
 - type: quickPhrase
   id: SafetyNotPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-не
+  text: phrase-safety-not
 
 - type: quickPhrase
   id: SafetyLostPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-безпека-втрачена
+  text: phrase-safety-lost
 
 - type: quickPhrase
   id: SafetyIAmPhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-багато
+  text: phrase-i-am
 
 - type: quickPhrase
   id: SafetyYouArePhrase
   parent: BaseSafetyStatusPhrase
-  text: фраза-ви-є
+  text: phrase-you-are

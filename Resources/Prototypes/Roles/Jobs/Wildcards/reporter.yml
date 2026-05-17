@@ -1,7 +1,7 @@
 - type: job
   id: Reporter
   name: job-name-reporter
-  description: посадова інструкція-репортер
+  description: job-description-reporter
   playTimeTracker: JobReporter
   startingGear: ReporterGear
   icon: "JobIconReporter"

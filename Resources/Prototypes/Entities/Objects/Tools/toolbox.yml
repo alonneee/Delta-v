@@ -38,10 +38,10 @@
   - type: Appearance
 
 - type: entity
-  name: аварійний ящик для інструментів
+  name: emergency toolbox
   parent: ToolboxBase
   id: ToolboxEmergency
-  description: Яскраво-червоний ящик для інструментів, укомплектований інструментами для надзвичайних ситуацій.
+  description: A bright red toolbox, stocked with emergency tools.
   components:
   - type: Sprite
     sprite: Objects/Tools/Toolboxes/toolbox_red.rsi
@@ -50,10 +50,10 @@
     sprite: Objects/Tools/Toolboxes/toolbox_red.rsi
 
 - type: entity
-  name: механічний ящик для інструментів
+  name: mechanical toolbox
   parent: ToolboxBase
   id: ToolboxMechanical
-  description: Синя коробка з механічними інструментами.
+  description: A blue box, stocked with mechanical tools.
   components:
   - type: Sprite
     sprite: Objects/Tools/Toolboxes/toolbox_blue.rsi
@@ -62,10 +62,10 @@
     sprite: Objects/Tools/Toolboxes/toolbox_blue.rsi
 
 - type: entity
-  name: електричний ящик для інструментів
+  name: electrical toolbox
   parent: ToolboxBase
   id: ToolboxElectrical
-  description: Ящик для інструментів, зазвичай укомплектований електричним обладнанням.
+  description: A toolbox typically stocked with electrical gear.
   components:
   - type: Sprite
     sprite: Objects/Tools/Toolboxes/toolbox_yellow.rsi
@@ -74,11 +74,11 @@
     sprite: Objects/Tools/Toolboxes/toolbox_yellow.rsi
 
 - type: entity
-  name: електричний ящик для інструментів
-  suffix: Синдикат, Турет
+  name: electrical toolbox
+  suffix: Syndicate, Turret
   parent: ToolboxElectrical
   id: ToolboxElectricalTurret
-  description: Ящик для інструментів, зазвичай укомплектований електричним обладнанням.
+  description: A toolbox typically stocked with electrical gear.
   components:
   - type: Damageable
     damageContainer: Inorganic
@@ -108,10 +108,10 @@
     - Syndicate
 
 - type: entity
-  name: художній інструментарій
+  name: artistic toolbox
   parent: ToolboxBase
   id: ToolboxArtistic
-  description: Ящик для інструментів, зазвичай укомплектований мистецьким приладдям.
+  description: A toolbox typically stocked with artistic supplies.
   components:
   - type: Sprite
     sprite: Objects/Tools/Toolboxes/toolbox_green.rsi
@@ -120,10 +120,10 @@
     sprite: Objects/Tools/Toolboxes/toolbox_green.rsi
 
 - type: entity
-  name: підозрілий інструментарій
+  name: suspicious toolbox
   parent: [ToolboxBase, BaseSyndicateContraband]
   id: ToolboxSyndicate
-  description: Набір інструментів зловісного вигляду, наповнений інструментами елітного синдикату.
+  description: A sinister looking toolbox filled with elite syndicate tools.
   components:
   - type: Sprite
     sprite: Objects/Tools/Toolboxes/toolbox_syn.rsi
@@ -140,10 +140,10 @@
         Blunt: 20
 
 - type: entity
-  name: золотий ящик для інструментів
+  name: golden toolbox
   parent: ToolboxBase
   id: ToolboxGolden
-  description: Ящик із твердого золота для інструментів. Репер убив би за це.
+  description: A solid gold toolbox. A rapper would kill for this.
   components:
   - type: Sprite
     sprite: Objects/Tools/Toolboxes/toolbox_gold.rsi
@@ -152,10 +152,10 @@
     sprite: Objects/Tools/Toolboxes/toolbox_gold.rsi
 
 - type: entity
-  name: дурниця
+  name: foolbox
   parent: ToolboxBase
   id: Foolbox
-  description: Ящик для дурнів, укомплектований обладнанням для клоунади.
+  description: A toolbox for fools, stocked with clowning equipment.
   components:
   - type: Sprite
     sprite: Objects/Tools/Toolboxes/foolbox.rsi

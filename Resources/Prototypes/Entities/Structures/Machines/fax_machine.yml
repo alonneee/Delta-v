@@ -110,7 +110,7 @@
   parent: FaxMachineBase
   id: FaxMachineSyndie
   name: syndicate long range fax machine
-  suffix: Синдикат
+  suffix: Syndicate
   components:
   - type: Sprite
     layers:

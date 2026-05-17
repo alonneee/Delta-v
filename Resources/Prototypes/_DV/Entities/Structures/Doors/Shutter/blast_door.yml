@@ -1,7 +1,7 @@
 - type: entity
   id: BlastDoorUnlinkedBridge
   parent: BlastDoor
-  suffix: Міст
+  suffix: Bridge
   components:
     - type: AccessReader
       access: [["Command"]]
@@ -17,7 +17,7 @@
 - type: entity
   id: BlastDoorUnlinkedEngineering
   parent: BlastDoor
-  suffix: Інженерія
+  suffix: Engineering
   components:
   - type: AccessReader
     access: [["Command"], ["Engineering"]]
@@ -33,7 +33,7 @@
 - type: entity
   id: BlastDoorUnlinkedEpistemics
   parent: BlastDoor
-  suffix: Епістеміка
+  suffix: Epistemics
   components:
   - type: AccessReader
     access: [["Command"], ["Research"]]
@@ -49,7 +49,7 @@
 - type: entity
   id: BlastDoorUnlinkedSecurity
   parent: BlastDoor
-  suffix: Безпека
+  suffix: Security
   components:
   - type: AccessReader
     access: [["Command"], ["Security"]]
@@ -65,7 +65,7 @@
 - type: entity
   id: BlastDoorUnlinkedMedical
   parent: BlastDoor
-  suffix: Медичний
+  suffix: Medical
   components:
   - type: AccessReader
     access: [["Command"], ["Medical"]]
@@ -97,7 +97,7 @@
 - type: entity
   id: BlastDoorUnlinkedLogistics
   parent: BlastDoor
-  suffix: Логістика
+  suffix: Logistics
   components:
   - type: AccessReader
     access: [["Command"], ["Cargo"]]
@@ -129,7 +129,7 @@
 - type: entity
   parent: BlastDoor
   id: BlastDoorUnlinkedRobotics
-  suffix: Робототехніка
+  suffix: Robotics
   components:
   - type: AccessReader
     access: [["Robotics"]]

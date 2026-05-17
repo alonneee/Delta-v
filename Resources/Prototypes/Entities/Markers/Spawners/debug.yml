@@ -2,7 +2,7 @@
   name: Urist Spawner
   id: SpawnMobHuman
   parent: MarkerBase
-  suffix: НАЛАШТУВАННЯ
+  suffix: DEBUG
   components:
   - type: Sprite
     layers:

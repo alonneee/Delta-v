@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingBeltStorageBase
   id: ClothingBeltMantis
-  name: пояс псіонічного богомола # DeltaV — перейменуйте Forensic Mantis у Psionic Mantis
-  description: Ідеально підходить для зберігання всього вашого обладнання.
+  name: psionic mantis' belt # DeltaV - Rename Forensic Mantis to Psionic Mantis
+  description: Perfect for storing all of your equipment.
   components:
   - type: Sprite
     sprite: Nyanotrasen/Clothing/Belt/mantis_belt.rsi
@@ -21,8 +21,8 @@
 - type: entity
   parent: ClothingBeltBase
   id: ClothingBeltMartialBlack
-  name: чорний пояс
-  description: Це самий бойовий з усіх поясів.
+  name: black belt
+  description: This is the most martial of all the belts.
   components:
   - type: MeleeWeapon
     attackRate: 1.25
@@ -41,8 +41,8 @@
 - type: entity
   parent: ClothingBeltBase # DeltaV - reparent from ClothingBeltStorageBase
   id: ClothingBeltKatanaSheath
-  name: піхви катани
-  description: Декорований пояс, призначений для пари самурайських клинків, або дайсьо.
+  name: katana sheaths
+  description: An ornate belt designed to hold a pair of samurai's blades, or daisho.
   components:
   - type: Sprite
     sprite: Nyanotrasen/Clothing/Belt/katanasheath.rsi
@@ -52,7 +52,7 @@
   - type: ItemSlots # DeltaV - adjust how objects are stored
     slots:
       katanaslot:
-        name: одяг-пояс-катана
+        name: clothing-belt-katana
         insertVerbText: sheath-insert-verb
         ejectVerbText: sheath-eject-verb
         insertSound: /Audio/Items/sheath.ogg
@@ -62,7 +62,7 @@
           - Katana
         priority: 2
       wakizashislot:
-        name: одяг-ремінь-вакідзасі
+        name: clothing-belt-wakizashi
         insertVerbText: sheath-insert-verb
         ejectVerbText: sheath-eject-verb
         insertSound: /Audio/Items/sheath.ogg
@@ -96,8 +96,8 @@
 - type: entity
   parent: [ClothingBeltStorageBase, ClothingSlotBase] # DeltaV - add parent ClothingSlotBase
   id: ClothingBeltMilitaryWebbingCMO
-  name: нагрудна установка головного медичного лікаря
-  description: Медична нагрудна установка з глибокими кишенями для парамедиків і медичних працівників.
+  name: chief medical officer's chest rig
+  description: A medical chest rig with deep pockets, for use by paramedics and health professionals.
   components:
   - type: Sprite
     sprite: _DV/Clothing/Belt/cmowebbing.rsi # DeltaV - resprite
@@ -108,7 +108,7 @@
   - type: ItemSlots # DeltaV - add medkit slot
     slots:
       medkit:
-        name: одяг-пояс-аптечка
+        name: clothing-belt-medkit
         whitelist:
           tags:
           - Medkit

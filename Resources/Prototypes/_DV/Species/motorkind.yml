@@ -1,6 +1,6 @@
 - type: species
   id: Motorkind
-  name: насіння-остою-назва
+  name: species-name-motorkind
   roundStart: true
   prototype: MobMotorkind
   sprites: MobMotorkindSprites

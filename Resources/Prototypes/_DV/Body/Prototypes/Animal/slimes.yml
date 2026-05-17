@@ -1,6 +1,6 @@
 - type: body
   id: Smiles
-  name: "Посмішки"
+  name: "Smiles"
   parent: Slimes
   root: torso
   slots:

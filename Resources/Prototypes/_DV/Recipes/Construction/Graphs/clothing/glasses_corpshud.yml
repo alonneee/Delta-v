@@ -13,7 +13,7 @@
           state: icon
         doAfter: 5
       - tag: HudMedical
-        name: конструкція-граф-тег-медхуд
+        name: construction-graph-tag-medhud
         icon:
           sprite: Clothing/Eyes/Hud/med.rsi
           state: icon

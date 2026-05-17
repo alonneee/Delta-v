@@ -1,7 +1,7 @@
 - type: job
   id: Scientist
-  name: робота-назва-вчений
-  description: посадова інструкція-наук
+  name: job-name-scientist
+  description: job-description-scientist
   playTimeTracker: JobScientist
   requirements:
     - !type:DepartmentTimeRequirement

@@ -22,7 +22,7 @@
   id: Vitamin #Anything "healthy"
   name: reagent-name-vitamin
   group: Foods
-  desc: reagent-desc-weh
+  desc: reagent-desc-vitamin
   physicalDesc: reagent-physical-desc-chalky
   flavor: vitamin
   color: "#D3D3D3"

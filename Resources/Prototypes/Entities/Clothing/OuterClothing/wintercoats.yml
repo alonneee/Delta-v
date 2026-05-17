@@ -1,8 +1,8 @@
 - type: entity
   parent: [ClothingOuterStorageBase, AllowSuitStorageClothingGasTanks] # DeltaV - allow tanks for winter coats
   id: ClothingOuterWinterCoat
-  name: зимове пальто
-  description: Важка куртка з «синтетичного» хутра тварин.
+  name: winter coat
+  description: A heavy jacket made from 'synthetic' animal furs.
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -41,7 +41,7 @@
 - type: entity
   parent: ClothingOuterWinterCoat
   id: ClothingOuterWinterCoatToggleable
-  name: зимове пальто з капюшоном
+  name: winter coat with hood
   categories: [ HideSpawnMenu ]
   components:
   - type: ToggleableClothing
@@ -57,7 +57,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterAtmos
-  name: атмосферне зимове пальто
+  name: atmospherics winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -80,7 +80,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterBar
-  name: бармен зимове пальто
+  name: bartender winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -103,7 +103,7 @@
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseCommandContraband]
   id: ClothingOuterWinterCap
-  name: капітанське зимове пальто
+  name: captain's winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -133,7 +133,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterCargo
-  name: логістика зимове пальто # DeltaV - Відділ логістики замінює Cargo
+  name: logistics winter coat # DeltaV - Logistics Department replacing Cargo
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -156,7 +156,7 @@
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseCommandContraband]
   id: ClothingOuterWinterCE
-  name: зимове пальто головного інженера
+  name: chief engineer's winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -179,7 +179,7 @@
 - type: entity
   parent: [ ClothingOuterWinterCoatToggleable, BaseCentcommContraband ]
   id: ClothingOuterWinterCentcom
-  name: Зимове пальто CentComm
+  name: CentComm winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -202,8 +202,8 @@
 - type: entity
   parent: ClothingOuterWinterCoat
   id: ClothingOuterWinterChef
-  name: морозильна куртка шеф-кухаря
-  description: Пальто, спеціально розроблене для роботи в холодних камерах, яке вкрай необхідно холоднокровним кулінарам-ящіркам.
+  name: chef's freezer coat
+  description: A coat specifically designed for work inside cold storage, sorely needed by cold-blooded lizard chefs.
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -224,7 +224,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterChem
-  name: зимове пальто хімія
+  name: chemistry winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -254,7 +254,7 @@
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseCommandContraband]
   id: ClothingOuterWinterCMO
-  name: зимове пальто головного санітарного лікаря
+  name: chief medical officer's winter coat
   components:
   - type: Sprite
     sprite: _DV/Clothing/OuterClothing/WinterCoats/cmo.rsi # DeltaV - Recolor to match department color
@@ -284,7 +284,7 @@
 - type: entity
   parent: ClothingOuterWinterCoat
   id: ClothingOuterWinterClown
-  name: зимове пальто клоуна
+  name: clown winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coatclown.rsi
@@ -294,7 +294,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterEngi
-  name: інженерне зимове пальто
+  name: engineering winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -317,7 +317,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterGen
-  name: генетика зимове пальто
+  name: genetics winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -347,7 +347,7 @@
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseCommandContraband]
   id: ClothingOuterWinterHoP
-  name: пальто зимове начальника особового складу
+  name: head of personnel's winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -372,8 +372,8 @@
 - type: entity
   parent: [ClothingOuterArmorHoS, ClothingOuterArmoredWinterCoatToggleable, BaseSecurityCommandContraband] # DeltaV - Replaced ClothingOuterWinterCoatToggleable with ClothingOuterArmoredWinterCoatToggleable
   id: ClothingOuterWinterHoS
-  name: броньована зимова куртка начальника охорони
-  description: Міцне, практичне зимове пальто, призначене для захисту керівника служби безпеки від будь-яких загроз, пов’язаних з бригом, і переохолодження.
+  name: head of security's armored winter coat
+  description: A sturdy, utilitarian winter coat designed to protect a head of security from any brig-bound threats and hypothermic events.
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coathosarmored.rsi
@@ -386,8 +386,8 @@
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseSecurityCommandContraband]
   id: ClothingOuterWinterHoSUnarmored
-  name: зимове пальто начальника охорони
-  description: Кожух міцний, теплий, але не броньований.
+  name: head of security's winter coat
+  description: A sturdy coat, a warm coat, but not an armored coat.
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -417,7 +417,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterHydro
-  name: зимове пальто на гідропоніці
+  name: hydroponics winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -440,7 +440,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterJani
-  name: зимове пальто двірника
+  name: janitorial winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -470,7 +470,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterMed
-  name: медичне зимове пальто
+  name: medical winter coat
   components:
   - type: Sprite
     sprite: _DV/Clothing/OuterClothing/WinterCoats/medical.rsi # DeltaV - Recolor to match department color
@@ -500,7 +500,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterMime
-  name: мім зимове пальто
+  name: mime winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -523,7 +523,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterMiner
-  name: шахтарська зимова куртка
+  name: mining winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -546,7 +546,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterPara
-  name: пальто фельдшерське зимове
+  name: paramedic winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -576,7 +576,7 @@
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseCommandContraband]
   id: ClothingOuterWinterQM
-  name: Зимове пальто диспетчера логістики # DeltaV - Відділ логістики замінює Cargo
+  name: logistics officer's winter coat # DeltaV - Logistics Department replacing Cargo
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -600,7 +600,7 @@
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseCommandContraband]
   id: ClothingOuterWinterRD
-  name: зимове пальто mystagogue # DeltaV - Відділ епістемології замінює науку
+  name: mystagogue's winter coat # DeltaV - Epistemics Department replacing Science
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -630,7 +630,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterRobo
-  name: робототехніка зимове пальто
+  name: robotics winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -654,7 +654,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterSci
-  name: епістемічне зимове пальто # DeltaV - Відділ епістеміки замінює науку
+  name: epistemics winter coat # DeltaV - Epistemics Department replacing Science
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -684,7 +684,7 @@
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseSecurityContraband]
   id: ClothingOuterWinterSec
-  name: охоронне зимове пальто
+  name: security winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -714,7 +714,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterViro
-  name: вірусологія зимове пальто
+  name: virology winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -745,8 +745,8 @@
 - type: entity
   parent: [ClothingOuterArmorWarden, ClothingOuterArmoredWinterCoatToggleable, BaseSecurityContraband] # DeltaV - Replaced ClothingOuterWinterCoatToggleable with ClothingOuterArmoredWinterCoatToggleable
   id: ClothingOuterWinterWarden
-  name: броньована зимова куртка наглядача
-  description: Міцне, практичне зимове пальто, призначене для захисту наглядача від будь-яких загроз, пов’язаних з бригом, і переохолодження.
+  name: warden's armored winter coat
+  description: A sturdy, utilitarian winter coat designed to protect a warden from any brig-bound threats and hypothermic events.
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coatwardenarmored.rsi
@@ -759,8 +759,8 @@
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseSecurityContraband]
   id: ClothingOuterWinterWardenUnarmored
-  name: зимове пальто наглядача
-  description: Кожух міцний, теплий, але не броньований.
+  name: warden's winter coat
+  description: A sturdy coat, a warm coat, but not an armored coat.
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -783,8 +783,8 @@
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseSyndicateContraband]
   id: ClothingOuterWinterSyndieCap
-  name: зимове пальто синдикату
-  description: "Зимове пальто синдикату виготовлено з міцної тканини, з позолоченими візерунками, грубої вовни».
+  name: syndicate's winter coat
+  description: "The syndicate's winter coat is made of durable fabric, with gilded patterns, and coarse wool."
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -808,8 +808,8 @@
 - type: entity
   parent: [ BaseSyndicateContraband, ClothingOuterWinterWarden ]
   id: ClothingOuterWinterSyndieCapArmored
-  name: самурайська собака
-  description: "Знак, що вказує на небезпеку кріогенних матеріалів. Бери з собою куртку!
+  name: syndicate's armored winter coat
+  description: "The syndicate's armored winter coat is made of durable fabric, with gilded patterns, and coarse wool."
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/syndicate/coatsyndiecaparmored.rsi
@@ -822,8 +822,8 @@
 - type: entity
   parent: [ClothingOuterWinterCoatToggleable, BaseSyndicateContraband]
   id: ClothingOuterWinterSyndie
-  name: зимове пальто синдикату
-  description: Утеплене зимове пальто, виглядає як мерч від "Сінділенд".
+  name: syndicate's winter coat
+  description: Insulated winter coat, looks like a merch from "Syndieland".
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -846,8 +846,8 @@
 - type: entity
   parent: ClothingOuterWinterCoat
   id: ClothingOuterWinterMusician
-  name: зимове пальто музиканта
-  description: Великий пластиліновий космічний смокінг, який змусить людей запитувати: «Ти мене знаєш?»
+  name: musician's winter coat
+  description: An oversized, plasticine space tuxedo that'll have people asking "do you know me?"
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coatnomi.rsi
@@ -857,8 +857,8 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterWeb
-  name: веб зимове пальто
-  description: Відчуваєш себе всередині кокона, але не те, щоб ти менше боявся бути в ньому.
+  name: web winter coat
+  description: Feels like the inside of a cocoon, not that this would make you less afraid of being in one.
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -900,7 +900,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorBlack
-  name: чорне зимове пальто
+  name: black winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -931,7 +931,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorPurple
-  name: фіолетове зимове пальто
+  name: purple winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -962,7 +962,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorRed
-  name: червоне зимове пальто
+  name: red winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -993,7 +993,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorBlue
-  name: синє зимове пальто
+  name: blue winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1024,7 +1024,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorBrown
-  name: коричневе зимове пальто
+  name: brown winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1055,7 +1055,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorGray
-  name: сіре зимове пальто
+  name: gray winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1086,7 +1086,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorGreen
-  name: зелене зимове пальто
+  name: green winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1117,7 +1117,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorLightBrown
-  name: світло-коричневе зимове пальто
+  name: light brown winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1148,7 +1148,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorOrange
-  name: помаранчеве зимове пальто
+  name: orange winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1179,7 +1179,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorWhite
-  name: біле зимове пальто
+  name: white winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi
@@ -1210,7 +1210,7 @@
 - type: entity
   parent: ClothingOuterWinterCoatToggleable
   id: ClothingOuterWinterColorYellow
-  name: жовте зимове пальто
+  name: yellow winter coat
   components:
   - type: Sprite
     sprite: Clothing/OuterClothing/WinterCoats/coat.rsi

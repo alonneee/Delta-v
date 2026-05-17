@@ -1,6 +1,6 @@
 - type: entity
   id: LockerForensicMantisFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: LockerForensicMantis
   components:
   - type: EntityTableContainerFill

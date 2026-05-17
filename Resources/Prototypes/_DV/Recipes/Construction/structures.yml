@@ -78,7 +78,7 @@
 
 - type: construction
   id: RailingCornerDeltaV
-  name: конструкція-стіна-посилена-пластиком-перила-куточок
+  name: structure-wall-reinforced-plasteel-railing-corner
   graph: RailingDeltaVRecipes
   startNode: start
   targetNode: railingCornerDeltaV
@@ -91,7 +91,7 @@
 
 - type: construction
   id: RailingCornerSmallDeltaV
-  name: конструкція-стіна-посилена-пластиком-перила-куточок-мал
+  name: structure-wall-reinforced-plasteel-railing-corner-small
   graph: RailingDeltaVRecipes
   startNode: start
   targetNode: railingCornerSmallDeltaV
@@ -104,7 +104,7 @@
 
 - type: construction
   id: RailingRoundDeltaV
-  name: структура-стіна-посилена-пластиком-перила-кругла
+  name: structure-wall-reinforced-plasteel-railing-round
   graph: RailingDeltaVRecipes
   startNode: start
   targetNode: railingRoundDeltaV
@@ -129,7 +129,7 @@
 
 - type: construction
   id: RailingCornerDeltaVGrey
-  name: конструкція-стіна-зміцнена-сталева-перила-куточок
+  name: structure-wall-reinforced-steel-railing-corner
   graph: RailingDeltaVRecipes
   startNode: start
   targetNode: railingCornerDeltaVGrey
@@ -142,7 +142,7 @@
 
 - type: construction
   id: RailingCornerSmallDeltaVGrey
-  name: конструкція-стіна-посилена-сталевими-перилами-куточок-мал
+  name: structure-wall-reinforced-steel-railing-corner-small
   graph: RailingDeltaVRecipes
   startNode: start
   targetNode: railingCornerSmallDeltaVGrey
@@ -155,7 +155,7 @@
 
 - type: construction
   id: RailingRoundDeltaVGrey
-  name: конструкція-стіна-зміцнена-сталь-перила-кругла
+  name: structure-wall-reinforced-steel-railing-round
   graph: RailingDeltaVRecipes
   startNode: start
   targetNode: railingRoundDeltaVGrey
@@ -180,7 +180,7 @@
 
 - type: construction
   id: RailingCornerDeltaVWood
-  name: конструкція-стіна-зміцнена-дерево-перила-кут
+  name: structure-wall-reinforced-wood-railing-corner
   graph: RailingDeltaVRecipes
   startNode: start
   targetNode: railingCornerDeltaVWood
@@ -193,7 +193,7 @@
 
 - type: construction
   id: RailingCornerSmallDeltaVWood
-  name: конструкція-стіна-посилена-дерево-перила-куточок-мал
+  name: structure-wall-reinforced-wood-railing-corner-small
   graph: RailingDeltaVRecipes
   startNode: start
   targetNode: railingCornerSmallDeltaVWood
@@ -206,7 +206,7 @@
 
 - type: construction
   id: RailingRoundDeltaVWood
-  name: конструкція-стіна-посилена-дерево-перила-кругла
+  name: structure-wall-reinforced-wood-railing-round
   graph: RailingDeltaVRecipes
   startNode: start
   targetNode: railingRoundDeltaVWood

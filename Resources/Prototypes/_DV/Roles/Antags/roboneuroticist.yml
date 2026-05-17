@@ -1,6 +1,6 @@
 - type: antag
   id: RoboNeuroticist
-  name: roles-atag-roboneuroticist-name
+  name: roles-antag-roboneuroticist-name
   objective: roles-antag-roboneuroticist-objective
   antagonist: true # making evil borgs
   requirements:

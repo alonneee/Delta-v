@@ -15,19 +15,19 @@
         icon:
           sprite: Objects/Specific/Medical/healthanalyzer.rsi
           state: analyzer
-        name: конструкція-граф-тег-борг-голова
+        name: construction-graph-tag-health-analyzer
         doAfter: 2
       - tag: ProximitySensor
         icon:
           sprite: Objects/Misc/proximity_sensor.rsi
           state: icon
-        name: конструкція-граф-тег-датчик-наближення
+        name: construction-graph-tag-proximity-sensor
         doAfter: 2
       - tag: BorgArm
         icon:
           sprite: Mobs/Silicon/drone.rsi
           state: l_hand
-        name: конструкція-граф-тег-борг-рука
+        name: construction-graph-tag-borg-arm
         doAfter: 2
   - node: bot
     entity: MobMedibot

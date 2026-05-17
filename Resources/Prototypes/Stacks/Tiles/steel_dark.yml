@@ -3,7 +3,7 @@
 - type: stack
   parent: BaseTileStack
   id: FloorTileDark
-  name: стек-темна плитка
+  name: stack-dark-tile
   spawn: FloorTileItemDark
 
 - type: stack
@@ -15,31 +15,31 @@
 - type: stack
   parent: BaseTileStack
   id: FloorTileDarkDiagonal
-  name: стек-темна-сталева-діагональна плитка
+  name: stack-dark-steel-diagonal-tile
   spawn: FloorTileItemDarkDiagonal
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileDarkHerringbone
-  name: стек-темна-сталь-ялинка
+  name: stack-dark-steel-herringbone
   spawn: FloorTileItemDarkHerringbone
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileDarkMini
-  name: steck-dark-steel-mini-tile
+  name: stack-dark-steel-mini-tile
   spawn: FloorTileItemDarkMini
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileDarkMono
-  name: стек-темна-сталь-моно-плитка
+  name: stack-dark-steel-mono-tile
   spawn: FloorTileItemDarkMono
 
 - type: stack
   parent: BaseTileStack
   id: FloorTileDarkPavement
-  name: стек-темний-сталевий-тротуар
+  name: stack-dark-steel-pavement
   spawn: FloorTileItemDarkPavement
 
 - type: stack

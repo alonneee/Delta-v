@@ -1,7 +1,7 @@
 - type: reagent
   id: Acetone
-  name: назва реагенту ацетон
-  desc: реагент-дес-ацетон
+  name: reagent-name-acetone
+  desc: reagent-desc-acetone
   physicalDesc: reagent-physical-desc-acidic
   flavor: bitter
   color: "#AF14B7"
@@ -10,7 +10,7 @@
 
 - type: reagent
   id: Phenol
-  name: реагент-назва-фенол
+  name: reagent-name-phenol
   desc: reagent-desc-phenol
   physicalDesc: reagent-physical-desc-acidic
   flavor: bitter
@@ -54,7 +54,7 @@
 
 - type: reagent
   id: Lye
-  name: реагент-назва-луг
+  name: reagent-name-lye
   desc: reagent-desc-lye
   flavor: alkaline
   physicalDesc: reagent-physical-desc-alkaline
@@ -69,7 +69,7 @@
 
 - type: reagent
   id: SodiumCarbonate
-  name: назва реагенту-карбонат натрію
+  name: reagent-name-sodium-carbonate
   desc: reagent-desc-sodium-carbonate
   physicalDesc: reagent-physical-desc-powdery
   color: white
@@ -100,7 +100,7 @@
 - type: reagent
   parent: Artifexium
   id: ArtifactGlue
-  name: реагент-назва-артефакт-клей
+  name: reagent-name-artifact-glue
   desc: reagent-desc-artifact-glue
   flavor: artifactglue
   physicalDesc: reagent-physical-desc-non-newtonian
@@ -114,7 +114,7 @@
 
 - type: reagent
   id: Benzene
-  name: реагент-назва-бензол
+  name: reagent-name-benzene
   desc: reagent-desc-benzene
   physicalDesc: reagent-physical-desc-acidic
   allowedJobs:
@@ -132,7 +132,7 @@
 
 - type: reagent
   id: Hydroxide
-  name: реагент-назва-гідроксид
+  name: reagent-name-hydroxide
   desc: reagent-desc-hydroxide
   physicalDesc: reagent-physical-desc-alkaline
   color: "white"
@@ -141,7 +141,7 @@
 
 - type: reagent
   id: SodiumHydroxide
-  name: назва реагенту-гідроксид натрію
+  name: reagent-name-sodium-hydroxide
   desc: reagent-desc-sodium-hydroxide
   physicalDesc: reagent-physical-desc-alkaline
   color: "white"
@@ -202,7 +202,7 @@
 
 - type: reagent
   id: Rororium
-  name: назва-реагенту-ророріум
+  name: reagent-name-rororium
   desc: reagent-desc-rororium
   group: Biological
   flavor: tingly

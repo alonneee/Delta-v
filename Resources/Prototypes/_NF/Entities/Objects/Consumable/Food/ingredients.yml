@@ -1,8 +1,8 @@
 ﻿- type: entity
-  name: сирі кавові зерна
+  name: raw coffee beans
   parent: FoodProduceBase
   id: FoodCoffeeBeansRaw
-  description: Зелені кавові зерна просто чекають на обсмаження.
+  description: Green coffee beans, just waiting to be roasted.
   components:
   - type: FlavorProfile
     flavors:
@@ -35,10 +35,10 @@
     area: .2 # essentially a giant sheet of beans
 
 - type: entity
-  name: легкі обсмажені кавові зерна
+  name: light roasted coffee beans
   parent: FoodProduceBase
   id: FoodCoffeeBeansRoastedLight
-  description: Смажені кавові зерна з корицею. Яскравий і фруктовий.
+  description: Cinnamon roast coffee beans. Bright and fruity.
   components:
   - type: FlavorProfile
     flavors:
@@ -71,10 +71,10 @@
     grindableSolutionName: food
 
 - type: entity
-  name: кавові зерна середнього обсмаження
+  name: medium roasted coffee beans
   parent: FoodCoffeeBeansRoastedLight
   id: FoodCoffeeBeansRoastedMedium
-  description: Міська обсмажена кава в зернах. Гладкий і горіховий.
+  description: City roast coffee beans. Smooth and nutty.
   components:
   - type: Sprite
     sprite: _NF/Objects/Specific/Hydroponics/coffee.rsi
@@ -85,10 +85,10 @@
     defaultTarget: dark roasted coffee
 
 - type: entity
-  name: темні смажені кавові зерна
+  name: dark roasted coffee beans
   parent: FoodCoffeeBeansRoastedLight
   id: FoodCoffeeBeansRoastedDark
-  description: Віденська обсмажена кава в зернах. Димно-гострий.
+  description: Viennese roast coffee beans. Smoky and spicy.
   components:
   - type: Sprite
     sprite: _NF/Objects/Specific/Hydroponics/coffee.rsi

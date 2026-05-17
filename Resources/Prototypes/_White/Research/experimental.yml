@@ -12,7 +12,7 @@
 
 - type: technology
   id: NightVisionTech
-  name: дослідження-технології-нічне бачення
+  name: research-technology-night-vision
   icon:
     sprite: _White/Clothing/Eyes/Goggles/nightvision.rsi
     state: icon

@@ -1,8 +1,8 @@
 - type: entity
-  name: ящик для наручників
+  name: handcuff box
   parent: BoxCardboard
   id: BoxHandcuff
-  description: Ящик, повний наручників.
+  description: A box full of handcuffs.
   components:
   - type: Storage
     whitelist:
@@ -19,10 +19,10 @@
     - state: handcuff
 
 - type: entity
-  name: коробка на блискавці
+  name: ziptie box
   parent: BoxCardboard
   id: BoxZiptie
-  description: Коробка, повна блискавок.
+  description: A box full of zipties.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -35,10 +35,10 @@
     - state: ziptie
 
 - type: entity
-  name: коробка flashbang
+  name: flashbang box
   parent: BoxCardboard
   id: BoxFlashbang
-  description: 'ПОПЕРЕДЖЕННЯ: Ці пристрої надзвичайно небезпечні та можуть спричинити сліпоту або глухоту при повторному використанні.
+  description: 'WARNING: These devices are extremely dangerous and can cause blindness or deafness in repeated use.'
   components:
   - type: EntityTableContainerFill
     containers:
@@ -51,10 +51,10 @@
     - state: flashbang
 
 - type: entity
-  name: жало під гранату
+  name: stinger grenade box
   parent: BoxCardboard
   id: BoxStinger
-  description: Ящик, повний жальних гранат. Розійтися!
+  description: A box full of stinger grenades. Disperse!
   components:
   - type: EntityTableContainerFill
     containers:
@@ -67,10 +67,10 @@
     - state: flashbang
 
 - type: entity
-  name: ящик для гранати зі сльозогінним газом
+  name: tear gas grenade box
   parent: BoxCardboard
   id: BoxTearGas
-  description: Ящик, повний гранат зі сльозогінним газом. Затримайте подих.
+  description: A box full of tear gas grenades. Hold your breath.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -86,7 +86,7 @@
   name: sechud box
   parent: BoxCardboard
   id: BoxSechud
-  description: Коробка сечуд.
+  description: A box of sechuds.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -100,10 +100,10 @@
       sprite: _DV/Objects/Storage/boxes.rsi # DeltaV
 
 - type: entity
-  name: ящик для секційних окулярів
+  name: secglasses box
   parent: BoxCardboard
   id: BoxSecglasses
-  description: Коробка захисних окулярів.
+  description: A box of security glasses.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -117,10 +117,10 @@
       sprite: _DV/Objects/Storage/boxes.rsi # DeltaV
 
 - type: entity
-  name: коробка для сонцезахисних окулярів
+  name: sunglasses box
   parent: BoxCardboard
   id: BoxSunglasses
-  description: Коробка крутих спалахостійких сонцезахисних окулярів.
+  description: A box of cool flash-proof sunglasses.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -133,10 +133,10 @@
     - state: sunglasses
 
 - type: entity
-  name: коробка для криміналістичного блокнота
+  name: forensic pad box
   parent: BoxCardboard
   id: BoxForensicPad
-  description: Коробка криміналістичних блокнотів.
+  description: A box of forensic pads.
   components:
   - type: Item
     shape:
@@ -154,8 +154,8 @@
 - type: entity
   parent: BoxCardboard
   id: BoxDetonator
-  name: коробка-детонатор
-  description: loadout-group-vox-tank
+  name: detonator box
+  description: A box of explosive detonators and triggers.
   components:
   - type: Item
     shape:

@@ -1,6 +1,6 @@
 - type: species
   id: Dwarf
-  name: вид-назва-карлик
+  name: species-name-dwarf
   roundStart: false # DeltaV - Disable dwarf
   prototype: MobDwarf
   sprites: MobHumanSprites

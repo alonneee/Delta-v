@@ -1,7 +1,7 @@
 - type: entity
   id: RoofMarker
-  name: Дах
-  suffix: Увімкнено
+  name: Roof
+  suffix: Enabled
   parent: MarkerBase
   components:
   - type: SetRoof
@@ -13,8 +13,8 @@
 
 - type: entity
   id: NoRoofMarker
-  name: Дах
-  suffix: Вимкнено
+  name: Roof
+  suffix: Disabled
   parent: MarkerBase
   components:
   - type: SetRoof

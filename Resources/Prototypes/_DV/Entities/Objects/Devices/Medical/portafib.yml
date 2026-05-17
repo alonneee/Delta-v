@@ -1,8 +1,8 @@
 - type: entity
   parent: Defibrillator
   id: Portafib
-  name: портафіб
-  description: Менша вага, той же чудовий ZZZAP!
+  name: portafib
+  description: Less weight, same great ZZZAP!
   components:
   - type: Sprite
     sprite: _DV/Objects/Medical/portafib.rsi
@@ -16,7 +16,7 @@
 - type: entity
   id: PortafibEmpty
   parent: Portafib
-  suffix: Порожній
+  suffix: Empty
   components:
   - type: ItemSlots
     slots:

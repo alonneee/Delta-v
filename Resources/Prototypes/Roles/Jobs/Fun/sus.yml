@@ -1,7 +1,7 @@
 - type: chameleonOutfit
   id: SusChameleonOutfit
   loadoutName: chameleon-outfit-sus-name
-  name: робота-ім'я-пасажир
+  name: job-name-passenger
   icon: "JobIconPassenger"
   equipment:
     head: ClothingHeadHatBeret

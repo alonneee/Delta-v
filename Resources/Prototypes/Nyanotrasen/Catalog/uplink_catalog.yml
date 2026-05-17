@@ -1,6 +1,6 @@
 - type: listing
   id: UplinkKanabou
-  name: NukeOps"
+  name: uplink-kanabou-name
   description: uplink-kanabou-desc
   productEntity: Kanabou
   discountCategory: rareDiscounts
@@ -14,7 +14,7 @@
 - type: listing
   id: UplinkRickenbacker
   name: uplink-rickenbacker4001-name
-  description: uplink-rickenbacker4001-дес
+  description: uplink-rickenbacker4001-desc
   productEntity: Rickenbacker4001Instrument
   discountCategory: rareDiscounts
   discountDownTo:

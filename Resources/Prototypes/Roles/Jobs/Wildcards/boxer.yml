@@ -1,7 +1,7 @@
 - type: job
   id: Boxer
-  name: робота-назва-боксер
-  description: посадова інструкція-боксер
+  name: job-name-boxer
+  description: job-description-boxer
   playTimeTracker: JobBoxer
   startingGear: BoxerGear
   icon: "JobIconBoxer"

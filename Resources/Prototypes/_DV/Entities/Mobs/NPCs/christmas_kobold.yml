@@ -1,7 +1,7 @@
 - type: entity
   id: MobChristmasKobold
   parent: MobBaseKobold
-  suffix: Різдвяний Кобольд
+  suffix: Christmas Kobold
   components:
   - type: CombatMode
   - type: HTN

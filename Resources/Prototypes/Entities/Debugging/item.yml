@@ -1,9 +1,9 @@
 ﻿- type: entity
   parent: BaseItem
   id: DebugItemShapeWeird
-  name: предмет дивної форми
-  description: Що це...?
-  suffix: НАЛАШТУВАННЯ
+  name: weirdly shaped item
+  description: What is it...?
+  suffix: DEBUG
   components:
   - type: Sprite
     sprite: Objects/Misc/skub.rsi

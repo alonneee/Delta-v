@@ -1,8 +1,8 @@
 - type: entity
   parent: CombatKnife
   id: AntiPsychicKnife
-  name: Карта Льодовикової застави».
-  description: Спеціальний ніж, призначений для вбивства псіоніків.
+  name: anti-psionic knife
+  description: A special knife designed for killing psionics.
   components:
   - type: MeleeWeapon
     damage:

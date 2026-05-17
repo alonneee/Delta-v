@@ -3,7 +3,7 @@
 - type: entity
   parent: AirlockAssembly
   id: AirlockAssemblyChemistry
-  suffix: Хімія
+  suffix: Chemistry
   components:
   - type: Sprite
     sprite: _DV/Structures/Doors/Airlocks/Standard/chemistry.rsi #Delta V - Resprite Doors
@@ -12,7 +12,7 @@
 - type: entity
   parent: AirlockAssembly
   id: AirlockAssemblyChemistryGlass
-  suffix: Хімія, Скло
+  suffix: Chemistry, Glass
   components:
   - type: Sprite
     sprite: _DV/Structures/Doors/Airlocks/Glass/chemistry.rsi #Delta V - Resprite Doors
@@ -22,7 +22,7 @@
 - type: entity
   parent: AirlockAssembly
   id: AirlockAssemblyRoboticist
-  suffix: Робототехніка
+  suffix: Robotics
   components:
   - type: Sprite
     sprite: _DV/Structures/Doors/Airlocks/Standard/roboticist.rsi
@@ -31,7 +31,7 @@
 - type: entity
   parent: AirlockAssembly
   id: AirlockAssemblyRoboticistGlass
-  suffix: Робототехніка, скло
+  suffix: Robotics, Glass
   components:
   - type: Sprite
     sprite: _DV/Structures/Doors/Airlocks/Glass/roboticist.rsi

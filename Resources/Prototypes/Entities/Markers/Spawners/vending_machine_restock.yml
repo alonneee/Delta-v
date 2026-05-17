@@ -1,7 +1,7 @@
 - type: entity
   id: SpawnVendingMachineRestockFoodDrink
-  name: спаунер firebot
-  suffix: "їжа чи напої"
+  name: Vending Machine Restock
+  suffix: "food or drink"
   parent: MarkerBase
   components:
   - type: Sprite
@@ -24,8 +24,8 @@
 
 - type: entity
   id: SpawnVendingMachineRestockFood
-  name: спаунер firebot
-  suffix: "їжа"
+  name: Vending Machine Restock
+  suffix: "food"
   parent: MarkerBase
   components:
   - type: Sprite
@@ -46,8 +46,8 @@
 
 - type: entity
   id: SpawnVendingMachineRestockDrink
-  name: спаунер firebot
-  suffix: "пити"
+  name: Vending Machine Restock
+  suffix: "drink"
   parent: MarkerBase
   components:
   - type: Sprite

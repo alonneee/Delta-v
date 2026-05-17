@@ -2,8 +2,8 @@
 - type: entity
   parent: MarkerBase
   id: SpawnPointGhostAnomalitePyroclastic
-  name: точка появи аномалітів
-  suffix: Пірокластичні
+  name: anomalite spawn point
+  suffix: Pyroclastic
   categories: [ DoNotMap ]
   components:
   - type: GhostRole
@@ -27,8 +27,8 @@
 - type: entity
   parent: MarkerBase
   id: SpawnPointGhostAnomaliteGravity
-  name: точка появи аномалітів
-  suffix: Сила тяжіння
+  name: anomalite spawn point
+  suffix: Gravity
   categories: [ DoNotMap ]
   components:
   - type: GhostRole
@@ -52,8 +52,8 @@
 - type: entity
   parent: MarkerBase
   id: SpawnPointGhostAnomaliteIce
-  name: точка появи аномалітів
-  suffix: лід
+  name: anomalite spawn point
+  suffix: Ice
   categories: [ DoNotMap ]
   components:
   - type: GhostRole
@@ -77,8 +77,8 @@
 - type: entity
   parent: MarkerBase
   id: SpawnPointGhostAnomaliteFlesh
-  name: точка появи аномалітів
-  suffix: Плоть
+  name: anomalite spawn point
+  suffix: Flesh
   categories: [ DoNotMap ]
   components:
   - type: GhostRole
@@ -102,8 +102,8 @@
 - type: entity
   parent: MarkerBase
   id: SpawnPointGhostAnomaliteRock
-  name: точка появи аномалітів
-  suffix: Рок
+  name: anomalite spawn point
+  suffix: Rock
   categories: [ DoNotMap ]
   components:
   - type: GhostRole
@@ -127,8 +127,8 @@
 - type: entity
   parent: MarkerBase
   id: SpawnPointGhostAnomaliteLiquid
-  name: точка появи аномалітів
-  suffix: Реагент
+  name: anomalite spawn point
+  suffix: Reagent
   categories: [ DoNotMap ]
   components:
   - type: GhostRole
@@ -152,7 +152,7 @@
 - type: entity
   parent: MarkerBase
   id: SpawnPointGhostAnomaliteBluespace
-  name: точка появи аномалітів
+  name: anomalite spawn point
   suffix: Bluespace
   categories: [ DoNotMap ]
   components:
@@ -177,12 +177,12 @@
 - type: entity
   parent: MarkerBase
   id: SpawnPointGhostAnomaliteElectricity
-  name: точка появи аномалітів
-  suffix: Електричний
+  name: anomalite spawn point
+  suffix: Electric
   categories: [ DoNotMap ]
   components:
   - type: GhostRole
-    name: ghost-role-information-elektricanomalite-name
+    name: ghost-role-information-electricanomalite-name
     description: ghost-role-information-anomalite-description
     rules: ghost-role-information-familiar-anomalite-rules
     mindRoles:
@@ -202,8 +202,8 @@
 - type: entity
   parent: MarkerBase
   id: SpawnPointGhostAnomaliteFlora
-  name: точка появи аномалітів
-  suffix: Флора
+  name: anomalite spawn point
+  suffix: Flora
   categories: [ DoNotMap ]
   components:
   - type: GhostRole
@@ -227,8 +227,8 @@
 - type: entity
   parent: MarkerBase
   id: SpawnPointGhostAnomaliteShadow
-  name: точка появи аномалітів
-  suffix: Тінь
+  name: anomalite spawn point
+  suffix: Shadow
   categories: [ DoNotMap ]
   components:
   - type: GhostRole
@@ -252,8 +252,8 @@
 - type: entity
   parent: MarkerBase
   id: SpawnPointGhostAnomaliteTech
-  name: точка появи аномалітів
-  suffix: техн
+  name: anomalite spawn point
+  suffix: Tech
   categories: [ DoNotMap ]
   components:
   - type: GhostRole

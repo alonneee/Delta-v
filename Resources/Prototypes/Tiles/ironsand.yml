@@ -11,7 +11,7 @@
 
 - type: tile
   id: FloorIronsandConcrete
-  name: черепиця-залізо-бетонна плитка
+  name: tiles-ironsand-concrete-tile
   sprite: /Textures/Tiles/Planet/Concrete/ironsandconcrete.png
   variants: 4
   placementVariants:
@@ -29,7 +29,7 @@
 
 - type: tile
   id: FloorIronsandConcreteMono
-  name: плитка-залізо-бетонна плита
+  name: tiles-ironsand-concrete-slab
   sprite: /Textures/Tiles/Planet/Concrete/ironsandconcrete_mono.png
   variants: 4
   placementVariants:
@@ -47,7 +47,7 @@
 
 - type: tile
   id: FloorIronsandConcreteSmooth
-  name: плитка-залізо-бетон-гладка
+  name: tiles-ironsand-concrete-smooth
   sprite: /Textures/Tiles/Planet/Concrete/ironsandconcrete_smooth.png
   variants: 4
   placementVariants:
@@ -65,7 +65,7 @@
 
 - type: tile
   id: IronsandPacked
-  name: плитки-залізниціі напак
+  name: tiles-ironsand-packed
   sprite: /Textures/Tiles/Asteroid/ironsand_packed.png
   variants: 4
   placementVariants:
@@ -82,7 +82,7 @@
 
 - type: tile
   id: IronsandPaved
-  name: плитка-залізо-мощена
+  name: tiles-ironsand-paved
   sprite: /Textures/Tiles/Asteroid/ironsand_uneven_paved.png
   variants: 4
   placementVariants:

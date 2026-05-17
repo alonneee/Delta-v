@@ -1,7 +1,7 @@
 - type: entity
   id: OrganBloodsuckerStomach
   parent: OrganAnimalStomach
-  name: шлунок кровососа # DeltaV - назви органів
+  name: bloodsucker stomach # DeltaV - organ names
   categories: [ HideSpawnMenu ]
   components:
   - type: Metabolizer
@@ -10,7 +10,7 @@
 - type: entity
   id: OrganBloodsuckerLiver
   parent: OrganAnimalLiver
-  name: печінка кровососа # DeltaV - назви органів
+  name: bloodsucker liver # DeltaV - organ names
   categories: [ HideSpawnMenu ]
   components:
   - type: Metabolizer
@@ -19,7 +19,7 @@
 - type: entity
   id: OrganBloodsuckerHeart
   parent: OrganSpaceAnimalHeart # DeltaV - re-parent
-  name: серце п'явки # DeltaV - назви органів
+  name: bloodsucker heart # DeltaV - organ names
   categories: [ HideSpawnMenu ]
   components:
   - type: Metabolizer

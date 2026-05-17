@@ -1,7 +1,7 @@
 # Metal
 - type: stack
   id: FloorTileMetalBlue
-  name: стек-метал-підлога-синій
+  name: stack-metal-floor-blue
   spawn: FloorTileItemMetalBlue
 
 - type: stack
@@ -31,7 +31,7 @@
 
 - type: stack
   id: FloorTileMetalGreyDark
-  name: стек-метал-підлога-сіро-темний
+  name: stack-metal-floor-grey-dark
   spawn: FloorTileItemMetalGreyDark
 
 - type: stack
@@ -41,7 +41,7 @@
 
 - type: stack
   id: FloorTileMetalPurple
-  name: стек-метал-підлога-фіолетовий
+  name: stack-metal-floor-purple
   spawn: FloorTileItemMetalPurple
 
 - type: stack
@@ -51,7 +51,7 @@
 
 - type: stack
   id: FloorTileMetalRed
-  name: стек-метал-підлога-червоний
+  name: stack-metal-floor-red
   spawn: FloorTileItemMetalRed
 
 - type: stack
@@ -71,7 +71,7 @@
 
 - type: stack
   id: FloorTileMetalWhite
-  name: стек-метал-підлога-білий
+  name: stack-metal-floor-white
   spawn: FloorTileItemMetalWhite
 
 - type: stack
@@ -81,7 +81,7 @@
 
 - type: stack
   id: FloorTileMetalYellow
-  name: стек-метал-підлога-жовтий
+  name: stack-metal-floor-yellow
   spawn: FloorTileItemMetalYellow
 
 - type: stack
@@ -91,34 +91,34 @@
 
 - type: stack
   id: FloorTileMetalFreezer
-  name: стек-метал-підлога-морозильна камера
+  name: stack-metal-floor-freezer
   spawn: FloorTileItemMetalFreezer
 
 # Other
 - type: stack
   id: FloorTileWoodOak
-  name: стек-дерев'яна підлога-дуб
+  name: stack-wood-floor-oak
   spawn: FloorTileItemWoodOak
 
 - type: stack
   id: FloorTileWoodHouse
-  name: стек-дерев'яний-будинок
+  name: stack-wood-floor-house
   spawn: FloorTileItemWoodHouse
 
 - type: stack
   id: FloorTileWoodMaple
-  name: стек-дерев'яна підлога-клен
+  name: stack-wood-floor-maple
   spawn: FloorTileItemWoodMaple
 
 - type: stack
   id: FloorTileCarpetRed
-  name: стек-килим-підлога
+  name: stack-carpet-floor
   spawn: FloorTileItemCarpetRed
 
 # MS13
 - type: stack
   id: FloorTileMetalIndustrial
-  name: стек-пром-пол
+  name: stack-industrial-floor
   spawn: FloorTileItemMetalIndustrial
 
 - type: stack
@@ -128,7 +128,7 @@
 
 - type: stack
   id: FloorTileMetalGrate
-  name: стек-метал-решітка-підлога
+  name: stack-metal-grate-floor
   spawn: FloorTileItemMetalGrate
 
 - type: stack

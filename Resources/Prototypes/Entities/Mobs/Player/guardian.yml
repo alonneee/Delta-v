@@ -3,7 +3,7 @@
   abstract: true
   name: GuardianBase
   id: MobGuardianBase
-  description: опікун
+  description: guardian
   save: false
   components:
     - type: LagCompensation
@@ -115,10 +115,10 @@
 
 # From the uplink injector
 - type: entity
-  name: Голопаразит
+  name: Holoparasite
   id: MobHoloparasiteGuardian
   parent: MobGuardianBase
-  description: Заворожуючий вир яскраво-світлих візерунків сплітає дивовижний, але дивно знайомий образ. Він гордо стоїть, налаштовуючись на життя свого власника, щоб підтримувати себе.
+  description: A mesmerising whirl of hard-light patterns weaves a marvelous, yet oddly familiar visage. It stands proud, tuning into its owner's life to sustain itself.
   components:
     - type: GhostRole
       allowMovement: true
@@ -148,10 +148,10 @@
 
 # From Wizard deck of cards
 - type: entity
-  name: Іфрит
+  name: Ifrit
   parent: MobGuardianBase
   id: MobIfritGuardian
-  description: Уріст Маквеб
+  description: A corrupted jinn, ripped from fitra to serve the wizard's petty needs. It stands wicked, tuning into its owner's life to sustain itself.
   components:
     - type: GhostRole
       allowMovement: true
@@ -177,17 +177,17 @@
           shader: unshaded
 
 - type: entity
-  name: ГолоКлоун
+  name: HoloClown
   id: MobHoloClownGuardian
   parent: [MobGuardianBase, InventoryBase]
-  description: Заворожливий вир візерунків з жорсткого світла плете блакитний клоун сумнівного походження.
+  description: A mesmerising whirl of hard-light patterns weaves a blue colored clown of dubious origin.
   components:
     - type: GhostRole
       allowMovement: true
       allowSpeech: true
       makeSentient: true
-      name: ghost-role-information-goloclown-name
-      description: ghost-role-information-goloclown-description
+      name: ghost-role-information-holoclown-name
+      description: ghost-role-information-holoclown-description
       rules: ghost-role-information-familiar-rules
       raffle:
         settings: default
@@ -266,8 +266,8 @@
 - type: entity
   parent: BaseMentalAction
   id: ActionToggleGuardian
-  name: Перемкнути опікуна
-  description: Або проявляє опікуна, або відкликає його назад у своє тіло
+  name: Toggle Guardian
+  description: Either manifests the guardian or recalls it back into your body
   components:
   - type: Action
     icon: Interface/Actions/manifest.png

@@ -1,6 +1,6 @@
 - type: seed
   id: CrystalThistle
-  name: насіння-остою-назва
+  name: seeds-crystalthistle-name
   noun: seeds-noun-seeds
   displayName: seeds-crystalthistle-display-name
   plantRsi: _DV/Objects/Specific/Hydroponics/Crystal_Thistle.rsi

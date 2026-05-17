@@ -13,49 +13,49 @@
 - type: entity
   parent: [ PartRodentiaBase, BaseTorso ]
   id: TorsoRodentia
-  name: "тулуб rodentia"
+  name: "rodentia torso"
 
 - type: entity
   parent: [ PartRodentiaBase, BaseHead ]
   id: HeadRodentia
-  name: "голова родентії"
+  name: "rodentia head"
 
 - type: entity
   parent: [ PartRodentiaBase, BaseLeftArm ]
   id: LeftArmRodentia
-  name: "голова хітинід"
+  name: "left rodentia arm"
 
 - type: entity
   parent: [ PartRodentiaBase, BaseRightArm ]
   id: RightArmRodentia
-  name: "права рука родентії"
+  name: "right rodentia arm"
 
 - type: entity
   parent: [ PartRodentiaBase, BaseLeftHand ]
   id: LeftHandRodentia
-  name: "ліва рука родентії"
+  name: "left rodentia hand"
 
 - type: entity
   parent: [ PartRodentiaBase, BaseRightHand ]
   id: RightHandRodentia
-  name: "права рука родентії"
+  name: "right rodentia hand"
 
 - type: entity
   parent: [ PartRodentiaBase, BaseLeftLeg ]
   id: LeftLegRodentia
-  name: "ліва нога родентії"
+  name: "left rodentia leg"
 
 - type: entity
   parent: [ PartRodentiaBase, BaseRightLeg ]
   id: RightLegRodentia
-  name: "права нога родентії"
+  name: "right rodentia leg"
 
 - type: entity
   parent: [ PartRodentiaBase, BaseLeftFoot ]
   id: LeftFootRodentia
-  name: "частина кузова мотоцикла"
+  name: "left rodentia foot"
 
 - type: entity
   parent: [ PartRodentiaBase, BaseRightFoot ]
   id: RightFootRodentia
-  name: "права родентійна лапка"
+  name: "right rodentia foot"

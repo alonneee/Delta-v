@@ -71,7 +71,7 @@
 #currently mechs don't support upgrading. add them back in once that's squared away.
 
       - component: PowerCell
-        name: конструкція-граф-компонент-сила-елемент
+        name: construction-graph-component-power-cell
         store: battery-container
         icon:
           sprite: Objects/Power/power_cells.rsi
@@ -92,7 +92,7 @@
         icon:
           sprite: "Clothing/Mask/clown.rsi"
           state: "icon"
-        name: конструкція-граф-тег-маска-клоуна
+        name: construction-graph-tag-clown-mask
         doAfter: 1
         completed:
         - !type:VisualizerDataInt
@@ -103,7 +103,7 @@
         icon:
           sprite: "Clothing/Shoes/Specific/clown.rsi"
           state: "icon"
-        name: конструкція-граф-тег-клоуни-черевики
+        name: construction-graph-tag-clown-shoes
         doAfter: 1
         completed:
         - !type:VisualizerDataInt

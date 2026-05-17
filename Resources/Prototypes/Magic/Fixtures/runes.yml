@@ -1,6 +1,6 @@
 ﻿- type: entity
   id: BaseRune
-  name: "руна"
+  name: "rune"
   abstract: true
   placement:
     mode: SnapgridCenter
@@ -15,7 +15,7 @@
 - type: entity
   parent: BaseRune
   id: CollideRune
-  name: "Перетворює когось на Клуна!
+  name: "collision rune"
   abstract: true
   components:
     - type: Fixtures
@@ -34,7 +34,7 @@
 - type: entity
   parent: CollideRune
   id: ActivateRune
-  name: "руна активації"
+  name: "activation rune"
   abstract: true
   components:
     - type: TriggerOnActivate
@@ -42,7 +42,7 @@
 - type: entity
   parent: CollideRune
   id: CollideTimerRune
-  name: "руна на час зіткнення"
+  name: "collision timed rune"
   abstract: true
   components:
     - type: TriggerOnTimedCollide
@@ -51,7 +51,7 @@
 - type: entity
   parent: CollideRune
   id: ExplosionRune
-  name: "руна вибуху"
+  name: "explosion rune"
   components:
     - type: TriggerOnCollide
       fixtureID: rune
@@ -71,7 +71,7 @@
 - type: entity
   parent: CollideRune
   id: StunRune
-  name: "оглушаюча руна"
+  name: "stun rune"
   components:
     - type: TriggerOnCollide
       fixtureID: rune
@@ -90,7 +90,7 @@
 - type: entity
   parent: CollideRune
   id: IgniteRune
-  name: "запалити руну"
+  name: "ignite rune"
   components:
     - type: TriggerOnCollide
       fixtureID: ignition
@@ -118,7 +118,7 @@
 - type: entity
   parent: CollideTimerRune
   id: ExplosionTimedRune
-  name: "руна на час вибуху"
+  name: "explosion timed rune"
   components:
     - type: ExplodeOnTrigger
     - type: Explosive
@@ -130,7 +130,7 @@
 - type: entity
   parent: ActivateRune
   id: ExplosionActivateRune
-  name: "активована вибухом руна"
+  name: "explosion activated rune"
   components:
     - type: ExplodeOnTrigger
     - type: Explosive
@@ -142,7 +142,7 @@
 - type: entity
   parent: ActivateRune
   id: FlashRune
-  name: "флеш руна"
+  name: "flash rune"
   components:
     - type: FlashOnTrigger
     - type: DeleteOnTrigger
@@ -150,6 +150,6 @@
 - type: entity
   parent: CollideTimerRune
   id: FlashRuneTimer
-  name: "spellbook-force-wall-name
+  name: "flash timed rune"
   components:
     - type: FlashOnTrigger

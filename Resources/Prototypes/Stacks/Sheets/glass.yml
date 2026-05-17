@@ -1,48 +1,48 @@
 - type: stack
   parent: BaseSheetStack
   id: Glass
-  name: стопка-склянка
+  name: stack-glass
   icon: { sprite: /Textures/Objects/Materials/Sheets/glass.rsi, state: glass }
   spawn: SheetGlass1
 
 - type: stack
   parent: BaseSheetStack
   id: ReinforcedGlass
-  name: стек-армований скло
+  name: stack-reinforced-glass
   icon: { sprite: /Textures/Objects/Materials/Sheets/glass.rsi, state: rglass }
   spawn: SheetRGlass1
 
 - type: stack
   parent: BaseSheetStack
   id: PlasmaGlass
-  name: стек-плазма-скло
+  name: stack-plasma-glass
   icon: { sprite: /Textures/Objects/Materials/Sheets/glass.rsi, state: pglass }
   spawn: SheetPGlass1
 
 - type: stack
   parent: BaseSheetStack
   id: ReinforcedPlasmaGlass
-  name: стек-армований-плазма-скло
+  name: stack-reinforced-plasma-glass
   icon: { sprite: /Textures/Objects/Materials/Sheets/glass.rsi, state: rpglass }
   spawn: SheetRPGlass1
 
 - type: stack
   parent: BaseSheetStack
   id: UraniumGlass
-  name: стопка-уран-скло
+  name: stack-uranium-glass
   icon: { sprite: /Textures/Objects/Materials/Sheets/glass.rsi, state: uglass }
   spawn: SheetUGlass1
 
 - type: stack
   parent: BaseSheetStack
   id: ReinforcedUraniumGlass
-  name: стек-армований-уран-скло
+  name: stack-reinforced-uranium-glass
   icon: { sprite: /Textures/Objects/Materials/Sheets/glass.rsi, state: ruglass }
   spawn: SheetRUGlass1
 
 - type: stack
   parent: BaseSheetStack
   id: ClockworkGlass
-  name: стопка-заводний-склянка
+  name: stack-clockwork-glass
   icon: { sprite: /Textures/Objects/Materials/Sheets/glass.rsi, state: cglass }
   spawn: SheetClockworkGlass1

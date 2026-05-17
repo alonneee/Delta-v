@@ -1,8 +1,8 @@
 - type: entity
   parent: ReinforcementRadio
   id: ReinforcementRadioSyndicateNukieMouse
-  name: сир із підозрілою пліснявою
-  description: Сир із пліснявою, з якого стирчить маленький хробак і... миготлива антена? Може привернути дивну мишу.
+  name: suspicious moldy cheese
+  description: Moldy cheese with a little worm sticking out of it and a... blinking antenna? Might attract an odd mouse.
   components:
   - type: Sprite
     sprite: _DV/Objects/Devices/communication.rsi
@@ -22,9 +22,9 @@
 - type: entity
   parent: ReinforcementRadio
   id: ReinforcementRadioSyndicateHostageWarden
-  name: радіо заручника
-  description: Викличте охорону, щоб утримати цих надокучливих в’язнів.
-  suffix: Людина, HostageOps
+  name: hostage warden radio
+  description: Call in a guard to keep those pesky prisoners at bay.
+  suffix: Human, HostageOps
   components:
   - type: GhostRole
     #requirements: # TODO: If this is ever enabled, move this to an antag or job prototype, since thats where playtime requirements are validated
@@ -46,8 +46,8 @@
 - type: entity
   parent: ReinforcementRadioSyndicateSyndiCat
   id: ReinforcementRadioSyndicateYarn
-  name: підозрілий клубок пряжі з дротами
-  description: Пожований клубок пряжі, з якого стирчать дві спиці... здається, вони блимають? Може привабити дивного кота.
+  name: suspicious yarn ball with wires
+  description: A chewed up yarn ball with two knitting needles sticking out of it...they appear to be blinking? Might attract an odd cat.
   components:
   - type: Sprite
     sprite: _DV/Objects/Devices/communication.rsi
@@ -59,12 +59,12 @@
 - type: entity
   parent: ReinforcementRadio
   id: ReinforcementRadioSyndicateCyborgSaboteur
-  name: синдикат диверсант кіборг підкріплення радіо
-  description: Викликає диверсантський борг з легким озброєнням і підривним спорядженням.
+  name: syndicate saboteur cyborg reinforcement radio
+  description: Calls in a saboteur borg with light weaponry and disruptive gear.
   components:
   - type: GhostRole
     name: ghost-role-information-syndicate-cyborg-saboteur-name
-    description: Bluespace
+    description: ghost-role-information-syndicate-cyborg-description
     rules: ghost-role-information-silicon-rules
     mindRoles:
     - MindRoleGhostRoleSilicon

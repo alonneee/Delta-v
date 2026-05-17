@@ -70,7 +70,7 @@
     - to: frameWithBrain
       steps:
       - component: BorgBrain
-        name: конструкція-граф-компонент-борг-мозок
+        name: construction-graph-component-borg-brain
         store: station_ai_brain_slot
         icon:
           sprite: "Objects/Specific/Robotics/mmi.rsi"

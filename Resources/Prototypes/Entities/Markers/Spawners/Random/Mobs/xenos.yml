@@ -2,7 +2,7 @@
   parent: MarkerBase
   id: SpawnMobXenoEasy
   name: Xeno Spawner
-  suffix: Легко, випадково
+  suffix: Easy, Random
   components:
   - type: Sprite
     layers:
@@ -20,7 +20,7 @@
   parent: MarkerBase
   id: SpawnMobXenoHard
   name: Xeno Spawner
-  suffix: спавнер випадкової їжі
+  suffix: Hard, Random
   components:
   - type: Sprite
     layers:

@@ -7,79 +7,79 @@
 - type: quickPhrase
   id: MorePhrase
   parent: BaseQualitativePhrase
-  text: фраза-більше
+  text: phrase-more
 
 - type: quickPhrase
   id: LessPhrase
   parent: BaseQualitativePhrase
-  text: безфразовий
+  text: phrase-less
 
 - type: quickPhrase
   id: AllPhrase
   parent: BaseQualitativePhrase
-  text: фраза-все
+  text: phrase-all
 
 - type: quickPhrase
   id: NothingPhrase
   parent: BaseQualitativePhrase
-  text: фраза-нічого
+  text: phrase-nothing
 
 - type: quickPhrase
   id: MostPhrase
   parent: BaseQualitativePhrase
-  text: фраза-найбільше
+  text: phrase-most
 
 - type: quickPhrase
   id: SomePhrase
   parent: BaseQualitativePhrase
-  text: фраза-деякий
+  text: phrase-some
 
 - type: quickPhrase
   id: ManyPhrase
   parent: BaseQualitativePhrase
-  text: фраза-багато
+  text: phrase-many
 
 - type: quickPhrase
   id: FewPhrase
   parent: BaseQualitativePhrase
-  text: фраза-мало
+  text: phrase-few
 
 - type: quickPhrase
   id: SinglePhrase
   parent: BaseQualitativePhrase
-  text: робота-назва-фельдшер
+  text: phrase-single
 
 - type: quickPhrase
   id: TooMuchPhrase
   parent: BaseQualitativePhrase
-  text: фраза-забагато
+  text: phrase-too-much
 
 - type: quickPhrase
   id: NotEnoughPhrase
   parent: BaseQualitativePhrase
-  text: фраза-недостатньо
+  text: phrase-not-enough
 
 - type: quickPhrase
   id: GoodPhrase
   parent: BaseQualitativePhrase
-  text: фраза-добре
+  text: phrase-good
 
 - type: quickPhrase
   id: BadPhrase
   parent: BaseQualitativePhrase
-  text: фраза-погано
+  text: phrase-bad
 
 - type: quickPhrase
   id: OnPhrase
   parent: BaseQualitativePhrase
-  text: словосполучення на
+  text: phrase-on
 
 - type: quickPhrase
   id: OffPhrase
   parent: BaseQualitativePhrase
-  text: словосполучення
+  text: phrase-off
 
 - type: quickPhrase
   id: NotPhrase
   parent: BaseQualitativePhrase
-  text: фраза-не
+  text: phrase-not

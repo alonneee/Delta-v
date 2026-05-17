@@ -36,7 +36,7 @@
 #uplink categoires
 - type: storeCategory
   id: UplinkWeaponry
-  name: магазин-категорія-зброя
+  name: store-category-weapons
   priority: 0
 
 - type: storeCategory
@@ -46,7 +46,7 @@
 
 - type: storeCategory
   id: UplinkExplosives
-  name: магазин-категорія-вибухові речовини
+  name: store-category-explosives
   priority: 2
 
 - type: storeCategory
@@ -56,12 +56,12 @@
 
 - type: storeCategory
   id: UplinkChemicals
-  name: магазин-категорія-хім
+  name: store-category-chemicals
   priority: 4
 
 - type: storeCategory
   id: UplinkDeception
-  name: магазин-категорія-обман
+  name: store-category-deception
   priority: 5
 
 - type: storeCategory
@@ -76,17 +76,17 @@
 
 - type: storeCategory
   id: UplinkAllies
-  name: магазин-категорія-союзники
+  name: store-category-allies
   priority: 8
 
 - type: storeCategory
   id: UplinkJob
-  name: магазин-категорія-робота
+  name: store-category-job
   priority: 9
 
 - type: storeCategory
   id: UplinkPointless
-  name: магазин-категорія-безглуздо
+  name: store-category-pointless
   priority: 10
 
 #nukie delivery
@@ -113,5 +113,5 @@
 
 - type: storeCategory
   id: DiscountedItems
-  name: товари зі знижкою в магазині
+  name: store-discounted-items
   priority: 200

@@ -2,10 +2,10 @@
 ### ACTIVE INFLUENCES
 - type: influence
   id: InfluenceAberrantLapse
-  name: вплив-ім'я-пропуск
+  name: influence-name-lapse
   influenceType: influence-type-active
   cost: 10
-  description: вплив-опис-пропуск
+  description: influence-description-lapse
   icon:
     sprite: _DV/CosmicCult/Icons/cosmiccult_abilities.rsi
     state: lapse
@@ -14,10 +14,10 @@
 
 - type: influence
   id: InfluenceNullGlare
-  name: вплив-ім'я-відблиск
+  name: influence-name-glare
   influenceType: influence-type-active
   cost: 12
-  description: вплив-опис-відблиск
+  description: influence-description-glare
   icon:
     sprite: _DV/CosmicCult/Icons/cosmiccult_abilities.rsi
     state: glare
@@ -38,10 +38,10 @@
 
 - type: influence
   id: InfluenceForceIngress
-  name: вплив-ім'я-вхід
+  name: influence-name-ingress
   influenceType: influence-type-active
   cost: 14
-  description: культовий-гліф-ім'я-правда
+  description: influence-description-ingress
   icon:
     sprite: _DV/CosmicCult/Icons/cosmiccult_abilities.rsi
     state: ingress
@@ -50,10 +50,10 @@
 
 - type: influence
   id: InfluenceVacuousImposition
-  name: вплив-ім'я-нав'язування
+  name: influence-name-imposition
   influenceType: influence-type-active
   cost: 20
-  description: вплив-опис-нав'язування
+  description: influence-description-imposition
   icon:
     sprite: _DV/CosmicCult/Icons/cosmiccult_abilities.rsi
     state: entropic
@@ -62,10 +62,10 @@
 
 - type: influence
   id: InfluenceAstralNova
-  name: вплив-назва-нова
+  name: influence-name-nova
   influenceType: influence-type-active
   cost: 20
-  description: вплив-опис-нова
+  description: influence-description-nova
   icon:
     sprite: _DV/CosmicCult/Icons/cosmiccult_abilities.rsi
     state: nova
@@ -77,10 +77,10 @@
 
 - type: influence
   id: InfluenceEschewMetabolism
-  name: вплив-ім'я-уникати
+  name: influence-name-eschew
   influenceType: influence-type-passive
   cost: 8
-  description: вплив-опис-уникати
+  description: influence-description-eschew
   icon:
     sprite: _DV/CosmicCult/Icons/cosmiccult_abilities.rsi
     state: metabolism
@@ -91,10 +91,10 @@
 
 - type: influence
   id: InfluenceUnboundStep
-  name: вплив-ім'я-крок
+  name: influence-name-step
   influenceType: influence-type-passive
   cost: 14
-  description: вплив-опис-крок
+  description: influence-description-step
   icon:
     sprite: _DV/CosmicCult/Icons/cosmiccult_abilities.rsi
     state: step
@@ -104,10 +104,10 @@
 
 - type: influence
   id: InfluenceAstralStride
-  name: вплив-ім'я-кроком
+  name: influence-name-stride
   influenceType: influence-type-passive
   cost: 18
-  description: вплив-опис-крок
+  description: influence-description-stride
   icon:
     sprite: _DV/CosmicCult/Icons/cosmiccult_abilities.rsi
     state: stride
@@ -117,10 +117,10 @@
 
 - type: influence
   id: InfluenceVacuousVitality
-  name: вплив-назва-життєвість
+  name: influence-name-vitality
   influenceType: influence-type-passive
   cost: 20
-  description: Судові заборони
+  description: influence-description-vitality
   icon:
     sprite: _DV/CosmicCult/Icons/cosmiccult_abilities.rsi
     state: astral

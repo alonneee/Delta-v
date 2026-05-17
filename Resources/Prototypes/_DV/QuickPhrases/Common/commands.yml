@@ -7,74 +7,74 @@
 - type: quickPhrase
   id: GiveMePhrase
   parent: BaseImperativePhrase
-  text: фраза-дай-мені
+  text: phrase-give-me
 
 - type: quickPhrase
   id: NeedPhrase
   parent: BaseImperativePhrase
-  text: фраза-потреба
+  text: phrase-need
 
 - type: quickPhrase
   id: WantPhrase
   parent: BaseImperativePhrase
-  text: фраза-хочу
+  text: phrase-want
 
 - type: quickPhrase
   id: CantPhrase
   parent: BaseImperativePhrase
-  text: фразеологізм
+  text: phrase-cant
 
 - type: quickPhrase
   id: GoAwayPhrase
   parent: BaseImperativePhrase
-  text: фраза-відійти
+  text: phrase-go-away
 
 - type: quickPhrase
   id: ComeHerePhrase
   parent: BaseImperativePhrase
-  text: фраза-іди-сюди
+  text: phrase-come-here
 
 - type: quickPhrase
   id: GoToPhrase
   parent: BaseImperativePhrase
-  text: фраза-іти-до
+  text: phrase-go-to
 
 - type: quickPhrase
   id: DoNotPhrase
   parent: BaseImperativePhrase
-  text: фраза-заборонено
+  text: phrase-do-not
 
 - type: quickPhrase
   id: WaitPhrase
   parent: BaseImperativePhrase
-  text: фраза-небезпека-інфекція
+  text: phrase-wait
 
 - type: quickPhrase
   id: WillPhrase
   parent: BaseImperativePhrase
-  text: фраза-воля
+  text: phrase-will
 
 - type: quickPhrase
   id: ThisPhrase
   parent: BaseImperativePhrase
-  text: фраза-ця
+  text: phrase-this
 
 - type: quickPhrase
   id: TakePhrase
   parent: BaseImperativePhrase
-  text: фразеологізм
+  text: phrase-take
 
 - type: quickPhrase
   id: LeavePhrase
   parent: BaseImperativePhrase
-  text: фраза-як-зробити-я
+  text: phrase-leave
 
 - type: quickPhrase
   id: StayPhrase
   parent: BaseImperativePhrase
-  text: фраза-перебування
+  text: phrase-stay
 
 - type: quickPhrase
   id: StopPhrase
   parent: BaseImperativePhrase
-  text: фраза-стоп
+  text: phrase-stop

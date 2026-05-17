@@ -5,7 +5,7 @@
   - MobCombat
   - MobBloodstream
   id: MobHellspawn
-  description: Нестримна сила бійні.
+  description: An unstoppable force of carnage.
   components:
   - type: GhostRole
     allowMovement: true

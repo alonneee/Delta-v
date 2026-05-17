@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseItem
   id: UnfinishedForgedShotgun
-  name: збірна кована рушниця
-  description: Потрібне лише зварювання, щоб усе було на місці.
+  name: assembled forged shotgun
+  description: Just needs the welding to keep everything in place.
   components:
   - type: Item
     size: Normal
@@ -24,8 +24,8 @@
 - type: entity
   parent: BaseItem
   id: UnfinishedPistolForged
-  name: ковані деталі пістолета
-  description: Може знадобитися певна збірка. Потребує зварювання.
+  name: forged pistol parts
+  description: Some assembly may be reqiured. Needs welding.
   components:
   - type: Item
     size: Small
@@ -45,8 +45,8 @@
 - type: entity
   parent: BaseItem
   id: UnfinishedRevolverForged
-  name: ковані деталі револьверів
-  description: Може знадобитися певна збірка. Потребує зварювання.
+  name: forged revolver parts
+  description: Some assembly may be reqiured. Needs welding.
   components:
   - type: Item
     size: Small
@@ -66,8 +66,8 @@
 - type: entity
   parent: BaseItem
   id: UnfinishedSubMachineGunForged
-  name: ковані деталі SMG
-  description: Може знадобитися певна збірка. Потребує зварювання.
+  name: forged SMG parts
+  description: Some assembly may be reqiured. Needs welding.
   components:
   - type: Item
     size: Large
@@ -87,8 +87,8 @@
 - type: entity
   parent: BaseItem
   id: UnfinishedSniperForged
-  name: ковані снайперські деталі
-  description: Може знадобитися певна збірка. Потребує зварювання.
+  name: forged sniper parts
+  description: Some assembly may be reqiured. Needs welding.
   components:
   - type: Item
     size: Large
@@ -108,8 +108,8 @@
 - type: entity
   parent: BaseItem
   id: ModularBarrel
-  name: модульна бочка
-  description: Важливий компонент у створенні зброї.
+  name: modular barrel
+  description: A vital component in guncrafting.
   components:
   - type: Item
     size: Normal

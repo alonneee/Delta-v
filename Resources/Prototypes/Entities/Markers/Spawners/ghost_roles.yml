@@ -6,7 +6,7 @@
   abstract: true
   parent: MarkerBase
   id: BaseAntagSpawner
-  name: точка появи ролі привида
+  name: ghost role spawn point
   components:
   - type: GhostRole
     raffle:
@@ -15,8 +15,8 @@
 
 - type: entity
   id: SpawnPointGhostRatKing
-  name: точка появи ролі привида
-  suffix: щурячий король
+  name: ghost role spawn point
+  suffix: rat king
   parent: BaseAntagSpawner
   components:
   - type: GhostRole
@@ -38,8 +38,8 @@
 
 - type: entity
   id: SpawnPointGhostRemilia
-  name: точка появи ролі привида
-  suffix: Ремілія
+  name: ghost role spawn point
+  suffix: Remilia
   parent: MarkerBase
   components:
   - type: GhostRole
@@ -61,8 +61,8 @@
 
 - type: entity
   id: SpawnPointGhostCerberus
-  name: точка появи ролі привида
-  suffix: цербер
+  name: ghost role spawn point
+  suffix: cerberus
   parent: MarkerBase
   components:
   - type: GhostRole
@@ -85,7 +85,7 @@
 - type: entity
   categories: [ HideSpawnMenu, Spawner ]
   id: SpawnPointGhostNukeOperative
-  name: точка появи ролі привида
+  name: ghost role spawn point
   suffix: nukeops
   parent: MarkerBase
   components:
@@ -141,7 +141,7 @@
   components:
   - type: GhostRole
     name: roles-antag-nuclear-operative-agent-name
-    description: roles-atag-nuclear-operative-agent-objective
+    description: roles-antag-nuclear-operative-agent-objective
     rules: ghost-role-information-rules-default-team-antagonist
     mindRoles:
     - MindRoleNukeopsMedic
@@ -165,7 +165,7 @@
   components:
   - type: GhostRole
     name: ghost-role-information-space-dragon-name
-    description: deltav-ghost-role-information-space-dragon-description # DeltaV - Дракони зникають за 10 хвилин
+    description: deltav-ghost-role-information-space-dragon-description # DeltaV - Dragons despawn in 10 mins
     rules: ghost-role-information-space-dragon-rules
     mindRoles:
     - MindRoleDragon
@@ -345,8 +345,8 @@
   categories: [ HideSpawnMenu, Spawner ]
   parent: BaseAntagSpawner
   id: SpawnPointGhostWizard
-  name: точка появи ролі привида
-  suffix: майстер
+  name: ghost role spawn point
+  suffix: wizard
   components:
   - type: GhostRole
     name: ghost-role-information-wizard-name

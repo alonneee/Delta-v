@@ -1,7 +1,7 @@
 #Spawners
 - type: entity
   id: RandomSmokables
-  name: випадковий спаунер, який можна курити
+  name: random smokable spawner
   parent: MarkerBase
   placement:
     mode: PlaceFree
@@ -19,7 +19,7 @@
 
 - type: entity
   id: RandomSoakedCigarette
-  name: спаунер випадкових сигарет
+  name: random soaked cigarette spawner
   parent: MarkerBase
   placement:
     mode: PlaceFree

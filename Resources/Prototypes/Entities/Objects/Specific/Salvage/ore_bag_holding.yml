@@ -1,8 +1,8 @@
 - type: entity
-  name: рудний мішок холдингу
+  name: ore bag of holding
   id: OreBagOfHolding
   parent: OreBag
-  description: Міцний мішок для рятувальників-мільярдерів і багатих шахтарів для перевезення великої кількості руди. Намагнічує будь-яку довколишню руду, якщо її прикріпити до пояса.
+  description: A robust bag of holding for salvage billionaires and rich miners alike to carry large amounts of ore. Magnetises any nearby ores when attached to a belt.
   components:
   - type: MagnetPickup
     range: 2

@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseItem
   id: SprayPainter
-  name: розпилювач фарби
-  description: Фарба-розпилювач для фарбування шлюзів, труб та інших предметів.
+  name: spray painter
+  description: A spray painter for painting airlocks, pipes, and other items.
   components:
   - type: Sprite
     sprite: Objects/Tools/spray_painter.rsi
@@ -49,10 +49,10 @@
 
 - type: entity
   parent: SprayPainter
-  name: експериментальний художник-розпилювач
-  description: Експериментальний розпилювач з перезарядкою, який може нескінченно повторювати стиснуту фарбу.
+  name: experimental spray painter
+  description: An experimental recharging spray painter that can infinitely replicate compressed paint.
   id: SprayPainterBorg
-  suffix: Борг
+  suffix: Borg
   components:
   - type: AutoRecharge
     rechargeDuration: 5
@@ -60,7 +60,7 @@
 - type: entity
   parent: SprayPainter
   id: SprayPainterEmpty
-  suffix: Порожній
+  suffix: Empty
   components:
   - type: LimitedCharges
     lastCharges: -1
@@ -68,8 +68,8 @@
 - type: entity
   parent: BaseItem
   id: SprayPainterAmmo
-  name: спресована фарба
-  description: Картридж із сильно стисненою фарбою, який зазвичай використовується в фарбах з розпилювачами.
+  name: compressed paint
+  description: A cartridge of highly compressed paint, commonly used in spray painters.
   components:
   - type: SprayPainterAmmo
   - type: Sprite

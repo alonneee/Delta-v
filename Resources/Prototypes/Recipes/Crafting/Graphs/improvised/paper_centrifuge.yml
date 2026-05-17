@@ -16,24 +16,24 @@
               icon:
                 sprite: Objects/Specific/Chemistry/vial.rsi
                 state: vial
-              name: construction-graph-tag-power-cell-small
+              name: construction-graph-tag-centrifuge-compatible
               doAfter: 2
             - tag: CentrifugeCompatible
               icon:
                 sprite: Objects/Specific/Chemistry/vial.rsi
                 state: vial
-              name: construction-graph-tag-power-cell-small
+              name: construction-graph-tag-centrifuge-compatible
               doAfter: 2
             - tag: Paper
               icon:
                 sprite: Objects/Misc/bureaucracy.rsi
                 state: paper
-              name: будівельний міліметровий папір
+              name: construction-graph-tag-paper
             - tag: Paper
               icon:
                 sprite: Objects/Misc/bureaucracy.rsi
                 state: paper
-              name: будівельний міліметровий папір
+              name: construction-graph-tag-paper
 
     - node: makeshiftCentrifuge
       entity: HandheldMixerPaperCentrifuge

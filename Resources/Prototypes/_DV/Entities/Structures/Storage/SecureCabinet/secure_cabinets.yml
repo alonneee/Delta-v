@@ -3,8 +3,8 @@
   abstract: true
   parent: [ BaseStructureDynamic, BaseBagOpenClose ]
   id: BaseSecureCabinet
-  suffix: Порожній
-  description: Захищена шафа, щоб зберегти всі ваші конфіденційні файли чи предмети подалі від сторонніх рук.
+  suffix: Empty
+  description: A secure cabinet to keep all your confidential files or items away from prying hands.
   components:
   - type: Storage
     grid:
@@ -66,8 +66,8 @@
 - type: entity
   parent: BaseSecureCabinet
   id: SecureCabinet
-  name: Безпечний кабінет
-  suffix: Порожній
+  name: Secure Cabinet
+  suffix: Empty
   components:
   - type: Lock
   - type: LockVisuals
@@ -87,7 +87,7 @@
 - type: entity
   parent: SecureCabinet
   id: FilledSecureCabinet
-  suffix: Заповнений
+  suffix: Filled
   categories: [ HideSpawnMenu ]
   components:
   - type: EntityTableContainerFill
@@ -116,7 +116,7 @@
 - type: entity
   parent: FilledSecureCabinet
   id: SecureCabinetCaptain
-  suffix: Капітан
+  suffix: Captain
   components:
   - type: AccessReader
     access: [["Captain"]]
@@ -125,7 +125,7 @@
 - type: entity
   parent: FilledSecureCabinet
   id: SecureCabinetHoS
-  suffix: Начальник служби безпеки
+  suffix: Head Of Security
   components:
   - type: AccessReader
     access: [["HeadOfSecurity"]]
@@ -134,7 +134,7 @@
 - type: entity
   parent: FilledSecureCabinet
   id: SecureCabinetHoP
-  suffix: Начальник відділу персоналу
+  suffix: Head Of Personnel
   components:
   - type: AccessReader
     access: [["HeadOfPersonnel"]]
@@ -143,7 +143,7 @@
 - type: entity
   parent: FilledSecureCabinet
   id: SecureCabinetLO
-  suffix: Офіцер з логістики
+  suffix: Logistics Officer
   components:
   - type: AccessReader
     access: [["Quartermaster"]]
@@ -152,7 +152,7 @@
 - type: entity
   parent: FilledSecureCabinet
   id: SecureCabinetCMO
-  suffix: Головний лікар
+  suffix: Chief Medical Officer
   components:
   - type: AccessReader
     access: [["ChiefMedicalOfficer"]]
@@ -161,7 +161,7 @@
 - type: entity
   parent: FilledSecureCabinet
   id: SecureCabinetCJ
-  suffix: Головний суддя
+  suffix: Chief Justice
   components:
   - type: AccessReader
     access: [["ChiefJustice"]]
@@ -170,7 +170,7 @@
 - type: entity
   parent: FilledSecureCabinet
   id: SecureCabinetMG
-  suffix: Містагога
+  suffix: Mystagogue
   components:
   - type: AccessReader
     access: [["ResearchDirector"]]
@@ -179,7 +179,7 @@
 - type: entity
   parent: FilledSecureCabinet
   id: SecureCabinetCE
-  suffix: Головний інженер
+  suffix: Chief Engineer
   components:
   - type: AccessReader
     access: [["ChiefEngineer"]]
@@ -188,7 +188,7 @@
 - type: entity
   parent: FilledSecureCabinet
   id: SecureCabinetWarden
-  suffix: наглядач
+  suffix: Warden
   components:
   - type: AccessReader
     access: [["Armory"]]
@@ -197,7 +197,7 @@
 - type: entity
   parent: FilledSecureCabinet
   id: SecureCabinetDetective
-  suffix: Детектив
+  suffix: Detective
   components:
   - type: AccessReader
     access: [["Detective"]]
@@ -206,7 +206,7 @@
 - type: entity
   parent: FilledSecureCabinet
   id: SecureCabinetReporter
-  suffix: Репортер
+  suffix: Reporter
   components:
   - type: AccessReader
     access: [["Reporter"]]
@@ -215,7 +215,7 @@
 - type: entity
   parent: FilledSecureCabinet
   id: SecureCabinetClerk
-  suffix: Клерк
+  suffix: Clerk
   components:
   - type: AccessReader
     access: [["Clerk"]]
@@ -224,7 +224,7 @@
 - type: entity
   parent: FilledSecureCabinet
   id: SecureCabinetProsecutor
-  suffix: Прокурор
+  suffix: Prosecutor
   components:
   - type: AccessReader
     access: [["Prosecutor"]]

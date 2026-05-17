@@ -1,6 +1,6 @@
 - type: techDiscipline
   id: Industrial
-  name: науково-дисциплінарно-виробничий
+  name: research-discipline-industrial
   color: "#eeac34"
   icon:
     sprite: Interface/Misc/research_disciplines.rsi
@@ -13,7 +13,7 @@
 
 - type: techDiscipline
   id: Arsenal
-  name: дослідження-дисципліна-арсенал
+  name: research-discipline-arsenal
   color: "#dc373b"
   icon:
     sprite: Interface/Misc/research_disciplines.rsi
@@ -26,7 +26,7 @@
 
 - type: techDiscipline
   id: Experimental
-  name: науково-дисциплінарно-експериментальний
+  name: research-discipline-experimental
   color: "#9a6ef0"
   icon:
     sprite: Interface/Misc/research_disciplines.rsi
@@ -39,7 +39,7 @@
 
 - type: techDiscipline
   id: CivilianServices
-  name: науково-дисциплінарна-державна служба
+  name: research-discipline-civilian-services
   color: "#7ecd48"
   icon:
     sprite: Interface/Misc/research_disciplines.rsi

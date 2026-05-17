@@ -2,7 +2,7 @@
 
 - type: technology
   id: ParamedicHardsuit
-  name: дослідження-технологія-парамедик-ева
+  name: research-technology-paramedic-eva
   icon:
     sprite: Clothing/OuterClothing/Hardsuits/paramed.rsi
     state: icon
@@ -14,7 +14,7 @@
 
 - type: technology # Adds separate research for Frontier Plant Analyzer
   id: PlantAnalyzerTechnology
-  name: дослідження-технологія-завод-аналізатор
+  name: research-technology-plant-analyzer
   icon:
     sprite: _NF/Objects/Devices/plant_analyzer.rsi
     state: icon

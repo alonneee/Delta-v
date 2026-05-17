@@ -7,54 +7,54 @@
 - type: quickPhrase
   id: SpeciesPersonPhrase
   parent: BaseGenericSpeciesPhrase
-  text: словосполучення-вид-особа
+  text: phrase-species-person
 
 - type: quickPhrase
   id: SpeciesAnimalPhrase
   parent: BaseGenericSpeciesPhrase
-  text: словосполучення-вид-тварина
+  text: phrase-species-animal
 
 - type: quickPhrase
   id: SpeciesCorpsePhrase
   parent: BaseGenericSpeciesPhrase
-  text: фраза-вид-труп
+  text: phrase-species-corpse
 
 - type: quickPhrase
   id: SpeciesRobotPhrase
   parent: BaseGenericSpeciesPhrase
-  text: фраза-вид-робот
+  text: phrase-species-robot
 
 - type: quickPhrase
   id: SpeciesAlienPhrase
   parent: BaseGenericSpeciesPhrase
-  text: словосполучення-вид-чужий
+  text: phrase-species-alien
 
 - type: quickPhrase
   id: SpeciesMonsterPhrase
   parent: BaseGenericSpeciesPhrase
-  text: словосполучення-вид-монстр
+  text: phrase-species-monster
 
 - type: quickPhrase
   id: SpeciesGhostPhrase
   parent: BaseGenericSpeciesPhrase
-  text: фраза-вид-привид
+  text: phrase-species-ghost
 
 - type: quickPhrase
   id: SpeciesPestPhrase
   parent: BaseGenericSpeciesPhrase
-  text: фраза-вид-шкідник
+  text: phrase-species-pest
 
 - type: quickPhrase
   id: SpeciesInsectPhrase
   parent: BaseGenericSpeciesPhrase
-  text: робота-назва-вчений
+  text: phrase-species-insect
 
 - type: quickPhrase
   id: SpeciesPetPhrase
   parent: BaseGenericSpeciesPhrase
-  text: фраза-вид-домашня тварина
+  text: phrase-species-pet
 
 - type: quickPhrase
   id: SpeciesFishPhrase
   parent: BaseGenericSpeciesPhrase
-  text: фраза-вид-риба
+  text: phrase-species-fish

@@ -6,7 +6,7 @@
 #Basic lights
 - type: entity
   id: AlwaysPoweredWallLight
-  name: рецепт супу з фрикадельками
+  name: light
   description: "An always powered light."
   suffix: Always powered
   components:
@@ -94,10 +94,10 @@
     - Wallmount
 
 - type: entity
-  name: рецепт супу з фрикадельками
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
+  name: light
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
   id: PoweredlightEmpty
-  suffix: Порожній
+  suffix: Empty
   parent: AlwaysPoweredWallLight
   components:
   - type: Sprite
@@ -140,7 +140,7 @@
 
 - type: entity
   id: Poweredlight
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
   suffix: ""
   parent: PoweredlightEmpty
   components:
@@ -165,7 +165,7 @@
 #LED lights
 - type: entity
   id: PoweredlightLED
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
   suffix: LED
   parent: Poweredlight
   components:
@@ -196,8 +196,8 @@
 #Exterior lights
 - type: entity
   id: PoweredlightExterior
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
-  suffix: Синій
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
+  suffix: Blue
   categories: [ HideSpawnMenu ] # DeltaV - Don't map these
   parent: Poweredlight
   components:
@@ -223,7 +223,7 @@
 #Sodium lights
 - type: entity
   id: PoweredlightSodium
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено світловою трубкою».
+  description: "A light fixture. Draws power and produces light when equipped with a light tube."
   suffix: Sodium
   parent: Poweredlight
   components:
@@ -256,7 +256,7 @@
   name: small light
   description: "An always powered light."
   id: SmallLight
-  suffix: Завжди підключений
+  suffix: Always Powered
   parent: AlwaysPoweredWallLight
   components:
     - type: AmbientSound
@@ -313,9 +313,9 @@
 
 - type: entity
   name: small light
-  description: "Світильник. Споживає електроенергію та виробляє світло, якщо оснащено лампочкою».
+  description: "A light fixture. Draws power and produces light when equipped with a light bulb."
   id: PoweredSmallLightEmpty
-  suffix: Порожній
+  suffix: Empty
   parent: SmallLight
   components:
   - type: Sprite
@@ -551,7 +551,7 @@
 
 - type: entity
   id: PoweredlightBlue
-  suffix: Синій
+  suffix: Blue
   parent: Poweredlight
   components:
   - type: PoweredLight
@@ -609,7 +609,7 @@
 
 - type: entity
   id: PoweredlightPink
-  suffix: Рожевий
+  suffix: Pink
   parent: Poweredlight
   components:
   - type: PoweredLight
@@ -638,7 +638,7 @@
 
 - type: entity
   id: PoweredlightOrange
-  suffix: Помаранчевий
+  suffix: Orange
   parent: Poweredlight
   components:
   - type: PoweredLight
@@ -656,7 +656,7 @@
 
 - type: entity
   id: AlwaysPoweredlightOrange
-  suffix: Завжди підключений, Orange
+  suffix: Always Powered, Orange
   parent: AlwaysPoweredWallLight
   components:
   - type: PointLight
@@ -667,7 +667,7 @@
 
 - type: entity
   id: PoweredlightBlack
-  suffix: чорний
+  suffix: Black
   parent: Poweredlight
   description:
   components:
@@ -686,7 +686,7 @@
 
 - type: entity
   id: AlwaysPoweredlightBlack
-  suffix: Завжди підключений, чорний
+  suffix: Always Powered, Black
   parent: AlwaysPoweredWallLight
   components:
   - type: PointLight
@@ -697,7 +697,7 @@
 
 - type: entity
   id: PoweredlightRed
-  suffix: Червоний
+  suffix: Red
   parent: Poweredlight
   components:
   - type: PoweredLight
@@ -715,7 +715,7 @@
 
 - type: entity
   id: AlwaysPoweredlightRed
-  suffix: Завжди підключений, червоний
+  suffix: Always Powered, Red
   parent: AlwaysPoweredWallLight
   components:
   - type: PointLight
@@ -726,7 +726,7 @@
 
 - type: entity
   id: PoweredlightGreen
-  suffix: Зелений
+  suffix: Green
   parent: Poweredlight
   components:
   - type: PoweredLight
@@ -744,7 +744,7 @@
 
 - type: entity
   id: AlwaysPoweredlightGreen
-  suffix: Завжди підключений, зелений
+  suffix: Always Powered, Green
   parent: AlwaysPoweredWallLight
   components:
   - type: PointLight

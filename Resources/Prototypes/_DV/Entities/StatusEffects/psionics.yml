@@ -2,7 +2,7 @@
 - type: entity
   parent: MobStatusEffectDebuff
   id: StatusEffectPsionicsDisabled
-  name: псіоніка вимкнена
+  name: psionics disabled
   components:
   - type: PsionicsDisabled
 
@@ -10,7 +10,7 @@
 - type: entity
   parent: MobStatusEffectBase
   id: StatusEffectShieldedFromPsionics
-  name: Машинна друкована плата для епістемічного техфабу.
+  name: shielded from psionics
   components:
   - type: ShieldedFromPsionics
 
@@ -18,7 +18,7 @@
 - type: entity
   parent: MobStatusEffectDebuff
   id: StatusEffectTelepathicRepeater
-  name: телепатичний ретранслятор
+  name: telepathic repeater
   components:
   - type: TelepathicRepeater
 
@@ -26,10 +26,10 @@
 - type: entity
   parent: [ StatusEffectSlowdown, MobStatusEffectDebuff ]
   id: PrecognitionSlowdownStatusEffect
-  name: сповільнюється силою передбачення
+  name: slowed by precognition power
 
 # Slows down the user when using the mass sleep ability.
 - type: entity
   parent: [ StatusEffectSlowdown, MobStatusEffectDebuff ]
   id: MassSleepSlowdownStatusEffect
-  name: уповільнена силою масового сну
+  name: slowed by mass sleep power

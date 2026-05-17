@@ -1,6 +1,6 @@
 - type: guideEntry
   id: Service
-  name: гід-вхід-сервіс
+  name: guide-entry-service
   text: "/ServerInfo/Guidebook/Service/Service.xml"
   filterEnabled: True
   children:
@@ -11,21 +11,21 @@
   
 - type: guideEntry
   id: Bartender
-  name: гід-вхід-бармен
+  name: guide-entry-bartender
   text: "/ServerInfo/Guidebook/Service/Bartender.xml"
   filterEnabled: True
 
 - type: guideEntry
   id: Botany
-  name: путівник-вхід-ботаніка
+  name: guide-entry-botany
   text: "/ServerInfo/Guidebook/Service/Botany.xml"
 
 - type: guideEntry
   id: Chef
-  name: гід-вхід-кухар
+  name: guide-entry-chef
   text: "/ServerInfo/Guidebook/Service/Chef.xml"
 
 - type: guideEntry
   id: Janitorial
-  name: гід-вхід-двірник
+  name: guide-entry-janitorial
   text: "/ServerInfo/Guidebook/Service/Janitorial.xml"

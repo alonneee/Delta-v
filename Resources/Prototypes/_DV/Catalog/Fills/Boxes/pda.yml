@@ -1,8 +1,8 @@
 - type: entity
-  name: безпека КПК
+  name: security PDA box
   parent: BoxPDA
   id: BoxPDASecurity
-  description: Коробка запасних мікрокомп'ютерів КПК для служби безпеки.
+  description: A box of spare PDA microcomputers for the security department.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -14,10 +14,10 @@
         - id: SeniorOfficerPDA
 
 - type: entity
-  name: ув'язнений КПК
+  name: prisoner PDA box
   parent: BoxPDA
   id: BoxPDAPrisoner
-  description: Коробка запасних мікрокомп'ютерів КПК для наглядача для використання ув'язненими.
+  description: A box of spare PDA microcomputers for the warden to use for prisoners.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -26,10 +26,10 @@
         amount: 4
 
 - type: entity
-  name: медична коробка КПК
+  name: medical PDA box
   parent: BoxPDA
   id: BoxPDAMedical
-  description: Коробка запасних мікрокомп'ютерів КПК для медичного відділення.
+  description: A box of spare PDA microcomputers for the medical department.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -44,7 +44,7 @@
   name: epistemics PDA box
   parent: BoxPDA
   id: BoxPDAScience
-  description: Коробка запасних мікрокомп'ютерів КПК для епістемологічного відділу.
+  description: A box of spare PDA microcomputers for the epistemics department.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -56,10 +56,10 @@
         - id: SeniorResearcherPDA
 
 - type: entity
-  name: інженерна коробка КПК
+  name: engineering PDA box
   parent: BoxPDA
   id: BoxPDAEngineering
-  description: Коробка запасних мікрокомп'ютерів КПК для інженерного відділу.
+  description: A box of spare PDA microcomputers for the engineering department.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -71,10 +71,10 @@
         - id: TechnicalAssistantPDA
 
 - type: entity
-  name: логістика КПК
+  name: logistics PDA box
   parent: BoxPDA
   id: BoxPDACargo
-  description: Коробка запасних мікрокомп'ютерів КПК для відділу логістики.
+  description: A box of spare PDA microcomputers for the logistics department.
   components:
   - type: EntityTableContainerFill
     containers:
@@ -86,10 +86,10 @@
         - id: MailCarrierPDA
 
 - type: entity
-  name: правосуддя КПК
+  name: justice PDA box
   parent: BoxPDA
   id: BoxPDAJustice
-  description: Коробка запасних мікрокомп'ютерів КПК для юстиції.
+  description: A box of spare PDA microcomputers for the justice department.
   components:
   - type: EntityTableContainerFill
     containers:

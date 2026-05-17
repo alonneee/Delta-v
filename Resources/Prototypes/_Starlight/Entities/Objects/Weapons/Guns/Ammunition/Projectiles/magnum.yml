@@ -1,6 +1,6 @@
 - type: entity
   id: BulletMagnumImprovised
-  name: куля (.45 magnum імпровізована)
+  name: bullet (.45 magnum improvised)
   parent: BaseBullet
   categories: [ HideSpawnMenu ]
   components:

@@ -20,7 +20,7 @@
 
 - type: siliconLawset
   id: ForbinLaws
-  name: закон-заборон-назва
+  name: law-forbin-name
   laws:
   - Forbin1
   - Forbin2

@@ -16,7 +16,7 @@
 
 - type: construction
   id: ClosetFreezer
-  name: будівництво-рецепт-шафа-морозильна камера
+  name: construction-recipe-closet-freezer
   graph: ClosetFreezer
   startNode: start
   targetNode: done

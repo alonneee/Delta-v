@@ -14,7 +14,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeCheeseCurds
-  name: рецепт сирної маси
+  name: cheese curds recipe
   result: FoodCheeseCurds
   time: 5
   solids:
@@ -22,7 +22,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothHerbyCheese
-  name: рецепт трав'яного сиру
+  name: herby cheese recipe
   result: FoodMothHerbyCheese
   time: 5
   solids:
@@ -33,7 +33,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeBoritoPie
-  name: рецепт пирога боріто
+  name: borito pie recipe
   result: FoodBoritoPie
   time: 15
   group: Pie
@@ -47,7 +47,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeBlueTomatoSoup
-  name: Рецепт супу з синіх помідорів
+  name: blue tomato soup recipe
   result: FoodSoupTomatoBlue
   time: 10
   group: Soup
@@ -59,7 +59,7 @@
 
 - type: microwaveMealRecipe
   id: RecipePurpleTomatoSoup
-  name: Рецепт фіолетового томатного супу
+  name: purple tomato soup recipe
   result: FoodSoupTomatoPurple
   time: 10
   group: Soup
@@ -86,7 +86,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothChiliCabbageWrap
-  name: Рецепт обгортання солодкою капустою чилі
+  name: sweet chili cabbage wrap recipe
   result: FoodMothChiliCabbageWrap
   time: 15
   group: Salad
@@ -100,7 +100,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothCornmealPorridge
-  name: рецепт кукурудзяної каші
+  name: cornmeal porridge recipe
   result: FoodMothCornmealPorridge
   time: 10
   group: Soup
@@ -112,7 +112,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothVegetarianChili
-  name: вегетаріанський рецепт чилі
+  name: vegetarian chili recipe
   result: FoodMothVegetarianChili
   time: 10
   group: Soup
@@ -128,7 +128,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeScrambledEggs
-  name: рецепт яєчні
+  name: scrambled eggs recipe
   result: FoodMealScrambledEggs
   time: 5
   group: Savory
@@ -141,7 +141,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeChickenNuggetBox
-  name: рецепт коробки з курячими нагетсами
+  name: chicken nugget box recipe
   result: FoodBoxNugget
   time: 10
   group: Savory
@@ -154,7 +154,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeFishChips
-  name: рецепт риби та чіпсів
+  name: fish and chips recipe
   result: FoodMealFishChips
   time: 15
   group: Savory
@@ -167,7 +167,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothSqueakingFry
-  name: рецепт сковороди
+  name: squeaking stir fry recipe
   result: FoodMothSqueakingFry
   time: 15
   group: Savory
@@ -182,7 +182,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothEngineFodder
-  name: конструкція-граф-тег-паперообробка-панель-інструментів
+  name: engine fodder recipe
   result: FoodMothEngineFodder
   time: 30
   group: Savory
@@ -194,7 +194,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothFueljackLunch
-  name: рецепт обіду Fueljack
+  name: fueljack lunch recipe
   result: FoodMothFueljackLunch
   time: 15
   group: Savory
@@ -207,7 +207,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothToastedSeeds
-  name: рецепт підсмажених насіння
+  name: toasted seeds recipe
   result: FoodMothToastedSeeds
   time: 15
   group: Savory
@@ -220,7 +220,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothBakedCheese
-  name: рецепт запеченого сиру
+  name: baked cheese recipe
   result: FoodMothBakedCheese
   time: 15
   group: Savory
@@ -229,7 +229,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothBakedCheesePlatter
-  name: рецепт запеченої сирної тарілки
+  name: baked cheese platter recipe
   result: FoodMothBakedCheesePlatter
   time: 5
   group: Savory
@@ -239,7 +239,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothBakedRice
-  name: рецепт печеного рису
+  name: baked rice recipe
   result: FoodMothBakedRice
   time: 15
   group: Savory
@@ -252,7 +252,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothGreenLasagne
-  name: Рецепт зеленої лазаньї
+  name: green lasagne recipe
   result: FoodMothGreenLasagne
   time: 20
   group: Savory
@@ -265,7 +265,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothBakedCorn
-  name: рецепт печеної кукурудзи
+  name: baked corn recipe
   result: FoodMothBakedCorn
   time: 15
   group: Savory
@@ -274,7 +274,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothButteredBakedCorn
-  name: рецепт запеченої кукурудзи в маслі
+  name: buttered baked corn recipe
   result: FoodMothButteredBakedCorn
   time: 5
   group: Savory
@@ -286,7 +286,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothMozzarellaSticks
-  name: Рецепт паличок моцарелла
+  name: mozzarella sticks recipe
   result: FoodMothMozzarellaSticks
   time: 15
   group: Savory
@@ -298,7 +298,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothMacBalls
-  name: Рецепт кульок Mac
+  name: mac balls recipe
   result: FoodMothMacBalls
   time: 15
   group: Savory
@@ -310,7 +310,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothHuaMulanCongee
-  name: Рецепт відвару мулан
+  name: mulan congee recipe
   result: FoodMothHuaMulanCongee
   time: 10
   group: Savory
@@ -321,7 +321,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothCheesyPorridge
-  name: рецепт сирної каші
+  name: cheesy porridge recipe
   result: FoodMothCheesyPorridge
   time: 10
   group: Savory
@@ -335,7 +335,7 @@
 
 - type: microwaveMealRecipe
   id: RecipeMothEggplantPolenta
-  name: рецепт смажених баклажанів і поленти
+  name: fried eggplant and polenta recipe
   result: FoodMothEggplantPolenta
   time: 10
   group: Savory

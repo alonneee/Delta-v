@@ -20,7 +20,7 @@
         acts: [ "Destruction" ]
 
 - type: entity
-  name: скибочка ванільного коржа
+  name: explosive payload
   parent: [ BasePayload, BaseSecurityContraband ]
   id: ExplosivePayload
   components:
@@ -48,10 +48,10 @@
     - Payload
 
 - type: entity
-  name: хімічне корисне навантаження
+  name: chemical payload
   parent: [ BasePayload, BaseMedicalScienceContraband ]
   id: ChemicalPayload
-  description: Хімічний корисний вантаж. Є місце для зберігання двох склянок. У поєднанні з тригером і футляром це можна використовувати для ініціювання хімічних реакцій.
+  description: A chemical payload. Has space to store two beakers. In combination with a trigger and a case, this can be used to initiate chemical reactions.
   components:
   - type: Sprite
     sprite: Objects/Devices/payload.rsi
@@ -84,10 +84,10 @@
     price: 60
 
 - type: entity
-  name: флеш корисне навантаження
+  name: flash payload
   parent: [ BasePayload, BaseSecurityScienceCommandContraband ]
   id: FlashPayload
-  description: Одноразове флеш-навантаження.
+  description: A single-use flash payload.
   components:
     - type: Sprite
       sprite: Objects/Devices/payload.rsi

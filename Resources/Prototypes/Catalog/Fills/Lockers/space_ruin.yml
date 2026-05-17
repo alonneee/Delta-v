@@ -1,8 +1,8 @@
 #Old AI sat voidsuits
 - type: entity
   id: LockerOldAISat
-  name: шафа
-  suffix: Шафа для скафандра NTSRA
+  name: closet
+  suffix: NTSRA voidsuit locker
   parent: LockerSyndicate
   components:
   - type: EntityTableContainerFill
@@ -22,7 +22,7 @@
 - type: entity
   id: LockerSyndicateShipGearBasic
   parent: LockerSyndicate
-  suffix: Містить 2 костюми біологічної небезпеки, щоб жодна хвороба не відволікала вас від прибирання.
+  suffix: Basic ship gear, Random
   components:
   - type: EntityTableContainerFill
     containers:
@@ -48,7 +48,7 @@
 - type: entity
   id: LockerSyndicateShipGearBasicChameleonKit
   parent: LockerSyndicateShipGearBasic
-  suffix: Базове корабельне спорядження, випадковий набір, хамелеон
+  suffix: Basic ship gear, Random, Chameleon Kit
   components:
   - type: EntityTableContainerFill
     containers:

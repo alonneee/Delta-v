@@ -1,7 +1,7 @@
 - type: entity
   id: PlayerBorgMedical
   parent: BorgChassisMedical
-  suffix: Акумулятор
+  suffix: Battery
   components:
   - type: ContainerFill
     containers:
@@ -20,7 +20,7 @@
 - type: entity
   parent: BorgChassisSecurity
   id: PlayerBorgSecurity
-  suffix: Акумулятор
+  suffix: Battery
   components:
   - type: ContainerFill
     containers:
@@ -39,7 +39,7 @@
 - type: entity
   parent: BorgChassisSyndicateMedical
   id: BorgChassisSyndicateMedicalBattery
-  suffix: Батарея, роль привида
+  suffix: Battery, Ghost Role
   components:
   - type: NukeOperative
   - type: ContainerFill
@@ -63,11 +63,11 @@
 - type: entity
   parent: BorgChassisSyndicateMedicalBattery
   id: PlayerBorgSyndicateMedicalGhostRole
-  suffix: Роль привида
+  suffix: Ghost role
   components:
     - type: GhostRole
       name: ghost-role-information-syndicate-cyborg-medical-name
-      description: Bluespace
+      description: ghost-role-information-syndicate-cyborg-description
       rules: ghost-role-information-silicon-rules
       raffle:
         settings: default

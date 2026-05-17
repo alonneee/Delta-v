@@ -1,6 +1,6 @@
 - type: seed
   id: wheat
-  name: насіння-пшениця-ім
+  name: seeds-wheat-name
   noun: seeds-noun-seeds
   displayName: seeds-wheat-display-name
   plantRsi: Objects/Specific/Hydroponics/wheat.rsi
@@ -28,7 +28,7 @@
 
 - type: seed
   id: meatwheat
-  name: насіння-пшениця-ім
+  name: seeds-meatwheat-name
   noun: seeds-noun-seeds
   displayName: seeds-meatwheat-display-name
   plantRsi: Objects/Specific/Hydroponics/meatwheat.rsi
@@ -54,7 +54,7 @@
 
 - type: seed
   id: oat
-  name: насіння-овес-ім
+  name: seeds-oat-name
   noun: seeds-noun-seeds
   displayName: seeds-oat-display-name
   plantRsi: Objects/Specific/Hydroponics/oat.rsi
@@ -80,7 +80,7 @@
 
 - type: seed
   id: banana
-  name: насіння-банан-назва
+  name: seeds-banana-name
   noun: seeds-noun-seeds
   displayName: seeds-banana-display-name
   plantRsi: Objects/Specific/Hydroponics/banana.rsi
@@ -109,7 +109,7 @@
 
 - type: seed
   id: mimana
-  name: насіння-мімана-назва
+  name: seeds-mimana-name
   noun: seeds-noun-seeds
   displayName: seeds-mimana-display-name
   plantRsi: Objects/Specific/Hydroponics/mimana.rsi
@@ -136,7 +136,7 @@
 
 - type: seed
   id: carrots
-  name: насіння-морква-ім
+  name: seeds-carrots-name
   noun: seeds-noun-seeds
   displayName: seeds-carrots-display-name
   plantRsi: Objects/Specific/Hydroponics/carrot.rsi
@@ -201,7 +201,7 @@
 
 - type: seed
   id: lemon
-  name: насіння-лимон-назва
+  name: seeds-lemon-name
   noun: seeds-noun-seeds
   displayName: seeds-lemon-display-name
   plantRsi: Objects/Specific/Hydroponics/lemon.rsi
@@ -257,7 +257,7 @@
 
 - type: seed
   id: lime
-  name: насіння-липа-ім
+  name: seeds-lime-name
   noun: seeds-noun-seeds
   displayName: seeds-lime-display-name
   plantRsi: Objects/Specific/Hydroponics/lime.rsi
@@ -346,7 +346,7 @@
 
 - type: seed
   id: pineapple
-  name: насіння-ананас-назва
+  name: seeds-pineapple-name
   noun: seeds-noun-seeds
   displayName: seeds-pineapple-display-name
   plantRsi: Objects/Specific/Hydroponics/pineapple.rsi
@@ -377,7 +377,7 @@
 
 - type: seed
   id: potato
-  name: частина тіла ipc"
+  name: seeds-potato-name
   noun: seeds-noun-seeds
   displayName: seeds-potato-display-name
   plantRsi: Objects/Specific/Hydroponics/potato.rsi
@@ -403,7 +403,7 @@
 
 - type: seed
   id: sugarcane
-  name: насіння цукрової тростини ім
+  name: seeds-sugarcane-name
   noun: seeds-noun-seeds
   displayName: seeds-sugarcane-display-name
   plantRsi: Objects/Specific/Hydroponics/sugarcane.rsi
@@ -428,7 +428,7 @@
 
 - type: seed
   id: teaPlant
-  name: насіння-чайник-назва
+  name: seeds-teaplant-name
   noun: seeds-noun-seeds
   displayName: seeds-teaplant-display-name
   plantRsi: Objects/Specific/Hydroponics/tea_plant.rsi
@@ -471,7 +471,7 @@
 
 - type: seed
   id: towercap
-  name: alerts-weightless-desc
+  name: seeds-towercap-name
   noun: seeds-noun-spores
   displayName: seeds-towercap-display-name
   plantRsi: Objects/Specific/Hydroponics/towercap.rsi
@@ -494,7 +494,7 @@
 
 - type: seed
   id: steelcap
-  name: насіння-сталькапка-назва
+  name: seeds-steelcap-name
   noun: seeds-noun-spores
   displayName: seeds-steelcap-display-name
   plantRsi: Objects/Specific/Hydroponics/steelcap.rsi
@@ -515,7 +515,7 @@
 
 - type: seed
   id: tomato
-  name: насіння-томатів-назва
+  name: seeds-tomato-name
   noun: seeds-noun-seeds
   displayName: seeds-tomato-display-name
   plantRsi: Objects/Specific/Hydroponics/tomato.rsi
@@ -586,7 +586,7 @@
 
 - type: seed
   id: bloodTomato
-  name: насіння-томатів-назва
+  name: seeds-bloodtomato-name
   noun: seeds-noun-seeds
   displayName: seeds-bloodtomato-display-name
   plantRsi: Objects/Specific/Hydroponics/blood_tomato.rsi
@@ -618,7 +618,7 @@
 
 - type: seed
   id: killerTomato
-  name: station-ai-hologram-cat
+  name: seeds-killertomato-name
   noun: seeds-noun-seeds
   displayName: seeds-killertomato-display-name
   plantRsi: Objects/Specific/Hydroponics/tomatokiller.rsi
@@ -651,7 +651,7 @@
 
 - type: seed
   id: eggplant
-  name: насіння-баклажани-назва
+  name: seeds-eggplant-name
   noun: seeds-noun-seeds
   displayName: seeds-eggplant-display-name
   plantRsi: Objects/Specific/Hydroponics/eggplant.rsi
@@ -681,7 +681,7 @@
 
 - type: seed
   id: cabbage
-  name: насіння-капуста-ім
+  name: seeds-cabbage-name
   noun: seeds-noun-seeds
   displayName: seeds-cabbage-display-name
   plantRsi: Objects/Specific/Hydroponics/cabbage.rsi
@@ -706,7 +706,7 @@
 
 - type: seed
   id: garlic
-  name: насіння-часник-ім
+  name: seeds-garlic-name
   noun: seeds-noun-seeds
   displayName: seeds-garlic-display-name
   plantRsi: Objects/Specific/Hydroponics/garlic.rsi
@@ -735,7 +735,7 @@
 
 - type: seed
   id: apple
-  name: насіння-яблуко-назва
+  name: seeds-apple-name
   noun: seeds-noun-seeds
   displayName: seeds-apple-display-name
   plantRsi: Objects/Specific/Hydroponics/apple.rsi
@@ -795,7 +795,7 @@
 
 - type: seed
   id: corn
-  name: насіння-кукурудза-назва
+  name: seeds-corn-name
   noun: seeds-noun-seeds
   displayName: seeds-corn-display-name
   plantRsi: Objects/Specific/Hydroponics/corn.rsi
@@ -823,7 +823,7 @@
 
 - type: seed
   id: onion
-  name: насіння-цибуля-ім
+  name: seeds-onion-name
   noun: seeds-noun-seeds
   displayName: seeds-onion-display-name
   plantRsi: Objects/Specific/Hydroponics/onion.rsi
@@ -858,7 +858,7 @@
 
 - type: seed
   id: onionred
-  name: насіння-цибулячервона-ім
+  name: seeds-onionred-name
   noun: seeds-noun-seeds
   displayName: seeds-onionred-display-name
   plantRsi: Objects/Specific/Hydroponics/onion_red.rsi
@@ -890,7 +890,7 @@
 
 - type: seed
   id: chanterelle
-  name: насіння-лисички-ім
+  name: seeds-chanterelle-name
   noun: seeds-noun-spores
   displayName: seeds-chanterelle-display-name
   plantRsi: Objects/Specific/Hydroponics/chanterelle.rsi
@@ -939,7 +939,7 @@
 
 - type: seed
   id: cannabis
-  name: насіння конопель ім
+  name: seeds-cannabis-name
   noun: seeds-noun-seeds
   displayName: seeds-cannabis-display-name
   plantRsi: Objects/Specific/Hydroponics/cannabis.rsi
@@ -966,7 +966,7 @@
 
 - type: seed
   id: rainbowCannabis
-  name: seeds-rainbow-canabis-name
+  name: seeds-rainbow-cannabis-name
   noun: seeds-noun-seeds
   displayName: seeds-rainbow-cannabis-display-name
   plantRsi: Objects/Specific/Hydroponics/rainbow_cannabis.rsi
@@ -1011,7 +1011,7 @@
 
 - type: seed
   id: tobacco
-  name: насіння-тютюн-ім
+  name: seeds-tobacco-name
   noun: seeds-noun-seeds
   displayName: seeds-tobacco-display-name
   plantRsi: Objects/Specific/Hydroponics/tobacco.rsi
@@ -1036,7 +1036,7 @@
 
 - type: seed
   id: nettle
-  name: насіння кропиви ім
+  name: seeds-nettle-name
   noun: seeds-noun-seeds
   displayName: seeds-nettle-display-name
   plantRsi: Objects/Specific/Hydroponics/nettle.rsi
@@ -1127,7 +1127,7 @@
 
 - type: seed
   id: chilly
-  name: насіння-чилі-ім
+  name: seeds-chilly-name
   noun: seeds-noun-seeds
   displayName: seeds-chilly-display-name
   plantRsi: Objects/Specific/Hydroponics/chilly.rsi
@@ -1158,7 +1158,7 @@
 
 - type: seed
   id: poppy
-  name: насіння-мак-ім
+  name: seeds-poppy-name
   noun: seeds-noun-seeds
   displayName: seeds-poppy-display-name
   plantRsi: Objects/Specific/Hydroponics/poppy.rsi
@@ -1186,7 +1186,7 @@
 
 - type: seed
   id: aloe
-  name: насіння-алое-ім
+  name: seeds-aloe-name
   noun: seeds-noun-seeds
   displayName: seeds-aloe-display-name
   plantRsi: Objects/Specific/Hydroponics/aloe.rsi
@@ -1212,7 +1212,7 @@
 
 - type: seed
   id: lily
-  name: насіння-лілія-назва
+  name: seeds-lily-name
   noun: seeds-noun-seeds
   displayName: seeds-lily-display-name
   plantRsi: Objects/Specific/Hydroponics/lily.rsi
@@ -1240,7 +1240,7 @@
 
 - type: seed
   id: lingzhi
-  name: насіння-лінчжі-назва
+  name: seeds-lingzhi-name
   noun: seeds-noun-spores
   displayName: seeds-lingzhi-display-name
   plantRsi: Objects/Specific/Hydroponics/lingzhi.rsi
@@ -1266,7 +1266,7 @@
 
 - type: seed
   id: ambrosiaVulgaris
-  name: насіння-ambrosiavulgaris-назва
+  name: seeds-ambrosiavulgaris-name
   noun: seeds-noun-seeds
   displayName: seeds-ambrosiavulgaris-display-name
   plantRsi: Objects/Specific/Hydroponics/ambrosia_vulgaris.rsi
@@ -1302,7 +1302,7 @@
 
 - type: seed
   id: ambrosiaDeus
-  name: насіння-ambrosiadeus-назва
+  name: seeds-ambrosiadeus-name
   noun: seeds-noun-seeds
   displayName: seeds-ambrosiadeus-display-name
   plantRsi: Objects/Specific/Hydroponics/ambrosia_deus.rsi
@@ -1332,7 +1332,7 @@
 
 - type: seed
   id: galaxythistle
-  name: насіння-галактиста-назва
+  name: seeds-galaxythistle-name
   noun: seeds-noun-seeds
   displayName: seeds-galaxythistle-display-name
   plantRsi: Objects/Specific/Hydroponics/galaxythistle.rsi
@@ -1438,7 +1438,7 @@
 
 - type: seed
   id: fakeCapfruit
-  name: насіння-капфрут-назва
+  name: seeds-capfruit-name
   noun: seeds-noun-seeds
   displayName: seeds-capfruit-display-name
   plantRsi: Objects/Specific/Hydroponics/capfruit.rsi
@@ -1464,7 +1464,7 @@
 
 - type: seed
   id: realCapfruit
-  name: насіння-капфрут-назва
+  name: seeds-capfruit-name
   noun: seeds-noun-seeds
   displayName: seeds-capfruit-display-name
   plantRsi: Objects/Specific/Hydroponics/capfruit.rsi
@@ -1490,7 +1490,7 @@
 
 - type: seed
   id: rice
-  name: насіння-рис-назва
+  name: seeds-rice-name
   noun: seeds-noun-seeds
   displayName: seeds-rice-display-name
   plantRsi: Objects/Specific/Hydroponics/rice.rsi
@@ -1518,7 +1518,7 @@
 
 - type: seed
   id: soybeans
-  name: насіння-соя-назва
+  name: seeds-soybeans-name
   noun: seeds-noun-seeds
   displayName: seeds-soybeans-display-name
   plantRsi: Objects/Specific/Hydroponics/soybeans.rsi
@@ -1596,7 +1596,7 @@
 
 - type: seed
   id: grape
-  name: кісточки винограду ім
+  name: seeds-grape-name
   noun: seeds-noun-seeds
   displayName: seeds-grape-display-name
   plantRsi: Objects/Specific/Hydroponics/grape.rsi
@@ -1621,7 +1621,7 @@
 
 - type: seed
   id: watermelon
-  name: насіння-кавун-назва
+  name: seeds-watermelon-name
   noun: seeds-noun-seeds
   displayName: seeds-watermelon-display-name
   plantRsi: Objects/Specific/Hydroponics/watermelon.rsi
@@ -1681,7 +1681,7 @@
 
 - type: seed
   id: cocoa
-  name: насіння-какао-назва
+  name: seeds-cocoa-name
   noun: seeds-noun-seeds
   displayName: seeds-cocoa-display-name
   plantRsi: Objects/Specific/Hydroponics/cocoa.rsi
@@ -1709,7 +1709,7 @@
 
 - type: seed
   id: berries
-  name: насіння-ягоди-назва
+  name: seeds-berries-name
   noun: seeds-noun-seeds
   displayName: seeds-berries-display-name
   plantRsi: Objects/Specific/Hydroponics/berries.rsi
@@ -1735,7 +1735,7 @@
 
 - type: seed
   id: bungo
-  name: насіння-бунго-назва
+  name: seeds-bungo-name
   noun: seeds-noun-seeds
   displayName: seeds-bungo-display-name
   plantRsi: Objects/Specific/Hydroponics/bungo.rsi
@@ -1764,7 +1764,7 @@
 
 - type: seed
   id: pea
-  name: насіння-горох-ім
+  name: seeds-pea-name
   noun: seeds-noun-seeds
   displayName: seeds-pea-display-name
   plantRsi: Objects/Specific/Hydroponics/pea.rsi
@@ -1828,7 +1828,7 @@
 
 - type: seed
   id: pumpkin
-  name: насіння-гарбуза-ім
+  name: seeds-pumpkin-name
   noun: seeds-noun-seeds
   displayName: seeds-pumpkin-display-name
   plantRsi: Objects/Specific/Hydroponics/pumpkin.rsi
@@ -1856,7 +1856,7 @@
 
 - type: seed
   id: bluePumpkin
-  name: насіння-синій-гарбуз-назва
+  name: seeds-blue-pumpkin-name
   noun: seeds-noun-seeds
   displayName: seeds-blue-pumpkin-display-name
   plantRsi: Objects/Specific/Hydroponics/blue_pumpkin.rsi
@@ -1886,7 +1886,7 @@
 
 - type: seed
   id: cotton
-  name: насіння бавовнику ім
+  name: seeds-cotton-name
   noun: seeds-noun-seeds
   displayName: seeds-cotton-display-name
   plantRsi: Objects/Specific/Hydroponics/cotton.rsi
@@ -1938,7 +1938,7 @@
 
 - type: seed
   id: cherry
-  name: насіння-вишні-ім
+  name: seeds-cherry-name
   noun: seeds-noun-seeds
   displayName: seeds-cherry-display-name
   plantRsi: Objects/Specific/Hydroponics/cherry.rsi
@@ -1964,7 +1964,7 @@
 
 - type: seed
   id: anomalyBerry
-  name: насіння-аномалія-ягода-назва
+  name: seeds-anomaly-berry-name
   noun: seeds-noun-seeds
   displayName: seeds-anomaly-berry-display-name
   plantRsi: Objects/Specific/Hydroponics/anomaly_berry.rsi

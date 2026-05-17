@@ -65,7 +65,7 @@
   parent: SurveillanceCameraRouterBase
   id: SurveillanceCameraRouterEngineering
   name: engineering camera router
-  suffix: Інженерія
+  suffix: Engineering
   components:
     - type: SurveillanceCameraRouter
       subnetFrequency: SurveillanceCameraEngineering
@@ -74,7 +74,7 @@
   parent: SurveillanceCameraRouterBase
   id: SurveillanceCameraRouterSecurity
   name: security camera router
-  suffix: Безпека
+  suffix: Security
   components:
     - type: SurveillanceCameraRouter
       subnetFrequency: SurveillanceCameraSecurity
@@ -101,7 +101,7 @@
   parent: SurveillanceCameraRouterBase
   id: SurveillanceCameraRouterCommand
   name: command camera router
-  suffix: Команда
+  suffix: Command
   components:
     - type: SurveillanceCameraRouter
       subnetFrequency: SurveillanceCameraCommand
@@ -110,7 +110,7 @@
   parent: SurveillanceCameraRouterBase
   id: SurveillanceCameraRouterService
   name: service camera router
-  suffix: Сервіс
+  suffix: Service
   components:
     - type: SurveillanceCameraRouter
       subnetFrequency: SurveillanceCameraService
@@ -119,7 +119,7 @@
   parent: SurveillanceCameraRouterBase
   id: SurveillanceCameraRouterMedical
   name: medical camera router
-  suffix: Медичний
+  suffix: Medical
   components:
     - type: SurveillanceCameraRouter
       subnetFrequency: SurveillanceCameraMedical

@@ -25,7 +25,7 @@
 
 - type: siliconLawset
   id: Medical
-  name: право-медична назва
+  name: law-medical-name
   laws:
   - Medical1
   - Medical2

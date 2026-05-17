@@ -2,8 +2,8 @@
 - type: entity
   parent: SyndicateGunSafeBaseSecure
   id: ArmsdealerGunSafeCommon
-  name: сейф торговця зброєю
-  suffix: Заповнений, Синдикат, Загальний
+  name: arms dealer gun safe
+  suffix: Filled, Syndicate, Common
   components:
   - type: EntityTableContainerFill
     containers:
@@ -84,8 +84,8 @@
 - type: entity
   parent: SyndicateGunSafeBaseSecure
   id: ArmsdealerGunSafeRare
-  name: сейф торговця зброєю
-  suffix: Заповнений, Синдикат, Рідкісний
+  name: arms dealer gun safe
+  suffix: Filled, Syndicate, Rare
   components:
   - type: EntityTableContainerFill
     containers:
@@ -138,8 +138,8 @@
 - type: entity
   parent: SyndicateGunSafeBaseSecure
   id: ArmsdealerGunSafeExotic
-  name: сейф торговця зброєю
-  suffix: Заповнений, Синдикат, Екзотика
+  name: arms dealer gun safe
+  suffix: Filled, Syndicate, Exotic
   components:
   - type: EntityTableContainerFill
     containers:
@@ -173,8 +173,8 @@
 - type: entity
   parent: SyndicateGunSafeBaseSecure
   id: ArmsdealerGunSafeStolen
-  name: сейф торговця зброєю
-  suffix: Заповнений, Синдикат, Вкрадений
+  name: arms dealer gun safe
+  suffix: Filled, Syndicate, Stolen
   components:
   - type: EntityTableContainerFill
     containers:
@@ -267,8 +267,8 @@
 - type: entity
   parent: SyndicateGunSafeBaseSecure
   id: ArmsdealerGunSafeMagazine
-  name: сейф торговця зброєю
-  suffix: Заповнений, Синдикат, Журнал
+  name: arms dealer gun safe
+  suffix: Filled, Syndicate, Magazine
   components:
   - type: EntityTableContainerFill
     containers:
@@ -390,8 +390,8 @@
 - type: entity
   parent: SyndicateGunSafeBaseSecure
   id: ArmsdealerGunSafeAmmoBoxes
-  name: сейф торговця зброєю
-  suffix: Заповнений, Syndicate, Ammo
+  name: arms dealer gun safe
+  suffix: Filled, Syndicate, Ammo
   components:
   - type: EntityTableContainerFill
     containers:
@@ -472,8 +472,8 @@
 - type: entity
   parent: SyndicateGunSafeBaseSecure
   id: ArmsdealerGunSafeMelee
-  name: сейф торговця зброєю
-  suffix: Заповнений, Синдикат, Рукопашний бій
+  name: arms dealer gun safe
+  suffix: Filled, Syndicate, Melee
   components:
   - type: EntityTableContainerFill
     containers:

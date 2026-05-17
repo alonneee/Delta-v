@@ -1,6 +1,6 @@
 - type: guideEntry
   id: Science
-  name: керівництво-вступ-наук
+  name: guide-entry-science
   text: "/ServerInfo/Guidebook/Science/Science.xml"
   children:
   - Technologies
@@ -14,7 +14,7 @@
 
 - type: guideEntry
   id: Technologies
-  name: посібник-вхід-технології
+  name: guide-entry-technologies
   text: "/ServerInfo/Guidebook/Science/Technologies.xml"
   filterEnabled: True
 
@@ -28,7 +28,7 @@
 
 - type: guideEntry
   id: ScannersAndVessels
-  name: направляючі-вхідні-сканери-і-судини
+  name: guide-entry-scanners-and-vessels
   text: "/ServerInfo/Guidebook/Science/ScannersAndVessels.xml"
 
 - type: guideEntry
@@ -46,7 +46,7 @@
 
 - type: guideEntry
   id: XenoarchaeologyUnlockingNodes
-  name: guide-entry-xenoarchaeology unlockingnodes
+  name: guide-entry-xenoarchaeologyunlockingnodes
   text: "/ServerInfo/Guidebook/Science/UnlockingNodes.xml"
 
 - type: guideEntry

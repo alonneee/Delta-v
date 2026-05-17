@@ -3,8 +3,8 @@
 
 - type: reagent
   id: Oxygen
-  name: назва-реагенту-кисень
-  desc: reagent-desc-кисень
+  name: reagent-name-oxygen
+  desc: reagent-desc-oxygen
   physicalDesc: reagent-physical-desc-gaseous
   flavor: bitter
   color: "#c4f5ff"
@@ -94,7 +94,7 @@
 
 - type: reagent
   id: Plasma
-  name: назва-реагенту-плазма
+  name: reagent-name-plasma
   desc: reagent-desc-plasma
   physicalDesc: reagent-physical-desc-gaseous
   flavor: bitter
@@ -142,7 +142,7 @@
 
 - type: reagent
   id: Tritium
-  name: ім'я-реагенту-тритій
+  name: reagent-name-tritium
   desc: reagent-desc-tritium
   physicalDesc: reagent-physical-desc-ionizing
   allowedDepartments:
@@ -187,7 +187,7 @@
 
 - type: reagent
   id: CarbonDioxide
-  name: назва-реагенту-вуглекислий газ
+  name: reagent-name-carbon-dioxide
   desc: reagent-desc-carbon-dioxide
   physicalDesc: reagent-physical-desc-odorless
   flavor: bitter
@@ -256,7 +256,7 @@
 
 - type: reagent
   id: Nitrogen
-  name: реагент-назва-азот
+  name: reagent-name-nitrogen
   desc: reagent-desc-nitrogen
   physicalDesc: reagent-physical-desc-gaseous
   flavor: bitter
@@ -382,7 +382,7 @@
 
 - type: reagent
   id: Frezon
-  name: назва-реагенту-фрезон
+  name: reagent-name-frezon
   desc: reagent-desc-frezon
   physicalDesc: reagent-physical-desc-gaseous
   allowedDepartments:

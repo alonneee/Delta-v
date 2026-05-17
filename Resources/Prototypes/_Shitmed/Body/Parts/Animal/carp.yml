@@ -11,8 +11,8 @@
 - type: entity
   parent: PartCarpBase
   id: TailCarp
-  name: короповий хвіст
-  description: Унікальні залози в цьому хвості дозволяють космічному коропу літати у вакуумі.
+  name: carp tail
+  description: Unique glands in this tail let space carp fly in a vacuum.
   components:
   - type: Sprite
     state: tail
@@ -29,7 +29,7 @@
 - type: entity
   parent: [ PartCarpBase, BaseTorso ]
   id: TorsoCarp
-  name: тулуб коропа
+  name: carp torso
   components:
   - type: Sprite
     state: torso

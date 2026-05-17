@@ -1,8 +1,8 @@
 - type: entity
   parent: NFClothingBeltStorageBase
   id: ClothingBeltPilot
-  name: пілотна стрічка
-  description: Стрічка, призначена для тих, хто багато сидить.
+  name: pilot webbing
+  description: A webbing designed for someone seating a lot.
   components:
   - type: Sprite
     sprite: _NF/Clothing/Belt/pilot.rsi

@@ -1,7 +1,7 @@
 - type: material
   id: RawBluespace
   stackEntity: BluespaceOre1
-  name: матеріали-сирий-блакитний простір
+  name: materials-raw-bluespace
   unit: materials-unit-piece
   icon: { sprite: Nyanotrasen/Objects/Materials/materials.rsi, state: bluespace } # TODO actual ore sprite
   color: "#53a9ff"

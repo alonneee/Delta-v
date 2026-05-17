@@ -6,7 +6,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorCaptain
-  name: Роль капітана-привида
+  name: visiting Captain ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -16,7 +16,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorCE
-  name: відвідування ролі привида CE
+  name: visiting CE ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -26,7 +26,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorCMO
-  name: візит CMO роль привида
+  name: visiting CMO ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -36,7 +36,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorHOP
-  name: відвідування ролі привида HOP
+  name: visiting HOP ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -46,7 +46,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorHOS
-  name: візит HOS роль привида
+  name: visiting HOS ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -56,7 +56,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorRD
-  name: візитний RD роль привида
+  name: visiting RD ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -66,7 +66,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorQM
-  name: відвідування ролі привида QM
+  name: visiting QM ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -78,7 +78,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorSecurityCadet
-  name: роль курсанта служби безпеки
+  name: visiting security cadet role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -88,7 +88,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorSecurityOfficer
-  name: роль привида офіцер служби безпеки
+  name: visiting security officer ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -98,7 +98,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorDetective
-  name: роль заїжджого детектива
+  name: visiting detective role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -108,7 +108,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorWarden
-  name: роль привида наглядача
+  name: visiting warden ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -120,7 +120,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorCargoTechnician
-  name: візитний вантажний технік роль привида
+  name: visiting cargo technician ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -130,7 +130,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorSalvageSpecialist
-  name: роль привида спеціаліста з рятувальних робіт
+  name: visiting salvage specialist ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -142,7 +142,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorAtmosTech
-  name: візитний атмосферний технік роль привида
+  name: visiting atmospheric technician ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -152,7 +152,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorTechnicalAssistant
-  name: ghost-role-information-science-description
+  name: visiting technical assistant ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -162,7 +162,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorEngineer
-  name: запрошений інженер роль привида
+  name: visiting engineer ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -174,7 +174,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorMedicalIntern
-  name: візитний інтерн роль привида
+  name: visiting medical intern ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -184,7 +184,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorMedicalDoctor
-  name: Містить менше 1% ртуті.
+  name: visiting medical doctor ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -194,7 +194,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorParamedic
-  name: роль привида фельдшера
+  name: visiting paramedic ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -204,7 +204,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorPsychologist
-  name: візитний психолог роль привида
+  name: visiting psychologist ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -214,7 +214,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorChemist
-  name: візитний хімік роль привида
+  name: visiting chemist ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -224,7 +224,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorVirologist
-  name: візитний вірусолог роль привида
+  name: visiting virologist ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -234,7 +234,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorGeneticist
-  name: візитний генетик роль привида
+  name: visiting geneticist ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -244,7 +244,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorDentist
-  name: візитний стоматолог роль привида
+  name: visiting dentist ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -256,7 +256,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorResearchAssistant
-  name: запрошений науковий співробітник роль привида
+  name: visiting research assistant ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -266,7 +266,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorScientist
-  name: візитний вчений роль привида
+  name: visiting scientist ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -278,7 +278,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorBartender
-  name: візитний бармен роль привида
+  name: visiting bartender ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -288,7 +288,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorBotanist
-  name: запрошений ботанік роль привида
+  name: visiting botanist ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -298,7 +298,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorBoxer
-  name: візитний боксер роль привида
+  name: visiting boxer ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -308,7 +308,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorChaplain
-  name: роль привида капелана
+  name: visiting chaplain ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -318,7 +318,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorChef
-  name: роль привида шеф-кухаря
+  name: visiting chef ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -328,7 +328,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorClown
-  name: візитний клоун роль привида
+  name: visiting clown ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -338,7 +338,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorJanitor
-  name: візитний двірник роль привида
+  name: visiting janitor ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -348,7 +348,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorLawyer
-  name: візитний адвокат роль привида
+  name: visiting lawyer ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -358,7 +358,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorLawyerCentcom
-  name: візитний адвокат centcom роль привида
+  name: visiting centcom lawyer ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -368,7 +368,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorLibrarian
-  name: візитний бібліотекар роль привида
+  name: visiting librarian ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -378,7 +378,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorMusician
-  name: роль привида музиканта
+  name: visiting musician ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -388,7 +388,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorMusicianFancy
-  name: візитний модний музикант роль привида
+  name: visiting fancy musician ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -398,7 +398,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorMusicianRelaxed
-  name: візитний розслаблений музикант роль привида
+  name: visiting relaxed musician ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -408,7 +408,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorMime
-  name: візитний мім роль привида
+  name: visiting mime ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -418,7 +418,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorReporter
-  name: візитний репортер роль привида
+  name: visiting reporter ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -428,7 +428,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorServiceWorker
-  name: Силовий кабель середнього напруги
+  name: visiting service worker ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -438,7 +438,7 @@
 
 - type: entity
   id: RandomHumanoidVisitorZookeeper
-  name: роль привида доглядача зоопарку
+  name: visiting zookeeper ghost role
   components:
     - type: Sprite
       sprite: Markers/jobs.rsi
@@ -450,7 +450,7 @@
 
 - type: entity
   id: RandomHumanoidClownTroupeBanana
-  name: трупа бананового клоуна
+  name: banana clown troupe
   parent: RandomHumanoidVisitorClown
   components:
     - type: RandomHumanoidSpawner
@@ -462,8 +462,8 @@
 
 - type: entity
   id: RandomHumanoidChallengeVictimCaptain
-  name: жертва катастрофи Капітан роль привида
-  suffix: ВИКЛИК
+  name: disaster victim Captain ghost role
+  suffix: CHALLENGE
   # This is supposed to be for challenge events. Its intentionally missing QOL gear to make interesting scenarios.
   components:
     - type: Sprite
@@ -475,8 +475,8 @@
 - type: entity
   id: RandomHumanoidChallengeVictimCE
   parent: RandomHumanoidChallengeVictimCaptain
-  name: жертва катастрофи CE роль привида
-  suffix: ВИКЛИК
+  name: disaster victim CE ghost role
+  suffix: CHALLENGE
   # This is supposed to be for challenge events. Its intentionally missing QOL gear to make interesting scenarios.
   components:
     - type: RandomHumanoidSpawner
@@ -485,8 +485,8 @@
 - type: entity
   id: RandomHumanoidChallengeVictimCMO
   parent: RandomHumanoidChallengeVictimCaptain
-  name: жертва катастрофи CMO роль привида
-  suffix: ВИКЛИК
+  name: disaster victim CMO ghost role
+  suffix: CHALLENGE
   # This is supposed to be for challenge events. Its intentionally missing QOL gear to make interesting scenarios.
   components:
     - type: RandomHumanoidSpawner
@@ -496,7 +496,7 @@
   id: RandomHumanoidChallengeVictimHOP
   parent: RandomHumanoidChallengeVictimCaptain
   name: disaster victim HOP ghost role
-  suffix: ВИКЛИК
+  suffix: CHALLENGE
   # This is supposed to be for challenge events. Its intentionally missing QOL gear to make interesting scenarios.
   components:
     - type: RandomHumanoidSpawner
@@ -506,7 +506,7 @@
   id: RandomHumanoidChallengeVictimHOS
   parent: RandomHumanoidChallengeVictimCaptain
   name: disaster victim HOS ghost role
-  suffix: ВИКЛИК
+  suffix: CHALLENGE
   # This is supposed to be for challenge events. Its intentionally missing QOL gear to make interesting scenarios.
   components:
     - type: RandomHumanoidSpawner
@@ -516,7 +516,7 @@
   id: RandomHumanoidChallengeVictimRD
   parent: RandomHumanoidChallengeVictimCaptain
   name: disaster victim RD ghost role
-  suffix: ВИКЛИК
+  suffix: CHALLENGE
   # This is supposed to be for challenge events. Its intentionally missing QOL gear to make interesting scenarios.
   components:
     - type: RandomHumanoidSpawner
@@ -526,7 +526,7 @@
   id: RandomHumanoidChallengeVictimQM
   parent: RandomHumanoidChallengeVictimCaptain
   name: disaster victim QM ghost role
-  suffix: ВИКЛИК
+  suffix: CHALLENGE
   # This is supposed to be for challenge events. Its intentionally missing QOL gear to make interesting scenarios.
   components:
     - type: RandomHumanoidSpawner
@@ -540,7 +540,7 @@
   id: RandomHumanoidChallengeCargoTechnician
   parent: RandomHumanoidChallengeVictimCaptain
   name: disaster cargo technician ghost role
-  suffix: ВИКЛИК
+  suffix: CHALLENGE
   # This is supposed to be for challenge events. Its intentionally missing QOL gear to make interesting scenarios.
   components:
     - type: RandomHumanoidSpawner

@@ -7,8 +7,8 @@
 - type: entity
   parent: BaseFigurine
   id: ToyFigurineDevil
-  name: фігура демона
-  description: Статуетка, що зображує Демона у щойно зшитому костюмі.
+  name: demon figure
+  description: A figurine depicting a Demon sporting a freshly tailored suit.
   components:
   - type: Sprite
     state: lawyer

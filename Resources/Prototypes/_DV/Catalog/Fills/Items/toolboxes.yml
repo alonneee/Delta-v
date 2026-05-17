@@ -1,7 +1,7 @@
 - type: entity
   parent: ToolboxSyndicate
   id: ToolboxSyndicateFilledCoreExtraction
-  suffix: інженерний настінний шафка
+  suffix: Filled, Core Extraction
   components:
   - type: EntityTableContainerFill
     containers:

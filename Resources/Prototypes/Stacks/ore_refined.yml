@@ -3,14 +3,14 @@
 - type: stack
   parent: BaseMediumStack
   id: Diamond
-  name: стопка-ромб
+  name: stack-diamond
   icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: diamond }
   spawn: MaterialDiamond1
 
 - type: stack
   parent: BaseSmallStack
   id: Bananium
-  name: стек-бананіум
+  name: stack-bananium
   icon: { sprite: /Textures/Objects/Materials/materials.rsi, state: bananium }
   spawn: MaterialBananium1
 
@@ -18,13 +18,13 @@
 - type: stack
   parent: BaseMediumStack
   id: Gold
-  name: стопка-золото
+  name: stack-gold
   icon: { sprite: "/Textures/Objects/Materials/ingots.rsi", state: gold }
   spawn: IngotGold1
 
 - type: stack
   parent: BaseMediumStack
   id: Silver
-  name: стопка-срібло
+  name: stack-silver
   icon: { sprite: "/Textures/Objects/Materials/ingots.rsi", state: silver }
   spawn: IngotSilver1

@@ -44,7 +44,7 @@
 
 - type: construction
   id: SilkWovenCloth
-  name: будівельний-рецепт-шовкового-тканого-полотна
+  name: construction-recipe-silk-woven-cloth
   graph: WebObjects
   startNode: start
   targetNode: cloth

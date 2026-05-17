@@ -1,5 +1,5 @@
 - type: entity
-  name: "пункт"
+  name: "item"
   id: BaseItem
   abstract: true
   components:
@@ -46,7 +46,7 @@
   - type: DamageExaminable
 
 - type: entity
-  name: "предмет зберігання"
+  name: "storage item"
   id: BaseStorageItem
   parent: BaseItem
   abstract: true
@@ -189,7 +189,7 @@
   - type: ToolOpenable
     openToolQualityNeeded: Slicing
     closeToolQualityNeeded: Slicing # Should probably be stitching or something if that gets added
-    name: секрет-заначка-плюшевий
+    name: secret-stash-plushie
   - type: ContainerContainer
     containers:
       stash: !type:ContainerSlot {}

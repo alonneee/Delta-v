@@ -176,7 +176,7 @@
 
 - type: emote
   id: Whine
-  name: дельта-чат-емоція-ім'я-скиглити
+  name: delta-chat-emote-name-whine
   icon: _DV/Interface/Emotes/whine.png
   category: Vocal
   available: false

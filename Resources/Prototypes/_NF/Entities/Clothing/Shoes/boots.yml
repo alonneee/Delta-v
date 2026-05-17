@@ -1,8 +1,8 @@
 - type: entity
   parent: ClothingShoesBaseButcherable
   id: ClothingShoesBootsPilot
-  name: пілотські черевики
-  description: Стильні черевики для бігу по колу на палубі під час надзвичайних ситуацій.
+  name: pilot boots
+  description: Stylish boots for running in circles on a deck during emergencies.
   components:
   - type: Sprite
     sprite: _NF/Clothing/Shoes/Boots/pilot.rsi

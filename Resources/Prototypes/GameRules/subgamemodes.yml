@@ -55,7 +55,7 @@
       roleLoadout:
       - RoleSurvivalExtended
       briefing:
-        text: майстер-роль-привітання
+        text: wizard-role-greeting
         color: Turquoise
         # TODO: Need Wizard Start sound
         #sound: "/Audio/Ambience/Antag/wizard_start.ogg"

@@ -2,7 +2,7 @@
   parent: BaseStructure
   id: SophicScribe
   name: sophic grammateus
-  description: Останні звіти про Ноосферу!
+  description: Latest reports on the Noösphere!
   components:
   - type: Sprite
     noRot: true

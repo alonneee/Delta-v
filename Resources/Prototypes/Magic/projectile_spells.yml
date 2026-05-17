@@ -1,8 +1,8 @@
 - type: entity
   parent: BaseAction
   id: ActionFireball
-  name: вогняна куля
-  description: Випускає вибухову вогняну кулю в напрямку клацання.
+  name: Fireball
+  description: Fires an explosive fireball towards the clicked location.
   components:
   - type: Magic
   - type: Action
@@ -30,8 +30,8 @@
 - type: entity
   parent: ActionFireball
   id: ActionFireballII
-  name: Вогняна куля II
-  description: Стріляє вогненною кулею, але швидше!
+  name: Fireball II
+  description: Fires a fireball, but faster!
   components:
   - type: Action
     useDelay: 10
@@ -39,8 +39,8 @@
 - type: entity
   parent: ActionFireball
   id: ActionFireballIII
-  name: Вогняна куля III
-  description: Найшвидша вогняна куля на заході!
+  name: Fireball III
+  description: The fastest fireball in the west!
   components:
   - type: Action
     useDelay: 8

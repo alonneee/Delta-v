@@ -1,6 +1,6 @@
 - type: entity
   id: LockerScienceFilled
-  suffix: Заповнений
+  suffix: Filled
   parent: LockerScientist
   components:
   - type: EntityTableContainerFill
