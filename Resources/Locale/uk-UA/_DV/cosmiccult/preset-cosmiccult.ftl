@@ -39,12 +39,17 @@ cosmiccult-roundend-cultist-count = {$initialCount ->
 }
 cosmiccult-roundend-entropy-count = Культ викачував {$count}Ентропію.
 cosmiccult-roundend-cultpop-count = Сектанти становили {$count}% екіпажу.
-cosmiccult-roundend-monument-stage = {$етап ->
+cosmiccult-roundend-monument-stage = { $->
     [1] Alas, the Monument seems abandoned.
     [2] The Monument progressed, but completion was out of reach.
     [3] The Monument was completed.
     *[other] [color=red]Something went REALLY wrong.[/color]
-}
+stage->
+    [1] Alas, the Monument seems abandoned.
+    [2] The Monument progressed, but completion was out of reach.
+    [3] The Monument was completed.
+    *[other] [color=red]Something went REALLY wrong.[/color]
+ }
 
 cosmiccult-roundend-cultcomplete = [color=#4cabb3]Космічний культ повна перемога![/color]
 cosmiccult-roundend-cultmajor = [color=#4cabb3]Велика перемога Cosmic Cult![/color]

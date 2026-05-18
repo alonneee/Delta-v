@@ -42,4 +42,3 @@ cryo-pod-window-eject-beaker = Витягнути
 cryo-pod-window-eject-patient = Вигнати пацієнта
 
 cryo-pod-window-health-no-damage = Пошкоджень не виявлено
-

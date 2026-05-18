@@ -5,9 +5,9 @@ custom-vote-webhook-option-pending = Уточнюється
 custom-vote-webhook-option-cancelled = N/A
 
 votekick-webhook-name = Votekick проведено
-votekick-webhook-description = Ініціатор: { $ініціатор }; Ціль: { $target }
+votekick-webhook-description = Ініціатор: { $initiator }; Ціль: { $target }
 votekick-webhook-cancelled-admin-online = **Голосування скасовано через адмін онлайн**
 votekick-webhook-cancelled-admin-target = **Голосування скасовано через те, що цільовий адміністратор**
 votekick-webhook-cancelled-antag-target = **Голосування скасовано через тег мети**
 
-votekick-ban-reason = "Votekick: {$reason}"
+votekick-ban-reason = "Голосування: {$reason}"

@@ -65,9 +65,9 @@ anomaly-generator-yes-fire = Статус: [color=forestgreen]Готовий[/co
 anomaly-generator-no-fire = Статус: [color=crimson]Не готовий[/color]
 anomaly-generator-generate = Створити аномалію
 anomaly-generator-charges = {$charges ->
-    [one] {$charges} charge
-    *[other] {$charges} charges
-}
+    [one] {$charges} заряд
+    *[other] {$charges} плата
+    }
 anomaly-generator-announcement = Виникла аномалія!
 
 anomaly-command-pulse = Пульсує цільову аномалію

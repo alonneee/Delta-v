@@ -2,10 +2,13 @@ genpop-prisoner-id-expire = Ви відбули покарання! Тепер �
 genpop-prisoner-id-popup-not-served = Вирок ще не відбуто!
 
 genpop-prisoner-id-crime-default = [Redacted]
-genpop-prisoner-id-examine-wait = Ви відслужили {$minutes}{$хвилин ->
+genpop-prisoner-id-examine-wait = Ви відслужили {$minutes}{ $->
     [1] minute
     *[other] minutes
-} {$seconds} {$seconds ->
+minutes->
+    [1] minute
+    *[other] minutes
+ } {$seconds} {$seconds ->
     [1] second
     *[other] seconds
 } of your {$sentence} minute sentence for {$crime}.

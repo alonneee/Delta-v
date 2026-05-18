@@ -16,12 +16,14 @@ lathe-menu-result-reagent-display = {$reagent}({$amount}u)
 lathe-menu-material-display = {$material}({$amount})
 lathe-menu-tooltip-display = {$amount}з {$material}
 lathe-menu-description-display = [italic]{$description}[/italic]
-lathe-menu-material-amount = { $сума ->
-    [1] {NATURALFIXED($amount, 2)} {$unit}
+lathe-menu-material-amount = { $->
+    [1] {NATURALFIXED($amount, 2)amount->
+    [1] {NATURALFIXED($amount, 2) } {$unit}
     *[other] {NATURALFIXED($amount, 2)} {MAKEPLURAL($unit)}
 }
-lathe-menu-material-amount-missing = { $сума ->
-    [1] {NATURALFIXED($amount, 2)} {$unit} of {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {$unit} missing[/color])
+lathe-menu-material-amount-missing = { $->
+    [1] {NATURALFIXED($amount, 2)amount->
+    [1] {NATURALFIXED($amount, 2) } {$unit} of {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {$unit} missing[/color])
     *[other] {NATURALFIXED($amount, 2)} {MAKEPLURAL($unit)} of {$material} ([color=red]{NATURALFIXED($missingAmount, 2)} {MAKEPLURAL($unit)} missing[/color])
 }
 lathe-menu-no-materials-message = Матеріали не завантажено.

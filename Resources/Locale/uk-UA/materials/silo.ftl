@@ -4,7 +4,7 @@ ore-silo-ui-label-mats = Матеріали
 ore-silo-ui-itemlist-entry = {$linked ->
     [true] {"[Linked] "}
     *[False] {""}
-} {$name} ({$beacon}) {$inRange ->
+    } {$name} ({$beacon}) {$inRange ->
     [true] {""}
-    *[false] (Out of Range)
-}
+    *[false] (поза діапазоном)
+    }

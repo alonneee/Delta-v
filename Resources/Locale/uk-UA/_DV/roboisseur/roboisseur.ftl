@@ -1,6 +1,6 @@
 roboisseur-request-1 = Я смиренно прошу один {$item}для свого найбагатшого клієнта.
 roboisseur-request-2 = Купа тіста чекає на вас за приємний {$item}!
-roboisseur-request-3 = У цьому секторі може бути надзвичайно заможна особа, яка шукає {НЕВИЗНАЧЕНИЙ($item)} {$item}.
+roboisseur-request-3 = У цьому секторі може бути надзвичайно заможна особа, яка шукає {INDEFINITE($item)} {$item}.
 roboisseur-request-4 = Мої додаткові... Для авантюрних клієнтів потрібен {INDEFINITE($item)} {$item}.
 roboisseur-request-5 = {$item}. Це рідко. Це цінно. Ви можете зробити це, так?
 roboisseur-request-6 = Виявлено локальні зміни на фондовій біржі цього квадранта. Шукаю {INFEINITE($item)} {$item}.

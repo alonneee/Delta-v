@@ -1,7 +1,8 @@
 sensor-monitoring-window-title = Сенсорна консоль моніторингу
 
-sensor-monitoring-value-display = {$одиниця ->
-    [PressureKpa] { PRESSURE($value) }
+sensor-monitoring-value-display = { $->
+    [PressureKpa] { PRESSURE($value) unit->
+    [PressureKpa] { PRESSURE($value)  }
     [PowerW] { POWERWATTS($value) }
     [EnergyJ] { POWERJOULES($value) }
     [TemperatureK] { TOSTRING($value, "N3") } K

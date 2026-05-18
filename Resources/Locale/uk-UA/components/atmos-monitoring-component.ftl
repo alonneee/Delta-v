@@ -1,5 +1,5 @@
 atmos-monitoring-window-title = Атмосферний мережевий монітор
-atmos-monitoring-window-station-name = [color=white][розмір шрифту=14]{$stationName}[/font][/color]
+atmos-monitoring-window-station-name = [color=white][font size=14]{$stationName}[/font][/color]
 atmos-monitoring-window-unknown-location = Невідоме місцезнаходження
 atmos-monitoring-window-label-gas-opening = Відкриття мережі
 atmos-monitoring-window-label-gas-scrubber = Скрубер повітря
