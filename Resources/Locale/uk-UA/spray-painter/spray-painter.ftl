@@ -101,16 +101,16 @@ spray-painter-style-locker-basic = Базовий
 spray-painter-style-locker-botanist = Ботанік
 spray-painter-style-locker-brigmedic = Бригмедик
 spray-painter-style-locker-captain = Капітан
-spray-painter-style-locker-ce = CE
+spray-painter-style-locker-ce = ГІ
 spray-painter-style-locker-chemical = хімічний
 spray-painter-style-locker-clown = Опис задовгий! ({ 0 }/{ 1 } символів)
-spray-painter-style-locker-cmo = CMO
+spray-painter-style-locker-cmo = ГЛ
 spray-painter-style-locker-doctor = лікар
 spray-painter-style-locker-electrical = Електричний
 spray-painter-style-locker-engineer = Інженер
 spray-painter-style-locker-evac = Ремонт евакуації
-spray-painter-style-locker-hop = HOP
-spray-painter-style-locker-hos = HOS
+spray-painter-style-locker-hop = ГП
+spray-painter-style-locker-hos = ГБ
 spray-painter-style-locker-medicine = Ліки
 spray-painter-style-locker-mime = Мім
 spray-painter-style-locker-paramedic = Фельдшер
@@ -185,7 +185,7 @@ spray-painter-style-cratesecure-plasma = плазма
 spray-painter-style-cratesecure-private = Приватний
 # DeltaV: Epistemics
 spray-painter-style-cratesecure-science = Епістеміка
-spray-painter-style-cratesecure-secgear = Secgear
+spray-painter-style-cratesecure-secgear = Сек'юріті
 spray-painter-style-cratesecure-weapon = Зброя
 
 # Canisters

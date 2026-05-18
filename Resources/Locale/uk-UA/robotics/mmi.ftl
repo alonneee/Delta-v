@@ -6,7 +6,7 @@ positronic-brain-searching = Початок дешифрування синте�
 positronic-brain-role-name = Позитронний мозок
 positronic-brain-role-description = Підпорядковуйтеся вашому творцю та законам робототехніки
 
-positronic-brain-wipe-device-verb-text = Wipe Brain
+positronic-brain-wipe-device-verb-text = Очистити пам'ять
 positronic-brain-wiped-device = Нервова активність була припинена.
 
 positronic-brain-stop-searching-verb-text = Припиніть пошуки

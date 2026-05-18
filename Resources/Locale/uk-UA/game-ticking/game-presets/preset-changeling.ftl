@@ -8,5 +8,5 @@ changeling-briefing = Ти підмінювач.
     You are a changeling.
     You are able to utilize and assume the identities of those you consume to evade a grim fate.
 
-objective-issuer-changeling = [color=#FA2A55]The Hivemind[/color]
+objective-issuer-changeling = Генокрад
 changeling-round-end-agent-name = підмінник

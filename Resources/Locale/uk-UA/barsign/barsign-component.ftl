@@ -65,7 +65,7 @@ barsign-prototype-name-the-birdcage = Пташина клітка
 barsign-prototype-description-the-birdcage = Кау-кау!
 
 ## Zocalo
-barsign-prototype-name-zocalo = Zocalo
+barsign-prototype-name-zocalo = Зокало
 barsign-prototype-description-zocalo = яскравий
 
 ## LV426
@@ -81,7 +81,7 @@ barsign-prototype-name-the-lightbulb = Лампочка
 barsign-prototype-description-the-lightbulb = Кафе, яке користується популярністю серед мотилів і моффів. Одного разу закрили на тиждень після того, як бармен використала нафталін, щоб захистити свою запасну форму.
 
 ## The Loose Goose
-barsign-prototype-name-goose = The Loose Goose
+barsign-prototype-name-goose = Гусак
 barsign-prototype-description-goose = Пийте, поки вас не вирве і/або не порушите закони реальності!
 
 ## The Engine Change

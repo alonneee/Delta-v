@@ -20,4 +20,4 @@ chat-radio-freelance = Позаштатний
 chat-radio-handheld = Портативний
 chat-radio-binary = Двійковий
 chat-radio-xenoborg = Ксеноборг
-chat-radio-mothership = Mothership
+chat-radio-mothership = Материнський корабель
