@@ -3,7 +3,6 @@ custom-vote-webhook-footer = сервер: { $serverName }, раунд: { $round
 custom-vote-webhook-cancelled = **Голосування скасовано**
 custom-vote-webhook-option-pending = Уточнюється
 custom-vote-webhook-option-cancelled = N/A
-
 votekick-webhook-name = Votekick проведено
 votekick-webhook-description = Ініціатор: { $initiator }; Ціль: { $target }
 votekick-webhook-cancelled-admin-online = **Голосування скасовано через адмін онлайн**

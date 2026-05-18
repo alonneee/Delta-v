@@ -15,7 +15,6 @@ paper-component-action-stamp-paper-self = Ви поставили печатку
 
 # Indicator to show how full a paper is
 paper-ui-fill-level = {$currentLength}/{$maxLength}
-
 paper-ui-save-button = Зберегти ({$keybind})
 
 paper-tamper-proof-modified-message = Ця сторінка була написана з використанням захищених від підробки чорнил.

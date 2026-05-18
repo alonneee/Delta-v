@@ -34,7 +34,7 @@ power-switchable-voltage = { $voltage ->
     [HV] [color=orange]HV[/color]
     [MV] [color=yellow]MV[/color]
     *[LV] [color=green]LV[/color]
-}
+    }
 power-switchable-switch-voltage = Перемкнути на {$voltage}
 
 fuel-generator-verb-disable-on = Спочатку треба зупитини генератор!

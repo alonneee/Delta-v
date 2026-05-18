@@ -16,6 +16,5 @@ research-console-unlocks-list-entry = [color=yellow]({$name})
 research-console-unlocks-list-entry-generic = - [color=green]{$text}[/color]
 research-console-prereqs-list-start = Вимагає:
 research-console-prereqs-list-entry = - [color=orchid]{$text}[/color]
-
 research-console-no-access-popup = Немає доступу!
 research-console-unlock-technology-radio-broadcast = Розблоковано [bold]{$technology}[/bold]для [bold]{$amount}[/bold]досліджень [bold]{$approver}[/bold].

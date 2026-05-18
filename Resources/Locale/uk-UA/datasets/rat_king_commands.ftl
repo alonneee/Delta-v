@@ -9,6 +9,5 @@ rat-king-command-cheese-1 = Атакуйте!
 rat-king-command-cheese-2 = Sic!
 rat-king-command-cheese-3 = вбити!
 rat-king-command-cheese-4 = Cheese 'Em!
-
 rat-king-command-loose-1 = безкоштовно!
 rat-king-command-loose-2 = Пустий!

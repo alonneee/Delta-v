@@ -12,13 +12,9 @@ analysis-console-info-id-value = [font="Monospace" size=11][color=yellow]{$id}[/
 analysis-console-info-class = [font="Monospace" size=11]Клас:[/font]
 analysis-console-info-class-value = [font="Monospace" size=11]{$class}[/font]
 analysis-console-info-locked = [font="Monospace" size=11]Статус:[/font]
-analysis-console-info-locked-value = [font="Monospace" size=11][color={ $state ->
-    [0] red]Locked
-    [1] lime]Unlocked
-    *[2] plum]Active
-}[/color][/font]
+analysis-console-info-locked-value = [font="Monospace" size=11][color=__FLUENT_MASK_0__[/color][/font]
 analysis-console-info-durability = [font="Monospace" size=11]Стійкість:[/font]
-analysis-console-info-durability-value = [font="Monospace" size=11][color={$color}]{$current}/{$max}[/color][/font]
+analysis-console-info-durability-value = [font="Monospace" size=11][color=__FLUENT_MASK_0__]{$current}/{$max}[/color][/font]
 analysis-console-info-effect = РЕАКЦІЯ: {$effect}
 # DeltaV - moved to _DV file
 #analysis-console-info-effect-value = [font="Monospace" size=11][color=gray]{ $state ->
@@ -30,9 +26,9 @@ analysis-console-info-triggered-value = [font="Monospace" size=11][color=gray]{$
 analysis-console-info-scanner = Сканування...
 analysis-console-info-scanner-paused = Призупинено.
 analysis-console-progress-text = {$seconds ->
-    [one] T-{$seconds} second
-    *[other] T-{$seconds} seconds
-}
+    [one] T-{$seconds} секунда
+    *[other] T-{$seconds} секунд
+    }
 
 #analysis-console-extract-value = [font="Monospace" size=11][color=orange]Node:{$id} Research:+{$value}[/color][/font]
 # DeltaV - modified analysis-console-glimmer-value - moved to DV file

@@ -4,14 +4,12 @@ cmd-whitelistadd-existing = {$username}вже в білому списку!
 cmd-whitelistadd-added = {$username}додано до білого списку
 cmd-whitelistadd-not-found = Не вдалося знайти '{$username}'
 cmd-whitelistadd-arg-player = [player]
-
 cmd-whitelistremove-desc = Видаляє гравця з вказаним іменем користувача з білого списку сервера.
 cmd-whitelistremove-help = Використання: whitelistremove <ім'я користувача або ID користувача>
 cmd-whitelistremove-existing = {$username}немає в білому списку!
 cmd-whitelistremove-removed = {$username}видалено з білого списку
 cmd-whitelistremove-not-found = Не вдалося знайти '{$username}'
 cmd-whitelistremove-arg-player = [player]
-
 cmd-kicknonwhitelisted-desc = Викидає з сервера всіх гравців, які не входять до білого списку.
 cmd-kicknonwhitelisted-help = Використання: kicknonwhitelist
 
@@ -42,14 +40,12 @@ cmd-blacklistadd-existing = {$username}вже в чорному списку!
 cmd-blacklistadd-added = {$username}додано до чорного списку
 cmd-blacklistadd-not-found = Не вдалося знайти '{$username}'
 cmd-blacklistadd-arg-player = [player]
-
 cmd-blacklistremove-desc = Видаляє гравця з вказаним іменем користувача з чорного списку сервера.
 cmd-blacklistremove-help = Когнізин, хімічна речовина, яку важко виготовити, робить тварин чуйними, коли їм вводять її.
 cmd-blacklistremove-existing = {$username}немає в чорному списку!
 cmd-blacklistremove-removed = {$username}видалено з чорного списку
 cmd-blacklistremove-not-found = Не вдалося знайти '{$username}'
 cmd-blacklistremove-arg-player = [player]
-
 baby-jail-account-denied = Цей сервер є сервером для новачків, призначеним для нових гравців і тих, хто хоче їм допомогти. Нові підключення від облікових записів, які занадто старі або не входять до білого списку, не приймаються. Перегляньте деякі інші сервери та подивіться все, що може запропонувати Space Station 14. весело провести час!
 baby-jail-account-denied-reason = Цей сервер є сервером для новачків, призначеним для нових гравців і тих, хто хоче їм допомогти. Нові підключення від облікових записів, які занадто старі або не входять до білого списку, не приймаються. Перегляньте деякі інші сервери та подивіться все, що може запропонувати Space Station 14. весело провести час! Причина: "{$reason}"
 baby-jail-account-reason-account = Ваш обліковий запис Space Station 14 застарий. Він має бути менше {$minutes}хвилин

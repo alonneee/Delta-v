@@ -42,6 +42,5 @@ comp-nuclear-reactor-ui-reactor-rads = випромінювання
 comp-nuclear-reactor-ui-reactor-therm = Теплова потужність
 comp-nuclear-reactor-ui-reactor-control = Стрижні управління
 comp-nuclear-reactor-ui-therm-format = { POWERWATTS($power) }t
-
 comp-nuclear-reactor-ui-footer-left = Небезпека: висока радіація.
 comp-nuclear-reactor-ui-footer-right = 0.8 REV 3

@@ -33,7 +33,6 @@ chat-manager-entity-me-wrap-message = [italic]{ PROPER($entity) ->
     *[false] The {$entityName} {$message}[/italic]
      [true] {CAPITALIZE($entityName)} {$message}[/italic]
     }
-
 chat-manager-entity-looc-wrap-message = LOOC: {$entityName}: {$message}
 chat-manager-send-ooc-wrap-message = OOC: {$playerName}: {$message}
 chat-manager-send-ooc-patron-wrap-message = OOC: [колір={$patronColor}]{$playerName}[/color]: {$message}
@@ -42,7 +41,6 @@ chat-manager-send-dead-chat-wrap-message = {$deadChannelName}: [BubbleHeader]{$p
 chat-manager-send-admin-dead-chat-wrap-message = {$adminChannelName}: ([BubbleHeader]{$userName}[/BubbleHeader]): [BubbleContent]{$message}[/BubbleContent]
 chat-manager-send-admin-chat-wrap-message = {$adminChannelName}: {$playerName}: {$message}
 chat-manager-send-admin-announcement-wrap-message = [bold]{$adminChannelName}: {$message}[/bold]
-
 chat-manager-send-hook-ooc-wrap-message = OOC: (D){$senderName}: {$message}
 chat-manager-send-hook-admin-wrap-message = АДМІНІСТРАТОР: [bold](D){$senderName}:[/bold]{$message}
 
@@ -137,7 +135,6 @@ chat-speech-verb-monkey-1 = хрипить
 chat-speech-verb-monkey-2 = верещить
 
 chat-speech-verb-name-cluwne = Cluwne
-
 chat-speech-verb-name-parrot = папуга
 chat-speech-verb-parrot-1 = кричить
 chat-speech-verb-parrot-2 = твіти

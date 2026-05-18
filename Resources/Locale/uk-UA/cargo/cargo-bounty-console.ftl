@@ -14,10 +14,8 @@ bounty-console-manifest-entry = { $->
 bounty-console-manifest-reward = Винагорода: ${$reward}
 bounty-console-description-label = [color=gray]{$description}[/color]
 bounty-console-id-label = ID#{$id}
-
 bounty-console-flavor-left = Нагороди отримані від місцевих недобросовісних ділків.
 bounty-console-flavor-right = v1.4
-
 bounty-manifest-header = Офіційний маніфест винагороди за вантаж (ID#{$id})
 bounty-manifest-list-start = Маніфест товару:
 

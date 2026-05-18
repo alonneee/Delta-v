@@ -3,7 +3,6 @@ set-game-preset-command-help-text = setgamepreset <id> [кількість ра�
 set-game-preset-command-hint-1 = <id>
 set-game-preset-command-hint-2 = [number of rounds]
 set-game-preset-command-hint-3 = [decoy preset]
-
 set-game-preset-optional-argument-not-integer = Якщо вказано аргумент 2, це має бути число.
 set-game-preset-preset-error = Не вдається знайти стиль гри "{$preset}"
 set-game-preset-decoy-error = Якщо надано аргумент 3, він має бути дійсним попереднім налаштуванням. Не вдається знайти стиль гри "{$preset}"

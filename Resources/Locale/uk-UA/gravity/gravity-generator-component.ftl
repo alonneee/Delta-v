@@ -22,7 +22,7 @@ gravity-generator-window-power-label = {$draw} / {$max} В
 
 ## UI ETA label
 gravity-generator-window-eta-none = N/A
-gravity-generator-window-eta-value = { TOSTRING($left, "m\\:ss") }
+gravity-generator-window-eta-value = { TOSTRING($left, "m\:ss") }
 
 ## Popup
 gravity-generator-unanchoring-failed = Неможливо від’єднати активний генератор гравітації.

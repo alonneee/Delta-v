@@ -7,9 +7,9 @@ lathe-menu-category-all = все
 lathe-menu-search-filter = Фільтр:
 lathe-menu-amount = сума:
 lathe-menu-recipe-count = { $count ->
-    [1] {$count} Recipe
-    *[other] {$count} Recipes
-}
+    [1] {$count} Рецепт
+    *[other] {$count} Рецепти
+    }
 lathe-menu-reagent-slot-examine = Збоку має проріз для склянки.
 lathe-reagent-dispense-no-container = Рідина виливається з {THE($name)} на підлогу!
 lathe-menu-result-reagent-display = {$reagent}({$amount}u)

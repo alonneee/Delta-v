@@ -76,7 +76,6 @@ anomaly-command-supercritical = Робить цільову аномалію н�
 # Flavor text on the footer
 anomaly-generator-flavor-left = Аномалія може породжуватися всередині оператора.
 anomaly-generator-flavor-right = v1.1
-
 anomaly-behavior-unknown = [color=red]ПОМИЛКА. Неможливо прочитати.[/color]
 
 anomaly-behavior-title = Аналіз поведінкових відхилень:
