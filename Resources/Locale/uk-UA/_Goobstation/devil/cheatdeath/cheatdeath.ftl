@@ -2,7 +2,7 @@ cheat-death-component-examined = [color=red]Щось підказує вам, щ
 cheat-death-component-remaining-revives = { $amount ->
 [0] You have no revives left.
 [one] You have one revive left.
-*[other] You have {$amountamount->
+*[other] You have {$amount ->
 [0] You have no revives left.
 [one] You have one revive left.
 *[other] You have {$amount } revives left.

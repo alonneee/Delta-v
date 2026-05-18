@@ -5,7 +5,7 @@ genpop-prisoner-id-crime-default = [Redacted]
 genpop-prisoner-id-examine-wait = You have served {$minutes} {$minutes ->
     [1] minute
     *[other] minutes
-} {$seconds} {$seconds ->
+} {$seconds} {$amount ->
     [1] second
     *[other] seconds
 } of your {$sentence} minute sentence for {$crime}.

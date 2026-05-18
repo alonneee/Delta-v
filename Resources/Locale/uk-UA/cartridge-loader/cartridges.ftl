@@ -36,7 +36,7 @@ nano-task-ui-heading-high-priority-tasks = { $amount ->
     { $amount ->
         [zero] No High Priority Tasks
         [one] 1 High Priority Task
-       *[other] {$amountamount->
+       *[other] {$amount ->
     { $amount ->
         [zero] No High Priority Tasks
         [one] 1 High Priority Task
@@ -46,7 +46,7 @@ nano-task-ui-heading-medium-priority-tasks = { $amount ->
     { $amount ->
         [zero] No Medium Priority Tasks
         [one] 1 Medium Priority Task
-       *[other] {$amountamount->
+       *[other] {$amount ->
     { $amount ->
         [zero] No Medium Priority Tasks
         [one] 1 Medium Priority Task
@@ -56,7 +56,7 @@ nano-task-ui-heading-low-priority-tasks = { $amount ->
     { $amount ->
         [zero] No Low Priority Tasks
         [one] 1 Low Priority Task
-       *[other] {$amountamount->
+       *[other] {$amount ->
     { $amount ->
         [zero] No Low Priority Tasks
         [one] 1 Low Priority Task

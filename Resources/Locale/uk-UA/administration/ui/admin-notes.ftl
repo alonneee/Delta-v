@@ -27,7 +27,7 @@ admin-notes-message-desc = [color=white]Ви отримали { $count ->
     [1] an administrative message
     *[other] administrative messages
 } since the last time you played on this server.[/color]
-admin-notes-message-admin = Від [bold]{ $admin [/bold], написано { TOSTRING($date, "f") }:
+admin-notes-message-admin = Від [bold]{ $admin }[/bold], написано { TOSTRING($date, "f") }:
 admin-notes-message-wait = Кнопку прийняти буде ввімкнено через {$time}секунд.
 admin-notes-message-accept = Звільнити назавжди
 admin-notes-message-dismiss = Наразі відхилити

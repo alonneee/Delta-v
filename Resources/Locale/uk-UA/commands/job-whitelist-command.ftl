@@ -1,6 +1,6 @@
 cmd-jobwhitelist-job-does-not-exist = Робота {$job} не існує.
 cmd-jobwhitelist-player-not-found = Гравець {$player}не знайдений.
-cmd-jobwhitelist-hint-player = [player]
+cmd-jobwhitelist-hint-player = [гравець]
 cmd-jobwhitelist-hint-job = [job]
 cmd-jobwhitelistadd-desc = Дозволяє гравцеві виконувати завдання з білого списку.
 cmd-jobwhitelistadd-help = Використання: jobwhitelistadd <ім'я користувача> <вакансія>

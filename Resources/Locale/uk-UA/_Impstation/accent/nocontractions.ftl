@@ -232,7 +232,7 @@ accent-nocontractions-words-replace-76 = я б мав
 accent-nocontractions-words-77 = ти б
 accent-nocontractions-words-replace-77 = ти мав би
 
-accent-nocontractions-words-78 = {$speechType { 0 }
+accent-nocontractions-words-78 = {$speechType} { 0 }
 accent-nocontractions-words-replace-78 = ти мав би
 
 accent-nocontractions-words-79 = idve

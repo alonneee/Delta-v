@@ -7,26 +7,26 @@ comp-kitchen-spike-begin-hook-other = { CAPITALIZE(THE($user)) } починає 
 comp-kitchen-spike-hook-self = Ви кинулися на { THE($hook) }!
 comp-kitchen-spike-hook-self-other = { CAPITALIZE(THE($victim)) } кинув {REFLEXIVE($victim)} на {THE($hook)}!
 
-comp-kitchen-spike-hook-other-self = Ви кинули { ВЕЛИКИЙ (THE($victim)) } на { THE($hook) }!
+comp-kitchen-spike-hook-other-self = Ви кинули { UPPER (THE($victim)) } на { THE($hook) }!
 comp-kitchen-spike-hook-other = { CAPITALIZE(THE($user)) } кинув { CAPITALIZE(THE($victim))} на { THE($hook) }!
 
 comp-kitchen-spike-begin-unhook-self = Ви починаєте тягнути себе з { THE($hook) }!
 comp-kitchen-spike-begin-unhook-self-other = { CAPITALIZE(THE($victim)) } починає перетягувати { REFLEXIVE($victim) } з { THE($hook) }!
 
-comp-kitchen-spike-begin-unhook-other-self = Ви починаєте перетягувати { ВЕРТИ ($victim)) } з {($hook) }!
+comp-kitchen-spike-begin-unhook-other-self = Ви починаєте перетягувати { THE ($victim)) } з {($hook) }!
 comp-kitchen-spike-begin-unhook-other = { CAPITALIZE(THE($user)) } починає перетягувати { CAPITALIZE(THE($victim)) } з { THE($hook) }!
 
 comp-kitchen-spike-unhook-self = Ви звільнилися { THE($hook) }!
 comp-kitchen-spike-unhook-self-other = { CAPITALIZE(THE($victim)) } зняв {REFLEXIVE($victim)} {THE($hook)}!
 
-comp-kitchen-spike-unhook-other-self = Ви звільнилися від { КАПІТАЛІЗУВАТИ (($victim)) { {($hook)}!
+comp-kitchen-spike-unhook-other-self = Ви звільнилися від { CAPITALIZE (($victim)) { {($hook)}!
 comp-kitchen-spike-unhook-other = { CAPITALIZE(THE($user)) } зняв { CAPITALIZE(THE($victim))} {THE($hook)}!
 
 comp-kitchen-spike-begin-butcher-self = Ви починаєте різати { THE($victim) }!
 comp-kitchen-spike-begin-butcher = { CAPITALIZE(THE($user)) } починає різати { THE($victim) }!
 
 comp-kitchen-spike-butcher-self = Ви врізали { THE($victim) }!
-comp-kitchen-spike-butcher = { КАПІТАЛІЗУВАТИ(THE($user))} різали { THE($victim)}!
+comp-kitchen-spike-butcher = { CAPITALIZE(THE($user))} різали { THE($victim)}!
 
 comp-kitchen-spike-unhook-verb = Відчепити
 

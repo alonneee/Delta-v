@@ -1,6 +1,6 @@
 # Commands
 cmd-lslaws-desc = Перераховує закони всіх пов’язаних законом суб’єктів або певного гравця, якщо вказано
-cmd-lslaws-help = lslaws [username]
+cmd-lslaws-help = lslaws [користувач]
 cmd-lslaws-error-bad-player = Неможливо знайти законну сутність, приєднану до цього користувача.
 
 cmd-lswatchlisted-desc = Друкує огляд усіх підключених гравців зі списками спостереження

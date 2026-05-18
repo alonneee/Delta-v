@@ -1,5 +1,5 @@
 cmd-adduplink-desc = Створює висхідне посилання для вибраного елемента та пов’язує його з обліковим записом користувача
-cmd-adduplink-help = Використання: adduplink [username][item-id] [discountEnabled]
+cmd-adduplink-help = Використання: adduplink [користувач][item-id] [discountEnabled]
 
 add-uplink-command-completion-1 = Ім'я користувача (за замовчуванням власне)
 add-uplink-command-completion-2 = UID висхідної лінії (за замовчуванням для КПК)
