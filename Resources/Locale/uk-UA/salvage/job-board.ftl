@@ -27,7 +27,6 @@ salv-job-board-name-BountySalvageOreUranium = Уран (руда)
 salv-job-board-name-BountySalvageOrePlasma = Плазма (руда)
 salv-job-board-name-BountySalvageOreBananium = Банан (руда)
 salv-job-board-name-BountyTeethSharkminnow = Sharkminnow
-
 salv-job-board-name-BountyGoliathPlates = Голіаф
 salv-job-board-name-BountyHivelordRemains = Хівелорд
 salv-job-board-name-BountySalvageDiamond = діамант

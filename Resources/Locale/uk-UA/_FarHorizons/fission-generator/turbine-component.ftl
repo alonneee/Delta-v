@@ -40,6 +40,7 @@ turbine-no-damage = Немає пошкоджень для ремонту на {
 turbine-show-damage = BladeHealth {$health}, BladeHealthMax {$healthMax}.
 
 # Anchoring warnings
+# Anchoring warnings
 turbine-unanchor-warning = Ви не можете розкріпити газову турбіну, поки турбіна обертається!
 turbine-anchor-warning = Недійсне положення прив'язки.
 
@@ -74,4 +75,4 @@ comp-turbine-ui-power = EY TCHEL TORT TU { 0 }
 
 comp-turbine-ui-locked-message = Елементи керування заблоковано.
 comp-turbine-ui-footer-left = Небезпека: машини, що швидко рухаються.
-comp-turbine-ui-footer-right = 2.0 REV 1
+comp-turbine-ui-footer-right = Турбіна

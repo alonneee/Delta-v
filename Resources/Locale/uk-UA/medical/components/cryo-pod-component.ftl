@@ -38,6 +38,7 @@ cryo-pod-window-inject-5u = 5u
 cryo-pod-window-inject-10u = 10u
 cryo-pod-window-inject-20u = 20u
 # The eject beaker button has very little horizontal space, which is why it only says "eject"
+# The eject beaker button has very little horizontal space, which is why it only says "eject"
 cryo-pod-window-eject-beaker = Витягнути
 cryo-pod-window-eject-patient = Вигнати пацієнта
 

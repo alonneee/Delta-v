@@ -438,7 +438,6 @@ uplink-syndicate-stamp-desc = Штамп гумовий для проштамп�
 
 uplink-cat-ears-name = Котячі вушка
 uplink-cat-ears-desc = UwU
-
 uplink-outlaw-hat-name = Капелюх поза законом
 uplink-outlaw-hat-desc = Капелюх, у якому ви виглядаєте так, ніби ви носите пістолет із зубцями, номер один і ще дев’ятнадцять.
 

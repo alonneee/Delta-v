@@ -7,6 +7,7 @@ stack-rough-bluespace = грубий синій простір
 stack-treatcoin = treatcoin
 
 ## Biogenerator plastic
+## Biogenerator plastic
 stack-biogenerator-plastic1 = пластик (одинарний)
 stack-biogenerator-plastic10 = пластик (10)
 stack-biogenerator-plastic30 = пластик (30)

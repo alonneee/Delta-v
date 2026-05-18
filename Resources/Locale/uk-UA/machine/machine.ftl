@@ -12,7 +12,6 @@ machine-part-name-capacitor = Конденсатор
 machine-part-name-manipulator = Маніпулятор
 machine-part-name-matter-bin = Кошик для речей
 machine-part-name-power-cell = Power Cell
-
 two-way-lever-left = натисніть ліворуч
 two-way-lever-right = натисніть праворуч
 two-way-lever-cant = не можна натискати на важіль таким чином!

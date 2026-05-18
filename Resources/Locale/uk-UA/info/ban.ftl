@@ -9,7 +9,6 @@ cmd-ban-hint = <ім'я/ідентифікатор користувача>
 cmd-ban-hint-reason = плитка xenoborg
 cmd-ban-hint-duration = [duration]
 cmd-ban-hint-severity = [severity]
-
 cmd-ban-hint-duration-1 = Назавжди
 cmd-ban-hint-duration-2 = 1 день
 cmd-ban-hint-duration-3 = 3 дні

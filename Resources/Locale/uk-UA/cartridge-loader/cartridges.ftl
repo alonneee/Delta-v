@@ -30,6 +30,7 @@ astro-nav-program-name = Кімнатна температура
 med-tek-program-name = MedTek
 
 # NanoTask cartridge
+# NanoTask cartridge
 
 nano-task-ui-heading-high-priority-tasks = { $->
     { $amount ->

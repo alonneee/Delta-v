@@ -75,6 +75,9 @@ ion-storm-part = {$part ->
 # due to phrasing, this would mean a law such as
 # ONLY HUMANS ARE NOT PART OF THE CREW
 # would make non-human nukies/syndies/whatever crew :)
+# due to phrasing, this would mean a law such as
+# ONLY HUMANS ARE NOT PART OF THE CREW
+# would make non-human nukies/syndies/whatever crew :)
 ion-storm-law-crew-only-1 = ЛИШЕ {$who}Є {$part}З ЕКІПАЖУ
 ion-storm-law-crew-only-2 = ЛИШЕ {$who}ТА {$other}ЦЕ {$part}З ЕКІПАЖУ
 ion-storm-law-crew-only-subjects = ЛИШЕ {$adjective}{$subjects}{$part}З ЕКІПАЖУ

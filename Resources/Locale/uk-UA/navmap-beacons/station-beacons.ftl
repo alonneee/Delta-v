@@ -6,7 +6,6 @@ station-beacon-vault = Сховище
 station-beacon-gateway = Шлюз
 station-beacon-captain = Капітан
 station-beacon-hop = HOP
-
 station-beacon-security = Безпека
 station-beacon-brig = Бриг
 station-beacon-warden = наглядач

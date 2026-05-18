@@ -3,7 +3,6 @@
 
 list-verbs-command-description = Перелічує всі дієслова, які гравець може використовувати для даної сутності.
 list-verbs-command-help = listverbs <playerUid | "self"> <targetUid>
-
 list-verbs-command-invalid-args = listverbs приймає 2 аргументи.
 
 list-verbs-command-invalid-player-uid = UID гравця не вдалося проаналізувати, або "self" не було передано.

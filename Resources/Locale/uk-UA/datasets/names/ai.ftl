@@ -9,7 +9,6 @@ names-ai-dataset-5 = Адаптивний маніпулятор
 
 # Named after the famous soundcard
 names-ai-dataset-6 = Adlib
-
 names-ai-dataset-7 = АЛІСА
 names-ai-dataset-8 = Allied Mastercomputer
 names-ai-dataset-9 = Альфа 2
@@ -44,7 +43,6 @@ names-ai-dataset-32 = Крей-2
 
 # If we're going to have AOL we may as well have some of their major competitors
 names-ai-dataset-33 = CompuServe
-
 names-ai-dataset-34 = комп'ютер
 names-ai-dataset-35 = Милашка
 names-ai-dataset-36 = Дедал
@@ -57,7 +55,6 @@ names-ai-dataset-42 = Емма-2
 
 # Famous early computer
 names-ai-dataset-43 = ENIAC
-
 names-ai-dataset-44 = Еразм
 names-ai-dataset-45 = все
 names-ai-dataset-46 = Ez-27
@@ -75,6 +72,7 @@ names-ai-dataset-56 = Хьюї
 # A play on the fad apple spawned of putting "i" infront of your tech products name
 names-ai-dataset-57 = iCore
 
+# Hell on earth (web browser)
 # Hell on earth (web browser)
 names-ai-dataset-58 = Т.Є. 6
 
@@ -104,6 +102,7 @@ names-ai-dataset-75 = Mugsy3000
 names-ai-dataset-76 = Мультивак
 names-ai-dataset-77 = NCH
 
+# A play on both NT as in NanoTrasen and NT as in windows NT, of which version 6.0 is windows vista
 # A play on both NT as in NanoTrasen and NT as in windows NT, of which version 6.0 is windows vista
 names-ai-dataset-78 = NT версії 6.0
 

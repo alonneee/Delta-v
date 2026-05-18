@@ -23,7 +23,6 @@ accent-italian-words-replace-5 = arrivalderci
 
 accent-italian-words-6 = капітан
 accent-italian-words-replace-6 = capitano
-
 accent-italian-words-7 = сир
 accent-italian-words-replace-7 = пармезано
 
@@ -35,10 +34,8 @@ accent-italian-words-replace-9 = міг-а
 
 accent-italian-words-10 = тато
 accent-italian-words-replace-10 = papà
-
 accent-italian-words-11 = добре
 accent-italian-words-replace-11 = molto bene
-
 accent-italian-words-12 = сірий приплив
 accent-italian-words-replace-12 = v1.3
 
@@ -47,7 +44,6 @@ accent-italian-words-replace-13 = охороняється
 
 accent-italian-words-14 = сірі тидери
 accent-italian-words-replace-14 = curvisti
-
 accent-italian-words-15 = привіт
 accent-italian-words-replace-15 = чао
 
@@ -56,7 +52,6 @@ accent-italian-words-replace-16 = це-а
 
 accent-italian-words-17 = зробити
 accent-italian-words-replace-17 = make-a
-
 accent-italian-words-18 = м'ясо
 accent-italian-words-replace-18 = як гірчиця
 
@@ -134,7 +129,6 @@ accent-italian-words-replace-42 = з якої причини
 
 accent-italian-words-43 = вино
 accent-italian-words-replace-43 = vino
-
 accent-italian-words-44 = пасажир
 accent-italian-words-replace-44 = Гумба
 
@@ -146,6 +140,5 @@ accent-italian-words-replace-46 = я-а
 
 accent-italian-words-47 = am-a
 accent-italian-words-replace-47 = am-a
-
 accent-italian-words-48 = і-а
 accent-italian-words-replace-48 = і-а

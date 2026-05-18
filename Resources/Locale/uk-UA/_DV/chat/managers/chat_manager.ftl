@@ -33,7 +33,6 @@ chat-speech-verb-kitsune-1 = кричить
 chat-speech-verb-kitsune-2 = гавкає
 chat-speech-verb-kitsune-3 = скиглить
 chat-speech-verb-kitsune-4 = yips
-
 chat-speech-verb-name-feroxi = Feroxi
 chat-speech-verb-feroxi-1 = червоніє
 chat-speech-verb-feroxi-2 = свистить

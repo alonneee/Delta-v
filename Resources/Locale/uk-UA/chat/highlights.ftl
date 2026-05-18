@@ -18,6 +18,7 @@ highlights-cargo-technician = Вантажотехнік, Карго Тех, "К
 highlights-salvage-specialist = Salvage Specialist, Salvager, Salvage, "Salv", "Cargo", Miner, "Logi", Logistics
 
 # Engineering
+# Engineering
 highlights-atmospheric-technician = OOC: { 0 }: { 1 }
 highlights-station-engineer = Станційний інженер, Engineering, Engineer, "Engi"
 highlights-technical-assistant = Дзвінок

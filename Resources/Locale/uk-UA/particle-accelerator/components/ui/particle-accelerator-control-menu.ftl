@@ -16,8 +16,7 @@ particle-accelerator-control-menu-draw = Тяга: {$watts}/{$lastReceive}
 particle-accelerator-control-menu-draw-value = [font="Monospace"]{$watts}/{$lastReceive}[/font]
 particle-accelerator-control-menu-draw-not-available = Тяга: N/A
 particle-accelerator-control-menu-flavor-left = Будь ласка, тримайте клоуна подалі від цієї консолі!
-particle-accelerator-control-menu-flavor-right = v 1.6
-
+particle-accelerator-control-menu-flavor-right = Смак
 particle-accelerator-radio-message-on = Увімкнуто живлення PA.
 particle-accelerator-radio-message-off = Живлення PA було вимкнено.
 particle-accelerator-radio-message-num = Потужність PA встановлено на рівень {$level}.

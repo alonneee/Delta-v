@@ -22,7 +22,6 @@ warp-point-salvage = Порятунок
 warp-point-engineering = Інженерія
 warp-point-singularity = Сингулярність
 warp-point-atmospherics = Atmos
-
 warp-point-hop = HoP
 warp-point-kitchen = кухня
 warp-point-bar = Бар

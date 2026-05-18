@@ -18,7 +18,6 @@ accent-anglish-replacement-6 = послідовник
 
 accent-anglish-words-7 = згоден
 accent-anglish-replacement-7 = yeasay
-
 accent-anglish-words-8 = угода
 accent-anglish-replacement-8 = справа
 
@@ -51,7 +50,6 @@ accent-anglish-replacement-17 = подарункова дошка
 
 accent-anglish-words-18 = AME
 accent-anglish-replacement-18 = unbeing burner
-
 accent-anglish-words-19 = амінь
 accent-anglish-replacement-19 = спокійно
 
@@ -69,7 +67,6 @@ accent-anglish-replacement-23 = склав
 
 accent-anglish-words-24 = android
 accent-anglish-replacement-24 = manhue
-
 accent-anglish-words-25 = гнів
 accent-anglish-replacement-25 = гнів
 
@@ -84,10 +81,8 @@ accent-anglish-replacement-28 = буття
 
 accent-anglish-words-29 = аніме
 accent-anglish-replacement-29 = dawnlandish livedrawing
-
 accent-anglish-words-30 = дратувати
 accent-anglish-replacement-30 = irk
-
 accent-anglish-words-31 = дратує
 accent-anglish-replacement-31 = набридливий
 
@@ -108,7 +103,6 @@ accent-anglish-replacement-36 = небуття
 
 accent-anglish-words-37 = антитоксин
 accent-anglish-replacement-37 = gainatter
-
 accent-anglish-words-38 = занепокоєння
 accent-anglish-replacement-38 = туга
 
@@ -129,16 +123,13 @@ accent-anglish-replacement-43 = вибачте
 
 accent-anglish-words-44 = арешт
 accent-anglish-replacement-44 = avast
-
 accent-anglish-words-45 = заарештований
 accent-anglish-replacement-45 = avast
-
 accent-anglish-words-46 = премія
 accent-anglish-replacement-46 = білін
 
 accent-anglish-words-47 = задом наперед
 accent-anglish-replacement-47 = arselong
-
 accent-anglish-words-48 = бомба
 accent-anglish-replacement-48 = бластер
 
@@ -159,7 +150,6 @@ accent-anglish-replacement-53 = канатний трос
 
 accent-anglish-words-54 = кафе
 accent-anglish-replacement-54 = beanbrewhouse
-
 accent-anglish-words-55 = торт
 accent-anglish-replacement-55 = солодка випічка
 
@@ -231,7 +221,6 @@ accent-anglish-replacement-77 = навантаження
 
 accent-anglish-words-78 = казино
 accent-anglish-replacement-78 = bethall
-
 accent-anglish-words-79 = не було
 accent-anglish-replacement-79 = свіжий
 
@@ -246,7 +235,6 @@ accent-anglish-replacement-82 = готувати
 
 accent-anglish-words-83 = хімік
 accent-anglish-replacement-83 = salveseller
-
 accent-anglish-words-84 = хімія
 accent-anglish-replacement-84 = блендлор
 
@@ -294,7 +282,6 @@ accent-anglish-replacement-98 = бойові дії
 
 accent-anglish-words-99 = риба
 accent-anglish-replacement-99 = funplay
-
 accent-anglish-words-100 = команда
 accent-anglish-replacement-100 = головування
 
@@ -327,7 +314,6 @@ accent-anglish-replacement-109 = миловидний
 
 accent-anglish-words-110 = конвертувати
 accent-anglish-replacement-110 = forwandle
-
 accent-anglish-words-111 = впоратися
 accent-anglish-replacement-111 = справа
 
@@ -366,7 +352,6 @@ accent-anglish-replacement-122 = тяжкий
 
 accent-anglish-words-123 = даних
 accent-anglish-replacement-123 = rawput
-
 accent-anglish-words-124 = не є
 accent-anglish-replacement-124 = спірний
 
@@ -447,7 +432,6 @@ accent-anglish-replacement-149 = зловживання
 
 accent-anglish-words-150 = знищити
 accent-anglish-replacement-150 = unmake
-
 accent-anglish-words-151 = затримувати
 accent-anglish-replacement-151 = утримувати
 
@@ -492,13 +476,11 @@ accent-anglish-replacement-164 = нудотно
 
 accent-anglish-words-165 = дезінфікувати
 accent-anglish-replacement-165 = unsmittle
-
 accent-anglish-words-166 = диск
 accent-anglish-replacement-166 = дрожити
 
 accent-anglish-words-167 = неприязнь
 accent-anglish-replacement-167 = mislike
-
 accent-anglish-words-168 = вибуття
 accent-anglish-replacement-168 = нічийна земля
 
@@ -525,7 +507,6 @@ accent-anglish-replacement-175 = ей
 
 accent-anglish-words-176 = баклажани
 accent-anglish-replacement-176 = madapple
-
 accent-anglish-words-177 = похмілля
 accent-anglish-replacement-177 = ейрен
 
@@ -564,7 +545,6 @@ accent-anglish-replacement-188 = вихід
 
 accent-anglish-words-189 = фрезон
 accent-anglish-replacement-189 = coldstuff
-
 accent-anglish-words-190 = до біса
 accent-anglish-replacement-190 = бути проклятим
 
@@ -666,7 +646,6 @@ accent-anglish-replacement-222 = захоплення
 
 accent-anglish-words-223 = інтерн
 accent-anglish-replacement-223 = inworker
-
 accent-anglish-words-224 = в'язниця
 accent-anglish-replacement-224 = блокування
 
@@ -702,7 +681,6 @@ accent-anglish-replacement-234 = правоту
 
 accent-anglish-words-235 = ніж
 accent-anglish-replacement-235 = seax
-
 accent-anglish-words-236 = ліхтар
 accent-anglish-replacement-236 = світлоносець
 
@@ -723,7 +701,6 @@ accent-anglish-replacement-241 = робочий посуд
 
 accent-anglish-words-242 = магія
 accent-anglish-replacement-242 = dwimmercraft
-
 accent-anglish-words-243 = магній
 accent-anglish-replacement-243 = гіркота
 
@@ -756,7 +733,6 @@ accent-anglish-replacement-252 = земельний лист
 
 accent-anglish-words-253 = морський
 accent-anglish-replacement-253 = nowend
-
 accent-anglish-words-254 = одружений
 accent-anglish-replacement-254 = одружений
 
@@ -801,10 +777,8 @@ accent-anglish-replacement-267 = ремесло
 
 accent-anglish-words-268 = медитувати
 accent-anglish-replacement-268 = insee
-
 accent-anglish-words-269 = медитація
 accent-anglish-replacement-269 = inseeing
-
 accent-anglish-words-270 = рукопашний бій
 accent-anglish-replacement-270 = сваритися
 
@@ -828,7 +802,6 @@ accent-anglish-replacement-276 = зливати
 
 accent-anglish-words-277 = мезон
 accent-anglish-replacement-277 = midmote
-
 accent-anglish-words-278 = повідомлення
 accent-anglish-replacement-278 = звістка
 
@@ -849,7 +822,6 @@ accent-anglish-replacement-283 = замовк гравець
 
 accent-anglish-words-284 = шахтар
 accent-anglish-replacement-284 = delver
-
 accent-anglish-words-285 = другорядний
 accent-anglish-replacement-285 = молодняк
 
@@ -966,7 +938,6 @@ accent-anglish-replacement-322 = сказати
 
 accent-anglish-words-323 = вимова
 accent-anglish-replacement-323 = wordway
-
 accent-anglish-words-324 = Треякракра
 accent-anglish-replacement-324 = свідок
 
@@ -975,7 +946,6 @@ accent-anglish-replacement-325 = правильно
 
 accent-anglish-words-326 = прокурор
 accent-anglish-replacement-326 = forfollower
-
 accent-anglish-words-327 = психо
 accent-anglish-replacement-327 = розумовий
 
@@ -1005,7 +975,6 @@ accent-anglish-replacement-335 = замовкли
 
 accent-anglish-words-336 = справжній
 accent-anglish-replacement-336 = echt
-
 accent-anglish-words-337 = репортер
 accent-anglish-replacement-337 = журналіст
 
@@ -1014,22 +983,18 @@ accent-anglish-replacement-338 = плечовий стрілець
 
 accent-anglish-words-339 = бунт
 accent-anglish-replacement-339 = crowdburst
-
 accent-anglish-words-340 = пограбування
 accent-anglish-replacement-340 = різання
 
 accent-anglish-words-341 = робот
 accent-anglish-replacement-341 = sparkthrall
-
 accent-anglish-words-342 = роботизований
 accent-anglish-replacement-342 = холодна душа
 
 accent-anglish-words-343 = робототехнік
 accent-anglish-replacement-343 = sparkthrallcraftsman
-
 accent-anglish-words-344 = робототехніка
 accent-anglish-replacement-344 = sparkthrallcraft
-
 accent-anglish-words-345 = надійний
 accent-anglish-replacement-345 = повнокровний
 
@@ -1053,10 +1018,8 @@ accent-anglish-replacement-351 = навчальний дім
 
 accent-anglish-words-352 = наука
 accent-anglish-replacement-352 = kendom
-
 accent-anglish-words-353 = науковець
 accent-anglish-replacement-353 = kenman
-
 accent-anglish-words-354 = секрет
 accent-anglish-replacement-354 = дерн
 
@@ -1191,7 +1154,6 @@ accent-anglish-replacement-397 = поводження
 
 accent-anglish-words-398 = помідор
 accent-anglish-replacement-398 = loveapple
-
 accent-anglish-words-399 = трит
 accent-anglish-replacement-399 = третя вода
 
@@ -1200,7 +1162,6 @@ accent-anglish-replacement-400 = третя вода
 
 accent-anglish-words-401 = жилет
 accent-anglish-replacement-401 = chesthelm
-
 accent-anglish-words-402 = словниковий запас
 accent-anglish-replacement-402 = слово-скарбниця
 
@@ -1224,7 +1185,6 @@ accent-anglish-replacement-408 = очні двері
 
 accent-anglish-words-409 = майстер
 accent-anglish-replacement-409 = dwimmerman
-
 accent-anglish-words-410 = ксено
 accent-anglish-replacement-410 = чужий
 
@@ -1251,10 +1211,8 @@ accent-anglish-replacement-417 = диркіп
 
 accent-anglish-words-418 = бармен
 accent-anglish-replacement-418 = alekeeper
-
 accent-anglish-words-419 = епістеміка
 accent-anglish-replacement-419 = worldken
-
 accent-anglish-words-420 = капелан
 accent-anglish-replacement-420 = божий коваль
 
@@ -1278,7 +1236,6 @@ accent-anglish-replacement-803 = форсетування
 
 accent-anglish-words-426 = { 0 }({ 1 })
 accent-anglish-replacement-426 = SUF
-
 accent-anglish-words-427 = продовжити
 accent-anglish-replacement-427 = продовжуй
 
@@ -1320,13 +1277,10 @@ accent-anglish-replacement-439 = оцінки
 
 accent-anglish-words-440 = ядерна бомба
 accent-anglish-replacement-440 = kernelweapon
-
 accent-anglish-words-441 = ядерна зброя
 accent-anglish-replacement-441 = kernelweapon
-
 accent-anglish-words-442 = надматерія
 accent-anglish-replacement-442 = kerneloven
-
 accent-anglish-words-443 = випромінювання
 accent-anglish-replacement-443 = крадіжка
 
@@ -1443,7 +1397,6 @@ accent-anglish-replacement-480 = товариство
 
 accent-anglish-words-481 = скальпель
 accent-anglish-replacement-481 = healblade
-
 accent-anglish-words-482 = шрам
 accent-anglish-replacement-482 = недолік
 
@@ -1488,7 +1441,6 @@ accent-anglish-replacement-495 = копатися
 
 accent-anglish-words-496 = вибуховий
 accent-anglish-replacement-496 = blasttinder
-
 accent-anglish-words-497 = вибухові речовини
 accent-anglish-replacement-497 = Ritahrecra
 
@@ -1527,10 +1479,8 @@ accent-anglish-replacement-508 = спорядження
 
 accent-anglish-words-509 = обладнати
 accent-anglish-replacement-509 = begear
-
 accent-anglish-words-510 = споряджає
 accent-anglish-replacement-510 = begears
-
 accent-anglish-words-511 = стерти
 accent-anglish-replacement-511 = зняти позначку
 
@@ -1557,13 +1507,11 @@ accent-anglish-replacement-518 = відвертість
 
 accent-anglish-words-519 = borg
 accent-anglish-replacement-519 = manhue
-
 accent-anglish-words-520 = оголосити
 accent-anglish-replacement-520 = заклинання
 
 accent-anglish-words-521 = Коробка, що містить усі командні штампи. Намагайтеся бути переконливими своїми дозволами.
 accent-anglish-replacement-521 = oncouthing
-
 accent-anglish-words-522 = палата
 accent-anglish-replacement-522 = кімната
 
@@ -1605,7 +1553,6 @@ accent-anglish-replacement-534 = атерія
 
 accent-anglish-words-535 = дієслово
 accent-anglish-replacement-535 = doing-word
-
 accent-anglish-words-536 = дослівно
 accent-anglish-replacement-536 = слово в слово
 
@@ -1620,7 +1567,6 @@ accent-anglish-replacement-539 = відгалуження
 
 accent-anglish-words-540 = проти
 accent-anglish-replacement-540 = ayenst
-
 accent-anglish-words-541 = вертикальний
 accent-anglish-replacement-541 = вертикально
 
@@ -1833,7 +1779,6 @@ accent-anglish-replacement-609 = триває
 
 accent-anglish-words-610 = сузір'я
 accent-anglish-replacement-610 = starbilth
-
 accent-anglish-words-611 = сузір'я
 accent-anglish-replacement-611 = зірки
 
@@ -1860,7 +1805,6 @@ accent-anglish-replacement-618 = утримання
 
 accent-anglish-words-619 = контейнер
 accent-anglish-replacement-619 = inholder
-
 accent-anglish-words-620 = стримування
 accent-anglish-replacement-620 = утримання
 
@@ -1872,13 +1816,11 @@ accent-anglish-replacement-622 = інінг
 
 accent-anglish-words-623 = конкурс
 accent-anglish-replacement-623 = witherwin
-
 accent-anglish-words-624 = нестатеві
 accent-anglish-replacement-624 = неглянцевий
 
 accent-anglish-words-625 = гомосексуаліст
 accent-anglish-replacement-625 = samelover
-
 accent-anglish-words-626 = різностатеві
 accent-anglish-replacement-626 = відкликаний
 
@@ -1950,7 +1892,6 @@ accent-anglish-replacement-648 = кислі яблука
 
 accent-anglish-words-649 = баклажани
 accent-anglish-replacement-649 = madapples
-
 accent-anglish-words-650 = гарбуза
 accent-anglish-replacement-650 = урожайні кульки
 
@@ -1962,7 +1903,6 @@ accent-anglish-replacement-652 = необґрунтовано
 
 accent-anglish-words-653 = звинувачувати
 accent-anglish-replacement-653 = wray
-
 accent-anglish-words-654 = обвинувачений
 accent-anglish-replacement-654 = переодягнений
 
@@ -2013,7 +1953,6 @@ accent-anglish-replacement-669 = вчинки
 
 accent-anglish-words-670 = активний
 accent-anglish-replacement-670 = deedy
-
 accent-anglish-words-671 = Окуляри (дієз)
 accent-anglish-replacement-671 = чинність
 
@@ -2085,10 +2024,8 @@ accent-anglish-replacement-693 = боявся
 
 accent-anglish-words-694 = згоден
 accent-anglish-replacement-694 = yeasay
-
 accent-anglish-words-695 = погодився
 accent-anglish-replacement-695 = oneread
-
 accent-anglish-words-696 = порятунок
 accent-anglish-replacement-696 = знахідка
 
@@ -2109,7 +2046,6 @@ accent-anglish-replacement-701 = душевно
 
 accent-anglish-words-702 = телепатичний
 accent-anglish-replacement-702 = soulspeak
-
 accent-anglish-words-703 = зникають
 accent-anglish-replacement-703 = слабшати
 
@@ -2145,7 +2081,6 @@ accent-anglish-replacement-713 = зірковість
 
 accent-anglish-words-714 = відомий
 accent-anglish-replacement-714 = couth
-
 accent-anglish-words-715 = фантазія
 accent-anglish-replacement-715 = ефектний
 
@@ -2196,7 +2131,6 @@ accent-anglish-replacement-730 = позначки
 
 accent-anglish-words-731 = тяжкий злочин
 accent-anglish-replacement-731 = headsin
-
 accent-anglish-words-732 = злочини
 accent-anglish-replacement-732 = головні гріхи
 
@@ -2289,7 +2223,6 @@ accent-anglish-replacement-762 = солодкий пил
 
 accent-anglish-words-763 = цукрова тростина
 accent-anglish-replacement-763 = sweetreed
-
 accent-anglish-words-764 = пропонувати
 accent-anglish-replacement-764 = передбачити
 
@@ -2304,7 +2237,6 @@ accent-anglish-replacement-767 = самовбивство
 
 accent-anglish-words-768 = надкаліфрагілістичнийекспіалідозний
 accent-anglish-replacement-768 = overfairnessbrokenliatoneliteachworthy
-
 accent-anglish-words-769 = постачання
 accent-anglish-replacement-769 = врожайність
 
@@ -2322,7 +2254,6 @@ accent-anglish-replacement-773 = підтримав
 
 accent-anglish-words-774 = припустимо
 accent-anglish-replacement-774 = ween
-
 accent-anglish-words-775 = передбачувано
 accent-anglish-replacement-775 = відлучений
 
@@ -2403,7 +2334,6 @@ accent-anglish-replacement-800 = тунги
 
 accent-anglish-words-801 = чарівники
 accent-anglish-replacement-801 = dwimmermen
-
 accent-anglish-words-805 = Наука - Артефакт Південь
 accent-anglish-replacement-805 = буття
 
@@ -2457,7 +2387,6 @@ accent-anglish-replacement-821 = цілитель
 
 accent-anglish-words-822 = атмосфера
 accent-anglish-replacement-822 = lifthelm
-
 accent-anglish-words-823 = атмозія
 accent-anglish-replacement-823 = зал lifthelm
 
@@ -2508,7 +2437,6 @@ accent-anglish-replacement-838 = скотарство
 
 accent-anglish-words-839 = послуги
 accent-anglish-replacement-839 = besteadings
-
 accent-anglish-words-840 = нести
 accent-anglish-replacement-840 = ведмідь
 
@@ -2535,7 +2463,6 @@ accent-anglish-replacement-847 = правдошукаючи
 
 accent-anglish-words-848 = фельдшер
 accent-anglish-replacement-848 = healdriver
-
 accent-anglish-words-849 = фельдшерів
 accent-anglish-replacement-849 = хелдрайвери
 
@@ -2580,7 +2507,6 @@ accent-anglish-replacement-862 = замовкли гравці
 
 accent-anglish-words-863 = клоуни
 accent-anglish-replacement-863 = funnimen
-
 accent-anglish-words-864 = нісенітниця
 accent-anglish-replacement-864 = нерозумний
 
@@ -2616,7 +2542,6 @@ accent-anglish-replacement-874 = раніше
 
 accent-anglish-words-875 = товариш
 accent-anglish-replacement-875 = yester
-
 accent-anglish-words-876 = ціна
 accent-anglish-replacement-876 = мита
 
@@ -2691,7 +2616,6 @@ accent-anglish-replacement-899 = хірст
 
 accent-anglish-words-900 = смажені
 accent-anglish-replacement-900 = hirsted
-
 accent-anglish-words-901 = веселощі
 accent-anglish-replacement-901 = грати
 
@@ -2775,10 +2699,8 @@ accent-anglish-replacement-927 = купи
 
 accent-anglish-words-928 = пірат
 accent-anglish-replacement-928 = seareaver
-
 accent-anglish-words-929 = пірати
 accent-anglish-replacement-929 = seareavers
-
 accent-anglish-words-930 = місце
 accent-anglish-replacement-930 = пляма
 
@@ -2802,7 +2724,6 @@ accent-anglish-replacement-936 = щадний
 
 accent-anglish-words-937 = розвідник
 accent-anglish-replacement-937 = foretrekker
-
 accent-anglish-words-938 = розвідники
 accent-anglish-replacement-938 = передники
 
@@ -2814,13 +2735,10 @@ accent-anglish-replacement-940 = Вайкрафт
 
 accent-anglish-words-941 = бойові мистецтва
 accent-anglish-replacement-941 = wyecrafts
-
 accent-anglish-words-942 = майстер бойових мистецтв
 accent-anglish-replacement-942 = wyecraftsman
-
 accent-anglish-words-943 = бойові мистецтва
 accent-anglish-replacement-943 = wyecraftsmen
-
 accent-anglish-words-944 = санітар
 accent-anglish-replacement-944 = здоровий
 
@@ -2949,13 +2867,11 @@ accent-anglish-replacement-985 = павукоподібні
 
 accent-anglish-words-986 = vox
 accent-anglish-replacement-986 = starbird
-
 accent-anglish-words-987 = вокси
 accent-anglish-replacement-987 = зоряні птахи
 
 accent-anglish-words-988 = feroxi
 accent-anglish-replacement-988 = seadogfolk
-
 accent-anglish-words-989 = фелінід
 accent-anglish-replacement-989 = котячий один
 
@@ -2967,7 +2883,6 @@ accent-anglish-replacement-991 = перевертень
 
 accent-anglish-words-992 = вони
 accent-anglish-replacement-992 = demonfolk
-
 accent-anglish-words-993 = thaven
 accent-anglish-replacement-993 = саксеар
 
@@ -2988,7 +2903,6 @@ accent-anglish-replacement-998 = багвайт
 
 accent-anglish-words-999 = як ми
 accent-anglish-replacement-999 = bugwights
-
 accent-anglish-words-1000 = вульпканін
 accent-anglish-replacement-1000 = фоксфолк
 
@@ -3003,10 +2917,8 @@ accent-anglish-replacement-1003 = Вудвайт
 
 accent-anglish-words-1004 = ABEX
 accent-anglish-replacement-1004 = wileman
-
 accent-anglish-words-1005 = МПК
 accent-anglish-replacement-1005 = wilemen
-
 accent-anglish-words-1006 = Душ
 accent-anglish-replacement-1006 = слінкенд
 
@@ -3015,13 +2927,11 @@ accent-anglish-replacement-1007 = слінкенди
 
 accent-anglish-words-1008 = плазун
 accent-anglish-replacement-1008 = slinkwight
-
 accent-anglish-words-1009 = рептилоїди
 accent-anglish-replacement-1009 = слінкфолк
 
 accent-anglish-words-1010 = видів
 accent-anglish-replacement-1010 = lifekind
-
 accent-anglish-words-1011 = кривавий
 accent-anglish-replacement-1011 = підірваний
 
@@ -3054,31 +2964,23 @@ accent-anglish-replacement-1020 = краватки
 
 accent-anglish-words-1021 = додати
 accent-anglish-replacement-1021 = eke
-
 accent-anglish-words-1022 = додано
 accent-anglish-replacement-1022 = eked
-
 accent-anglish-words-1023 = додає
 accent-anglish-replacement-1023 = ekes
-
 accent-anglish-words-1024 = додаток
 accent-anglish-replacement-1024 = eking
-
 accent-anglish-words-1025 = додавання
 accent-anglish-replacement-1025 = eking
-
 accent-anglish-words-1026 = відняти
 accent-anglish-replacement-1026 = uneke
-
 accent-anglish-words-1027 = Ліва роботизована рука від Hesphiastos Industries
 accent-anglish-replacement-1027 = Ліва роботизована нога від Hesphiastos Industries
 
 accent-anglish-words-1028 = віднімання
 accent-anglish-replacement-1028 = uneking
-
 accent-anglish-words-1029 = віднімання
 accent-anglish-replacement-1029 = uneking
-
 accent-anglish-words-1030 = ВІРА
 accent-anglish-replacement-1030 = ще
 
@@ -3159,7 +3061,6 @@ accent-anglish-replacement-1055 = дивний
 
 accent-anglish-words-1056 = заряд!
 accent-anglish-replacement-1056 = ongripe!
-
 accent-anglish-words-1057 = зарядний пристрій
 accent-anglish-replacement-1057 = наповнювач
 
@@ -3234,7 +3135,6 @@ accent-anglish-replacement-1080 = сполучна речовина
 
 accent-anglish-words-1081 = художня література
 accent-anglish-replacement-1081 = playtruth
-
 accent-anglish-words-1082 = наївний
 accent-anglish-replacement-1082 = неремісничий
 
@@ -3243,7 +3143,6 @@ accent-anglish-replacement-1083 = фрейзінг
 
 accent-anglish-words-1084 = допитувати
 accent-anglish-replacement-1084 = befrain
-
 accent-anglish-words-1085 = допитувач
 accent-anglish-replacement-1085 = запитувач
 
@@ -3276,7 +3175,6 @@ accent-anglish-replacement-1094 = сварка
 
 accent-anglish-words-1095 = аргумент
 accent-anglish-replacement-1095 = flite
-
 accent-anglish-words-1096 = сперечався
 accent-anglish-replacement-1096 = сварилися
 
@@ -3288,7 +3186,6 @@ accent-anglish-replacement-1098 = шлемовий одяг
 
 accent-anglish-words-1099 = броньований
 accent-anglish-replacement-1099 = helmclad
-
 accent-anglish-words-1100 = навколо
 accent-anglish-replacement-1100 = приблизно
 
@@ -3306,7 +3203,6 @@ accent-anglish-replacement-1104 = вдарив
 
 accent-anglish-words-1105 = напад
 accent-anglish-replacement-1105 = onrush
-
 accent-anglish-words-1106 = напали
 accent-anglish-replacement-1106 = накинувся
 
@@ -3408,7 +3304,6 @@ accent-anglish-replacement-1138 = сильнийпривид
 
 accent-anglish-words-1139 = інжектор
 accent-anglish-replacement-1139 = inshooter
-
 accent-anglish-words-1140 = вводити
 accent-anglish-replacement-1140 = укол голкою
 
@@ -3423,7 +3318,6 @@ accent-anglish-replacement-1143 = Ротеркін
 
 accent-anglish-words-1144 = авалі
 accent-anglish-replacement-1144 = gleedkin
-
 accent-anglish-words-1145 = стан
 accent-anglish-replacement-1145 = висувати
 
@@ -3435,7 +3329,6 @@ accent-anglish-replacement-1147 = переправа
 
 accent-anglish-words-1148 = телепорт
 accent-anglish-replacement-1148 = farferrier
-
 accent-anglish-words-1149 = генерувати
 accent-anglish-replacement-1149 = стрін
 
@@ -3456,7 +3349,6 @@ accent-anglish-replacement-1154 = Калімба
 
 accent-anglish-words-1155 = кріопода
 accent-anglish-replacement-1155 = freezerpod
-
 accent-anglish-words-1156 = брюх
 accent-anglish-replacement-1156 = мій брат
 

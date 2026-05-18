@@ -55,7 +55,6 @@ accent-slavic-words-replace-15 = добро
 accent-slavic-words-16 = ебать
 accent-slavic-words-16-2 = сука
 accent-slavic-words-replace-16 = kurwa
-
 accent-slavic-words-17 = красива
 accent-slavic-words-replace-17 = красива
 

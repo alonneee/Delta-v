@@ -153,7 +153,6 @@ marking-VulpTailCoyoteWag = Вульпканін Койот (виляє)
 
 marking-VulpTailCorgiWag-corgi_wag = Хвіст Крогі
 marking-VulpTailCorgiWag = Vulpkanin Corgi (wag)
-
 marking-VulpTailHusky-husky-inner = Хвіст хаскі (внутрішній)
 marking-VulpTailHusky-husky-outer = Хвіст хаскі (зовнішній)
 marking-VulpTailHusky = Вульпканин хаскі
@@ -183,7 +182,6 @@ marking-VulpTailDalmatianWag = Вульпканин далматин (виляє
 
 marking-VulpBellyCrest-belly_crest = живіт
 marking-VulpBellyCrest = Vulpkanin Belly Crest
-
 marking-VulpBellyFull-belly_full = живіт
 marking-VulpBellyFull = Живіт Вульканіна 1
 

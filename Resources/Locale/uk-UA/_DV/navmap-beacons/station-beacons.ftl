@@ -4,7 +4,6 @@ station-beacon-mystagogue = Містагога
 station-beacon-logistics = Логістика
 station-beacon-logistics-reception = Логістика
 station-beacon-lo = LO
-
 station-beacon-conference-room = Конференц-зал
 station-beacon-command-bar = Панель команд
 
@@ -21,7 +20,6 @@ station-beacon-mailroom = Пошта
 
 station-beacon-engi-outpost = Engi Outpost
 station-beacon-atmos-outpost = Atmos Outpost
-
 station-beacon-janitor-office = Офіс Яні
 station-beacon-janitor-closet = Яні Шафа
 station-beacon-reporter = Репортер

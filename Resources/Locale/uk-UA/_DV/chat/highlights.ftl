@@ -7,6 +7,7 @@ highlights-chief-justice = Головний суддя, "CJ", Правосудд
 highlights-mystagogue = Mystagogue, Mysta, "MG", Epistemics, "Epi", Command, Science
 
 # Security
+# Security
 highlights-prison-guard = Тюремна охорона, Тюрма, Охорона, Охорона, "Сек", Охорона
 highlights-corpsman = Санитар, "Корпус", Бригмед, "Сек", Охорона, "Мед", Мед
 
@@ -21,6 +22,7 @@ highlights-boxer = Боксер
 highlight-roboticist = Roboticist, Epistemics, "Epi"
 highlight-psionic-mantis = "Mantis", Psionic Mantis, Epistemics, "Epi", "Psionic"
 
+# Justice
 # Justice
 highlight-clerk = Клерк, "Юстиція", Ордер, "Закон"
 highlight-attorney = Адвокат, Адвокат, Захист, Ордер, «Закон», «Шицек», Юстиція

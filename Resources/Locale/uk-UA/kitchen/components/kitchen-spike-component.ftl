@@ -33,5 +33,4 @@ comp-kitchen-spike-unhook-verb = Відчепити
 comp-kitchen-spike-hooked = [color=red]{ CAPITALIZE(THE($victim)) } на цьому стрибку![/color]
 
 comp-kitchen-spike-meat-name = { $name } ({ $victim })
-
 comp-kitchen-spike-victim-examine = [color=orange]{ CAPITALIZE(SUBJECT($target)) } виглядає досить мізерно.[/color]

@@ -83,6 +83,7 @@ admin-notes-new-message = Ви отримали повідомлення адм�
 admin-notes-fallback-admin-name = [System]
 
 # Admin remarks
+# Admin remarks
 admin-remarks-command-description = Відкриває сторінку зауважень адміністратора
 admin-remarks-command-error = Зауваження адміністратора вимкнено
 admin-remarks-title = Зауваження адміністратора

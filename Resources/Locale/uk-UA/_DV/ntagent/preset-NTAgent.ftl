@@ -10,7 +10,6 @@ NTAgent-briefing = Вам було імплантовано радіоімпла
     Use :y to talk through CentComm channels.
 
 objective-issuer-NTAgent = [color=#204cc7]NanoTrasen[/color]
-
 NTAgent-round-end-name = Агент внутрішніх справ
 
 objective-condition-frame-person-title = Кадр {$targetName}, {CAPITALIZE($job)}.

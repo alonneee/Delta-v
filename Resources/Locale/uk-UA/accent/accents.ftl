@@ -109,6 +109,7 @@ accent-words-crab-5 = Клік-тап.
 accent-words-crab-6 = Cliliick.
 
 # Kobold
+# Kobold
 accent-words-kobold-1 = ну!
 accent-words-kobold-2 = БРАВО!
 accent-words-kobold-3 = Яп!

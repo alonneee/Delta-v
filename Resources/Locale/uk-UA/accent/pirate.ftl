@@ -2,7 +2,6 @@ accent-pirate-prefix-1 = Ар-ргх
 accent-pirate-prefix-2 = Гр-р-р
 accent-pirate-prefix-3 = Яар-г-х
 accent-pirate-prefix-4 = Yarrgh
-
 accent-pirate-replaced-1 = мій
 accent-pirate-replacement-1 = міʼ
 
@@ -53,13 +52,11 @@ accent-pirate-replacement-16 = здобич
 
 accent-pirate-replaced-17 = уваги
 accent-pirate-replacement-17 = avast
-
 accent-pirate-replaced-18 = дурний
 accent-pirate-replacement-18 = папугоподібний
 
 accent-pirate-replaced-19 = ідіот
 accent-pirate-replacement-19 = seadog
-
 accent-pirate-replaced-20 = твій
 accent-pirate-replacement-20 = твіʼ
 
@@ -77,10 +74,8 @@ accent-pirate-replacement-24 = обр
 
 accent-pirate-replaced-25 = ой
 accent-pirate-replacement-25 = argh
-
 accent-pirate-replaced-26 = ой
 accent-pirate-replacement-26 = argh
-
 accent-pirate-replaced-27 = пасажир
 accent-pirate-replacement-27 = сухопутний
 

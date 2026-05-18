@@ -2,7 +2,7 @@
 
 power-charge-window-status = Статус:
 power-charge-window-power = Потужність:
-power-charge-window-eta = ETA:
+power-charge-window-eta = Час до зарядки
 power-charge-window-charge = заряд:
 
 ## UI statuses
@@ -18,5 +18,5 @@ power-charge-window-power-label = {$draw} / {$max} В
 
 ## UI ETA label
 
-power-charge-window-eta-none = N/A
-power-charge-window-eta-value = { TOSTRING($left, "m\:ss") }
+power-charge-window-eta-none = Н/Д
+power-charge-window-eta-value = { TOSTRING($left, "m\\:ss") }

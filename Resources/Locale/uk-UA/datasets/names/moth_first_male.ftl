@@ -8,6 +8,7 @@ names-moth-first-male-dataset-2 = Атлас
 names-moth-first-male-dataset-3 = Attacus
 
 # Attacus caesar
+# Attacus caesar
 names-moth-first-male-dataset-4 = Цезар
 
 # Coscinocera hercules
@@ -17,11 +18,14 @@ names-moth-first-male-dataset-5 = Геракл
 names-moth-first-male-dataset-6 = Rannoch
 
 # Acosmeryx socrates
+# Acosmeryx socrates
 names-moth-first-male-dataset-7 = Сократ
 
 # Saturniidae solus
 names-moth-first-male-dataset-8 = Solus
 
+## Other languages
+# Hebrew עש "moth"
 ## Other languages
 # Hebrew עש "moth"
 names-moth-first-male-dataset-9 = Ясень

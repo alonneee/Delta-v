@@ -20,8 +20,6 @@ implanter-empty-text = Порожній
 
 implanter-label-inject = [color=green]{$implantName}[/color]
     Mode: [color=white]{$modeString}[/color]
-
 implanter-label-draw = [color=red]{$implantName}[/color]
     Mode: [color=white]{$modeString}[/color]
-
 implanter-contained-implant-text = [color=green]{$desc}[/color]

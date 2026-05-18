@@ -6,7 +6,6 @@ damage-command-help = Використання: {$command} <type/group> <amount>
 damage-command-arg-type = <вид або група пошкодження>
 damage-command-arg-quantity = [quantity]
 damage-command-arg-target = [target euid]
-
 damage-command-error-type = {$arg} не є дійсною групою чи типом пошкодження.
 damage-command-error-euid = {$arg} не є дійсним ідентифікаційним кодом юридичної особи.
 damage-command-error-quantity = {$arg} не є достовірною кількістю.

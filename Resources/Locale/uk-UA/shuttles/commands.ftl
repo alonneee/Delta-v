@@ -1,7 +1,6 @@
 # FTLdiskburner
 cmd-ftldisk-desc = Створює диск з координатами FTL, щоб перейти до карти, на якій знаходиться даний EntityID
 cmd-ftldisk-help = ftldisk [EntityID]
-
 cmd-ftldisk-no-transform = Сутність {$destination}не має компонента трансформації!
 cmd-ftldisk-no-map = Об’єкт {$destination}не має карти!
 cmd-ftldisk-no-map-comp = Сутність {$destination}якимось чином знаходиться на карті {$map}без компонента карти.

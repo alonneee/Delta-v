@@ -13,8 +13,7 @@ ui-options-apply = Застосувати
 ui-options-reset-all = Скинути все
 ui-options-default = За замовчуванням
 
-ui-options-value-percent = { TOSTRING($value, "P0") }
-
+ui-options-value-percent = {$percent}%
 # Misc/General menu
 
 ui-options-discordrich = Увімкніть Discord Повну Присутність

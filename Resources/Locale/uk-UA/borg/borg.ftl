@@ -23,6 +23,7 @@ borg-ui-modules-label = Модулі:
 borg-ui-module-counter = {$actual}/{$max}
 
 # Transponder
+# Transponder
 borg-transponder-disabled-popup = Мозок вилітає з вершини {$name}!
 borg-transponder-disabling-popup = Ваш транспондер починає блокувати вас із шасі!
 borg-transponder-destroying-popup = Самознищення {$name}подає звуковий сигнал!

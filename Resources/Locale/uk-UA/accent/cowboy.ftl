@@ -36,7 +36,6 @@ accent-cowboy-replacement-12 = так довго
 
 accent-cowboy-words-13 = клітина
 accent-cowboy-replacement-13 = pokey
-
 accent-cowboy-words-14 = шеф-кухар
 accent-cowboy-replacement-14 = печиво
 
@@ -81,7 +80,6 @@ accent-cowboy-replacement-27 = брухт
 
 accent-cowboy-words-28 = харчування
 accent-cowboy-replacement-28 = grub
-
 accent-cowboy-words-29 = друг
 accent-cowboy-replacement-29 = партнер
 
@@ -99,7 +97,6 @@ accent-cowboy-replacement-33 = шкідники
 
 accent-cowboy-words-34 = група
 accent-cowboy-replacement-34 = possee
-
 accent-cowboy-words-35 = вгадати
 accent-cowboy-replacement-35 = розраховувати
 
@@ -135,7 +132,6 @@ accent-cowboy-replacement-45 = фіксація
 
 accent-cowboy-words-46 = в'язниця
 accent-cowboy-replacement-46 = pokey
-
 accent-cowboy-words-47 = лікер
 accent-cowboy-replacement-47 = пожежна вода
 
@@ -177,7 +173,6 @@ accent-cowboy-replacement-59 = партнер
 
 accent-cowboy-words-60 = вечірка
 accent-cowboy-replacement-60 = shindig
-
 accent-cowboy-words-61 = пасажир
 accent-cowboy-replacement-61 = грінхорн
 

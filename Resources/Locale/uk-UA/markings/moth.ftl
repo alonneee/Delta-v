@@ -203,7 +203,6 @@ marking-MothChestFirewatch = Скриня молі (Firewatch)
 
 marking-MothHeadFirewatch-firewatch_head = Голова
 marking-MothHeadFirewatch = Moth Head (Firewatch)
-
 marking-MothLLegFirewatch-firewatch_l_leg = Ліва нога
 marking-MothLLegFirewatch = Ліва нога молі (Firewatch)
 
@@ -343,7 +342,6 @@ marking-MothChestRoyal = Скриня молі (королівська)
 
 marking-MothHeadRoyal-royal_head = Голова
 marking-MothHeadRoyal = Moth Head (Royal)
-
 marking-MothLLegRoyal-royal_l_leg = Ліва нога
 marking-MothLLegRoyal = Ліва ніжка метелика (королівська)
 

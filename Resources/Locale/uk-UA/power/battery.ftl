@@ -1,9 +1,9 @@
 ## Strings for the battery (SMES/substation) menu
 
 battery-menu-footer-left = Небезпека: висока напруга
-battery-menu-footer-right = 7.2 REV 6
-battery-menu-out = OUT
-battery-menu-in = IN
+battery-menu-footer-right = Живлення
+battery-menu-out = Вихід
+battery-menu-in = Вхід
 battery-menu-charge-header = Схема заряду
 battery-menu-discharge-header = Розрядний контур
 battery-menu-storage-header = Комірки зберігання

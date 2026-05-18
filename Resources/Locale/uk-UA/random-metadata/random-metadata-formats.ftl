@@ -2,6 +2,7 @@ random-metadata-name-format-default = {$part0}
 random-metadata-description-format-default = {$part0}
 
 # Used for standard humanoid names - "<firstName> <lastName>"
+# Used for standard humanoid names - "<firstName> <lastName>"
 name-format-standard = {$part0}{$part1}
 
 name-format-regal-rat = {$part0}{$part1}

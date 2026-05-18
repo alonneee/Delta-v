@@ -6,7 +6,7 @@ gravity-generator-window-title = Генератор гравітації
 ## UI field names
 gravity-generator-window-status = Статус:
 gravity-generator-window-power = Потужність:
-gravity-generator-window-eta = ETA:
+gravity-generator-window-eta = Час до стабілізації
 gravity-generator-window-charge = заряд:
 
 ## UI statuses
@@ -21,8 +21,9 @@ gravity-generator-window-power-off = Вимкнено
 gravity-generator-window-power-label = {$draw} / {$max} В
 
 ## UI ETA label
-gravity-generator-window-eta-none = N/A
-gravity-generator-window-eta-value = { TOSTRING($left, "m\:ss") }
+gravity-generator-window-eta-none = Н/Д
+gravity-generator-window-eta-value = { TOSTRING($left, "m\\:ss") }
 
+## Popup
 ## Popup
 gravity-generator-unanchoring-failed = Неможливо від’єднати активний генератор гравітації.

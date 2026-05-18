@@ -36,6 +36,7 @@ holopad-window-flavor-left = ⚠ Не входьте, поки проектор 
 holopad-window-flavor-right = v3.0.9
 
 # Holograms
+# Holograms
 holopad-hologram-name = голограма {THE($name)}
 
 # Holopad actions

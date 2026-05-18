@@ -16,4 +16,4 @@ apc-menu-power-state-label-tripped = ПЕРЕВАНТАЖЕННЯ
 # For the flavor text on the footer
 
 apc-menu-flavor-left = Зв'язуйтесь з інженером за допомогою.
-apc-menu-flavor-right = v1.2
+apc-menu-flavor-right = Смак

@@ -65,9 +65,9 @@ anomaly-generator-yes-fire = Статус: [color=forestgreen]Готовий[/co
 anomaly-generator-no-fire = Статус: [color=crimson]Не готовий[/color]
 anomaly-generator-generate = Створити аномалію
 anomaly-generator-charges = {$charges ->
-    [one] {$charges} заряд
-    *[other] {$charges} плата
-    }
+    [one] {$charges} charge
+    *[other] {$charges} charges
+}
 anomaly-generator-announcement = Виникла аномалія!
 
 anomaly-command-pulse = Пульсує цільову аномалію
@@ -75,7 +75,7 @@ anomaly-command-supercritical = Робить цільову аномалію н�
 
 # Flavor text on the footer
 anomaly-generator-flavor-left = Аномалія може породжуватися всередині оператора.
-anomaly-generator-flavor-right = v1.1
+anomaly-generator-flavor-right = Смак
 anomaly-behavior-unknown = [color=red]ПОМИЛКА. Неможливо прочитати.[/color]
 
 anomaly-behavior-title = Аналіз поведінкових відхилень:

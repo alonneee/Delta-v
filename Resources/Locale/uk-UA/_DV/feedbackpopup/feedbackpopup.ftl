@@ -13,6 +13,7 @@ feedbackpopup-discord-format-spacer = ---- Початок зворотного �
 feedbackpopup-discord-format-feedbackbody = {$feedback}
 
 # Command strings
+# Command strings
 feedbackpopup-command-name = дати відгук
 cmd-givefeedbackpopup-desc = Надає цільовому гравцеві спливаюче вікно для відгуку.
 cmd-givefeedbackpopup-help = Використання: givefeedbackpopup <playerUid> <prototypeId>

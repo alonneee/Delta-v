@@ -80,7 +80,6 @@ chatsan-replacement-29 = дякую
 
 chatsan-word-30 = афк
 chatsan-replacement-30 = ssd
-
 chatsan-word-31 = Sirireter
 chatsan-replacement-31 = заткнись, нахрен
 

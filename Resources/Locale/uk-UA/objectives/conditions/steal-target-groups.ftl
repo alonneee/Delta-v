@@ -62,7 +62,6 @@ steal-target-groups-toilet-golden-dirty-water = золотий унітаз
 
 # Thief Animal
 steal-target-groups-animal-named-cat = CMO's Cat
-
 steal-target-groups-animal-ian = Ян
 steal-target-groups-animal-mc-griff = Макгріфф
 steal-target-groups-animal-walter = Вальтер

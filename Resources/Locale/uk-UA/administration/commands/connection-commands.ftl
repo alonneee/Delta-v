@@ -8,7 +8,6 @@ cmd-grant_connect_bypass-help = Використання: grant_connect_bypass <
 
 cmd-grant_connect_bypass-arg-user = <користувач>
 cmd-grant_connect_bypass-arg-duration = [duration minutes]
-
 cmd-grant_connect_bypass-invalid-args = Очікується 1 або 2 аргументи
 cmd-grant_connect_bypass-unknown-user = Не вдалося знайти користувача "{$user}"
 cmd-grant_connect_bypass-invalid-duration = Недійсна тривалість '{$duration}'

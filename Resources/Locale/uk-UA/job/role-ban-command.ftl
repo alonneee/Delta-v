@@ -9,7 +9,6 @@ cmd-roleban-hint-2 = <робота>
 cmd-roleban-hint-3 = плитка xenoborg
 cmd-roleban-hint-4 = [тривалість у хвилинах, пропустіть або 0 для постійної заборони]
 cmd-roleban-hint-5 = [severity]
-
 cmd-roleban-hint-duration-1 = Назавжди
 cmd-roleban-hint-duration-2 = 1 день
 cmd-roleban-hint-duration-3 = 3 дні
@@ -37,8 +36,6 @@ cmd-rolebanlist-help = Використання: <ім'я або ідентиф�
 ## Completion result hints
 cmd-rolebanlist-hint-1 = <ім'я або ідентифікатор користувача>
 cmd-rolebanlist-hint-2 = [include unbanned]
-
-
 cmd-roleban-minutes-parse = {$time} не є дійсною кількістю хвилин.\n{$help}
 cmd-roleban-severity-parse = ${severity} не є дійсним ступенем тяжкості\n{$help}.
 cmd-roleban-arg-count = Неправильна кількість аргументів.

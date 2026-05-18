@@ -17,13 +17,10 @@ accent-dwarf-words-replace-4 = дівчина
 
 accent-dwarf-words-5 = робити
 accent-dwarf-words-replace-5 = dae
-
 accent-dwarf-words-6 = не треба
 accent-dwarf-words-replace-6 = dinnae
-
 accent-dwarf-words-7 = не робити
 accent-dwarf-words-replace-7 = dinnae
-
 accent-dwarf-words-8 = я
 accent-dwarf-words-replace-8 = я
 
@@ -44,19 +41,16 @@ accent-dwarf-words-replace-13 = ти
 
 accent-dwarf-words-14 = ти
 accent-dwarf-words-replace-14 = yere
-
 accent-dwarf-words-15 = ви
 accent-dwarf-words-replace-15 = так
 
 accent-dwarf-words-16 = я буду
 accent-dwarf-words-replace-16 = A'll
-
 accent-dwarf-words-17 = хворий
 accent-dwarf-words-replace-17 = все
 
 accent-dwarf-words-18 = з
 accent-dwarf-words-replace-18 = ae
-
 accent-dwarf-words-19 = був
 accent-dwarf-words-replace-19 = мудрість
 
@@ -68,7 +62,6 @@ accent-dwarf-words-replace-21 = канни
 
 accent-dwarf-words-22 = себе
 accent-dwarf-words-replace-22 = yersel
-
 accent-dwarf-words-23 = де
 accent-dwarf-words-replace-23 = Сресрекікіт
 
@@ -134,43 +127,31 @@ accent-dwarf-words-replace-43 = шоу
 
 accent-dwarf-words-44 = міг би
 accent-dwarf-words-replace-44 = cou
-
 accent-dwarf-words-45 = би
 accent-dwarf-words-replace-45 = wou'hae
-
 accent-dwarf-words-46 = повинен був
 accent-dwarf-words-replace-46 = shou'hae
-
 accent-dwarf-words-47 = ранок
 accent-dwarf-words-replace-47 = cou'hae
-
 accent-dwarf-words-48 = хотів би
 accent-dwarf-words-replace-48 = wouhae
-
 accent-dwarf-words-49 = мав би
 accent-dwarf-words-replace-49 = shouhae
-
 accent-dwarf-words-50 = Сресрахапі
 accent-dwarf-words-replace-50 = Саре
 
 accent-dwarf-words-51 = не хотів би
 accent-dwarf-words-replace-51 = wou'nae
-
 accent-dwarf-words-52 = не повинен
 accent-dwarf-words-replace-52 = shou'nae
-
 accent-dwarf-words-53 = не міг
 accent-dwarf-words-replace-53 = cou'nae
-
 accent-dwarf-words-54 = не хотів би
 accent-dwarf-words-replace-54 = wounae
-
 accent-dwarf-words-55 = не повинен
 accent-dwarf-words-replace-55 = shounae
-
 accent-dwarf-words-56 = не міг
 accent-dwarf-words-replace-56 = counae
-
 accent-dwarf-words-57 = мати
 accent-dwarf-words-replace-57 = хе
 
@@ -197,7 +178,6 @@ accent-dwarf-words-replace-64 = бути
 
 accent-dwarf-words-66 = харчування
 accent-dwarf-words-replace-66 = grub
-
 accent-dwarf-words-67 = мати
 accent-dwarf-words-replace-67 = хе
 
@@ -215,31 +195,24 @@ accent-dwarf-words-replace-71 = жировик
 
 accent-dwarf-words-72 = себе
 accent-dwarf-words-replace-72 = mesel
-
 accent-dwarf-words-73 = себе
 accent-dwarf-words-replace-73 = hesel
-
 accent-dwarf-words-74 = себе
 accent-dwarf-words-replace-74 = шесель
 
 accent-dwarf-words-75 = рухатися
 accent-dwarf-words-replace-75 = moev
-
 accent-dwarf-words-76 = переміщення
 accent-dwarf-words-replace-76 = moeven
-
 accent-dwarf-words-77 = не було
 accent-dwarf-words-replace-77 = wis'nae
-
 accent-dwarf-words-78 = не було
 accent-dwarf-words-replace-78 = wisnae
-
 accent-dwarf-words-79 = майстер
 accent-dwarf-words-replace-79 = майстер
 
 accent-dwarf-words-80 = дурень
 accent-dwarf-words-replace-80 = wazzok
-
 accent-dwarf-words-81 = мати
 accent-dwarf-words-replace-81 = хе
 
@@ -257,7 +230,6 @@ accent-dwarf-words-replace-85 = крихітка
 
 accent-dwarf-words-86 = крихітний
 accent-dwarf-words-replace-86 = tinnae
-
 accent-dwarf-words-87 = сигара
 accent-dwarf-words-replace-87 = дитинко
 
@@ -266,10 +238,8 @@ accent-dwarf-words-replace-88 = після
 
 accent-dwarf-words-90 = збираюся
 accent-dwarf-words-replace-90 = gaun'ae
-
 accent-dwarf-words-91 = збирається
 accent-dwarf-words-replace-91 = gaun'ae
-
 accent-dwarf-words-92 = пішов
 accent-dwarf-words-replace-92 = Risritracre
 
@@ -281,7 +251,6 @@ accent-dwarf-words-replace-94 = балакати
 
 accent-dwarf-words-95 = зараз
 accent-dwarf-words-replace-95 = nou
-
 accent-dwarf-words-96 = розмовляв
 accent-dwarf-words-replace-96 = лепетав
 
@@ -290,16 +259,13 @@ accent-dwarf-words-replace-97 = так
 
 accent-dwarf-words-98 = дай мені
 accent-dwarf-words-replace-98 = gie's
-
 accent-dwarf-words-99 = дай мені
 accent-dwarf-words-replace-99 = gie's
-
 accent-dwarf-words-100 = ти
 accent-dwarf-words-replace-100 = так
 
 accent-dwarf-words-101 = з
 accent-dwarf-words-replace-101 = wi
-
 accent-dwarf-words-102 = без
 accent-dwarf-words-replace-102 = ти
 
@@ -326,10 +292,8 @@ accent-dwarf-words-replace-109 = розраховувати
 
 accent-dwarf-words-111 = хутір
 accent-dwarf-words-replace-111 = hammy
-
 accent-dwarf-words-112 = хом'як
 accent-dwarf-words-replace-112 = hammy
-
 accent-dwarf-words-113 = nukie
 accent-dwarf-words-replace-113 = рудий
 
@@ -344,19 +308,15 @@ accent-dwarf-words-replace-116 = рудий
 
 accent-dwarf-words-121 = більше
 accent-dwarf-words-replace-121 = maer
-
 accent-dwarf-words-122 = крім того
 accent-dwarf-words-replace-122 = maero'er
-
 accent-dwarf-words-123 = закінчено
 accent-dwarf-words-replace-123 = o'er
-
 accent-dwarf-words-125 = людини
 accent-dwarf-words-replace-125 = хумі
 
 accent-dwarf-words-126 = карлик
 accent-dwarf-words-replace-126 = dorf
-
 accent-dwarf-words-127 = слиз
 accent-dwarf-words-replace-127 = оози
 
@@ -371,22 +331,16 @@ accent-dwarf-words-replace-130 = шипіти
 
 accent-dwarf-words-131 = не є
 accent-dwarf-words-replace-131 = be'nae
-
 accent-dwarf-words-132 = не є
 accent-dwarf-words-replace-132 = be'nae
-
 accent-dwarf-words-133 = не є
 accent-dwarf-words-replace-133 = be'nae
-
 accent-dwarf-words-134 = не так
 accent-dwarf-words-replace-134 = benae
-
 accent-dwarf-words-135 = арента
 accent-dwarf-words-replace-135 = benae
-
 accent-dwarf-words-136 = не так
 accent-dwarf-words-replace-136 = benae
-
 accent-dwarf-words-137 = зомбі
 accent-dwarf-words-replace-137 = гнильці
 
@@ -395,10 +349,8 @@ accent-dwarf-words-replace-138 = гнилиця
 
 accent-dwarf-words-139 = клоун
 accent-dwarf-words-replace-139 = honki
-
 accent-dwarf-words-140 = клоун
 accent-dwarf-words-replace-140 = hunki
-
 accent-dwarf-words-141 = короп
 accent-dwarf-words-replace-141 = фін
 
@@ -413,7 +365,6 @@ accent-dwarf-words-replace-144 = доббер
 
 accent-dwarf-words-145 = дурний
 accent-dwarf-words-replace-145 = diteit
-
 accent-dwarf-words-146 = офіцер
 accent-dwarf-words-replace-146 = бобі
 

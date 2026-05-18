@@ -5,7 +5,6 @@ store-category-surveillance = Спостереження
 store-category-framing = Обрамлення
 
 store-currency-display-bluespacecoin = NanoCoin
-
 nanolink-centcom-pen-name = Перо CentComm
 nanolink-centcom-pen-desc = Витончена ручка CentComm. Ідеально підходить для підробки документів, щоб накручувати людей, пригвинчувати стільці під людьми або вгвинчувати ручки в людей.
 nanolink-spy-monitor-name = Шпигунський монітор

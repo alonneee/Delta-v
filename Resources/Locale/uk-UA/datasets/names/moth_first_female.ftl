@@ -20,6 +20,7 @@ names-moth-first-female-dataset-6 = Ірис
 names-moth-first-female-dataset-7 = Lachesis
 
 # Actias luna
+# Actias luna
 names-moth-first-female-dataset-8 = Місяць
 
 # Lymantria

@@ -19,8 +19,8 @@ zombie-shuttle-call = Ми виявили, що нежить наздогнал�
 
 zombie-round-end-initial-count = {$initialCount ->
     [one] There was one initial infected:
-    *[other] There were {$initialCount} початково заражено:
-    }
+    *[other] There were {$initialCount} initial infected:
+}
 zombie-round-end-user-was-initial = - [color=plum]{$name}[/color]([color=gray]{$username}[/color]) був одним із перших інфікованих.
 
 zombie-round-end-amount-none = [color=green]Усіх зомбі знищено![/color]
@@ -29,8 +29,8 @@ zombie-round-end-amount-medium = [color=yellow]{$percent}% екіпажу бул
 zombie-round-end-amount-high = [color=crimson]{$percent}% екіпажу було перетворено на зомбі.[/color]
 zombie-round-end-amount-all = [color=darkred]Вся команда стала зомбі![/color]
 
-zombie-round-end-survivor-count = Залишилося {$count ->
+zombie-round-end-survivor-count = {$count ->
     [one] There was only one survivor left:
-    *[other] There were only {$count} тих, хто вижив:
-    }
+    *[other] There were only {$count} survivors left:
+}
 zombie-round-end-user-was-survivor = - [color=White]{$name}[/color]([color=gray]{$username}[/color]) пережили спалах.

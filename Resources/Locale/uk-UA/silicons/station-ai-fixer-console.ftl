@@ -27,7 +27,6 @@ station-ai-fixer-console-window-action-progress-eta = Час, що залиши�
 
 station-ai-fixer-console-window-flavor-left = Заблокуйте цю консоль, коли вона не використовується
 station-ai-fixer-console-window-flavor-right = v4.0.4
-
 station-ai-fixer-console-window-continue-action = Продовжити
 station-ai-fixer-console-window-cancel-action = Скасувати
 

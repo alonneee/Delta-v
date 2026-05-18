@@ -8,5 +8,4 @@ upgradeable-gun-cost-examine = [color={$remaining ->
     [0] red
     *[other] cyan
 }][bold]{$remaining}%[/bold] mod capacity remaining.[/color]
-
 gun-upgrade-examine-text-indoors = Це покращило [color=red][bold]пошкодження від тиску.[/bold][/color]

@@ -23,7 +23,6 @@ admin-ahelp-admin-only-tooltip = Якщо позначено, повідомле
     but will be visible for other admins and still will be Discord relayed.
 
 admin-bwoink-play-sound = Bwoink?
-
 bwoink-title-none-selected = Не вибрано
 
 bwoink-system-rate-limited = Система: ви надсилаєте повідомлення занадто швидко.

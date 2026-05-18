@@ -35,8 +35,11 @@ nuke-label-nanotrasen = NT-{$serial}
 
 # do you even need this one? It's more funnier to say that
 # the Syndicate stole a NT nuke
+# do you even need this one? It's more funnier to say that
+# the Syndicate stole a NT nuke
 nuke-label-syndicate = SYN-{$serial}
 
+# Codes
 # Codes
 nuke-codes-message = [color=red]НАДЗВИЧАЙНО СЕКРЕТНО![/color]
 nuke-codes-list = {$name} код: {$code}

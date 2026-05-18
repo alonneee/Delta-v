@@ -22,6 +22,7 @@ names-ai-deltav-18 = Дафф
 names-ai-deltav-19 = підприємство
 names-ai-deltav-20 = FelenidOS
 # I'm sorry Dave
+# I'm sorry Dave
 names-ai-deltav-21 = HAL
 names-ai-deltav-22 = Колесо хом'яка
 names-ai-deltav-23 = HarpyOS

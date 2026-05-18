@@ -3,9 +3,7 @@
 
 # For the PDA screen
 comp-pda-ui = ID: [color=white]{$owner}[/color], [color=yellow]{$jobTitle}[/color]
-
 comp-pda-ui-blank = ID:
-
 comp-pda-ui-owner = Власник: [color=white]{$actualOwnerName}[/color]
 
 comp-pda-io-program-list-button = Програми

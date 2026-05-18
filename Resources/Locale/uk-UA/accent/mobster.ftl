@@ -9,7 +9,6 @@ accent-mobster-suffix-minion-2 = , х-хазяін к-каже!
 
 accent-mobster-words-1 = дозвольте мені
 accent-mobster-words-replace-1 = lemme
-
 accent-mobster-words-2 = повинен
 accent-mobster-words-replace-2 = треба
 
@@ -42,7 +41,6 @@ accent-mobster-words-replace-11 = ей'о
 
 accent-mobster-words-12 = правил
 accent-mobster-words-replace-12 = roolz
-
 accent-mobster-words-13 = ви
 accent-mobster-words-replace-13 = тобі
 

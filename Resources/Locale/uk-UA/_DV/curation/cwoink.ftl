@@ -17,7 +17,6 @@ curator-chelp-curator-only-tooltip = Якщо позначено, повідом
     but will be visible for other Curators and still will be Discord relayed.
 
 curator-cwoink-play-sound = Cwoink?
-
 admin-player-actions-view-variables = Перегляд змінних
 
 cwoink-title-none-selected = Не вибрано

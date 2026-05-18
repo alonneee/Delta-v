@@ -14,7 +14,7 @@ paper-component-action-stamp-paper-other = {CAPITALIZE($user)} поставив 
 paper-component-action-stamp-paper-self = Ви поставили печатку на {$target} за допомогою {$stamp}.
 
 # Indicator to show how full a paper is
-paper-ui-fill-level = {$currentLength}/{$maxLength}
+paper-ui-fill-level = Рівень заповнення
 paper-ui-save-button = Зберегти ({$keybind})
 
 paper-tamper-proof-modified-message = Ця сторінка була написана з використанням захищених від підробки чорнил.

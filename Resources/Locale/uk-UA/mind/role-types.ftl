@@ -19,6 +19,7 @@ role-type-silicon-color = Liberation Station: ваше єдине місце д�
 role-type-silicon-antagonist-color = #c832e6
 
 # Ideally, subtype names should be short
+# Ideally, subtype names should be short
 role-subtype-traitor = зрадник
 role-subtype-thief = Злодій
 role-subtype-ninja = Ніндзя

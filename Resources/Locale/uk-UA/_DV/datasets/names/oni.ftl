@@ -11,6 +11,7 @@ names-oni-last-male-dataset-5 = Такаші
 #永一
 names-oni-last-male-dataset-6 = Eeichi
 #永一朗
+#永一朗
 names-oni-last-male-dataset-7 = Eeichirou
 names-oni-last-male-dataset-8 = Кюсабуро
 names-oni-last-male-dataset-9 = Цутому

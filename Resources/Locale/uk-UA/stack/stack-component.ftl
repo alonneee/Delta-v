@@ -7,6 +7,7 @@ comp-stack-examine-detail-count = {$count ->
 } in the stack.
 
 # Stack status control
+# Stack status control
 comp-stack-status = Кількість: [color=white]{$count}[/color]
 
 ### Interaction Messages

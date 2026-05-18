@@ -70,7 +70,7 @@ marking-ArachnidTorsoArrows-arrows = Дизайн
 marking-ArachnidTorsoCore = Ядро
 marking-ArachnidTorsoCore-core = Дизайн
 
-marking-ArachnidTorsoFiddleback = Fiddleback
+marking-ArachnidTorsoFiddleback = Скрипковий візерунок
 marking-ArachnidTorsoFiddleback-fiddleback = Дизайн
 
 marking-ArachnidTorsoSkull = Череп

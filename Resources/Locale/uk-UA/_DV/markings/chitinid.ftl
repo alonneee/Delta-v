@@ -107,7 +107,6 @@ marking-ChitinidRArmStripes = Права рука хітиніди (смуги)
 
 marking-ChitinidChestRadiant-radiant_chest = груди
 marking-ChitinidChestRadiant = Chitinid Chest (Radiant)
-
 marking-ChitinidHeadRadiant-radiant_head = Голова
 marking-ChitinidHeadRadiant = Голова хітинід (радіант)
 

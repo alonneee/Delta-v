@@ -9,4 +9,4 @@ votekick-webhook-cancelled-admin-online = **Голосування скасов�
 votekick-webhook-cancelled-admin-target = **Голосування скасовано через те, що цільовий адміністратор**
 votekick-webhook-cancelled-antag-target = **Голосування скасовано через тег мети**
 
-votekick-ban-reason = "Голосування: {$reason}"
+votekick-ban-reason = "Votekick: {$reason}"

@@ -20,16 +20,12 @@ accent-irish-words-replace-5 = так
 
 accent-irish-words-6 = не треба
 accent-irish-words-replace-6 = dinnae
-
 accent-irish-words-7 = не робити
 accent-irish-words-replace-7 = dinnae
-
 accent-irish-words-8 = я
 accent-irish-words-replace-8 = Eih'm
-
 accent-irish-words-9 = ім
 accent-irish-words-replace-9 = eihm
-
 accent-irish-words-10 = йде
 accent-irish-words-replace-10 = йти
 
@@ -38,22 +34,18 @@ accent-irish-words-replace-11 = кно
 
 accent-irish-words-12 = i
 accent-irish-words-replace-12 = Eih
-
 accent-irish-words-13 = ти
 accent-irish-words-replace-13 = ти
 
 accent-irish-words-14 = ти
 accent-irish-words-replace-14 = yere
-
 accent-irish-words-15 = ви
 accent-irish-words-replace-15 = ага
 
 accent-irish-words-16 = я буду
 accent-irish-words-replace-16 = eih'll
-
 accent-irish-words-17 = хворий
 accent-irish-words-replace-17 = eihll
-
 accent-irish-words-18 = з
 accent-irish-words-replace-18 = о'
 
@@ -98,7 +90,6 @@ accent-irish-words-replace-31 = палець на нозі
 
 accent-irish-words-32 = мій
 accent-irish-words-replace-32 = mah
-
 accent-irish-words-33 = ні
 accent-irish-words-replace-33 = нахт
 
@@ -140,37 +131,28 @@ accent-irish-words-replace-45 = буде
 
 accent-irish-words-46 = повинен був
 accent-irish-words-replace-46 = shoul'ha
-
 accent-irish-words-47 = ранок
 accent-irish-words-replace-47 = coul'ha
-
 accent-irish-words-48 = хотів би
 accent-irish-words-replace-48 = woulha
-
 accent-irish-words-49 = мав би
 accent-irish-words-replace-49 = shoulha
-
 accent-irish-words-50 = Сресрахапі
 accent-irish-words-replace-50 = coulha
-
 accent-irish-words-51 = не хотів би
 accent-irish-words-replace-51 = хотіла б
 
 accent-irish-words-52 = не повинен
 accent-irish-words-replace-52 = shoul'na
-
 accent-irish-words-53 = не міг
 accent-irish-words-replace-53 = forwandle
 
 accent-irish-words-54 = не хотів би
 accent-irish-words-replace-54 = woulna
-
 accent-irish-words-55 = не повинен
 accent-irish-words-replace-55 = shoulna
-
 accent-irish-words-56 = не міг
 accent-irish-words-replace-56 = coulna
-
 accent-irish-words-57 = мати
 accent-irish-words-replace-57 = хе
 
@@ -197,13 +179,11 @@ accent-irish-words-replace-64 = бути
 
 accent-irish-words-66 = харчування
 accent-irish-words-replace-66 = grub
-
 accent-irish-words-67 = картопля фрі
 accent-irish-words-replace-67 = чіпси
 
 accent-irish-words-68 = ура
 accent-irish-words-replace-68 = sláinte
-
 accent-irish-words-69 = що
 accent-irish-words-replace-69 = #
 
@@ -218,10 +198,8 @@ accent-irish-words-replace-72 = месель
 
 accent-irish-words-73 = себе
 accent-irish-words-replace-73 = hesel'
-
 accent-irish-words-74 = себе
 accent-irish-words-replace-74 = shesel'
-
 accent-irish-words-75 = рухатися
 accent-irish-words-replace-75 = Такода
 
@@ -266,22 +244,17 @@ accent-irish-words-replace-88 = після
 
 accent-irish-words-90 = збираюся
 accent-irish-words-replace-90 = gon'ae
-
 accent-irish-words-91 = збирається
 accent-irish-words-replace-91 = gon'ae
-
 accent-irish-words-92 = пішов
 accent-irish-words-replace-92 = gon
-
 accent-irish-words-93 = говорити
 accent-irish-words-replace-93 = вафельний
 
 accent-irish-words-94 = говорити
 accent-irish-words-replace-94 = wafflin'
-
 accent-irish-words-95 = зараз
 accent-irish-words-replace-95 = nou
-
 accent-irish-words-96 = розмовляв
 accent-irish-words-replace-96 = вафляний
 
@@ -290,16 +263,13 @@ accent-irish-words-replace-97 = так
 
 accent-irish-words-98 = дай мені
 accent-irish-words-replace-98 = gie's
-
 accent-irish-words-99 = дай мені
 accent-irish-words-replace-99 = gie's
-
 accent-irish-words-100 = ти
 accent-irish-words-replace-100 = д'я
 
 accent-irish-words-101 = з
 accent-irish-words-replace-101 = wi
-
 accent-irish-words-102 = без
 accent-irish-words-replace-102 = ти
 
@@ -308,7 +278,6 @@ accent-irish-words-replace-103 = ми
 
 accent-irish-words-104 = будь-коли
 accent-irish-words-replace-104 = e'er
-
 accent-irish-words-105 = будь-коли
 accent-irish-words-replace-105 = ми
 
@@ -326,10 +295,8 @@ accent-irish-words-replace-109 = розраховувати
 
 accent-irish-words-111 = хутір
 accent-irish-words-replace-111 = hammy
-
 accent-irish-words-112 = хом'як
 accent-irish-words-replace-112 = hammy
-
 accent-irish-words-113 = nukie
 accent-irish-words-replace-113 = червоніший
 
@@ -347,16 +314,13 @@ accent-irish-words-replace-121 = gaun'ae
 
 accent-irish-words-122 = крім того
 accent-irish-words-replace-122 = maero'er
-
 accent-irish-words-123 = закінчено
 accent-irish-words-replace-123 = o'er
-
 accent-irish-words-125 = людини
 accent-irish-words-replace-125 = гуманний
 
 accent-irish-words-126 = карлик
 accent-irish-words-replace-126 = darf
-
 accent-irish-words-127 = слиз
 accent-irish-words-replace-127 = слім
 
@@ -371,22 +335,16 @@ accent-irish-words-replace-130 = шипіти
 
 accent-irish-words-131 = не є
 accent-irish-words-replace-131 = be'nah
-
 accent-irish-words-132 = не є
 accent-irish-words-replace-132 = be'nah
-
 accent-irish-words-133 = не є
 accent-irish-words-replace-133 = be'nah
-
 accent-irish-words-134 = не так
 accent-irish-words-replace-134 = benah
-
 accent-irish-words-135 = арента
 accent-irish-words-replace-135 = benah
-
 accent-irish-words-136 = не так
 accent-irish-words-replace-136 = benah
-
 accent-irish-words-137 = зомбі
 accent-irish-words-replace-137 = зомбаі
 
@@ -398,10 +356,8 @@ accent-irish-words-replace-139 = Таашебітити
 
 accent-irish-words-140 = клоун
 accent-irish-words-replace-140 = cludhopper
-
 accent-irish-words-141 = короп
 accent-irish-words-replace-141 = carpo
-
 accent-irish-words-142 = дробарка
 accent-irish-words-replace-142 = сокира
 
@@ -413,22 +369,17 @@ accent-irish-words-replace-144 = дурман
 
 accent-irish-words-145 = дурний
 accent-irish-words-replace-145 = eejit
-
 accent-irish-words-146 = офіцер
 accent-irish-words-replace-146 = garda
-
 accent-irish-words-147 = seccie
 accent-irish-words-replace-147 = гарди
 
 accent-irish-words-148 = a
 accent-irish-words-replace-148 = ae
-
 accent-irish-words-149 = певний
 accent-irish-words-replace-149 = certaihn
-
 accent-irish-words-150 = всім
 accent-irish-words-replace-150 = t'all
-
 accent-irish-words-151 = старий
 accent-irish-words-replace-151 = старий
 
@@ -440,13 +391,11 @@ accent-irish-words-replace-153 = ах, Дінне знала
 
 accent-irish-words-154 = дурень
 accent-irish-words-replace-154 = leathcheann
-
 accent-irish-words-155 = там
 accent-irish-words-replace-155 = тар
 
 accent-irish-words-156 = від
 accent-irish-words-replace-156 = fruh
-
 accent-irish-words-157 = високогір'я
 accent-irish-words-replace-157 = хейглан
 
@@ -470,7 +419,6 @@ accent-irish-words-replace-163 = зміїні головорізи
 
 accent-irish-words-164 = веселощі
 accent-irish-words-replace-164 = craic
-
 accent-irish-words-165 = сміття
 accent-irish-words-replace-165 = сміття
 
@@ -524,7 +472,6 @@ accent-irish-words-replace-181 = видавати
 
 accent-irish-words-182 = Я зробив
 accent-irish-words-replace-182 = eihm aftah
-
 accent-irish-words-183 = взуття
 accent-irish-words-replace-183 = бігуни
 
@@ -632,7 +579,6 @@ accent-irish-words-replace-217 = видавати
 
 accent-irish-words-218 = лайка
 accent-irish-words-replace-218 = effin' ain blindin'
-
 accent-irish-words-219 = річ
 accent-irish-words-replace-219 = ярмо
 

@@ -25,7 +25,6 @@ air-alarm-ui-window-auto-mode-label = Автоматичний режим
     [emagged] Emagged
    *[invalid] Invalid
 }
-
 air-alarm-ui-window-listing-title = {$address}: {-air-alarm-state-name(state:$state)}
 air-alarm-ui-window-pressure = {$pressure} кПа
 air-alarm-ui-window-pressure-indicator = Тиск: [color={$color}]{$pressure} кПа[/color]

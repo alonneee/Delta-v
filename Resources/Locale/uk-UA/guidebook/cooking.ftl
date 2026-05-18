@@ -10,6 +10,5 @@ guidebook-microwave-cook-time = {$time ->
 guidebook-microwave-reagent-color-display = [колір={$color}]■[/color]
 guidebook-microwave-reagent-name-display = [bold]{$reagent}[/bold]
 guidebook-microwave-reagent-quantity-display = × {$amount}u
-
 guidebook-microwave-solid-name-display = [bold]{$ingredient}[/bold]
 guidebook-microwave-solid-quantity-display = × {$amount}

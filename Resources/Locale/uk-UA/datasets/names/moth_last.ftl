@@ -2,6 +2,7 @@
 names-moth-last-dataset-1 = Blackwitch
 
 # Refers to any of the 3 Acherontia
+# Refers to any of the 3 Acherontia
 names-moth-last-dataset-2 = Смертоголовий
 
 # Saturniinae
@@ -42,6 +43,7 @@ names-moth-last-dataset-13 = Леандр
 # Split between being a myth reference and actual possible surname given the actual Goodman, Hoffman, Newman, Coleman, etc.
 names-moth-last-dataset-14 = Mothman
 
+## Fun names
 ## Fun names
 names-moth-last-dataset-15 = Кометридер
 names-moth-last-dataset-16 = Вечірній вечір

@@ -17,7 +17,6 @@ shuttle-console-linear-velocity = Лінійна швидкість:
 shuttle-console-linear-velocity-value = ftldisk {$X}
 shuttle-console-angular-velocity = Кутова швидкість:
 shuttle-console-angular-velocity-value = {$angularVelocity}
-
 shuttle-console-unknown = Невідомо
 shuttle-console-iff-label = {$name}({$distance}м)
 shuttle-console-exclusion = Зона відчуження

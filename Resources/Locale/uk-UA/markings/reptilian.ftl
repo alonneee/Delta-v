@@ -67,7 +67,6 @@ marking-LizardRLegTiger = Права нога ящірки (тигр)
 
 marking-LizardFrillsDivinity-frills_divinity = Lizard Frills (Divinity)
 marking-LizardFrillsDivinity = Lizard Frills (Divinity)
-
 marking-LizardFrillsBig-frills_big = Ящірка Frills (велика)
 marking-LizardFrillsBig = Ящірка Frills (велика)
 
@@ -120,6 +119,5 @@ marking-LizardSnoutSplotch-snout_splotch_secondary = соплі
 
 marking-LizardSnoutVisageSharp = Lizard Visage (Sharp)
 marking-LizardSnoutVisageSharp-visage_sharp = Lizard Visage (Sharp)
-
 marking-LizardSnoutVisageRound = Lizard Visage (круглий)
 marking-LizardSnoutVisageRound-visage_round = Lizard Visage (круглий)

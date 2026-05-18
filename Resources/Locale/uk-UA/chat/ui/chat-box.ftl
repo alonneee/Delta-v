@@ -38,5 +38,5 @@ hud-chatbox-highlights-tooltip = Слова потрібно розділяти 
                                  if wrapped around " they will be highlighted
                                  only if separated by spaces or punctuation.
 hud-chatbox-highlights-placeholder = @McHands
-                                     "суддя"
-                                     Медичний
+                                     "Judge"
+                                     Medical

@@ -47,8 +47,8 @@ rev-reverse-stalemate = І Командування станції та Голо
 
 rev-headrev-count = {$initialCount ->
     [one] There was one head revolutionary:
-    *[other] There were {$initialCount} голова революціонерів:
-    }
+    *[other] There were {$initialCount} head revolutionaries:
+}
 rev-headrev-name-user = [color=#5e9cff]{$name}[/color] ([color=gray]{$username}[/color]) завербував {$count} {$count ->
     [one] person
     *[other] people

@@ -48,10 +48,8 @@ marking-TattooVoxHiveChest = Vox Chest Tattoo (вулик)
 
 marking-TattooVoxNightlingChest-nightling_s = Vox Chest Tattoo (Nightling)
 marking-TattooVoxNightlingChest = Vox Chest Tattoo (Nightling)
-
 marking-TattooVoxNightbelt-nightbelt = Vox Stomach Tattoo (Nightling)
 marking-TattooVoxNightbelt = Vox Stomach Tattoo (Nightling)
-
 marking-TattooVoxChestV-night_v = Тату на грудях Vox (V-подібна форма)
 marking-TattooVoxChestV = Тату на грудях Vox (V-подібна форма)
 
@@ -105,7 +103,6 @@ marking-VoxTailBig = Vox Tail (великий)
 
 marking-VoxTailSpikes-vox_tail_spikes = Vox Tail (Spiked)
 marking-VoxTailSpikes = Vox Tail (Spiked)
-
 marking-VoxTailDocked-vox_tail_docked = Вокс Хвіст (рудиментарний)
 marking-VoxTailDocked = Вокс Хвіст (рудиментарний)
 

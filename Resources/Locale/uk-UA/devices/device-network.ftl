@@ -15,6 +15,7 @@ device-frequency-prototype-name-xenoborg = Ксеноборг
 device-frequency-prototype-name-mothership = Mothership
 
 ## camera frequencies
+## camera frequencies
 device-frequency-prototype-name-surveillance-camera-test = Тест підмережі
 device-frequency-prototype-name-surveillance-camera-engineering = Інженерні камери
 device-frequency-prototype-name-surveillance-camera-security = Камери безпеки
@@ -31,6 +32,7 @@ device-address-prefix-vent = гарбузове латте зі спеціями
 device-address-prefix-scrubber = SCR-
 device-address-prefix-sensor = SNS-
 # Damn bet you couldn't see this one coming.
+# Damn bet you couldn't see this one coming.
 device-address-prefix-teg = TEG-
 device-address-prefix-heater = HTR-
 device-address-prefix-freezer = FZR-
@@ -38,6 +40,7 @@ device-address-prefix-volume-pump = VPP-
 device-address-prefix-smes = SMS-
 device-address-prefix-turret = TRT-
 
+# PDAs and terminals
 # PDAs and terminals
 device-address-prefix-console = CLS-
 device-address-prefix-fire-alarm = FIR-

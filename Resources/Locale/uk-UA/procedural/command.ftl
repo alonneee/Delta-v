@@ -13,7 +13,6 @@ cmd-dungen-hint-config = Конфігурація підземелля
 cmd-dungen-hint-posx = Позиція X
 cmd-dungen-hint-posy = Позиція Y
 cmd-dungen-hint-seed = [Seed]
-
 cmd-dungen_preset_vis-desc = Створює попередній перегляд стилю підземелля на основі плиток.
 cmd-dungen_preset_vis-help = dungen_preset_vis <mapid> <попереднє налаштування>
 

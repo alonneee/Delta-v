@@ -21,7 +21,6 @@ salvage-magnet-resources = {$resource ->
     [OreBananium] Bananium
     *[other] {$resource}
 }
-
 salvage-magnet-resources-count = {$count ->
     [1] (Poor)
     [2] (Moderate)
@@ -31,6 +30,7 @@ salvage-magnet-resources-count = {$count ->
     *[other] (Extraordinary)
 }
 
+# Debris
 # Debris
 salvage-magnet-debris-ChunkDebris = Космічне сміття
 

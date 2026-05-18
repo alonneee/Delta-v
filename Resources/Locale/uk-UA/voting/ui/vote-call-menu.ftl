@@ -4,6 +4,7 @@ ui-vote-type-map = Інша карта
 ui-vote-type-votekick = Votekick
 
 # Votekick reasons
+# Votekick reasons
 ui-vote-votekick-type-raiding = Рейдерство
 ui-vote-votekick-type-cheating = Обман
 ui-vote-votekick-type-spamming = Розсилка спаму
