@@ -6,6 +6,6 @@ action-speech-spell-fireball = ОНІ'СОМА!
 action-speech-spell-summon-guns = ЙОР'НЕЕ ВЕСЬ-КОРФА
 action-speech-spell-summon-magic = РИГОЙН ФЕМА-ВЕРЕКО
 action-speech-spell-mind-swap = ГІНЬЮ КАПАН!
-action-speech-spell-cluwne = !KNOH
+action-speech-spell-cluwne = !КНОХ
 action-speech-spell-slip = СЛІ ПАРІ!
 action-speech-spell-charge = DI'RI CEL!
