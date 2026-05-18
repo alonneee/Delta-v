@@ -16,112 +16,67 @@ stack-reinforced-uranium-glass = армоване уранове скло
 stack-gunpowder = порох
 stack-cardboard = картон
 
-stack-bones = { $->
+stack-bones = {$amount ->
     [1] bone
     *[other] bones
-amount->
-    [1] bone
-    *[other] bones
- }
-stack-cloth = { $->
+}
+stack-cloth = {$amount ->
     [1] cloth
     *[other] cloths
-amount->
-    [1] cloth
-    *[other] cloths
- }
-stack-lv-cable = { $->
+}
+stack-lv-cable = {$amount ->
     [1] lv cable
     *[other] lv cables
-amount->
-    [1] lv cable
-    *[other] lv cables
- }
-stack-mv-cable = { $->
+}
+stack-mv-cable = {$amount ->
     [1] mv cable
     *[other] mv cables
-amount->
-    [1] mv cable
-    *[other] mv cables
- }
-stack-hv-cable = { $->
+}
+stack-hv-cable = {$amount ->
     [1] hv cable
     *[other] hv cables
-amount->
-    [1] hv cable
-    *[other] hv cables
- }
-stack-explosive-cord = { $->
+}
+stack-explosive-cord = {$amount ->
     [1] explosive cord
     *[other] explosive cords
-amount->
-    [1] explosive cord
-    *[other] explosive cords
- }
-stack-wood-plank = { $->
+}
+stack-wood-plank = {$amount ->
     [1] wood plank
     *[other] wood planks
-amount->
-    [1] wood plank
-    *[other] wood planks
- }
-stack-durathread = { $->
+}
+stack-durathread = {$amount ->
     [1] durathread
     *[other] durathreads
-amount->
-    [1] durathread
-    *[other] durathreads
- }
-stack-rods = { $->
+}
+stack-rods = {$amount ->
     [1] rod
     *[other] rods
-amount->
-    [1] rod
-    *[other] rods
- }
-stack-meat-sheet = { $->
+}
+stack-meat-sheet = {$amount ->
     [1] meat sheet
     *[other] meat sheets
-amount->
-    [1] meat sheet
-    *[other] meat sheets
- }
-stack-space-carp-tooth = космічний короп { $->
+}
+stack-space-carp-tooth = space carp {$amount ->
     [1] tooth
     *[other] teeth
-amount->
-    [1] tooth
-    *[other] teeth
- }
-stack-paper = { $->
+}
+stack-paper = {$amount ->
     [1] paper
     *[other] papers
-amount->
-    [1] paper
-    *[other] papers
- }
-stack-diamond = { $->
+}
+stack-diamond = {$amount ->
     [1] diamond
     *[other] diamonds
-amount->
-    [1] diamond
-    *[other] diamonds
- }
-stack-silk = { $->
+}
+stack-silk = {$amount ->
     [1] silk
     *[other] silks
-amount->
-    [1] silk
-    *[other] silks
- }
-stack-cotton = { $->
+}
+stack-cotton = {$amount ->
     [1] cotton
     *[other] cottons
-amount->
-    [1] cotton
-    *[other] cottons
- }
-stack-artifact-fragment = Ви відчуваєте себе... привидами.
+}
+stack-artifact-fragment = artifact {$amount ->
     [1] fragment
     *[other] fragments
 }
@@ -134,20 +89,14 @@ stack-dried-tobacco-leaves = висушеного листя тютюну
 stack-dried-cannabis-leaves = висушених листя конопель
 stack-dried-rainbow-cannabis-leaves = сушене листя каннабіса райдуги
 
-stack-cigarette-filter = сигарета { $->
+stack-cigarette-filter = cigarette {$amount ->
     [1] filter
     *[other] filters
-amount->
-    [1] filter
-    *[other] filters
- }
-stack-rolling-paper = прокат { $->
+}
+stack-rolling-paper = rolling {$amount ->
     [1] paper
     *[other] papers
-amount->
-    [1] paper
-    *[other] papers
- }
+}
 
 stack-fulton = Фултон
 stack-credit = speso

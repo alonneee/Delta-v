@@ -17,6 +17,6 @@ battery-menu-eta-empty = ETA (порожній):
 battery-menu-eta-value = ~{ $minutes } хв
 battery-menu-eta-value-max = >{ $minutes } хв
 battery-menu-eta-value-na = N/A
-battery-menu-power-value = { POWERWATTS($значення)}
+battery-menu-power-value = { POWERWATTS($value)}
 battery-menu-stored-percent-value = { TOSTRING($value, "P1") }
 battery-menu-stored-energy-value = { ENERGYWATTHOURS($value)}

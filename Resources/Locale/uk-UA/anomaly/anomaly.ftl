@@ -35,7 +35,7 @@ anomaly-scanner-pulse-timer = Час до наступного імпульсу:
 
 anomaly-gorilla-core-slot-name = Ядро аномалії
 anomaly-gorilla-charge-none = У ньому немає [bold]ядра аномалії[/bold].
-anomaly-gorilla-charge-limit = Ваше тіло шалено росте. Ви стали господарем аномалії плоті.
+anomaly-gorilla-charge-limit = It has [color={$count ->
     [3]green
     [2]yellow
     [1]orange
@@ -74,8 +74,11 @@ anomaly-command-pulse = Пульсує цільову аномалію
 anomaly-command-supercritical = Робить цільову аномалію надкритичною
 
 # Flavor text on the footer
+
+# Flavor text on the footer
 anomaly-generator-flavor-left = Аномалія може породжуватися всередині оператора.
 anomaly-generator-flavor-right = Смак
+
 anomaly-behavior-unknown = [color=red]ПОМИЛКА. Неможливо прочитати.[/color]
 
 anomaly-behavior-title = Аналіз поведінкових відхилень:

@@ -13,7 +13,7 @@ power-monitoring-window-unknown-location = Невідоме місцезнахо
 power-monitoring-window-total-sources = Загальна потужність генератора
 power-monitoring-window-total-battery-usage = Загальне використання акумулятора
 power-monitoring-window-total-loads = Загальні навантаження на мережу
-power-monitoring-window-value = { POWERWATTS($значення)}
+power-monitoring-window-value = { POWERWATTS($value)}
 power-monitoring-window-button-value = {$value}В
 power-monitoring-window-show-inactive-consumers = Показати неактивних споживачів
 

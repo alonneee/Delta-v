@@ -13,13 +13,13 @@ comp-kitchen-spike-hook-other = { CAPITALIZE(THE($user)) } кинув { CAPITALI
 comp-kitchen-spike-begin-unhook-self = Ви починаєте тягнути себе з { THE($hook) }!
 comp-kitchen-spike-begin-unhook-self-other = { CAPITALIZE(THE($victim)) } починає перетягувати { REFLEXIVE($victim) } з { THE($hook) }!
 
-comp-kitchen-spike-begin-unhook-other-self = Ви починаєте перетягувати { ВЕРТИ ($жертва)) } з {($гачок) }!
+comp-kitchen-spike-begin-unhook-other-self = Ви починаєте перетягувати { ВЕРТИ ($victim)) } з {($hook) }!
 comp-kitchen-spike-begin-unhook-other = { CAPITALIZE(THE($user)) } починає перетягувати { CAPITALIZE(THE($victim)) } з { THE($hook) }!
 
 comp-kitchen-spike-unhook-self = Ви звільнилися { THE($hook) }!
 comp-kitchen-spike-unhook-self-other = { CAPITALIZE(THE($victim)) } зняв {REFLEXIVE($victim)} {THE($hook)}!
 
-comp-kitchen-spike-unhook-other-self = Ви звільнилися від { КАПІТАЛІЗУВАТИ (($жертва)) { {($крюк)}!
+comp-kitchen-spike-unhook-other-self = Ви звільнилися від { КАПІТАЛІЗУВАТИ (($victim)) { {($hook)}!
 comp-kitchen-spike-unhook-other = { CAPITALIZE(THE($user)) } зняв { CAPITALIZE(THE($victim))} {THE($hook)}!
 
 comp-kitchen-spike-begin-butcher-self = Ви починаєте різати { THE($victim) }!

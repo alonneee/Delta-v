@@ -1,5 +1,5 @@
 cheat-death-component-examined = [color=red]Щось підказує вам, що {SUBJECT($target)} не боїться смерті. [/color]
-cheat-death-component-remaining-revives = { $->
+cheat-death-component-remaining-revives = { $amount ->
 [0] You have no revives left.
 [one] You have one revive left.
 *[other] You have {$amountamount->
