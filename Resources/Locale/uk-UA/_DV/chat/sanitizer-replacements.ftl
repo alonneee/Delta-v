@@ -1,1 +1,1 @@
-chatsan-smiles-mischievously = grins mischievously
+chatsan-smiles-mischievously = посміхається з лукавинкою
