@@ -12,7 +12,7 @@ round-end-summary-window-duration-label = Він тривав [color=yellow]{$ho
 
 round-end-summary-window-player-info-if-observer-text = [color=gray]{$playerOOCName}[/color] був [color=lightblue]{$playerICName}[/color], спостерігачем.
 
-round-end-summary-window-player-info-if-not-observer-text = [color=gray]{$playerOOCName}[/color] був [color={$icNameColor}]{$playerICName}[/color] грав роль [color=orange]{$playerRole}[/color].
+round-end-summary-window-player-info-if-not-observer-text = [color=gray]{$playerOOCName}[/color] був [color=lightblue]{$playerICName}[/color], грав роль [color=orange]{$playerRole}[/color].
 
 round-end-summary-window-commendations-tab-title = Оцінка екіпажу
 round-end-summary-window-commendations-header = [bold]Оцінка екіпажу[/bold]

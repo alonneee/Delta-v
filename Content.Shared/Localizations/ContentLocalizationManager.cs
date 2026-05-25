@@ -48,6 +48,7 @@ namespace Content.Shared.Localizations
             _loc.AddFunction(culture, "NATURALFIXED", FormatNaturalFixed);
             _loc.AddFunction(culture, "NATURALPERCENT", FormatNaturalPercent);
             _loc.AddFunction(culture, "PLAYTIME", FormatPlaytime);
+            _loc.AddFunction(culture, "LOC", FormatLoc);
 
             // Ukrainian-specific functions
             _loc.AddFunction(culture, "UKPLURAL", FormatUkrainianPlural);
@@ -66,7 +67,6 @@ namespace Content.Shared.Localizations
             _loc.AddFunction(culture, "REFLEXIVE", FormatUkrainianReflexive);
             _loc.AddFunction(culture, "CONJUGATE-BE", FormatUkrainianConjugateBe);
             _loc.AddFunction(culture, "CONJUGATE-BASIC", FormatUkrainianConjugateBasic);
-            _loc.AddFunction(culture, "PROPER", FormatUkrainianProper);
             _loc.AddFunction(culture, "MAKEPLURAL", FormatMakePlural);
             _loc.AddFunction(culture, "MANY", FormatMany);
 
@@ -80,6 +80,7 @@ namespace Content.Shared.Localizations
             _loc.AddFunction(fallbackCulture, "NATURALFIXED", FormatNaturalFixed);
             _loc.AddFunction(fallbackCulture, "NATURALPERCENT", FormatNaturalPercent);
             _loc.AddFunction(fallbackCulture, "PLAYTIME", FormatPlaytime);
+            _loc.AddFunction(fallbackCulture, "LOC", FormatLoc);
             _loc.AddFunction(fallbackCulture, "MAKEPLURAL", FormatMakePlural);
             _loc.AddFunction(fallbackCulture, "MANY", FormatMany);
         }
@@ -216,6 +217,12 @@ namespace Content.Shared.Localizations
         private static ILocValue FormatPressure(LocArgs args)
         {
             return FormatUnitsGeneric(args, "zzzz-fmt-pressure");
+        }
+
+        private ILocValue FormatLoc(LocArgs args)
+        {
+            var key = args.Args[0].Format(new LocContext());
+            return new LocValueString(_loc.GetString(key));
         }
 
         private static ILocValue FormatPowerWatts(LocArgs args)
@@ -442,7 +449,17 @@ namespace Content.Shared.Localizations
         private ILocValue FormatUkrainianName(LocArgs args)
         {
             var caseType = ((LocValueString)args.Args[0]).Value.ToLower();
-            var name = ((LocValueString)args.Args[1]).Value;
+            
+            // Handle both LocValueEntity and LocValueString for the name argument
+            string name;
+            if (args.Args[1] is LocValueEntity || args.Args[1].Value is Robust.Shared.GameObjects.EntityUid)
+            {
+                name = args.Args[1].Format(new LocContext());
+            }
+            else
+            {
+                name = ((LocValueString)args.Args[1]).Value;
+            }
 
             if (string.IsNullOrWhiteSpace(name) || name.Length < 2)
                 return new LocValueString(name);
@@ -544,13 +561,31 @@ namespace Content.Shared.Localizations
 
         private ILocValue FormatUkrainianSubject(LocArgs args)
         {
-            var name = ((LocValueString)args.Args[0]).Value;
+            // Handle both LocValueEntity and LocValueString
+            string name;
+            if (args.Args[0] is LocValueEntity || args.Args[0].Value is Robust.Shared.GameObjects.EntityUid)
+            {
+                name = args.Args[0].Format(new LocContext());
+            }
+            else
+            {
+                name = ((LocValueString)args.Args[0]).Value;
+            }
             return new LocValueString(name);
         }
 
         private ILocValue FormatUkrainianObject(LocArgs args)
         {
-            var name = ((LocValueString)args.Args[0]).Value;
+            // Handle both LocValueEntity and LocValueString
+            string name;
+            if (args.Args[0] is LocValueEntity || args.Args[0].Value is Robust.Shared.GameObjects.EntityUid)
+            {
+                name = args.Args[0].Format(new LocContext());
+            }
+            else
+            {
+                name = ((LocValueString)args.Args[0]).Value;
+            }
             return new LocValueString(DeclineUkrainianWord(name, "accusative"));
         }
 
@@ -576,22 +611,24 @@ namespace Content.Shared.Localizations
 
         private ILocValue FormatUkrainianConjugateBasic(LocArgs args)
         {
-            var singular = ((LocValueString)args.Args[1]).Value;
+            // Handle second argument which might be LocValueEntity or LocValueString
+            string singular;
+            if (args.Args.Count > 1)
+            {
+                if (args.Args[1] is LocValueEntity || args.Args[1].Value is Robust.Shared.GameObjects.EntityUid)
+                {
+                    singular = args.Args[1].Format(new LocContext());
+                }
+                else
+                {
+                    singular = ((LocValueString)args.Args[1]).Value;
+                }
+            }
+            else
+            {
+                singular = "";
+            }
             return new LocValueString(singular);
-        }
-
-        private ILocValue FormatUkrainianProper(LocArgs args)
-        {
-            var name = ((LocValueString)args.Args[0]).Value;
-            if (string.IsNullOrEmpty(name))
-                return new LocValueString("");
-
-            string first = name.Substring(0, 1).ToUpper();
-            if (name.Length == 1)
-                return new LocValueString(first);
-
-            string rest = name.Substring(1);
-            return new LocValueString(first + rest);
         }
     }
 }
