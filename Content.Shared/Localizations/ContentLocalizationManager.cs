@@ -66,7 +66,6 @@ namespace Content.Shared.Localizations
             _loc.AddFunction(culture, "REFLEXIVE", FormatUkrainianReflexive);
             _loc.AddFunction(culture, "CONJUGATE-BE", FormatUkrainianConjugateBe);
             _loc.AddFunction(culture, "CONJUGATE-BASIC", FormatUkrainianConjugateBasic);
-            _loc.AddFunction(culture, "PROPER", FormatUkrainianProper);
             _loc.AddFunction(culture, "MAKEPLURAL", FormatMakePlural);
             _loc.AddFunction(culture, "MANY", FormatMany);
 
@@ -149,7 +148,7 @@ namespace Content.Shared.Localizations
             if (list.Count <= 0) return string.Empty;
             if (list.Count == 1) return list[0];
             if (list.Count == 2) return list[0] + " and " + list[1];
-            
+
             string combined = string.Join(", ", list.GetRange(0, list.Count - 1));
             return combined + ", and " + list[list.Count - 1];
         }
@@ -159,7 +158,7 @@ namespace Content.Shared.Localizations
             if (list.Count <= 0) return string.Empty;
             if (list.Count == 1) return list[0];
             if (list.Count == 2) return list[0] + " or " + list[1];
-            
+
             string combined = string.Join(", ", list.GetRange(0, list.Count - 1));
             return combined + ", or " + list[list.Count - 1];
         }
@@ -174,7 +173,7 @@ namespace Content.Shared.Localizations
             time = TimeSpan.FromMinutes(System.Math.Ceiling(time.TotalMinutes));
             var hours = (int)time.TotalHours;
             var minutes = time.Minutes;
-            
+
             var locArgs = new (string, object)[] { ("hours", hours), ("minutes", minutes) };
             return Loc.GetString("zzzz-fmt-playtime", locArgs);
         }
@@ -321,7 +320,7 @@ namespace Content.Shared.Localizations
                 return new LocValueString(feminine);
             if (gender == "neuter" || gender == "n")
                 return new LocValueString(neuter);
-            
+
             return new LocValueString(masculine);
         }
 
@@ -348,7 +347,7 @@ namespace Content.Shared.Localizations
                 return new LocValueString(instrumental);
             if (caseType == "locative" || caseType == "loc" || caseType == "місцевий")
                 return new LocValueString(locative);
-            
+
             return new LocValueString(nominative);
         }
 
@@ -402,7 +401,7 @@ namespace Content.Shared.Localizations
                 return new LocValueString(hours.ToString() + " " + hoursWord);
             if (minutes > 0)
                 return new LocValueString(minutes.ToString() + " " + minutesWord);
-            
+
             return new LocValueString("0 хвилин");
         }
 
@@ -420,7 +419,7 @@ namespace Content.Shared.Localizations
                 return new LocValueString(items[0]);
             if (items.Count == 2)
                 return new LocValueString(items[0] + " та " + items[1]);
-            
+
             string combined = string.Join(", ", items.GetRange(0, items.Count - 1));
             return new LocValueString(combined + " та " + items[items.Count - 1]);
         }
@@ -439,10 +438,22 @@ namespace Content.Shared.Localizations
             return form5;
         }
 
+        private static string GetLocArgString(LocArgs args, int index)
+        {
+            var value = args.Args[index];
+
+            return value switch
+            {
+                LocValueString stringValue => stringValue.Value,
+                LocValueEntity entityValue => entityValue.Format(new LocContext()),
+                _ => value.Format(new LocContext())
+            };
+        }
+
         private ILocValue FormatUkrainianName(LocArgs args)
         {
-            var caseType = ((LocValueString)args.Args[0]).Value.ToLower();
-            var name = ((LocValueString)args.Args[1]).Value;
+            var caseType = GetLocArgString(args, 0).ToLower();
+            var name = GetLocArgString(args, 1);
 
             if (string.IsNullOrWhiteSpace(name) || name.Length < 2)
                 return new LocValueString(name);
@@ -544,13 +555,13 @@ namespace Content.Shared.Localizations
 
         private ILocValue FormatUkrainianSubject(LocArgs args)
         {
-            var name = ((LocValueString)args.Args[0]).Value;
+            var name = GetLocArgString(args, 0);
             return new LocValueString(name);
         }
 
         private ILocValue FormatUkrainianObject(LocArgs args)
         {
-            var name = ((LocValueString)args.Args[0]).Value;
+            var name = GetLocArgString(args, 0);
             return new LocValueString(DeclineUkrainianWord(name, "accusative"));
         }
 
@@ -576,22 +587,8 @@ namespace Content.Shared.Localizations
 
         private ILocValue FormatUkrainianConjugateBasic(LocArgs args)
         {
-            var singular = ((LocValueString)args.Args[1]).Value;
+            var singular = GetLocArgString(args, 1);
             return new LocValueString(singular);
-        }
-
-        private ILocValue FormatUkrainianProper(LocArgs args)
-        {
-            var name = ((LocValueString)args.Args[0]).Value;
-            if (string.IsNullOrEmpty(name))
-                return new LocValueString("");
-
-            string first = name.Substring(0, 1).ToUpper();
-            if (name.Length == 1)
-                return new LocValueString(first);
-
-            string rest = name.Substring(1);
-            return new LocValueString(first + rest);
         }
     }
 }
