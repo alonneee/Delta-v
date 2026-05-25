@@ -289,11 +289,16 @@ namespace Content.Client.RoundEnd
                 // Commend button
                 var oocName = playerInfo.PlayerOOCName;
                 var icName = playerInfo.PlayerICName ?? "???";
+                var icNameColor = playerInfo.Antag ? "red" : "white";
                 var commendButton = new ConfirmButton
                 {
                     Text = "👍",
                     ConfirmationText = "OK?",
-                    ToolTip = Loc.GetString("round-end-summary-window-player-info-if-not-observer-text", ("playerOOCName", icName)),
+                    ToolTip = Loc.GetString("round-end-summary-window-player-info-if-not-observer-text",
+                        ("playerOOCName", oocName),
+                        ("icNameColor", icNameColor),
+                        ("playerICName", icName),
+                        ("playerRole", Loc.GetString(playerInfo.Role))),
                     MinSize = new Vector2(50, 30),
                     VerticalAlignment = VAlignment.Center,
                     Visible = oocName != localPlayerOOCName // Cannot commend yourself
