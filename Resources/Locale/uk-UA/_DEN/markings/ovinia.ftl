@@ -3,7 +3,7 @@ marking-OviniaEars-ovinia-ears = Outer Ears
 marking-OviniaEars-ovinia-ears-inner = Inner Ears
 
 marking-OviniaTail = Ovinia Tail (Default)
-marking-OviniaTail-ovinia-tail = Tail
+marking-OviniaTail-ovinia-tail = Хвіст
 
 marking-OviniaNeckfluff = Ovinia Neck Fluff
 marking-OviniaNeckfluff-ovinia-neck-fluff = Neck Fluff
@@ -35,15 +35,15 @@ marking-OviniaCurvedHorns-ovinia-curved-horns = Horns
 
 marking-OviniaFace = Ovinia Face
 marking-OviniaFace-ovinia-face = Face
-marking-OviniaFace-ovinia-nose = Nose
+marking-OviniaFace-ovinia-nose = Ніс
 
 marking-OviniaBlaze = Ovinia Face
 marking-OviniaBlaze-ovinia-blaze = Face
-marking-OviniaBlaze-ovinia-nose = Nose
+marking-OviniaBlaze-ovinia-nose = Ніс
 
 marking-OviniaSnout = Ovinia Snout
-marking-OviniaSnout-ovinia-snout = Snout
-marking-OviniaSnout-ovinia-nose = Nose
+marking-OviniaSnout-ovinia-snout = Морда
+marking-OviniaSnout-ovinia-nose = Ніс
 
 marking-OviniaTummy = Ovinia Tummy
 marking-OviniaTummy-ovinia-tummy = Tummy
