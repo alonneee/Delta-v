@@ -7,8 +7,8 @@ accent-anglish-replacement-2 = call off
 accent-anglish-words-3 = absent
 accent-anglish-replacement-3 = missing
 
-accent-anglish-words-4 = accept
-accent-anglish-replacement-4 = welcome
+accent-anglish-words-4 = прийняти
+accent-anglish-replacement-4 = вітати
 
 accent-anglish-words-5 = acceptable
 accent-anglish-replacement-5 = all right
@@ -16,31 +16,31 @@ accent-anglish-replacement-5 = all right
 accent-anglish-words-6 = agent
 accent-anglish-replacement-6 = follower
 
-accent-anglish-words-7 = agree
+accent-anglish-words-7 = погодитися
 accent-anglish-replacement-7 = yeasay
 
 accent-anglish-words-8 = agreement
 accent-anglish-replacement-8 = deal
 
 accent-anglish-words-9 = aid
-accent-anglish-replacement-9 = help
+accent-anglish-replacement-9 = допомагати
 
 accent-anglish-words-10 = air
 accent-anglish-replacement-10 = breath
 
-accent-anglish-words-11 = alcohol
+accent-anglish-words-11 = алкоголь
 accent-anglish-replacement-11 = lifewater
 
-accent-anglish-words-12 = alert
+accent-anglish-words-12 = пильний
 accent-anglish-replacement-12 = wary
 
-accent-anglish-words-13 = alien
+accent-anglish-words-13 = чужий
 accent-anglish-replacement-13 = outsider
 
 accent-anglish-words-14 = alley
 accent-anglish-replacement-14 = byroad
 
-accent-anglish-words-15 = allow
+accent-anglish-words-15 = дозволити
 accent-anglish-replacement-15 = let
 
 accent-anglish-words-16 = alphabet
@@ -49,7 +49,7 @@ accent-anglish-replacement-16 = ABCs
 accent-anglish-words-17 = altar
 accent-anglish-replacement-17 = giftboard
 
-accent-anglish-words-18 = AME
+accent-anglish-words-18 = ДАМ
 accent-anglish-replacement-18 = unbeing burner
 
 accent-anglish-words-19 = amen
@@ -70,25 +70,25 @@ accent-anglish-replacement-23 = drew up
 accent-anglish-words-24 = android
 accent-anglish-replacement-24 = manhue
 
-accent-anglish-words-25 = anger
+accent-anglish-words-25 = гнів
 accent-anglish-replacement-25 = wrath
 
 accent-anglish-words-26 = angle
 accent-anglish-replacement-26 = nook
 
-accent-anglish-words-27 = angry
+accent-anglish-words-27 = злий
 accent-anglish-replacement-27 = mad
 
-accent-anglish-words-28 = animal
+accent-anglish-words-28 = тварина
 accent-anglish-replacement-28 = being
 
 accent-anglish-words-29 = anime
 accent-anglish-replacement-29 = dawnlandish livedrawing
 
-accent-anglish-words-30 = annoy
+accent-anglish-words-30 = дратувати
 accent-anglish-replacement-30 = irk
 
-accent-anglish-words-31 = annoying
+accent-anglish-words-31 = дратівливий
 accent-anglish-replacement-31 = irksome
 
 accent-anglish-words-32 = anonymous
@@ -115,7 +115,7 @@ accent-anglish-replacement-38 = angst
 accent-anglish-words-39 = apart
 accent-anglish-replacement-39 = cleaved
 
-accent-anglish-words-40 = APC
+accent-anglish-words-40 = АПЦ
 accent-anglish-replacement-40 = watt-shaper
 
 accent-anglish-words-41 = apocalypse
@@ -127,11 +127,11 @@ accent-anglish-replacement-42 = ask forgiveness
 accent-anglish-words-43 = apology
 accent-anglish-replacement-43 = sorry
 
-accent-anglish-words-44 = arrest
-accent-anglish-replacement-44 = avast
+accent-anglish-words-44 = арешт
+accent-anglish-replacement-44 = стоп
 
-accent-anglish-words-45 = arrested
-accent-anglish-replacement-45 = avast
+accent-anglish-words-45 = заарештований
+accent-anglish-replacement-45 = стоп
 
 accent-anglish-words-46 = award
 accent-anglish-replacement-46 = belean
@@ -139,7 +139,7 @@ accent-anglish-replacement-46 = belean
 accent-anglish-words-47 = backwards
 accent-anglish-replacement-47 = arselong
 
-accent-anglish-words-48 = bomb
+accent-anglish-words-48 = бомба
 accent-anglish-replacement-48 = blaster
 
 accent-anglish-words-49 = botany
@@ -148,7 +148,7 @@ accent-anglish-replacement-49 = wortlore
 accent-anglish-words-50 = bottle
 accent-anglish-replacement-50 = flask
 
-accent-anglish-words-51 = brave
+accent-anglish-words-51 = хоробрий
 accent-anglish-replacement-51 = gutsy
 
 accent-anglish-words-52 = brig
@@ -160,7 +160,7 @@ accent-anglish-replacement-53 = ropewire
 accent-anglish-words-54 = cafe
 accent-anglish-replacement-54 = beanbrewhouse
 
-accent-anglish-words-55 = cake
+accent-anglish-words-55 = торт
 accent-anglish-replacement-55 = sweetbake
 
 accent-anglish-words-56 = calcium
@@ -178,7 +178,7 @@ accent-anglish-replacement-59 = waxlight
 accent-anglish-words-60 = candy
 accent-anglish-replacement-60 = sweets
 
-accent-anglish-words-61 = cannabis
+accent-anglish-words-61 = канабіс
 accent-anglish-replacement-61 = hemp
 
 accent-anglish-words-62 = cannibal
@@ -187,19 +187,19 @@ accent-anglish-replacement-62 = maneater
 accent-anglish-words-63 = capacity
 accent-anglish-replacement-63 = berth
 
-accent-anglish-words-64 = captain
+accent-anglish-words-64 = капітане
 accent-anglish-replacement-64 = leader
 
 accent-anglish-words-65 = car
 accent-anglish-replacement-65 = wagon
 
-accent-anglish-words-66 = carbon
+accent-anglish-words-66 = вуглець
 accent-anglish-replacement-66 = soot
 
 accent-anglish-words-67 = card
-accent-anglish-replacement-67 = sheet
+accent-anglish-replacement-67 = лист
 
-accent-anglish-words-68 = cardboard
+accent-anglish-words-68 = картон
 accent-anglish-replacement-68 = headboard
 
 accent-anglish-words-69 = career
@@ -220,31 +220,31 @@ accent-anglish-replacement-73 = woodcraft
 accent-anglish-words-74 = carpet
 accent-anglish-replacement-74 = rug
 
-accent-anglish-words-75 = carrot
+accent-anglish-words-75 = морква
 accent-anglish-replacement-75 = walmore
 
 accent-anglish-words-76 = carte blanche
 accent-anglish-replacement-76 = utter freedom
 
 accent-anglish-words-77 = cartridge
-accent-anglish-replacement-77 = load
+accent-anglish-replacement-77 = завантажувати
 
 accent-anglish-words-78 = casino
 accent-anglish-replacement-78 = bethall
 
 accent-anglish-words-79 = casual
-accent-anglish-replacement-79 = breezy
+accent-anglish-replacement-79 = свіжий
 
 accent-anglish-words-80 = chapel
 accent-anglish-replacement-80 = kirk
 
-accent-anglish-words-81 = cheat
+accent-anglish-words-81 = обманювати
 accent-anglish-replacement-81 = swindle
 
-accent-anglish-words-82 = chef
-accent-anglish-replacement-82 = cook
+accent-anglish-words-82 = шеф-кухар
+accent-anglish-replacement-82 = готувати
 
-accent-anglish-words-83 = chemist
+accent-anglish-words-83 = хімік
 accent-anglish-replacement-83 = salveseller
 
 accent-anglish-words-84 = chemistry
@@ -268,7 +268,7 @@ accent-anglish-replacement-89 = townsfolk
 accent-anglish-words-90 = civilian
 accent-anglish-replacement-90 = meanfolk
 
-accent-anglish-words-91 = claim
+accent-anglish-words-91 = заявляти
 accent-anglish-replacement-91 = forehold
 
 accent-anglish-words-92 = clarify
@@ -283,19 +283,19 @@ accent-anglish-replacement-94 = sheerly
 accent-anglish-words-95 = clone
 accent-anglish-replacement-95 = twin
 
-accent-anglish-words-96 = clown
+accent-anglish-words-96 = клоун
 accent-anglish-replacement-96 = funniman
 
-accent-anglish-words-97 = coffee
+accent-anglish-words-97 = кава
 accent-anglish-replacement-97 = beanbrew
 
 accent-anglish-words-98 = combat
 accent-anglish-replacement-98 = fighting
 
-accent-anglish-words-99 = comedy
+accent-anglish-words-99 = комедія
 accent-anglish-replacement-99 = funplay
 
-accent-anglish-words-100 = command
+accent-anglish-words-100 = наказувати
 accent-anglish-replacement-100 = headship
 
 accent-anglish-words-101 = common
@@ -307,7 +307,7 @@ accent-anglish-replacement-102 = fellowship
 accent-anglish-words-103 = company
 accent-anglish-replacement-103 = outfit
 
-accent-anglish-words-104 = compare
+accent-anglish-words-104 = порівнювати
 accent-anglish-replacement-104 = liken
 
 accent-anglish-words-105 = completely
@@ -337,7 +337,7 @@ accent-anglish-replacement-112 = allworldly
 accent-anglish-words-113 = costume
 accent-anglish-replacement-113 = get-up
 
-accent-anglish-words-114 = cotton
+accent-anglish-words-114 = бавовна
 accent-anglish-replacement-114 = seedwool
 
 accent-anglish-words-115 = criminal
@@ -346,22 +346,22 @@ accent-anglish-replacement-115 = lawbreaker
 accent-anglish-words-116 = cult
 accent-anglish-replacement-116 = lesserbelief
 
-accent-anglish-words-117 = damage
+accent-anglish-words-117 = пошкоджувати
 accent-anglish-replacement-117 = scathe
 
-accent-anglish-words-118 = damaged
+accent-anglish-words-118 = пошкоджений
 accent-anglish-replacement-118 = scathed
 
 accent-anglish-words-119 = damaging
 accent-anglish-replacement-119 = scathing
 
-accent-anglish-words-120 = dance
+accent-anglish-words-120 = танцювати
 accent-anglish-replacement-120 = flutter
 
 accent-anglish-words-121 = danger
 accent-anglish-replacement-121 = plight
 
-accent-anglish-words-122 = dangerous
+accent-anglish-words-122 = небезпечний
 accent-anglish-replacement-122 = plightful
 
 accent-anglish-words-123 = data
@@ -373,16 +373,16 @@ accent-anglish-replacement-124 = moot
 accent-anglish-words-125 = debt
 accent-anglish-replacement-125 = owings
 
-accent-anglish-words-126 = decay
-accent-anglish-replacement-126 = rot
+accent-anglish-words-126 = гнити
+accent-anglish-replacement-126 = гнити
 
-accent-anglish-words-127 = deceive
+accent-anglish-words-127 = обманювати
 accent-anglish-replacement-127 = mislead
 
 accent-anglish-words-128 = decent
 accent-anglish-replacement-128 = upstanding
 
-accent-anglish-words-129 = decide
+accent-anglish-words-129 = вирішувати
 accent-anglish-replacement-129 = choose
 
 accent-anglish-words-130 = declaration
@@ -412,17 +412,17 @@ accent-anglish-replacement-137 = wordmark
 accent-anglish-words-138 = defy
 accent-anglish-replacement-138 = flout
 
-accent-anglish-words-139 = delay
+accent-anglish-words-139 = затримувати
 accent-anglish-replacement-139 = belate
 
 accent-anglish-words-140 = delete
 accent-anglish-replacement-140 = get rid of
 
-accent-anglish-words-141 = delicious
+accent-anglish-words-141 = смачний
 accent-anglish-replacement-141 = winly
 
-accent-anglish-words-142 = delightful
-accent-anglish-replacement-142 = sweet
+accent-anglish-words-142 = чудовий
+accent-anglish-replacement-142 = солодкий
 
 accent-anglish-words-143 = democracy
 accent-anglish-replacement-143 = folkdom
@@ -445,7 +445,7 @@ accent-anglish-replacement-148 = offdealing
 accent-anglish-words-149 = dept
 accent-anglish-replacement-149 = offdealing
 
-accent-anglish-words-150 = destroy
+accent-anglish-words-150 = знищувати
 accent-anglish-replacement-150 = unmake
 
 accent-anglish-words-151 = detain
@@ -455,9 +455,9 @@ accent-anglish-words-152 = detective
 accent-anglish-replacement-152 = sleuth
 
 accent-anglish-words-153 = determination
-accent-anglish-replacement-153 = will
+accent-anglish-replacement-153 = зробив
 
-accent-anglish-words-154 = develop
+accent-anglish-words-154 = розвивати
 accent-anglish-replacement-154 = grow
 
 accent-anglish-words-155 = devil
@@ -466,19 +466,19 @@ accent-anglish-replacement-155 = fiend
 accent-anglish-words-156 = dictionary
 accent-anglish-replacement-156 = wordbook
 
-accent-anglish-words-157 = different
+accent-anglish-words-157 = інший
 accent-anglish-replacement-157 = unlike
 
 accent-anglish-words-158 = dinner
 accent-anglish-replacement-158 = evening meal
 
 accent-anglish-words-159 = dioxide
-accent-anglish-replacement-159 = damp
+accent-anglish-replacement-159 = вологий
 
-accent-anglish-words-160 = disagree
+accent-anglish-words-160 = не погоджуватися
 accent-anglish-replacement-160 = naysay
 
-accent-anglish-words-161 = discover
+accent-anglish-words-161 = відкривати
 accent-anglish-replacement-161 = find out
 
 accent-anglish-words-162 = discovery
@@ -487,7 +487,7 @@ accent-anglish-replacement-162 = finding
 accent-anglish-words-163 = discuss
 accent-anglish-replacement-163 = wordwrestle
 
-accent-anglish-words-164 = disgusting
+accent-anglish-words-164 = огидно
 accent-anglish-replacement-164 = sickening
 
 accent-anglish-words-165 = disinfect
@@ -496,7 +496,7 @@ accent-anglish-replacement-165 = unsmittle
 accent-anglish-words-166 = disk
 accent-anglish-replacement-166 = shive
 
-accent-anglish-words-167 = dislike
+accent-anglish-words-167 = не любити
 accent-anglish-replacement-167 = mislike
 
 accent-anglish-words-168 = disposals
@@ -505,20 +505,20 @@ accent-anglish-replacement-168 = no-man's-land
 accent-anglish-words-169 = dispose
 accent-anglish-replacement-169 = deep six
 
-accent-anglish-words-170 = doctor
+accent-anglish-words-170 = лікар
 accent-anglish-replacement-170 = healer
 
 accent-anglish-words-171 = it doesn't matter
 accent-anglish-replacement-171 = it's not of markworth
 
-accent-anglish-words-172 = drunk
+accent-anglish-words-172 = п'яний
 accent-anglish-replacement-172 = half-blind
 
-accent-anglish-words-173 = edible
+accent-anglish-words-173 = їстівне
 accent-anglish-replacement-173 = fit to eat
 
 accent-anglish-words-174 = effort
-accent-anglish-replacement-174 = work
+accent-anglish-replacement-174 = працювати
 
 accent-anglish-words-175 = egg
 accent-anglish-replacement-175 = ey
@@ -535,16 +535,16 @@ accent-anglish-replacement-178 = pride
 accent-anglish-words-179 = eject
 accent-anglish-replacement-179 = cast out
 
-accent-anglish-words-180 = electric
+accent-anglish-words-180 = електричний
 accent-anglish-replacement-180 = sparkly
 
-accent-anglish-words-181 = electricity
+accent-anglish-words-181 = електроенергія
 accent-anglish-replacement-181 = sparkstream
 
 accent-anglish-words-182 = electronic
 accent-anglish-replacement-182 = sparklingly
 
-accent-anglish-words-183 = employ
+accent-anglish-words-183 = наймати
 accent-anglish-replacement-183 = hire
 
 accent-anglish-words-184 = employed
@@ -562,13 +562,13 @@ accent-anglish-replacement-187 = bewitch
 accent-anglish-words-188 = evac
 accent-anglish-replacement-188 = outway
 
-accent-anglish-words-189 = frezon
+accent-anglish-words-189 = фрезон
 accent-anglish-replacement-189 = coldstuff
 
 accent-anglish-words-190 = fuck off
 accent-anglish-replacement-190 = be damned
 
-accent-anglish-words-191 = fuck you
+accent-anglish-words-191 = до біса тебе
 accent-anglish-replacement-191 = blight take you
 
 accent-anglish-words-192 = fuel
@@ -586,7 +586,7 @@ accent-anglish-replacement-195 = stead-finder
 accent-anglish-words-196 = grilling
 accent-anglish-replacement-196 = fire-roasting
 
-accent-anglish-words-197 = gunpowder
+accent-anglish-words-197 = порох
 accent-anglish-replacement-197 = gundust
 
 accent-anglish-words-198 = guy
@@ -602,12 +602,12 @@ accent-anglish-words-201 = holopad
 accent-anglish-replacement-201 = lightstill beamer
 
 accent-anglish-words-202 = holy shit
-accent-anglish-replacement-202 = hellfire
+accent-anglish-replacement-202 = пекельний вогонь
 
-accent-anglish-words-203 = huge
-accent-anglish-replacement-203 = great
+accent-anglish-words-203 = величезний
+accent-anglish-replacement-203 = великий
 
-accent-anglish-words-204 = human
+accent-anglish-words-204 = людський
 accent-anglish-replacement-204 = earthling
 
 accent-anglish-words-205 = humble
@@ -616,16 +616,16 @@ accent-anglish-replacement-205 = meek
 accent-anglish-words-206 = humid
 accent-anglish-replacement-206 = dank
 
-accent-anglish-words-207 = hurt
-accent-anglish-replacement-207 = harm
+accent-anglish-words-207 = ображений
+accent-anglish-replacement-207 = шкодити
 
-accent-anglish-words-208 = hydrogen
+accent-anglish-words-208 = водень
 accent-anglish-replacement-208 = waterstuff
 
 accent-anglish-words-209 = hydroponics
 accent-anglish-replacement-209 = gardening
 
-accent-anglish-words-210 = innocent
+accent-anglish-words-210 = невинний
 accent-anglish-replacement-210 = sackless
 
 accent-anglish-words-211 = insane
@@ -644,9 +644,9 @@ accent-anglish-words-215 = intelligence
 accent-anglish-replacement-215 = wit
 
 accent-anglish-words-216 = intelligent
-accent-anglish-replacement-216 = brainy
+accent-anglish-replacement-216 = розумний
 
-accent-anglish-words-217 = intend
+accent-anglish-words-217 = мати намір
 accent-anglish-replacement-217 = mean
 
 accent-anglish-words-218 = intense
@@ -661,19 +661,19 @@ accent-anglish-replacement-220 = thwart
 accent-anglish-words-221 = interest you
 accent-anglish-replacement-221 = grip you
 
-accent-anglish-words-222 = interesting
+accent-anglish-words-222 = цікаво
 accent-anglish-replacement-222 = gripping
 
 accent-anglish-words-223 = intern
 accent-anglish-replacement-223 = inworker
 
-accent-anglish-words-224 = jail
+accent-anglish-words-224 = в'язниця
 accent-anglish-replacement-224 = lockup
 
-accent-anglish-words-225 = janitor
+accent-anglish-words-225 = прибиральник
 accent-anglish-replacement-225 = caretaker
 
-accent-anglish-words-226 = jealous
+accent-anglish-words-226 = ревнивий
 accent-anglish-replacement-226 = green-eyed
 
 accent-anglish-words-227 = jealousy
@@ -685,7 +685,7 @@ accent-anglish-replacement-228 = merryman
 accent-anglish-words-229 = jetpack
 accent-anglish-replacement-229 = flightcraft
 
-accent-anglish-words-230 = joke
+accent-anglish-words-230 = жартувати
 accent-anglish-replacement-230 = gab
 
 accent-anglish-words-231 = journey
@@ -694,13 +694,13 @@ accent-anglish-replacement-231 = wayfare
 accent-anglish-words-232 = jukebox
 accent-anglish-replacement-232 = songbox
 
-accent-anglish-words-233 = jump
+accent-anglish-words-233 = стрибати
 accent-anglish-replacement-233 = leap
 
 accent-anglish-words-234 = justice
 accent-anglish-replacement-234 = rightwiseness
 
-accent-anglish-words-235 = knife
+accent-anglish-words-235 = ніж
 accent-anglish-replacement-235 = seax
 
 accent-anglish-words-236 = lantern
@@ -736,7 +736,7 @@ accent-anglish-replacement-245 = great body
 accent-anglish-words-246 = make sense
 accent-anglish-replacement-246 = make wits
 
-accent-anglish-words-247 = manage
+accent-anglish-words-247 = вправлятися
 accent-anglish-replacement-247 = fare
 
 accent-anglish-words-248 = manner
@@ -760,7 +760,7 @@ accent-anglish-replacement-253 = nowend
 accent-anglish-words-254 = married
 accent-anglish-replacement-254 = wedded
 
-accent-anglish-words-255 = marry
+accent-anglish-words-255 = одружуватися
 accent-anglish-replacement-255 = wed
 
 accent-anglish-words-256 = martyr
@@ -778,11 +778,11 @@ accent-anglish-replacement-259 = lord
 accent-anglish-words-260 = math
 accent-anglish-replacement-260 = reckonlore
 
-accent-anglish-words-261 = matter
-accent-anglish-replacement-261 = sake
+accent-anglish-words-261 = мати значення
+accent-anglish-replacement-261 = саке
 
 accent-anglish-words-262 = mature
-accent-anglish-replacement-262 = ripe
+accent-anglish-replacement-262 = стиглий
 
 accent-anglish-words-263 = matured
 accent-anglish-replacement-263 = ripened
@@ -805,7 +805,7 @@ accent-anglish-replacement-268 = insee
 accent-anglish-words-269 = meditation
 accent-anglish-replacement-269 = inseeing
 
-accent-anglish-words-270 = melee
+accent-anglish-words-270 = ближній бій
 accent-anglish-replacement-270 = tussle
 
 accent-anglish-words-271 = member
@@ -829,7 +829,7 @@ accent-anglish-replacement-276 = meld
 accent-anglish-words-277 = meson
 accent-anglish-replacement-277 = midmote
 
-accent-anglish-words-278 = message
+accent-anglish-words-278 = повідомлення
 accent-anglish-replacement-278 = tiding
 
 accent-anglish-words-279 = meteor
@@ -844,7 +844,7 @@ accent-anglish-replacement-281 = smalloven
 accent-anglish-words-282 = million
 accent-anglish-replacement-282 = thousand thousand
 
-accent-anglish-words-283 = mime
+accent-anglish-words-283 = мім
 accent-anglish-replacement-283 = hushed player
 
 accent-anglish-words-284 = miner
@@ -865,28 +865,28 @@ accent-anglish-replacement-288 = brawn
 accent-anglish-words-289 = mushroom
 accent-anglish-replacement-289 = toadstool
 
-accent-anglish-words-290 = music
-accent-anglish-replacement-290 = song
+accent-anglish-words-290 = музика
+accent-anglish-replacement-290 = пісня
 
 accent-anglish-words-291 = musician
 accent-anglish-replacement-291 = gleer
 
-accent-anglish-words-292 = ninja
+accent-anglish-words-292 = ніндзя
 accent-anglish-replacement-292 = banesman
 
-accent-anglish-words-293 = nitrogen
+accent-anglish-words-293 = азот
 accent-anglish-replacement-293 = chokestuff
 
-accent-anglish-words-294 = nukie
+accent-anglish-words-294 = нукі
 accent-anglish-replacement-294 = fearstriker
 
-accent-anglish-words-295 = nukies
+accent-anglish-words-295 = ядерка
 accent-anglish-replacement-295 = fearstrikers
 
-accent-anglish-words-296 = officer
+accent-anglish-words-296 = офіцер
 accent-anglish-replacement-296 = sheriff
 
-accent-anglish-words-297 = oxygen
+accent-anglish-words-297 = кисень
 accent-anglish-replacement-297 = sourstuff
 
 accent-anglish-words-298 = pen
@@ -901,10 +901,10 @@ accent-anglish-replacement-300 = folk
 accent-anglish-words-301 = pepperoni
 accent-anglish-replacement-301 = pepperwurst
 
-accent-anglish-words-302 = perfect
+accent-anglish-words-302 = ідеальний
 accent-anglish-replacement-302 = flawless
 
-accent-anglish-words-303 = perform
+accent-anglish-words-303 = виконувати
 accent-anglish-replacement-303 = do forth
 
 accent-anglish-words-304 = perhaps
@@ -916,28 +916,28 @@ accent-anglish-replacement-305 = timeless keeping
 accent-anglish-words-306 = permanent
 accent-anglish-replacement-306 = everlasting
 
-accent-anglish-words-307 = pistol
+accent-anglish-words-307 = пістолет
 accent-anglish-replacement-307 = handgun
 
 accent-anglish-words-308 = pizza
 accent-anglish-replacement-308 = flatcake
 
-accent-anglish-words-309 = plan
+accent-anglish-words-309 = планувати
 accent-anglish-replacement-309 = forethink
 
 accent-anglish-words-310 = planet
 accent-anglish-replacement-310 = world
 
-accent-anglish-words-311 = plasma
+accent-anglish-words-311 = плазма
 accent-anglish-replacement-311 = glowstuff
 
-accent-anglish-words-312 = potassium
+accent-anglish-words-312 = калій
 accent-anglish-replacement-312 = potashstuff
 
-accent-anglish-words-313 = potato
+accent-anglish-words-313 = картопля
 accent-anglish-replacement-313 = earthapple
 
-accent-anglish-words-314 = prepare
+accent-anglish-words-314 = готувати
 accent-anglish-replacement-314 = foreready
 
 accent-anglish-words-315 = prepared
@@ -946,7 +946,7 @@ accent-anglish-replacement-315 = ready
 accent-anglish-words-316 = progress
 accent-anglish-replacement-316 = headway
 
-accent-anglish-words-317 = promise
+accent-anglish-words-317 = обіцяти
 accent-anglish-replacement-317 = behight
 
 accent-anglish-words-318 = promote
@@ -983,7 +983,7 @@ accent-anglish-words-328 = psychologist
 accent-anglish-replacement-328 = mindlorer
 
 accent-anglish-words-329 = public
-accent-anglish-replacement-329 = open
+accent-anglish-replacement-329 = відкритий
 
 accent-anglish-words-330 = publish
 accent-anglish-replacement-330 = forthsend
@@ -995,33 +995,33 @@ accent-anglish-words-332 = purchase
 accent-anglish-replacement-332 = buy
 
 accent-anglish-words-333 = purpose
-accent-anglish-replacement-333 = sake
+accent-anglish-replacement-333 = саке
 
-accent-anglish-words-334 = push
+accent-anglish-words-334 = штовхати
 accent-anglish-replacement-334 = thrust
 
-accent-anglish-words-335 = quiet
-accent-anglish-replacement-335 = hushed
+accent-anglish-words-335 = тихий
+accent-anglish-replacement-335 = приглушений
 
-accent-anglish-words-336 = real
+accent-anglish-words-336 = справжній
 accent-anglish-replacement-336 = echt
 
-accent-anglish-words-337 = reporter
+accent-anglish-words-337 = репортер
 accent-anglish-replacement-337 = newsman
 
-accent-anglish-words-338 = rifle
+accent-anglish-words-338 = гвинтівка
 accent-anglish-replacement-338 = shouldershooter
 
 accent-anglish-words-339 = riot
 accent-anglish-replacement-339 = crowdburst
 
-accent-anglish-words-340 = robbery
+accent-anglish-words-340 = пограбування
 accent-anglish-replacement-340 = reaving
 
 accent-anglish-words-341 = robot
 accent-anglish-replacement-341 = sparkthrall
 
-accent-anglish-words-342 = robotic
+accent-anglish-words-342 = роботизований
 accent-anglish-replacement-342 = cold-soul
 
 accent-anglish-words-343 = roboticist
@@ -1030,16 +1030,16 @@ accent-anglish-replacement-343 = sparkthrallcraftsman
 accent-anglish-words-344 = robotics
 accent-anglish-replacement-344 = sparkthrallcraft
 
-accent-anglish-words-345 = robust
+accent-anglish-words-345 = міцний
 accent-anglish-replacement-345 = ful-blooded
 
 accent-anglish-words-346 = roleplay
 accent-anglish-replacement-346 = playwork
 
-accent-anglish-words-347 = romance
+accent-anglish-words-347 = романтика
 accent-anglish-replacement-347 = love-tale
 
-accent-anglish-words-348 = round
+accent-anglish-words-348 = круглий
 accent-anglish-replacement-348 = wheelshaped
 
 accent-anglish-words-349 = rude
@@ -1054,7 +1054,7 @@ accent-anglish-replacement-351 = learninghouse
 accent-anglish-words-352 = science
 accent-anglish-replacement-352 = kendom
 
-accent-anglish-words-353 = scientist
+accent-anglish-words-353 = вчений
 accent-anglish-replacement-353 = kenman
 
 accent-anglish-words-354 = secret
@@ -1069,8 +1069,8 @@ accent-anglish-replacement-356 = bit
 accent-anglish-words-357 = secular
 accent-anglish-replacement-357 = worldly
 
-accent-anglish-words-358 = security
-accent-anglish-replacement-358 = law
+accent-anglish-words-358 = служба безпеки
+accent-anglish-replacement-358 = закон
 
 accent-anglish-words-359 = select
 accent-anglish-replacement-359 = choose
@@ -1090,34 +1090,34 @@ accent-anglish-replacement-363 = earnest
 accent-anglish-words-364 = seriously
 accent-anglish-replacement-364 = earnestly
 
-accent-anglish-words-365 = serve
-accent-anglish-replacement-365 = give
+accent-anglish-words-365 = служити
+accent-anglish-replacement-365 = дайте
 
 accent-anglish-words-366 = session
 accent-anglish-replacement-366 = bout
 
 accent-anglish-words-367 = severe
-accent-anglish-replacement-367 = hard
+accent-anglish-replacement-367 = твердий
 
-accent-anglish-words-368 = severely
+accent-anglish-words-368 = дуже серйозно
 accent-anglish-replacement-368 = roughly
 
-accent-anglish-words-369 = shitsec
+accent-anglish-words-369 = погані сб
 accent-anglish-replacement-369 = measly lawmen
 
 accent-anglish-words-370 = shuttle
 accent-anglish-replacement-370 = ship
 
-accent-anglish-words-371 = silicon
+accent-anglish-words-371 = кремній
 accent-anglish-replacement-371 = flintshaft
 
 accent-anglish-words-372 = singuloose
 accent-anglish-replacement-372 = the heftiness knot broke free from its fetters
 
-accent-anglish-words-373 = SMES
+accent-anglish-words-373 = СМЕС
 accent-anglish-replacement-373 = power hoard
 
-accent-anglish-words-374 = sodium
+accent-anglish-words-374 = натрій
 accent-anglish-replacement-374 = saltstuff
 
 accent-anglish-words-375 = solar array
@@ -1144,22 +1144,22 @@ accent-anglish-replacement-381 = red gang
 accent-anglish-words-382 = syndie
 accent-anglish-replacement-382 = evildoer
 
-accent-anglish-words-383 = TEG
+accent-anglish-words-383 = Теплоелектричний Генератор (ТЕГ)
 accent-anglish-replacement-383 = leveny burner
 
 accent-anglish-words-384 = tend
 accent-anglish-replacement-384 = look after
 
-accent-anglish-words-385 = tense
+accent-anglish-words-385 = напружений
 accent-anglish-replacement-385 = nail-biting
 
-accent-anglish-words-386 = terrible
+accent-anglish-words-386 = жахливий
 accent-anglish-replacement-386 = dreadful
 
 accent-anglish-words-387 = terrific
 accent-anglish-replacement-387 = top-shelf
 
-accent-anglish-words-388 = terrifying
+accent-anglish-words-388 = жахливо
 accent-anglish-replacement-388 = bone-chilling
 
 accent-anglish-words-389 = terrorism
@@ -1174,7 +1174,7 @@ accent-anglish-replacement-391 = fearstrikers
 accent-anglish-words-392 = tesloose
 accent-anglish-replacement-392 = the spark-ball fled from its holdfast
 
-accent-anglish-words-393 = text
+accent-anglish-words-393 = текст
 accent-anglish-replacement-393 = writ
 
 accent-anglish-words-394 = the grill
@@ -1189,13 +1189,13 @@ accent-anglish-replacement-396 = thought
 accent-anglish-words-397 = therapy
 accent-anglish-replacement-397 = behandling
 
-accent-anglish-words-398 = tomato
+accent-anglish-words-398 = помідор
 accent-anglish-replacement-398 = loveapple
 
 accent-anglish-words-399 = trit
 accent-anglish-replacement-399 = third waterstuff
 
-accent-anglish-words-400 = tritium
+accent-anglish-words-400 = тритій
 accent-anglish-replacement-400 = third waterstuff
 
 accent-anglish-words-401 = vest
@@ -1204,16 +1204,16 @@ accent-anglish-replacement-401 = chesthelm
 accent-anglish-words-402 = vocabulary
 accent-anglish-replacement-402 = word-hoard
 
-accent-anglish-words-403 = wait
+accent-anglish-words-403 = чекати
 accent-anglish-replacement-403 = bide
 
 accent-anglish-words-404 = war
-accent-anglish-replacement-404 = fight
+accent-anglish-replacement-404 = битися
 
-accent-anglish-words-405 = what the fuck
+accent-anglish-words-405 = аномалії
 accent-anglish-replacement-405 = by all that's unholy, what
 
-accent-anglish-words-406 = whiskey
+accent-anglish-words-406 = віскі
 accent-anglish-replacement-406 = quickwater
 
 accent-anglish-words-407 = whisky
@@ -1222,10 +1222,10 @@ accent-anglish-replacement-407 = quickwater
 accent-anglish-words-408 = window
 accent-anglish-replacement-408 = eyedoor
 
-accent-anglish-words-409 = wizard
+accent-anglish-words-409 = чарівник
 accent-anglish-replacement-409 = dwimmerman
 
-accent-anglish-words-410 = xeno
+accent-anglish-words-410 = ксено
 accent-anglish-replacement-410 = otherling
 
 accent-anglish-words-411 = you fucking idiot
@@ -1243,13 +1243,13 @@ accent-anglish-replacement-414 = naught
 accent-anglish-words-415 = zeroes
 accent-anglish-replacement-415 = naughts
 
-accent-anglish-words-416 = zombie
+accent-anglish-words-416 = зомбі
 accent-anglish-replacement-416 = drow
 
 accent-anglish-words-417 = zoo
 accent-anglish-replacement-417 = deerkeep
 
-accent-anglish-words-418 = bartender
+accent-anglish-words-418 = бармен
 accent-anglish-replacement-418 = alekeeper
 
 accent-anglish-words-419 = epistemics
@@ -1285,10 +1285,10 @@ accent-anglish-replacement-427 = go on
 accent-anglish-words-428 = much
 accent-anglish-replacement-428 = muche
 
-accent-anglish-words-429 = suppose
-accent-anglish-replacement-429 = reckon
+accent-anglish-words-429 = припускати
+accent-anglish-replacement-429 = вважаю
 
-accent-anglish-words-430 = sure
+accent-anglish-words-430 = не можу
 accent-anglish-replacement-430 = set
 
 accent-anglish-words-431 = center
@@ -1300,25 +1300,25 @@ accent-anglish-replacement-432 = midmost
 accent-anglish-words-433 = centimeter
 accent-anglish-replacement-433 = hundrethmete
 
-accent-anglish-words-434 = challenge
-accent-anglish-replacement-434 = dare
+accent-anglish-words-434 = кидати виклик
+accent-anglish-replacement-434 = насмілюватися
 
 accent-anglish-words-435 = chance
 accent-anglish-replacement-435 = luck
 
-accent-anglish-words-436 = change
+accent-anglish-words-436 = змінювати
 accent-anglish-replacement-436 = shift
 
 accent-anglish-words-437 = nurse
 accent-anglish-replacement-437 = carer
 
-accent-anglish-words-438 = number
+accent-anglish-words-438 = номер
 accent-anglish-replacement-438 = scoring
 
 accent-anglish-words-439 = numbers
 accent-anglish-replacement-439 = scorings
 
-accent-anglish-words-440 = nuke
+accent-anglish-words-440 = ядерна бомба
 accent-anglish-replacement-440 = kernelweapon
 
 accent-anglish-words-441 = nuclear weapon
@@ -1348,8 +1348,8 @@ accent-anglish-replacement-448 = dweller
 accent-anglish-words-449 = inhabit
 accent-anglish-replacement-449 = dwell
 
-accent-anglish-words-450 = balance
-accent-anglish-replacement-450 = steady
+accent-anglish-words-450 = балансувати
+accent-anglish-replacement-450 = стійкий
 
 accent-anglish-words-451 = balloon
 accent-anglish-replacement-451 = loftball
@@ -1357,7 +1357,7 @@ accent-anglish-replacement-451 = loftball
 accent-anglish-words-452 = baloney
 accent-anglish-replacement-452 = malarkey
 
-accent-anglish-words-453 = banana
+accent-anglish-words-453 = банан
 accent-anglish-replacement-453 = moonapple
 
 accent-anglish-words-454 = bananas
@@ -1370,7 +1370,7 @@ accent-anglish-words-456 = barrel
 accent-anglish-replacement-456 = coop
 
 accent-anglish-words-457 = barren
-accent-anglish-replacement-457 = bare
+accent-anglish-replacement-457 = оголити
 
 accent-anglish-words-458 = barricade
 accent-anglish-replacement-458 = bulwark
@@ -1387,8 +1387,8 @@ accent-anglish-replacement-461 = upkeep shafts
 accent-anglish-words-462 = silence
 accent-anglish-replacement-462 = stillness
 
-accent-anglish-words-463 = silent
-accent-anglish-replacement-463 = hushed
+accent-anglish-words-463 = мовчазний
+accent-anglish-replacement-463 = приглушений
 
 accent-anglish-words-464 = sir
 accent-anglish-replacement-464 = lief
@@ -1418,7 +1418,7 @@ accent-anglish-words-472 = size
 accent-anglish-replacement-472 = bigness
 
 accent-anglish-words-473 = skeleton
-accent-anglish-replacement-473 = frame
+accent-anglish-replacement-473 = обрамляти
 
 accent-anglish-words-474 = slander
 accent-anglish-replacement-474 = smear
@@ -1450,19 +1450,19 @@ accent-anglish-replacement-482 = flaw
 accent-anglish-words-483 = scarf
 accent-anglish-replacement-483 = neckcloth
 
-accent-anglish-words-484 = scatter
+accent-anglish-words-484 = розкидати
 accent-anglish-replacement-484 = put to flight
 
-accent-anglish-words-485 = scattered
+accent-anglish-words-485 = розкиданий
 accent-anglish-replacement-485 = strewn
 
 accent-anglish-words-486 = mask
 accent-anglish-replacement-486 = mesh
 
-accent-anglish-words-487 = massive
-accent-anglish-replacement-487 = great
+accent-anglish-words-487 = масивний
+accent-anglish-replacement-487 = великий
 
-accent-anglish-words-488 = explain
+accent-anglish-words-488 = пояснювати
 accent-anglish-replacement-488 = spell out
 
 accent-anglish-words-489 = explains
@@ -1480,13 +1480,13 @@ accent-anglish-replacement-492 = blast
 accent-anglish-words-493 = explosions
 accent-anglish-replacement-493 = blasts
 
-accent-anglish-words-494 = explode
+accent-anglish-words-494 = вибухати
 accent-anglish-replacement-494 = blow up
 
 accent-anglish-words-495 = explore
 accent-anglish-replacement-495 = delve
 
-accent-anglish-words-496 = explosive
+accent-anglish-words-496 = вибухонебезпечний
 accent-anglish-replacement-496 = blasttinder
 
 accent-anglish-words-497 = explosives
@@ -1496,9 +1496,9 @@ accent-anglish-words-498 = expose
 accent-anglish-replacement-498 = unshroud
 
 accent-anglish-words-499 = exposed
-accent-anglish-replacement-499 = bare
+accent-anglish-replacement-499 = оголити
 
-accent-anglish-words-500 = extend
+accent-anglish-words-500 = продовжувати
 accent-anglish-replacement-500 = lengthen
 
 accent-anglish-words-501 = extends
@@ -1537,7 +1537,7 @@ accent-anglish-replacement-511 = unmark
 accent-anglish-words-512 = edit
 accent-anglish-replacement-512 = work over
 
-accent-anglish-words-513 = educate
+accent-anglish-words-513 = навчати
 accent-anglish-replacement-513 = teach
 
 accent-anglish-words-514 = educates
@@ -1555,10 +1555,10 @@ accent-anglish-replacement-517 = forthright
 accent-anglish-words-518 = honesty
 accent-anglish-replacement-518 = forthrightness
 
-accent-anglish-words-519 = borg
+accent-anglish-words-519 = борг
 accent-anglish-replacement-519 = manhue
 
-accent-anglish-words-520 = announce
+accent-anglish-words-520 = оголосити
 accent-anglish-replacement-520 = forthspell
 
 accent-anglish-words-521 = announcement
@@ -1574,7 +1574,7 @@ accent-anglish-words-524 = various
 accent-anglish-replacement-524 = sundry
 
 accent-anglish-words-525 = variety
-accent-anglish-replacement-525 = kind
+accent-anglish-replacement-525 = добрий
 
 accent-anglish-words-526 = varieties
 accent-anglish-replacement-526 = kinds
@@ -1627,11 +1627,11 @@ accent-anglish-replacement-541 = upright
 accent-anglish-words-542 = vertically
 accent-anglish-replacement-542 = heightwise
 
-accent-anglish-words-543 = very
+accent-anglish-words-543 = дуже
 accent-anglish-replacement-543 = swithly
 
 accent-anglish-words-544 = country
-accent-anglish-replacement-544 = rich
+accent-anglish-replacement-544 = багатий
 
 accent-anglish-words-545 = countries
 accent-anglish-replacement-545 = riches
@@ -1642,11 +1642,11 @@ accent-anglish-replacement-546 = win
 accent-anglish-words-547 = victories
 accent-anglish-replacement-547 = wins
 
-accent-anglish-words-548 = victorious
+accent-anglish-words-548 = переможний
 accent-anglish-replacement-548 = on top
 
 accent-anglish-words-549 = video
-accent-anglish-replacement-549 = film
+accent-anglish-replacement-549 = знімати фільм
 
 accent-anglish-words-550 = vigilante
 accent-anglish-replacement-550 = selfsheriff
@@ -1675,13 +1675,13 @@ accent-anglish-replacement-557 = unbridled longwort
 accent-anglish-words-558 = based
 accent-anglish-replacement-558 = seated
 
-accent-anglish-words-559 = basic
+accent-anglish-words-559 = простий
 accent-anglish-replacement-559 = bare-bones
 
 accent-anglish-words-560 = basically
 accent-anglish-replacement-560 = on the whole
 
-accent-anglish-words-561 = ambush
+accent-anglish-words-561 = засідка
 accent-anglish-replacement-561 = waylay
 
 accent-anglish-words-562 = amounts
@@ -1696,7 +1696,7 @@ accent-anglish-replacement-564 = cut off
 accent-anglish-words-565 = no erp
 accent-anglish-replacement-565 = give up your lewd playwork
 
-accent-anglish-words-566 = please
+accent-anglish-words-566 = будь ласка
 accent-anglish-replacement-566 = kindly
 
 accent-anglish-words-567 = pleased
@@ -1709,10 +1709,10 @@ accent-anglish-words-569 = plate
 accent-anglish-replacement-569 = dish
 
 accent-anglish-words-570 = plenty
-accent-anglish-replacement-570 = many
+accent-anglish-replacement-570 = багато
 
-accent-anglish-words-571 = paper
-accent-anglish-replacement-571 = sheet
+accent-anglish-words-571 = папір
+accent-anglish-replacement-571 = лист
 
 accent-anglish-words-572 = papers
 accent-anglish-replacement-572 = sheets
@@ -1732,22 +1732,22 @@ accent-anglish-replacement-576 = buildworks
 accent-anglish-words-577 = radioactive
 accent-anglish-replacement-577 = lightrotting
 
-accent-anglish-words-578 = radio
+accent-anglish-words-578 = радіо
 accent-anglish-replacement-578 = wireless
 
-accent-anglish-words-579 = fax
+accent-anglish-words-579 = відправляти факсом
 accent-anglish-replacement-579 = wireless sheetsender
 
-accent-anglish-words-580 = phone
+accent-anglish-words-580 = телефонувати
 accent-anglish-replacement-580 = blower
 
 accent-anglish-words-581 = intercom
 accent-anglish-replacement-581 = farspeaker
 
-accent-anglish-words-582 = vodka
+accent-anglish-words-582 = горілка
 accent-anglish-replacement-582 = white quickwater
 
-accent-anglish-words-583 = clear
+accent-anglish-words-583 = ясний
 accent-anglish-replacement-583 = sheer
 
 accent-anglish-words-584 = clock
@@ -1759,7 +1759,7 @@ accent-anglish-replacement-585 = timers
 accent-anglish-words-586 = close it
 accent-anglish-replacement-586 = shut it
 
-accent-anglish-words-587 = closed
+accent-anglish-words-587 = увімкнуто
 accent-anglish-replacement-587 = shut
 
 accent-anglish-words-588 = coincidence
@@ -1768,8 +1768,8 @@ accent-anglish-replacement-588 = likehappening
 accent-anglish-words-589 = coincidences
 accent-anglish-replacement-589 = likehappenings
 
-accent-anglish-words-590 = collect
-accent-anglish-replacement-590 = gather
+accent-anglish-words-590 = збирати
+accent-anglish-replacement-590 = збирати
 
 accent-anglish-words-591 = collects
 accent-anglish-replacement-591 = gathers
@@ -1780,22 +1780,22 @@ accent-anglish-replacement-804 = gathering
 accent-anglish-words-592 = collected
 accent-anglish-replacement-592 = gathered
 
-accent-anglish-words-593 = collection
+accent-anglish-words-593 = колекція
 accent-anglish-replacement-593 = thingstock
 
 accent-anglish-words-594 = personnel
 accent-anglish-replacement-594 = staff
 
-accent-anglish-words-595 = person
+accent-anglish-words-595 = людина
 accent-anglish-replacement-595 = wight
 
 accent-anglish-words-596 = personal
 accent-anglish-replacement-596 = selfly
 
-accent-anglish-words-597 = confuse
+accent-anglish-words-597 = плутати
 accent-anglish-replacement-597 = befuddle
 
-accent-anglish-words-598 = confused
+accent-anglish-words-598 = збентежений
 accent-anglish-replacement-598 = befuddled
 
 accent-anglish-words-599 = confusing
@@ -1807,7 +1807,7 @@ accent-anglish-replacement-600 = withthanks
 accent-anglish-words-601 = congratulate
 accent-anglish-replacement-601 = withthank
 
-accent-anglish-words-602 = consider
+accent-anglish-words-602 = розглядати
 accent-anglish-replacement-602 = heed
 
 accent-anglish-words-603 = considered
@@ -1817,16 +1817,16 @@ accent-anglish-words-604 = considering
 accent-anglish-replacement-604 = heeding
 
 accent-anglish-words-605 = conspiracy
-accent-anglish-replacement-605 = plot
+accent-anglish-replacement-605 = сюжет
 
 accent-anglish-words-606 = conspire
-accent-anglish-replacement-606 = plot
+accent-anglish-replacement-606 = сюжет
 
 accent-anglish-words-607 = conspicuous
 accent-anglish-replacement-607 = forthsightly
 
 accent-anglish-words-608 = constant
-accent-anglish-replacement-608 = steady
+accent-anglish-replacement-608 = стійкий
 
 accent-anglish-words-609 = constantly
 accent-anglish-replacement-609 = ongoing
@@ -1849,7 +1849,7 @@ accent-anglish-replacement-614 = eating up
 accent-anglish-words-615 = contact
 accent-anglish-replacement-615 = forthreach
 
-accent-anglish-words-616 = contain
+accent-anglish-words-616 = містити
 accent-anglish-replacement-616 = inhold
 
 accent-anglish-words-617 = contained
@@ -1885,14 +1885,14 @@ accent-anglish-replacement-626 = witherdrawn
 accent-anglish-words-627 = liberty
 accent-anglish-replacement-627 = freedom
 
-accent-anglish-words-628 = license
+accent-anglish-words-628 = ліцензувати
 accent-anglish-replacement-628 = leave
 
 accent-anglish-words-629 = line
 accent-anglish-replacement-629 = streak
 
 accent-anglish-words-630 = liquid
-accent-anglish-replacement-630 = wet
+accent-anglish-replacement-630 = мокрий
 
 accent-anglish-words-631 = liquor
 accent-anglish-replacement-631 = burning wine
@@ -1934,7 +1934,7 @@ accent-anglish-words-643 = leisurely
 accent-anglish-replacement-643 = freely
 
 accent-anglish-words-644 = legislation
-accent-anglish-replacement-644 = law
+accent-anglish-replacement-644 = закон
 
 accent-anglish-words-645 = legit
 accent-anglish-replacement-645 = rightful
@@ -1942,20 +1942,20 @@ accent-anglish-replacement-645 = rightful
 accent-anglish-words-646 = legitimate
 accent-anglish-replacement-646 = rightful
 
-accent-anglish-words-647 = lemon
+accent-anglish-words-647 = лимон
 accent-anglish-replacement-647 = sourapple
 
 accent-anglish-words-648 = lemons
 accent-anglish-replacement-648 = sourapples
 
-accent-anglish-words-649 = eggplants
+accent-anglish-words-649 = баклажан
 accent-anglish-replacement-649 = madapples
 
-accent-anglish-words-650 = pumpkins
+accent-anglish-words-650 = гарбуз
 accent-anglish-replacement-650 = harvestballs
 
-accent-anglish-words-651 = false
-accent-anglish-replacement-651 = crooked
+accent-anglish-words-651 = не хочу
+accent-anglish-replacement-651 = кривий
 
 accent-anglish-words-652 = falsely
 accent-anglish-replacement-652 = unsoundly
@@ -1970,10 +1970,10 @@ accent-anglish-words-655 = accusing
 accent-anglish-replacement-655 = wraying
 
 accent-anglish-words-656 = acid
-accent-anglish-replacement-656 = sour
+accent-anglish-replacement-656 = кислий
 
-accent-anglish-words-657 = acidic
-accent-anglish-replacement-657 = sour
+accent-anglish-words-657 = кислотно
+accent-anglish-replacement-657 = кислий
 
 accent-anglish-words-658 = acquaintance
 accent-anglish-replacement-658 = kenning
@@ -2000,7 +2000,7 @@ accent-anglish-words-665 = activating
 accent-anglish-replacement-665 = astirring
 
 accent-anglish-words-666 = act
-accent-anglish-replacement-666 = work
+accent-anglish-replacement-666 = працювати
 
 accent-anglish-words-667 = acting
 accent-anglish-replacement-667 = working
@@ -2044,7 +2044,7 @@ accent-anglish-replacement-679 = mark-words
 accent-anglish-words-680 = verbs
 accent-anglish-replacement-680 = doing-words
 
-accent-anglish-words-681 = adorable
+accent-anglish-words-681 = чарівний
 accent-anglish-replacement-681 = looksome
 
 accent-anglish-words-682 = adult
@@ -2078,12 +2078,12 @@ accent-anglish-words-691 = adverbs
 accent-anglish-replacement-691 = bywords
 
 accent-anglish-words-692 = advice
-accent-anglish-replacement-692 = help
+accent-anglish-replacement-692 = допомагати
 
-accent-anglish-words-693 = afraid
+accent-anglish-words-693 = наляканий
 accent-anglish-replacement-693 = afeared
 
-accent-anglish-words-694 = agree
+accent-anglish-words-694 = погодитися
 accent-anglish-replacement-694 = yeasay
 
 accent-anglish-words-695 = agreed
@@ -2110,13 +2110,13 @@ accent-anglish-replacement-701 = soulspeakly
 accent-anglish-words-702 = telepathic
 accent-anglish-replacement-702 = soulspeak
 
-accent-anglish-words-703 = fade
+accent-anglish-words-703 = згасати
 accent-anglish-replacement-703 = wane
 
-accent-anglish-words-704 = faded
+accent-anglish-words-704 = вицвілий
 accent-anglish-replacement-704 = waned
 
-accent-anglish-words-705 = fail
+accent-anglish-words-705 = зазнавати невдачі
 accent-anglish-replacement-705 = flop
 
 accent-anglish-words-706 = fails
@@ -2137,20 +2137,20 @@ accent-anglish-replacement-710 = belief
 accent-anglish-words-711 = faiths
 accent-anglish-replacement-711 = beliefs
 
-accent-anglish-words-712 = faithful
+accent-anglish-words-712 = вірний
 accent-anglish-replacement-712 = down-the-line
 
 accent-anglish-words-713 = fame
 accent-anglish-replacement-713 = stardom
 
-accent-anglish-words-714 = famous
+accent-anglish-words-714 = відомий
 accent-anglish-replacement-714 = couth
 
-accent-anglish-words-715 = fancy
+accent-anglish-words-715 = вигадливий
 accent-anglish-replacement-715 = showy
 
-accent-anglish-words-716 = fantastic
-accent-anglish-replacement-716 = wonderful
+accent-anglish-words-716 = фантастичний
+accent-anglish-replacement-716 = дивовижний
 
 accent-anglish-words-717 = farm
 accent-anglish-replacement-717 = holding
@@ -2189,7 +2189,7 @@ accent-anglish-words-728 = feasts
 accent-anglish-replacement-728 = spreads
 
 accent-anglish-words-729 = feature
-accent-anglish-replacement-729 = mark
+accent-anglish-replacement-729 = позначати
 
 accent-anglish-words-730 = features
 accent-anglish-replacement-730 = marks
@@ -2210,12 +2210,12 @@ accent-anglish-words-735 = females
 accent-anglish-replacement-735 = ladies
 
 accent-anglish-words-736 = male
-accent-anglish-replacement-736 = man
+accent-anglish-replacement-736 = чоловік
 
 accent-anglish-words-737 = males
 accent-anglish-replacement-737 = men
 
-accent-anglish-words-738 = malevolent
+accent-anglish-words-738 = зловмисний
 accent-anglish-replacement-738 = mean
 
 accent-anglish-words-739 = malevolence
@@ -2236,7 +2236,7 @@ accent-anglish-replacement-744 = unhelpfulness
 accent-anglish-words-745 = usual
 accent-anglish-replacement-745 = oftseen
 
-accent-anglish-words-746 = unusual
+accent-anglish-words-746 = незвичайний
 accent-anglish-replacement-746 = weird
 
 accent-anglish-words-747 = usually
@@ -2248,11 +2248,11 @@ accent-anglish-replacement-748 = unbrookly
 accent-anglish-words-749 = unsuccessful
 accent-anglish-replacement-749 = unspeedful
 
-accent-anglish-words-750 = successful
+accent-anglish-words-750 = успішний
 accent-anglish-replacement-750 = speedful
 
 accent-anglish-words-751 = success
-accent-anglish-replacement-751 = speed
+accent-anglish-replacement-751 = швидкість
 
 accent-anglish-words-752 = successfully
 accent-anglish-replacement-752 = speedfully
@@ -2260,13 +2260,13 @@ accent-anglish-replacement-752 = speedfully
 accent-anglish-words-753 = unsuccessfully
 accent-anglish-replacement-753 = unspeedfully
 
-accent-anglish-words-754 = suffer
+accent-anglish-words-754 = страждати
 accent-anglish-replacement-754 = ache
 
 accent-anglish-words-755 = suffers
 accent-anglish-replacement-755 = aches
 
-accent-anglish-words-756 = suffering
+accent-anglish-words-756 = страждання
 accent-anglish-replacement-756 = woe
 
 accent-anglish-words-757 = suffocate
@@ -2284,13 +2284,13 @@ accent-anglish-replacement-760 = adrenchment
 accent-anglish-words-761 = succumb
 accent-anglish-replacement-761 = fall to
 
-accent-anglish-words-762 = sugar
+accent-anglish-words-762 = цукор
 accent-anglish-replacement-762 = sweetdust
 
 accent-anglish-words-763 = sugarcane
 accent-anglish-replacement-763 = sweetreed
 
-accent-anglish-words-764 = suggest
+accent-anglish-words-764 = пропонувати
 accent-anglish-replacement-764 = foreset
 
 accent-anglish-words-765 = suggestion
@@ -2305,10 +2305,10 @@ accent-anglish-replacement-767 = self-murder
 accent-anglish-words-768 = supercalifragilisticexpialidocious
 accent-anglish-replacement-768 = overfairnessbrokenliatoneliteachworthy
 
-accent-anglish-words-769 = supply
+accent-anglish-words-769 = постачати
 accent-anglish-replacement-769 = yield
 
-accent-anglish-words-770 = support
+accent-anglish-words-770 = підтримувати
 accent-anglish-replacement-770 = uphold
 
 accent-anglish-words-771 = supports
@@ -2320,7 +2320,7 @@ accent-anglish-replacement-772 = upholding
 accent-anglish-words-773 = supported
 accent-anglish-replacement-773 = upheld
 
-accent-anglish-words-774 = suppose
+accent-anglish-words-774 = припускати
 accent-anglish-replacement-774 = ween
 
 accent-anglish-words-775 = supposed
@@ -2329,13 +2329,13 @@ accent-anglish-replacement-775 = weened
 accent-anglish-words-776 = surface
 accent-anglish-replacement-776 = topside
 
-accent-anglish-words-777 = surprise
+accent-anglish-words-777 = дивувати
 accent-anglish-replacement-777 = overcome
 
 accent-anglish-words-778 = surprised
 accent-anglish-replacement-778 = overcame
 
-accent-anglish-words-779 = surround
+accent-anglish-words-779 = оточувати
 accent-anglish-replacement-779 = beset
 
 accent-anglish-words-780 = surrounded
@@ -2371,7 +2371,7 @@ accent-anglish-replacement-789 = starbursts
 accent-anglish-words-790 = supervisor
 accent-anglish-replacement-790 = overseer
 
-accent-anglish-words-791 = sulfur
+accent-anglish-words-791 = сірка
 accent-anglish-replacement-791 = brimstone
 
 accent-anglish-words-792 = artifact
@@ -2393,7 +2393,7 @@ accent-anglish-words-797 = laboratory
 accent-anglish-replacement-797 = workstead
 
 accent-anglish-words-798 = labor
-accent-anglish-replacement-798 = work
+accent-anglish-replacement-798 = працювати
 
 accent-anglish-words-799 = language
 accent-anglish-replacement-799 = tung
@@ -2408,19 +2408,19 @@ accent-anglish-words-805 = creature
 accent-anglish-replacement-805 = being
 
 accent-anglish-words-806 = creatures
-accent-anglish-replacement-806 = beings
+accent-anglish-replacement-806 = істоти
 
-accent-anglish-words-807 = assistant
+accent-anglish-words-807 = пасажир
 accent-anglish-replacement-807 = helper
 
-accent-anglish-words-808 = assistants
+accent-anglish-words-808 = пасажири
 accent-anglish-replacement-808 = helpers
 
 accent-anglish-words-809 = assistance
 accent-anglish-replacement-809 = backing
 
 accent-anglish-words-810 = assist
-accent-anglish-replacement-810 = help
+accent-anglish-replacement-810 = допомагати
 
 accent-anglish-words-811 = assists
 accent-anglish-replacement-811 = helps
@@ -2455,7 +2455,7 @@ accent-anglish-replacement-820 = soothsayers
 accent-anglish-words-821 = medic
 accent-anglish-replacement-821 = healer
 
-accent-anglish-words-822 = atmos
+accent-anglish-words-822 = атмос
 accent-anglish-replacement-822 = lifthelm
 
 accent-anglish-words-823 = atmosia
@@ -2473,10 +2473,10 @@ accent-anglish-replacement-826 = acremen
 accent-anglish-words-827 = attire
 accent-anglish-replacement-827 = cladding
 
-accent-anglish-words-828 = attention
+accent-anglish-words-828 = увага
 accent-anglish-replacement-828 = aught
 
-accent-anglish-words-829 = attract
+accent-anglish-words-829 = привабити
 accent-anglish-replacement-829 = draw
 
 accent-anglish-words-830 = attracted
@@ -2485,7 +2485,7 @@ accent-anglish-replacement-830 = drawn
 accent-anglish-words-831 = attracting
 accent-anglish-replacement-831 = drawing in
 
-accent-anglish-words-832 = attractive
+accent-anglish-words-832 = привабливий
 accent-anglish-replacement-832 = sightly
 
 accent-anglish-words-833 = attribute
@@ -2509,14 +2509,14 @@ accent-anglish-replacement-838 = besteading
 accent-anglish-words-839 = services
 accent-anglish-replacement-839 = besteadings
 
-accent-anglish-words-840 = carry
-accent-anglish-replacement-840 = bear
+accent-anglish-words-840 = нести
+accent-anglish-replacement-840 = ведмідь
 
 accent-anglish-words-841 = carries
 accent-anglish-replacement-841 = bears
 
 accent-anglish-words-842 = carried
-accent-anglish-replacement-842 = bore
+accent-anglish-replacement-842 = нудьгувати
 
 accent-anglish-words-843 = carrying
 accent-anglish-replacement-843 = bearing
@@ -2551,7 +2551,7 @@ accent-anglish-replacement-852 = undersought
 accent-anglish-words-853 = nurses
 accent-anglish-replacement-853 = carers
 
-accent-anglish-words-854 = engineer
+accent-anglish-words-854 = інженер
 accent-anglish-replacement-854 = craftsman
 
 accent-anglish-words-855 = engineers
@@ -2566,13 +2566,13 @@ accent-anglish-replacement-857 = forefighter
 accent-anglish-words-858 = cadets
 accent-anglish-replacement-858 = forefighters
 
-accent-anglish-words-859 = move
+accent-anglish-words-859 = рухайся
 accent-anglish-replacement-859 = shift
 
 accent-anglish-words-860 = moved
 accent-anglish-replacement-860 = shifted
 
-accent-anglish-words-861 = moving
+accent-anglish-words-861 = переїзд
 accent-anglish-replacement-861 = shifting
 
 accent-anglish-words-862 = mimes
@@ -2593,10 +2593,10 @@ accent-anglish-replacement-866 = unwitly
 accent-anglish-words-867 = mover
 accent-anglish-replacement-867 = shifter
 
-accent-anglish-words-868 = note
+accent-anglish-words-868 = занотовувати
 accent-anglish-replacement-868 = log
 
-accent-anglish-words-869 = notes
+accent-anglish-words-869 = нотатки
 accent-anglish-replacement-869 = logs
 
 accent-anglish-words-870 = history
@@ -2629,7 +2629,7 @@ accent-anglish-replacement-878 = father
 accent-anglish-words-879 = priests
 accent-anglish-replacement-879 = fathers
 
-accent-anglish-words-880 = pretend
+accent-anglish-words-880 = прикидатися
 accent-anglish-replacement-880 = fake
 
 accent-anglish-words-881 = pretending
@@ -2644,7 +2644,7 @@ accent-anglish-replacement-883 = forelook
 accent-anglish-words-884 = previews
 accent-anglish-replacement-884 = forelooks
 
-accent-anglish-words-885 = print
+accent-anglish-words-885 = друкувати
 accent-anglish-replacement-885 = thrutch
 
 accent-anglish-words-886 = printed
@@ -2662,7 +2662,7 @@ accent-anglish-replacement-889 = forehood
 accent-anglish-words-890 = priorities
 accent-anglish-replacement-890 = forehoods
 
-accent-anglish-words-891 = fragile
+accent-anglish-words-891 = крихкий
 accent-anglish-replacement-891 = brittle
 
 accent-anglish-words-892 = fragility
@@ -2681,27 +2681,27 @@ accent-anglish-words-896 = front
 accent-anglish-replacement-896 = foreside
 
 accent-anglish-words-897 = fruit
-accent-anglish-replacement-897 = apple
+accent-anglish-replacement-897 = яблуко
 
 accent-anglish-words-898 = fruits
 accent-anglish-replacement-898 = apples
 
-accent-anglish-words-899 = fry
+accent-anglish-words-899 = смажити
 accent-anglish-replacement-899 = hirst
 
 accent-anglish-words-900 = fried
 accent-anglish-replacement-900 = hirsted
 
 accent-anglish-words-901 = fun
-accent-anglish-replacement-901 = play
+accent-anglish-replacement-901 = грати
 
 accent-anglish-words-902 = future
 accent-anglish-replacement-902 = to-be
 
-accent-anglish-words-903 = PDA
+accent-anglish-words-903 = КПК
 accent-anglish-replacement-903 = handheld reckoner
 
-accent-anglish-words-904 = AI
+accent-anglish-words-904 = ШІ
 accent-anglish-replacement-904 = craftly keenness
 
 accent-anglish-words-905 = artifical
@@ -2710,13 +2710,13 @@ accent-anglish-replacement-905 = craftly
 accent-anglish-words-906 = intelligence
 accent-anglish-replacement-906 = keenness
 
-accent-anglish-words-907 = ID
+accent-anglish-words-907 = ІДЕНТИФІКАТОР
 accent-anglish-replacement-907 = whoness
 
-accent-anglish-words-908 = identify
+accent-anglish-words-908 = ідентифікувати
 accent-anglish-replacement-908 = betoken
 
-accent-anglish-words-909 = money
+accent-anglish-words-909 = гроші
 accent-anglish-replacement-909 = penny
 
 accent-anglish-words-910 = monkey
@@ -2729,21 +2729,21 @@ accent-anglish-words-912 = gorilla
 accent-anglish-replacement-912 = brawnape
 
 accent-anglish-words-913 = grain
-accent-anglish-replacement-913 = corn
+accent-anglish-replacement-913 = кукурудза
 
 accent-anglish-words-914 = gravity
 accent-anglish-replacement-914 = weightfulness
 
-accent-anglish-words-915 = group
+accent-anglish-words-915 = група
 accent-anglish-replacement-915 = gathering
 
 accent-anglish-words-916 = groups
 accent-anglish-replacement-916 = gatherings
 
-accent-anglish-words-917 = guarantee
+accent-anglish-words-917 = гарантувати
 accent-anglish-replacement-917 = bond
 
-accent-anglish-words-918 = guard
+accent-anglish-words-918 = охороняти
 accent-anglish-replacement-918 = bewatch
 
 accent-anglish-words-919 = guarded
@@ -2752,13 +2752,13 @@ accent-anglish-replacement-919 = bewatched
 accent-anglish-words-920 = guarding
 accent-anglish-replacement-920 = bewatching
 
-accent-anglish-words-921 = flour
+accent-anglish-words-921 = борошно
 accent-anglish-replacement-921 = meal
 
 accent-anglish-words-922 = pie
 accent-anglish-replacement-922 = rindcake
 
-accent-anglish-words-923 = piece
+accent-anglish-words-923 = кусок
 accent-anglish-replacement-923 = bit
 
 accent-anglish-words-924 = pieces
@@ -2768,10 +2768,10 @@ accent-anglish-words-925 = pilot
 accent-anglish-replacement-925 = flyer
 
 accent-anglish-words-926 = pile
-accent-anglish-replacement-926 = heap
+accent-anglish-replacement-926 = купа
 
 accent-anglish-words-927 = piles
-accent-anglish-replacement-927 = heaps
+accent-anglish-replacement-927 = купа
 
 accent-anglish-words-928 = pirate
 accent-anglish-replacement-928 = seareaver
@@ -2779,20 +2779,20 @@ accent-anglish-replacement-928 = seareaver
 accent-anglish-words-929 = pirates
 accent-anglish-replacement-929 = seareavers
 
-accent-anglish-words-930 = place
-accent-anglish-replacement-930 = spot
+accent-anglish-words-930 = розміщувати
+accent-anglish-replacement-930 = помічати
 
 accent-anglish-words-931 = places
 accent-anglish-replacement-931 = spots
 
-accent-anglish-words-932 = plastic
+accent-anglish-words-932 = пластиковий
 accent-anglish-replacement-932 = newclay
 
-accent-anglish-words-933 = plasteel
+accent-anglish-words-933 = пласталь
 accent-anglish-replacement-933 = newsteel
 
-accent-anglish-words-934 = save
-accent-anglish-replacement-934 = spare
+accent-anglish-words-934 = зберігати
+accent-anglish-replacement-934 = жаліти
 
 accent-anglish-words-935 = saved
 accent-anglish-replacement-935 = spared
@@ -2824,7 +2824,7 @@ accent-anglish-replacement-943 = wyecraftsmen
 accent-anglish-words-944 = corpsman
 accent-anglish-replacement-944 = healward
 
-accent-anglish-words-945 = plank
+accent-anglish-words-945 = дошка
 accent-anglish-replacement-945 = board
 
 accent-anglish-words-946 = pain
@@ -2839,7 +2839,7 @@ accent-anglish-replacement-948 = boards
 accent-anglish-words-949 = pro
 accent-anglish-replacement-949 = craftsman
 
-accent-anglish-words-950 = professional
+accent-anglish-words-950 = професійний
 accent-anglish-replacement-950 = craftsman
 
 accent-anglish-words-951 = professionals
@@ -2858,7 +2858,7 @@ accent-anglish-words-955 = profited
 accent-anglish-replacement-955 = gained
 
 accent-anglish-words-956 = combine
-accent-anglish-replacement-956 = fasten
+accent-anglish-replacement-956 = закріплювати
 
 accent-anglish-words-957 = combined
 accent-anglish-replacement-957 = fastened
@@ -2866,22 +2866,22 @@ accent-anglish-replacement-957 = fastened
 accent-anglish-words-958 = combination
 accent-anglish-replacement-958 = fastening
 
-accent-anglish-words-959 = comfortable
+accent-anglish-words-959 = зручний
 accent-anglish-replacement-959 = lithe
 
 accent-anglish-words-960 = comfy
-accent-anglish-replacement-960 = soft
+accent-anglish-replacement-960 = м'який
 
 accent-anglish-words-961 = cozy
 accent-anglish-replacement-961 = snug
 
-accent-anglish-words-962 = cute
+accent-anglish-words-962 = милий
 accent-anglish-replacement-962 = pretty
 
 accent-anglish-words-963 = cutie
 accent-anglish-replacement-963 = pretty little thing
 
-accent-anglish-words-964 = adorable
+accent-anglish-words-964 = чарівний
 accent-anglish-replacement-964 = dear
 
 accent-anglish-words-965 = adopt
@@ -2912,7 +2912,7 @@ accent-anglish-words-973 = television
 accent-anglish-replacement-973 = gogglebox
 
 accent-anglish-words-974 = tempurature
-accent-anglish-replacement-974 = heat
+accent-anglish-replacement-974 = нагрівати
 
 accent-anglish-words-975 = temporary
 accent-anglish-replacement-975 = short-lived
@@ -2941,13 +2941,13 @@ accent-anglish-replacement-982 = thinkbeing
 accent-anglish-words-983 = sophonts
 accent-anglish-replacement-983 = thinkbeings
 
-accent-anglish-words-984 = arachnid
+accent-anglish-words-984 = павукоподібний
 accent-anglish-replacement-984 = spidery one
 
 accent-anglish-words-985 = arachnids
 accent-anglish-replacement-985 = spidery ones
 
-accent-anglish-words-986 = vox
+accent-anglish-words-986 = вокс
 accent-anglish-replacement-986 = starbird
 
 accent-anglish-words-987 = voxes
@@ -2965,7 +2965,7 @@ accent-anglish-replacement-990 = catty ones
 accent-anglish-words-991 = kitsune
 accent-anglish-replacement-991 = werefox
 
-accent-anglish-words-992 = oni
+accent-anglish-words-992 = вони
 accent-anglish-replacement-992 = demonfolk
 
 accent-anglish-words-993 = thaven
@@ -2998,7 +2998,7 @@ accent-anglish-replacement-1001 = foxfolk
 accent-anglish-words-1002 = vulps
 accent-anglish-replacement-1002 = foxfolk
 
-accent-anglish-words-1003 = diona
+accent-anglish-words-1003 = діона
 accent-anglish-replacement-1003 = woodwight
 
 accent-anglish-words-1004 = IPC
@@ -3022,7 +3022,7 @@ accent-anglish-replacement-1009 = slinkfolk
 accent-anglish-words-1010 = species
 accent-anglish-replacement-1010 = lifekind
 
-accent-anglish-words-1011 = bloody
+accent-anglish-words-1011 = кривавий
 accent-anglish-replacement-1011 = blasted
 
 accent-anglish-words-1012 = racism
@@ -3040,19 +3040,19 @@ accent-anglish-replacement-1015 = moment
 accent-anglish-words-1016 = 2nd
 accent-anglish-replacement-1016 = twoth
 
-accent-anglish-words-1017 = station
+accent-anglish-words-1017 = станція
 accent-anglish-replacement-1017 = stead
 
 accent-anglish-words-1018 = really
 accent-anglish-replacement-1018 = soothly
 
 accent-anglish-words-1019 = trait
-accent-anglish-replacement-1019 = tie
+accent-anglish-replacement-1019 = зав'язувати
 
 accent-anglish-words-1020 = traits
 accent-anglish-replacement-1020 = ties
 
-accent-anglish-words-1021 = add
+accent-anglish-words-1021 = додати
 accent-anglish-replacement-1021 = eke
 
 accent-anglish-words-1022 = added
@@ -3067,7 +3067,7 @@ accent-anglish-replacement-1024 = eking
 accent-anglish-words-1025 = adding
 accent-anglish-replacement-1025 = eking
 
-accent-anglish-words-1026 = subtract
+accent-anglish-words-1026 = віднімати
 accent-anglish-replacement-1026 = uneke
 
 accent-anglish-words-1027 = subtracts
@@ -3082,13 +3082,13 @@ accent-anglish-replacement-1029 = uneking
 accent-anglish-words-1030 = additionally
 accent-anglish-replacement-1030 = yet
 
-accent-anglish-words-1031 = taste
+accent-anglish-words-1031 = куштувати
 accent-anglish-replacement-1031 = smack
 
 accent-anglish-words-1032 = tasted
 accent-anglish-replacement-1032 = smacked
 
-accent-anglish-words-1033 = tasty
+accent-anglish-words-1033 = смачний
 accent-anglish-replacement-1033 = smacky
 
 accent-anglish-words-1034 = tax
@@ -3107,7 +3107,7 @@ accent-anglish-words-1038 = tasks
 accent-anglish-replacement-1038 = chores
 
 accent-anglish-words-1039 = target
-accent-anglish-replacement-1039 = mark
+accent-anglish-replacement-1039 = позначати
 
 accent-anglish-words-1040 = airlock
 accent-anglish-replacement-1040 = breathlock
@@ -3116,7 +3116,7 @@ accent-anglish-words-1041 = airlocks
 accent-anglish-replacement-1041 = breathlocks
 
 accent-anglish-words-1042 = certain
-accent-anglish-replacement-1042 = wis
+accent-anglish-replacement-1042 = мудрий
 
 accent-anglish-words-1043 = certainly
 accent-anglish-replacement-1043 = wisly
@@ -3145,7 +3145,7 @@ accent-anglish-replacement-1050 = godspeaker
 accent-anglish-words-1051 = vessel
 accent-anglish-replacement-1051 = vat
 
-accent-anglish-words-1052 = toilet
+accent-anglish-words-1052 = туалет
 accent-anglish-replacement-1052 = potty
 
 accent-anglish-words-1053 = evidence
@@ -3154,8 +3154,8 @@ accent-anglish-replacement-1053 = witness
 accent-anglish-words-1054 = implant
 accent-anglish-replacement-1054 = insetment
 
-accent-anglish-words-1055 = charge
-accent-anglish-replacement-1055 = fill
+accent-anglish-words-1055 = заряджати
+accent-anglish-replacement-1055 = наповнювати
 
 accent-anglish-words-1056 = charge!
 accent-anglish-replacement-1056 = ongripe!
@@ -3175,14 +3175,14 @@ accent-anglish-replacement-1060 = heart-jolt kit
 accent-anglish-words-1061 = because
 accent-anglish-replacement-1061 = owing to
 
-accent-anglish-words-1062 = expensive
+accent-anglish-words-1062 = дорогий
 accent-anglish-replacement-1062 = unthrifty
 
-accent-anglish-words-1063 = chili
+accent-anglish-words-1063 = чилі
 accent-anglish-replacement-1063 = hot pepper
 
 accent-anglish-words-1064 = wiggle
-accent-anglish-replacement-1064 = shake
+accent-anglish-replacement-1064 = трясти
 
 accent-anglish-words-1065 = character
 accent-anglish-replacement-1065 = selfhood
@@ -3202,7 +3202,7 @@ accent-anglish-replacement-1069 = king's game
 accent-anglish-words-1070 = chessboard
 accent-anglish-replacement-1070 = king's board
 
-accent-anglish-words-1071 = cheese
+accent-anglish-words-1071 = сир
 accent-anglish-replacement-1071 = milkcurd
 
 accent-anglish-words-1072 = cathedral
@@ -3229,7 +3229,7 @@ accent-anglish-replacement-1078 = hearth
 accent-anglish-words-1079 = firm
 accent-anglish-replacement-1079 = unyielding
 
-accent-anglish-words-1080 = file
+accent-anglish-words-1080 = подавати
 accent-anglish-replacement-1080 = binder
 
 accent-anglish-words-1081 = fiction
@@ -3265,13 +3265,13 @@ accent-anglish-replacement-1090 = unbeatsome
 accent-anglish-words-1091 = baton
 accent-anglish-replacement-1091 = club
 
-accent-anglish-words-1092 = nice
-accent-anglish-replacement-1092 = kind
+accent-anglish-words-1092 = гарний
+accent-anglish-replacement-1092 = добрий
 
 accent-anglish-words-1093 = armed
 accent-anglish-replacement-1093 = weaponed
 
-accent-anglish-words-1094 = argue
+accent-anglish-words-1094 = сперечатися
 accent-anglish-replacement-1094 = squabble
 
 accent-anglish-words-1095 = argument
@@ -3290,7 +3290,7 @@ accent-anglish-words-1099 = armored
 accent-anglish-replacement-1099 = helmclad
 
 accent-anglish-words-1100 = around
-accent-anglish-replacement-1100 = about
+accent-anglish-replacement-1100 = про
 
 accent-anglish-words-1101 = arsenal
 accent-anglish-replacement-1101 = weaponhoard
@@ -3298,7 +3298,7 @@ accent-anglish-replacement-1101 = weaponhoard
 accent-anglish-words-1102 = art
 accent-anglish-replacement-1102 = handiwork
 
-accent-anglish-words-1103 = attack
+accent-anglish-words-1103 = атака
 accent-anglish-replacement-1103 = onslaught
 
 accent-anglish-words-1104 = attacked
@@ -3310,8 +3310,8 @@ accent-anglish-replacement-1105 = onrush
 accent-anglish-words-1106 = assaulted
 accent-anglish-replacement-1106 = onrushed
 
-accent-anglish-words-1107 = attempt
-accent-anglish-replacement-1107 = whirl
+accent-anglish-words-1107 = намагатися
+accent-anglish-replacement-1107 = кружляти
 
 accent-anglish-words-1108 = attempted
 accent-anglish-replacement-1108 = had a go at
@@ -3322,7 +3322,7 @@ accent-anglish-replacement-1109 = bidding
 accent-anglish-words-1110 = authority
 accent-anglish-replacement-1110 = headship
 
-accent-anglish-words-1111 = cheers
+accent-anglish-words-1111 = будьмо
 accent-anglish-replacement-1111 = to your health
 
 accent-anglish-words-1112 = necessary
@@ -3334,7 +3334,7 @@ accent-anglish-replacement-1113 = needfully
 accent-anglish-words-1114 = via
 accent-anglish-replacement-1114 = by way of
 
-accent-anglish-words-1115 = violent
+accent-anglish-words-1115 = насильницький
 accent-anglish-replacement-1115 = wrathful
 
 accent-anglish-words-1116 = violence
@@ -3367,8 +3367,8 @@ accent-anglish-replacement-1124 = dirk
 accent-anglish-words-1125 = inaction
 accent-anglish-replacement-1125 = unwork
 
-accent-anglish-words-1126 = dude
-accent-anglish-replacement-1126 = friend
+accent-anglish-words-1126 = чувак
+accent-anglish-replacement-1126 = друг
 
 accent-anglish-words-1127 = bro
 accent-anglish-replacement-1127 = kin
@@ -3391,7 +3391,7 @@ accent-anglish-replacement-1132 = withdrawn
 accent-anglish-words-1133 = allowed
 accent-anglish-replacement-1133 = let
 
-accent-anglish-words-1134 = permit
+accent-anglish-words-1134 = дозволяти
 accent-anglish-replacement-1134 = go-ahead
 
 accent-anglish-words-1135 = permits
@@ -3409,7 +3409,7 @@ accent-anglish-replacement-1138 = strongghost
 accent-anglish-words-1139 = injector
 accent-anglish-replacement-1139 = inshooter
 
-accent-anglish-words-1140 = inject
+accent-anglish-words-1140 = вводити ін'єкцію
 accent-anglish-replacement-1140 = needleprick
 
 accent-anglish-words-1141 = injecting
@@ -3446,7 +3446,7 @@ accent-anglish-words-1151 = regenerated
 accent-anglish-replacement-1151 = made anew
 
 accent-anglish-words-1152 = cryo
-accent-anglish-replacement-1152 = freezing
+accent-anglish-replacement-1152 = морозний
 
 accent-anglish-words-1153 = cryonics
 accent-anglish-replacement-1153 = coldlybehandling
@@ -3463,16 +3463,16 @@ accent-anglish-replacement-1156 = my brother
 accent-anglish-words-1157 = prison
 accent-anglish-replacement-1157 = quartern
 
-accent-anglish-words-1158 = HOS
+accent-anglish-words-1158 = Голова Служби Безпеки (ГСБ)
 accent-anglish-replacement-1158 = Headward
 
-accent-anglish-words-1159 = CMO
+accent-anglish-words-1159 = Головний Лікар (ГЛ)
 accent-anglish-replacement-1159 = Headman of Leechcraft
 
-accent-anglish-words-1160 = HOP
+accent-anglish-words-1160 = Голова Персоналу (ГП)
 accent-anglish-replacement-1160 = Headman of Thaning
 
-accent-anglish-words-1161 = CE
+accent-anglish-words-1161 = Головний Інженер (ГІ)
 accent-anglish-replacement-1161 = Head Sareman
 
 accent-anglish-words-1162 = hostage
